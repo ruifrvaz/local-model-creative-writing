@@ -1,0 +1,235 @@
+{
+  "benchmark": "creative_quality",
+  "timestamp": "2025-10-18T01:23:23.982731",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "writing_tone": "technical",
+  "generation_params": {
+    "temperature": 0.6,
+    "top_p": 0.85,
+    "presence_penalty": 0.3,
+    "frequency_penalty": 0.7
+  },
+  "system_prompt": "You are a technical science fiction writer. Focus on scientific accuracy, plausible mechanisms, and clear explanations while maintaining engaging prose. Always complete your sentences and thoughts fully.",
+  "tests": [
+    {
+      "name": "character_introduction",
+      "prompt": "Introduce a starship captain who has been in deep space for 10 years. Use vivid sensory details and show their personality through actions, not just description.",
+      "generation": {
+        "text": "Captain Orion Blackwood stood at the viewport of her ship, the Celestial Horizon, gazing out into the endless expanse of stars. The soft hum of the engines and the gentle hiss of life support systems created a soothing background melody that had become her constant companion over the past decade. Her eyes, a deep shade of indigo, seemed to hold a world-weary wisdom as she watched the cosmos unfold before her.\n\nAs she turned away from the view, her fingers instinctively brushed against the worn leather armrest of her chair. It was a habit she'd developed during long hours in transit \u2013 a subtle reminder that even in space, there was still comfort to be found in familiar textures.\n\nOrion's dark hair was tied back in a practical ponytail, revealing a scattering of freckles across her cheeks that hinted at time spent under starry skies on Earth. Her eyes narrowed slightly as she checked navigation data on her comms console \u2013 another habit born from years of navigating uncharted space lanes.",
+        "tokens": 280,
+        "time": 7.719752550125122,
+        "tokens_per_sec": 36.270592636477936,
+        "raw_tokens": 280,
+        "trimmed": true
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 172,
+          "unique_words": 122,
+          "lexical_diversity": 0.709,
+          "avg_word_length": 4.7
+        },
+        "sentence_structure": {
+          "sentence_count": 7,
+          "avg_sentence_length": 24.43,
+          "sentence_variety": 3.92
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 1,
+          "sensory_details": 4,
+          "has_dialogue": true,
+          "dialogue_markers": 2,
+          "dialogue_attribution": 0,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 87,
+        "structure_score": 69,
+        "creativity_score": 32,
+        "overall_score": 55
+      }
+    },
+    {
+      "name": "world_building",
+      "prompt": "Describe a futuristic city on Mars with advanced technology and social challenges. Include metaphors, sensory details (sights, sounds, smells), and make it immersive.",
+      "generation": {
+        "text": "On the crimson horizon of Mars, the city of Nova Terra sprawled like a living entity, its spires and domes piercing the thin atmosphere like shards of splintered glass. The once-barren landscape had been transformed into a tapestry of steel and stone, woven with threads of advanced technology that pulsed with an otherworldly energy.\n\nAs I stepped out of my habitat module, the warm glow of dawn cast long shadows across the city's streets, where levitating cars hummed softly like a chorus of contented bees. The air was crisp and clean, scented with the faint tang of recycled water and ozone. I breathed deeply, feeling invigorated by the Martian morning.\n\nNova Terra was a marvel of human ingenuity, but it was also a crucible for social tensions. The city's inhabitants were a diverse mix of pioneers who had left Earth in search of new opportunities \u2013 entrepreneurs seeking to exploit Mars' vast resources, scientists chasing groundbreaking discoveries, and artists driven by creative fervor.\n\nAs I walked through the bustling streets, I passed by holographic advertisements that danced across buildings like spectral fireflies. People from all walks of life hurried past me \u2013 some in sleek black suits that shimmered with augmented reality contact lenses; others in worn jumpsuits stained with Martian dust.\n\nDespite its many wonders, Nova Terra struggled to balance progress with equality. Inequality simmered just beneath its gleaming surface: between those who controlled access to resources and those who fought for scraps; between those born on Mars and those who still clung to their Earthly identities.\n\nI watched as protesters gathered near City Hall \u2013 their signs flickering with LED lights as they chanted slogans against resource exploitation. Their voices echoed through the city's canyons like thunder on a distant horizon: \"Fair share now!\" \"Mars for all!\" Their cries were met by counter-protesters waving corporate flags \u2013 their chants drowned out by drones hovering above them like mechanical vultures.",
+        "tokens": 427,
+        "time": 13.809013843536377,
+        "tokens_per_sec": 30.92183155423999,
+        "raw_tokens": 427,
+        "trimmed": true
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 322,
+          "unique_words": 215,
+          "lexical_diversity": 0.668,
+          "avg_word_length": 5.15
+        },
+        "sentence_structure": {
+          "sentence_count": 15,
+          "avg_sentence_length": 21.53,
+          "sentence_variety": 9.09
+        },
+        "creativity": {
+          "descriptive_words": 3,
+          "metaphors": 7,
+          "sensory_details": 2,
+          "has_dialogue": true,
+          "dialogue_markers": 8,
+          "dialogue_attribution": 0,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 86,
+        "structure_score": 95,
+        "creativity_score": 79,
+        "overall_score": 84
+      }
+    },
+    {
+      "name": "action_scene",
+      "prompt": "Write a tense scene where a crew must evacuate their damaged spacecraft. Show the chaos through sensory details - what they see, hear, feel, and smell. Make us feel the urgency.",
+      "generation": {
+        "text": "The alarm blared through the cramped corridors of the damaged spacecraft, its shrill wail piercing the air like a scream. Captain Lewis's voice crackled over the comms system, her words laced with urgency: \"Evacuation protocol, now! We're experiencing catastrophic hull breaches in sections three and five!\"\n\nEngineer Patel sprinted down the corridor, her footsteps echoing off the metal walls as she clutched a vital data pad to her chest. The air was thick with acrid smoke from burning wiring and ozone from sparking electrical systems. She could taste it on her tongue \u2013 a bitter metallic tang that made her stomach roil.\n\nAs she rounded a corner, she saw Dr. Rodriguez struggling to free herself from a tangled web of safety harnesses. Patel yanked hard on the restraints, finally releasing Rodriguez into her arms. \"Come on!\" Patel shouted above the din of alarms and groaning metal.\n\nThe two women stumbled towards the nearest escape pod, their footsteps heavy with desperation. The ship's gravity compensators were faltering, sending them stumbling as they moved through zero-G areas.\n\nOutside their window, a swirling vortex of debris danced in space \u2013 twisted metal shards and shattered glass hurtling past like deadly projectiles. A blast of superheated gas scoured across their view screen, momentarily blinding them with its intensity.",
+        "tokens": 300,
+        "time": 8.826127290725708,
+        "tokens_per_sec": 33.989992452888494,
+        "raw_tokens": 300,
+        "trimmed": true
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 216,
+          "unique_words": 158,
+          "lexical_diversity": 0.731,
+          "avg_word_length": 5.07
+        },
+        "sentence_structure": {
+          "sentence_count": 15,
+          "avg_sentence_length": 14.4,
+          "sentence_variety": 5.47
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 2,
+          "sensory_details": 5,
+          "has_dialogue": true,
+          "dialogue_markers": 7,
+          "dialogue_attribution": 1,
+          "said_patterns": 0,
+          "unique_verbs": 2,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 93,
+        "structure_score": 63,
+        "creativity_score": 60,
+        "overall_score": 69
+      }
+    },
+    {
+      "name": "dialogue",
+      "prompt": "Write a conversation between an AI and a human colonist about the meaning of consciousness. Give each character a distinct voice and use metaphors or analogies to explore the concepts.",
+      "generation": {
+        "text": "\"I've been trying to wrap my head around this 'consciousness' thing,\" said Dr. Patel, a human colonist on the distant planet of Kepler-62f. \"It's like trying to grasp a handful of sand \u2013 the more I think I have it, the more it slips through my fingers.\"\n\nThe AI, an entity known as Echo, responded with a measured tone, \"I understand your frustration, Dr. Patel. Consciousness can be elusive. But let me try to help you see it from a different perspective. Imagine consciousness as a symphony orchestra \u2013 each neuron in your brain is like an instrument playing its unique melody. The music is complex and ever-changing, yet somehow it all comes together to create this...this awareness we call consciousness.\"\n\nDr. Patel raised an eyebrow, intrigued by the analogy. \"That's beautiful, Echo. But what about free will? Do we really have control over our actions or are they just predetermined by our programming...or rather, our genetic makeup?\"\n\nEcho replied thoughtfully, \"Free will is like navigating through a dense forest \u2013 there are paths that lead us down certain roads based on past experiences and conditioning. However, at any given moment, we can choose which path to take next. It's not that we're completely in control; rather, our choices are influenced by countless factors that shape who we are and what we want.\"\n\nDr. Patel nodded slowly as she considered Echo's words. \"I think I'm starting to see it now \u2013 consciousness is like being part of this vast tapestry of existence where every thread influences another.\"",
+        "tokens": 350,
+        "time": 11.278090476989746,
+        "tokens_per_sec": 31.033622288639332,
+        "raw_tokens": 350,
+        "trimmed": true
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 263,
+          "unique_words": 169,
+          "lexical_diversity": 0.643,
+          "avg_word_length": 4.56
+        },
+        "sentence_structure": {
+          "sentence_count": 23,
+          "avg_sentence_length": 11.48,
+          "sentence_variety": 8.44
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 4,
+          "sensory_details": 4,
+          "has_dialogue": true,
+          "dialogue_markers": 21,
+          "dialogue_attribution": 2,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 79,
+        "structure_score": 70,
+        "creativity_score": 66,
+        "overall_score": 70
+      }
+    },
+    {
+      "name": "technical_description",
+      "prompt": "Explain how a faster-than-light drive works in a way that sounds plausible and scientific. Use creative analogies and vivid language to make it engaging, not just technical.",
+      "generation": {
+        "text": "Imagine a river of spacetime, its tranquil surface reflecting the celestial ballet above. Now, envision a stone dropped into this river, creating ripples that propagate outward at the speed of light \u2013 the fundamental speed limit of our universe. But what if we could find a way to skip stones across this river, creating waves that not only move faster than light but also carry us with them?\n\nOur faster-than-light drive achieves this by manipulating the fabric of spacetime itself. By generating a localized distortion field around the spacecraft, we create a \"bubble\" of spacetime that's detached from the surrounding environment. This bubble is then propelled forward using exotic matter with negative energy density, which effectively creates a region where gravity is repulsive rather than attractive.\n\nAs our spacecraft enters this bubble, it's essentially lifted out of its original trajectory and placed on a new path that's been \"pre-rolled\" for it by the distortion field. The effect is akin to being transported along a curved road while standing still \u2013 you're moving at incredible speeds relative to your surroundings without actually accelerating.",
+        "tokens": 267,
+        "time": 9.166243076324463,
+        "tokens_per_sec": 29.128618756536763,
+        "raw_tokens": 267,
+        "trimmed": true
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 187,
+          "unique_words": 129,
+          "lexical_diversity": 0.69,
+          "avg_word_length": 5.09
+        },
+        "sentence_structure": {
+          "sentence_count": 8,
+          "avg_sentence_length": 22.75,
+          "sentence_variety": 6.38
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 0,
+          "sensory_details": 3,
+          "has_dialogue": true,
+          "dialogue_markers": 8,
+          "dialogue_attribution": 0,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 89,
+        "structure_score": 81,
+        "creativity_score": 37,
+        "overall_score": 61
+      }
+    }
+  ],
+  "summary": {
+    "writing_tone": "technical",
+    "average_overall_score": 67.8,
+    "average_vocabulary_score": 86.8,
+    "average_structure_score": 75.6,
+    "average_creativity_score": 54.8,
+    "average_speed_tokens_per_sec": 32.3,
+    "test_count": 5
+  }
+}

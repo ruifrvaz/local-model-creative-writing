@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-10-19T23:50:10.882429",
+  "collection": "scifi_world",
+  "embedding_model": "BAAI/bge-large-en-v1.5",
+  "llm_model": "meta-llama/Llama-3.1-8B-Instruct",
+  "query": "Describe the Arcturian homeworld and its atmosphere",
+  "answer": "The Arcturian homeworld is named Karantha, located at planet Arcturus IV. Karantha's atmosphere is described as thin but breathable, consisting of an oxygen-nitrogen mix. The atmospheric pressure is 15% relative to Earth, which is significantly lower. \n\nThe atmosphere also has a notable characteristic: it appears deep violet during the day cycle due to high ozone concentration. This unique atmospheric condition is likely a result of the planet's specific chemical composition and possibly the effects of its ozone layer.\n\nThree moons orbiting Karantha create complex tidal patterns, further contributing to the planet's distinct environment.",
+  "usage": {
+    "prompt_tokens": 769,
+    "completion_tokens": 124,
+    "total_tokens": 893
+  },
+  "sources": [
+    {
+      "rank": 1,
+      "distance": 0.3788078508176813,
+      "source": "/home/ruifrvaz/scifi-llm/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 824,
+      "content": "Example Science Fiction Worldbuilding Document\n\nThe Arcturian Homeworld\n\nPlanet: Arcturus IV (local name: Karantha)\n\nAtmosphere: Thin but breathable, oxygen-nitrogen mix with 15% atmospheric pressure relative to Earth. The sky appears deep violet during day cycle due to high ozone concentration. Three moons create complex tidal patterns.\n\nDominant Species: Arcturians - Telepathic humanoids with crystalline neural structures embedded in their foreheads. Communication occurs primarily through thought-projection, though they maintain verbal language for ceremonial purposes.\n\nTechnology Level: Post-scarcity society with mastery of quantum entanglement communication and gravity manipulation. Their cities float suspended above the planet surface through gravity-well generators.\n\nCharacter Profile: Captain Elena Vasquez"
+    },
+    {
+      "rank": 2,
+      "distance": 0.8765491191008543,
+      "source": "/home/ruifrvaz/scifi-llm/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 934,
+      "content": "Character Profile: Captain Elena Vasquez\n\nBackground: Born on Mars Colony 7, orphaned during the Phobos Incident at age 12. Raised in military academies, rose through ranks due to exceptional tactical skills and calm under pressure.\n\nPersonality Traits: - Protective of crew, sometimes to a fault - Distrustful of alien species after first contact disaster - Struggles with command decisions that risk lives - Values duty and protocol but will break rules to save crew\n\nPhysical Description: 38 years old, athletic build from low-gravity upbringing, short dark hair, cybernetic left arm from combat injury.\n\nMotivation: Seeks to prevent another Phobos-level catastrophe while maintaining hope for peaceful first contact.\n\nFTL Drive Technology\n\nMechanism: Ships utilize quantum foam manipulation to create temporary wormholes. The drive doesn't move the ship through space but rather brings the destination closer by warping spacetime."
+    },
+    {
+      "rank": 3,
+      "distance": 0.8872064297760959,
+      "source": "/home/ruifrvaz/scifi-llm/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 997,
+      "content": "Mechanism: Ships utilize quantum foam manipulation to create temporary wormholes. The drive doesn't move the ship through space but rather brings the destination closer by warping spacetime.\n\nLimitations: - Requires massive energy discharge (ship goes dark for 30 seconds) - Can only jump to pre-mapped coordinates - Maximum range: 50 light-years per jump - Cooldown period: 6 hours between jumps\n\nSide Effects: Crew experiences temporal disorientation (\"jump sickness\") - brief hallucinations and time perception distortion lasting 5-10 minutes.\n\nPrevious Chapter Summary: The First Contact Incident\n\nChapter 12 ended with Captain Vasquez's ship, the Endeavor, detecting an unknown vessel in the Kepler-442 system. Against protocol, she attempted communication using standard first contact procedures. The alien ship responded with what appeared to be a mathematical sequence but suddenly vanished. Sensors detected energy signatures consistent with weapons charging moments before disappearance."
+    },
+    {
+      "rank": 4,
+      "distance": 0.9485031582114075,
+      "source": "/home/ruifrvaz/scifi-llm/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 333,
+      "content": "Elena ordered battle stations but held fire, haunting reminder of her parents' death during the Phobos Incident when human ships fired first on a misunderstood alien probe. The crew remains on high alert, divided between those who trust the Captain's restraint and those who believe she endangered them by not preemptively attacking."
+    }
+  ]
+}

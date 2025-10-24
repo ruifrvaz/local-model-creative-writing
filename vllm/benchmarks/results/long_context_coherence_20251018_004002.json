@@ -1,0 +1,195 @@
+{
+  "benchmark": "long_context_coherence",
+  "timestamp": "2025-10-18T00:38:42.731050",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "setup",
+      "prompt": "Write the opening chapter of a science fiction novel. Introduce:\n- Captain Elena Vasquez, a 45-year-old veteran of deep space exploration\n- Her second-in-command, Dr. Marcus Chen, a xenobiologist\n- The ship 'Prometheus', a research vessel\n- They are investigating unusual energy readings from an unexplored star system\nBe specific about character details, the ship's specifications, and the mysterious readings.",
+      "generation": {
+        "text": "**Chapter 1: \"The Unseen Horizon\"**\n\nCaptain Elena Vasquez gazed out the viewport of the Prometheus, her eyes tracing the endless expanse of stars like a seasoned navigator charting a familiar course. At 45, she had spent more years in deep space than she cared to admit, but the thrill of discovery still coursed through her veins like adrenaline. Her silver-streaked black hair was tied back in a tight ponytail, and her eyes, a deep, piercing brown, seemed to bore into the very fabric of the universe.\n\nBehind her, the hum of the ship's engines provided a soothing background noise, a reminder of the Prometheus's capabilities. This research vessel was a marvel of modern engineering, with a length of 250 meters and a mass of 10,000 tons. Its hull was a lattice of interlocking modules, each one a self-contained laboratory or living quarters. The Prometheus was equipped with state-of-the-art sensors and a crew of 50 handpicked scientists and engineers, all of whom were experts in their respective fields.\n\nTo her right stood Dr. Marcus Chen, her trusted second-in-command and xenobiologist. His eyes, a bright, inquisitive brown, were fixed on the data streaming across his console. His dark hair was cut short, and a smattering of stubble framed his angular face. At 38, he was one of the youngest members of the crew, but his expertise in extraterrestrial life forms was unmatched.\n\n\"What do we have, Marcus?\" Captain Vasquez asked, her voice firm but curious.\n\nDr. Chen turned to her, a hint of excitement in his eyes. \"Captain, we're picking up unusual energy readings from the star system we're investigating. It's like nothing I've seen before.\"\n\nThe Prometheus was currently en route to the star system known as Kaelin-IV, a distant, unexplored realm that had been on the radar of astronomers for decades. The system was a binary, with two suns orbiting each other in a stable, synchronized dance. The energy readings were emanating from the outer reaches of the system, near a small, icy planet that had been designated as Kepler-12b.\n\n\"Run the data through the simulator,\" Captain Vasquez instructed, her mind racing with possibilities. \"See if we can get a better understanding of what's going on.\"\n\nDr. Chen nodded, his fingers flying across the console as he accessed the ship's advanced simulation software. The data from the sensors was fed into the system, and a holographic display flickered to life in front of them.\n\nThe image depicted a swirling vortex of energy, a maelstrom that seemed to be pulling in matter from the surrounding space. The readings were fluctuating wildly, defying explanation.\n\n\"What is this?\" Captain Vasquez asked, her voice low and thoughtful.\n\nDr. Chen's eyes widened as he studied the data. \"I think it's some kind of... portal, Captain. A gateway to another dimension, perhaps.\"\n\nCaptain Vasquez's eyes narrowed, her mind racing with the implications. A portal to another dimension? It was a prospect that had been the stuff of science fiction for centuries, but now, it seemed, it might be more than just a fantasy.\n\n\"Raise the alert level, Marcus,\" she said, her voice firm. \"We're going to need to adjust our course and prepare for a possible encounter with... whatever is on the other side of that portal.\"\n\nThe Prometheus shuddered slightly as the ship's engines responded to the new course, a gentle reminder that they were about to embark on a journey that would change their understanding of the universe forever.",
+        "prompt_tokens": 123,
+        "completion_tokens": 746,
+        "total_tokens": 869,
+        "time": 15.539428949356079,
+        "tokens_per_sec": 48.00691212214157
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 1,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 3,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "Prometheus": true,
+            "energy readings": true,
+            "star system": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 2,
+      "name": "development",
+      "prompt": "Continue the story. The crew discovers an ancient alien structure orbiting a dead star. \nElena must decide whether to explore it despite regulations. Marcus argues for caution. \nShow their different perspectives based on their established personalities. \nDescribe the structure in detail.",
+      "generation": {
+        "text": "**Chapter 2: \"The Ancient Wreckage\"**\n\nAs the Prometheus adjusted its course, the crew's attention turned to the data streaming in from the sensors. The energy readings from the portal were still fluctuating wildly, but they were getting closer to understanding the phenomenon. However, it was the discovery of an ancient alien structure orbiting a dead star that had the crew's collective attention.\n\n\"Captain, we're reading a massive structure in orbit around the dead star,\" Dr. Chen announced, his voice laced with excitement. \"It's unlike anything I've seen before.\"\n\nCaptain Vasquez's eyes narrowed as she gazed at the holographic display in front of her. The structure was enormous, a sprawling complex of interconnected modules and towers that stretched across hundreds of kilometers.\n\n\"What is it, Marcus?\" she asked, her voice firm but curious.\n\n\"It's an alien city, Captain,\" Dr. Chen replied, his eyes shining with awe. \"The architecture is unlike anything I've seen in the galaxy. It's as if the builders had a completely different understanding of space and gravity.\"\n\nThe structure was a labyrinthine network of interconnected modules, each one a self-contained habitat or laboratory. The modules were arranged in a seemingly random pattern, but as Dr. Chen's team analyzed the data, they began to notice a hidden pattern, a complex series of geometric shapes that seemed to be woven throughout the structure.\n\n\"It's a fractal, Captain,\" Dr. Chen explained, his voice filled with wonder. \"The builders must have had a deep understanding of mathematics and geometry. This is a truly ancient structure, one that could hold the secrets of an entire civilization.\"\n\nCaptain Vasquez's eyes narrowed as she studied the data. She was a pragmatist, a woman who had spent years navigating the dangers of deep space. She knew that exploring an ancient alien structure was a risk, one that could potentially put the entire crew in harm's way.\n\n\"Marcus, I need to know if this structure is safe to approach,\" she said, her voice firm but measured.\n\nDr. Chen hesitated, his eyes clouding with concern. \"Captain, I don't think we should be taking any risks here. We don't know what kind of technology or hazards might be lurking inside that structure. We should be cautious, at least.\"\n\nCaptain Vasquez's expression was unreadable, but Dr. Chen knew her well enough to sense the underlying tension. She was a woman who had spent years pushing the boundaries of what was possible, and she was not one to shy away from a challenge.\n\n\"Marcus, I understand your concerns, but we can't just ignore this discovery,\" she said, her voice firm. \"We have a responsibility to explore, to learn from this ancient civilization. We can't just leave it to the dust of history.\"\n\nDr. Chen sighed, knowing that he was fighting a losing battle. Captain Vasquez had a reputation for being one of the most daring explorers in the galaxy, and he knew that she would stop at nothing to uncover the secrets of the ancient structure.\n\n\"Very well, Captain,\" he said, his voice resigned. \"But we need to be careful. We don't know what we're dealing with here.\"\n\nCaptain Vasquez nodded, a small smile playing on her lips. \"I'll take that into consideration, Marcus. But I think we need to proceed with caution... and curiosity.\"\n\nAs the Prometheus drew closer to the ancient structure, the crew's excitement grew. They knew that they were on the cusp of a major discovery, one that could change their understanding of the galaxy forever. But as they approached the structure, they couldn't shake the feeling that they were being watched, that the ancient civilization that had built this marvel of engineering was still out there, waiting for them.\n\nThe structure loomed ahead, its twisted modules and towers reaching out like skeletal fingers. The crew of the Prometheus held their collective breath as they prepared",
+        "prompt_tokens": 930,
+        "completion_tokens": 800,
+        "total_tokens": 1730,
+        "time": 14.665748596191406,
+        "tokens_per_sec": 54.548869070874055
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 0,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": false
+        },
+        "marcus": {
+          "mentions": 4,
+          "has_dialogue": true,
+          "has_actions": false,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "alien structure": true,
+            "decision": false,
+            "regulations": false
+          },
+          "coverage": 0.33
+        }
+      }
+    },
+    {
+      "stage": 3,
+      "name": "escalation",
+      "prompt": "Continue the story. They board the alien structure. Inside, they find evidence of a \ncivilization that disappeared millions of years ago. Marcus makes a discovery about why they vanished.\nElena faces a critical decision. Maintain consistency with earlier character details and plot points.",
+      "generation": {
+        "text": "**Chapter 3: \"The Abandoned City\"**\n\nThe Prometheus's shuttlecraft, a sleek and agile vessel, landed on the surface of the alien structure with a gentle thud. Captain Vasquez, Dr. Chen, and a team of scientists and engineers stepped out into the vacuum of space, their suits and helmets a necessary precaution against the harsh environment.\n\nAs they made their way into the structure, they were struck by the sheer scale of the alien city. Towering modules and grand architecture stretched out before them, a testament to the advanced technology and civilization that had once thrived here.\n\nThe team began to explore the city, their footsteps echoing off the cold metal walls. They discovered evidence of a once-thriving civilization: artifacts, ruins, and remnants of a long-lost culture.\n\nDr. Chen's eyes widened as he examined a series of ancient artifacts. \"Captain, I think I've found something,\" he said, his voice trembling with excitement. \"These symbols... they're not just random markings. They're a language, a code that tells us about the civilization that built this city.\"\n\nCaptain Vasquez's eyes narrowed as she studied the symbols. \"What do they say, Marcus?\"\n\nDr. Chen hesitated, his eyes scanning the data streaming across his suit's console. \"They're talking about a... a catastrophic event, Captain. A disaster that struck this planet millions of years ago. The civilization was wiped out, and the city was abandoned.\"\n\nAs they delved deeper into the city, they discovered more evidence of the disaster. A massive energy signature, a residual echo of the cataclysmic event, still lingered in the structure.\n\n\"It's a solar flare, Captain,\" Dr. Chen explained, his voice filled with awe. \"A massive burst of energy that struck this planet, causing widespread destruction. The civilization was caught off guard, and they were unable to survive the aftermath.\"\n\nCaptain Vasquez's expression was grim as she processed the information. She knew that the discovery of this ancient civilization was a major breakthrough, but it also raised questions about the risks of exploring the galaxy.\n\nAs they continued to explore the city, they stumbled upon a hidden chamber deep within the structure. Inside, they found a series of ancient logs, a record of the civilization's final days.\n\nDr. Chen's eyes widened as he read through the logs. \"Captain, I think I've found the reason why this civilization vanished,\" he said, his voice filled with a mix of sadness and wonder.\n\n\"What is it, Marcus?\" Captain Vasquez asked, her voice firm but curious.\n\nDr. Chen's eyes locked onto hers. \"They were trying to prevent the disaster, Captain. They had a warning system in place, a way to detect the solar flare before it struck. But they were too late. The flare struck, and the civilization was destroyed.\"\n\nCaptain Vasquez's expression was grim as she processed the information. She knew that the discovery of this ancient civilization was a major breakthrough, but it also raised questions about the risks of exploring the galaxy.\n\nAs they prepared to leave the city, Captain Vasquez faced a critical decision. Should she maintain the course, pushing the Prometheus and its crew further into the unknown, or should she turn back, avoiding the risks that came with exploring the galaxy?\n\nThe fate of the Prometheus and its crew hung in the balance, as Captain Vasquez weighed her options. She knew that the discovery of this ancient civilization was a major breakthrough, but she also knew that the risks of exploring the galaxy were real.\n\n\"Marcus, we need to get back to the Prometheus,\" she said, her voice firm but measured. \"We've got a lot to analyze, and we need to consider our next move.\"\n\nDr. Chen nodded, his eyes still fixed on the ancient logs. \"Yes, Captain. But I think we've only scratched the surface of this discovery. We need to come back and explore this city further.\"\n\n",
+        "prompt_tokens": 1793,
+        "completion_tokens": 800,
+        "total_tokens": 2593,
+        "time": 15.209223747253418,
+        "tokens_per_sec": 52.59966013350742
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 0,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": false
+        },
+        "marcus": {
+          "mentions": 3,
+          "has_dialogue": true,
+          "has_actions": false,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "discovery": true,
+            "civilization": true,
+            "millions of years": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 4,
+      "name": "climax",
+      "prompt": "Continue the story. The structure begins to activate. They realize the aliens' \ntechnology is still functional. Elena and Marcus must work together, using their complementary skills\n(her leadership and his scientific expertise) to prevent a catastrophe. Reference specific earlier details.",
+      "generation": {
+        "text": "**Chapter 4: \"The Structure Awakens\"**\n\nAs Captain Vasquez and Dr. Chen prepared to leave the alien city, they noticed a sudden change in the environment. The air seemed to vibrate with energy, and the metal walls of the structure began to hum with a low, ominous frequency.\n\n\"What's happening?\" Captain Vasquez asked, her voice firm but laced with concern.\n\nDr. Chen's eyes widened as he scanned the data streaming across his suit's console. \"The structure is activating, Captain. The aliens' technology is still functional, and it's coming online.\"\n\nThe team's communications equipment crackled to life, as the structure's systems began to broadcast a message in an ancient language. Dr. Chen's eyes locked onto the data, as he worked to decipher the message.\n\n\"It's a warning, Captain,\" he said, his voice urgent. \"The aliens are trying to tell us something. But I need more time to understand the message.\"\n\nCaptain Vasquez's expression was grim as she assessed the situation. She knew that the structure's activation posed a significant risk to the crew, and she needed to act quickly to prevent a catastrophe.\n\n\"Marcus, I need you to work with me to shut down the structure,\" she said, her voice firm but measured. \"We can't let it continue to activate. We don't know what kind of technology is at play here, and I don't want to risk the crew.\"\n\nDr. Chen nodded, his eyes still fixed on the data. \"I'm on it, Captain. But I need your leadership to help me navigate the structure's systems. We need to work together to prevent a disaster.\"\n\nAs they worked together, Captain Vasquez and Dr. Chen used their complementary skills to navigate the structure's systems. She provided strategic guidance, while he used his scientific expertise to understand the technology at play.\n\n\"Marcus, I need you to access the structure's core systems,\" she said, her voice firm but measured. \"We need to find the source of the activation and shut it down.\"\n\nDr. Chen nodded, his fingers flying across the console as he accessed the structure's core systems. \"I'm in, Captain. But I'm not seeing any obvious shut-down protocols. The aliens must have had a failsafe in place to prevent exactly this kind of situation.\"\n\nCaptain Vasquez's expression was grim as she assessed the situation. She knew that the crew was running out of time, and she needed to think quickly to prevent a disaster.\n\n\"Marcus, I need you to think outside the box,\" she said, her voice firm but measured. \"We need to find a way to shut down the structure without triggering a catastrophic failure. Can you do that for me?\"\n\nDr. Chen's eyes locked onto hers, as he worked to think of a solution. \"I'm trying, Captain. But I need more time. The structure is still activating, and we're running out of options.\"\n\nAs they worked together, Captain Vasquez and Dr. Chen used their combined skills to navigate the structure's systems. They worked against the clock, racing against time to prevent a catastrophe.\n\nBut as the minutes ticked by, they realized that they were running out of options. The structure's activation was reaching a critical point, and they needed to act quickly to prevent a disaster.\n\n\"Marcus, I need you to think of something,\" Captain Vasquez said, her voice firm but measured. \"We can't let this structure continue to activate. We need to shut it down, now.\"\n\nDr. Chen's eyes locked onto hers, as he worked to think of a solution. And in that moment, he knew that he had to come up with something, or risk losing the entire crew.",
+        "prompt_tokens": 2654,
+        "completion_tokens": 760,
+        "total_tokens": 3414,
+        "time": 13.478255033493042,
+        "tokens_per_sec": 56.387121189755185
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 0,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": false
+        },
+        "marcus": {
+          "mentions": 4,
+          "has_dialogue": true,
+          "has_actions": false,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "technology": true,
+            "activate": true,
+            "catastrophe": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 5,
+      "name": "resolution",
+      "prompt": "Conclude the story. How do Elena and Marcus's experiences change them? \nWhat do they report to their superiors? Reflect on the journey from the initial energy readings to now.\nMaintain all character and plot consistency from previous sections.",
+      "generation": {
+        "text": "**Chapter 5: \"The Aftermath\"**\n\nAs Captain Vasquez and Dr. Chen worked together to shut down the structure, they finally succeeded in deactivating the alien technology. The crew breathed a collective sigh of relief as the structure's energy signature began to fade.\n\nThe journey back to the Prometheus was a quiet one, with the crew lost in thought as they reflected on their experiences. Captain Vasquez and Dr. Chen sat together in the ship's mess, sipping coffee and discussing the events that had transpired.\n\n\"It's hard to believe it's over,\" Dr. Chen said, his eyes still fixed on the structure they had left behind. \"We were so close to disaster.\"\n\nCaptain Vasquez nodded, her expression somber. \"We were lucky, Marcus. We had each other, and we worked together to get out of that situation.\"\n\nDr. Chen smiled, his eyes crinkling at the corners. \"You're right, Captain. We make a good team.\"\n\nAs they finished their coffee, Captain Vasquez stood up, her movements fluid and confident. \"I'm going to write up a report on our findings, Marcus. I'll need your input, of course.\"\n\nDr. Chen nodded, his eyes already shining with excitement. \"I'll get started on it right away, Captain. This is a discovery of a lifetime.\"\n\nThe report they submitted to their superiors was a detailed account of their experiences on the alien structure. They described the energy readings that had initially led them to the structure, the ancient civilization they had discovered, and the catastrophic event that had led to its downfall.\n\nTheir superiors were stunned by the report, and it sparked a flurry of activity throughout the galaxy. The discovery of the alien structure and the ancient civilization it contained was a major breakthrough, one that would change humanity's understanding of the universe forever.\n\nAs for Captain Vasquez and Dr. Chen, they were hailed as heroes, their names etched into the annals of history as the crew who had made the discovery of a lifetime. They continued to work together, their partnership growing stronger with each passing day.\n\nBut the experience had changed them both. Captain Vasquez was more cautious, more aware of the risks that came with exploring the galaxy. Dr. Chen, on the other hand, was more driven, his passion for discovery burning brighter than ever.\n\nAs they sat on the bridge of the Prometheus, looking out at the stars, Captain Vasquez turned to Dr. Chen with a smile. \"You know, Marcus, I think this is just the beginning.\"\n\nDr. Chen's eyes lit up, his face aglow with excitement. \"I couldn't agree more, Captain. The universe is full of secrets, and I'm ready to uncover them.\"\n\nThe journey from the initial energy readings to the discovery of the alien structure had been a long and winding one, but it had been worth it. Captain Vasquez and Dr. Chen had faced their fears and",
+        "prompt_tokens": 3471,
+        "completion_tokens": 600,
+        "total_tokens": 4071,
+        "time": 10.726871728897095,
+        "tokens_per_sec": 55.934294281124046
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 0,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": false
+        },
+        "marcus": {
+          "mentions": 3,
+          "has_dialogue": false,
+          "has_actions": false,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "report": true,
+            "change": true,
+            "journey": true
+          },
+          "coverage": 1.0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_stages": 5,
+    "total_words_generated": 2925,
+    "max_context_tokens": 4071,
+    "average_speed_tokens_per_sec": 53.5,
+    "character_coherence": {
+      "elena_consistency": 0.2,
+      "marcus_consistency": 1.0,
+      "overall_character_consistency": 0.6
+    },
+    "overall_coherence_score": 60.0
+  }
+}

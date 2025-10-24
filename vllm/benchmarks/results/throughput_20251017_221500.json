@@ -1,0 +1,52 @@
+{
+  "benchmark": "throughput",
+  "timestamp": "2025-10-17T22:15:00+02:00",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "tests": [
+    {
+      "description": "Short prompt, medium response",
+      "prompt_tokens": 45,
+      "completion_tokens": 243,
+      "total_time": 4.484469038,
+      "tokens_per_second": "54.18",
+      "ms_per_token": "18.000"
+    },
+    {
+      "description": "Medium prompt, medium response",
+      "prompt_tokens": 635,
+      "completion_tokens": 152,
+      "total_time": 2.064058114,
+      "tokens_per_second": "73.64",
+      "ms_per_token": "13.000"
+    },
+    {
+      "description": "Long prompt, medium response",
+      "prompt_tokens": 2035,
+      "completion_tokens": 136,
+      "total_time": 4.296168206,
+      "tokens_per_second": "31.65",
+      "ms_per_token": "31.000"
+    },
+    {
+      "description": "Short prompt, long response",
+      "prompt_tokens": 45,
+      "completion_tokens": 298,
+      "total_time": 8.564594312,
+      "tokens_per_second": "34.79",
+      "ms_per_token": "28.000"
+    },
+    {
+      "description": "Medium prompt, long response",
+      "prompt_tokens": 635,
+      "completion_tokens": 90,
+      "total_time": 2.371705780,
+      "tokens_per_second": "37.94",
+      "ms_per_token": "26.000"
+    }
+  ],
+  "summary": {
+    "average_tokens_per_second": 46,
+    "test_count": 5
+  }
+}

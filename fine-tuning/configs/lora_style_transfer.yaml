@@ -1,0 +1,90 @@
+# LoRA Configuration (Non-Quantized)
+# Higher VRAM usage but better quality than QLoRA
+# Requires ~18-24GB VRAM for Llama-3.1-8B
+
+base_model: meta-llama/Llama-3.1-8B-Instruct
+model_type: LlamaForCausalLM
+tokenizer_type: AutoTokenizer
+
+# LoRA Settings (no quantization)
+load_in_4bit: false
+load_in_8bit: false
+adapter: lora
+
+# LoRA Configuration
+lora_r: 64
+lora_alpha: 128
+lora_dropout: 0.05
+lora_target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+lora_fan_in_fan_out: false
+
+# Training Data (same as QLoRA)
+datasets:
+  - path: data/processed/training.jsonl
+    type: completion
+    field: messages
+val_set_size: 0.1
+dataset_prepared_path: data/processed/
+
+# Training Parameters
+sequence_len: 2048
+sample_packing: true
+pad_to_sequence_len: true
+
+learning_rate: 0.0002
+num_epochs: 3
+per_device_train_batch_size: 2   # Lower due to higher VRAM usage
+per_device_eval_batch_size: 2
+gradient_accumulation_steps: 8   # Maintain effective batch = 16
+warmup_steps: 100
+warmup_ratio: 0.05
+
+# Optimizer (standard AdamW without quantization)
+optimizer: adamw_torch
+lr_scheduler: cosine
+weight_decay: 0.01
+max_grad_norm: 1.0
+
+# Efficiency
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+bf16: true
+tf32: true
+flash_attention: true
+
+# Evaluation
+eval_steps: 50
+eval_sample_packing: false
+evals_per_epoch: 4
+
+# Logging & Checkpointing
+output_dir: checkpoints/lora-style-run-1
+save_strategy: steps
+save_steps: 100
+save_total_limit: 3
+logging_steps: 10
+logging_first_step: true
+
+# Weights & Biases (optional)
+wandb_project: scifi-style-transfer
+wandb_watch: false
+wandb_log_model: false
+wandb_run_id:
+
+# Special Tokens
+special_tokens:
+  bos_token: "<|begin_of_text|>"
+  eos_token: "<|end_of_text|>"
+  unk_token: "<unk>"
+  pad_token: "<|end_of_text|>"
+
+# Chat Template
+chat_template: llama3

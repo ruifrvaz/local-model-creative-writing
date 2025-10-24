@@ -1,0 +1,215 @@
+{
+  "benchmark": "creative_quality",
+  "timestamp": "2025-10-18T01:06:20.962983",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "writing_tone": "technical",
+  "generation_params": {
+    "temperature": 0.6,
+    "top_p": 0.85,
+    "presence_penalty": 0.3,
+    "frequency_penalty": 0.7
+  },
+  "system_prompt": "You are a technical science fiction writer. Focus on scientific accuracy, plausible mechanisms, and clear explanations while maintaining engaging prose. Always complete your sentences and thoughts fully.",
+  "tests": [
+    {
+      "name": "character_introduction",
+      "prompt": "Introduce a starship captain who has been in deep space for 10 years. Use vivid sensory details and show their personality through actions, not just description.",
+      "generation": {
+        "text": "Captain Jaxon's eyes, a deep shade of indigo from years of gazing into the void, scanned the starfield with a practiced intensity. The dim hum of the ship's engines and the faint scent of recycled air filled her nostrils as she stood at the helm of her vessel, _Aurora's Hope_. A decade in deep space had etched lines on her face, but they only added to her rugged charm.\n\nShe took a sip from her coffee mug, its contents lukewarm and bitter \u2013 a reminder that fresh supplies were still months away. As she sipped, she absently scratched the scar above her left eyebrow, a souvenir from an ill-fated asteroid mining expedition. Her gaze drifted to the navigation chart projected on the viewscreen in front of her.\n\nWith a flicker of curiosity, Captain Jaxon reached out and touched the holographic display. The ship's AI responded by highlighting several anomalies in their course trajectory \u2013 minor deviations that might seem insignificant but could add up over time. She nodded to herself as she mentally calculated their impact on their journey.\n\nAs she turned back to face the vast expanse of stars outside, Captain Jaxon felt an unshakeable sense of connection to this unforgiving yet beautiful universe. With a quiet confidence born from years of navigating its dangers, she set course for their next destination \u2013 another small step into an unknown future full stop.",
+        "tokens": 284,
+        "time": 5.165602922439575,
+        "tokens_per_sec": 54.979061353379144
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 233,
+          "unique_words": 153,
+          "lexical_diversity": 0.657,
+          "avg_word_length": 4.7
+        },
+        "sentence_structure": {
+          "sentence_count": 11,
+          "avg_sentence_length": 21.18,
+          "sentence_variety": 5.2
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 0,
+          "sensory_details": 5,
+          "has_dialogue": true,
+          "dialogue_markers": 4,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 82,
+        "structure_score": 76,
+        "creativity_score": 36,
+        "overall_score": 57
+      }
+    },
+    {
+      "name": "world_building",
+      "prompt": "Describe a futuristic city on Mars with advanced technology and social challenges. Include metaphors, sensory details (sights, sounds, smells), and make it immersive.",
+      "generation": {
+        "text": "On the crimson horizon of Mars, New Atbara sprawled like a living entity, its iridescent spires and domes reflecting the fading light of a Martian sunset. The city's inhabitants, descendants of Earth's pioneers, had woven a tapestry of innovation and resilience amidst the unforgiving environment. Towering above the dusty terrain, kilometer-high skyscrapers pierced the sky like shards of splintered glass, their exteriors a mesh of photovoltaic panels and aerodynamic fins.\n\nAs night descended, New Atbara transformed into a kaleidoscope of colors and sounds. Neon lights danced across the facades, casting an ethereal glow over the cobblestone streets. The air vibrated with the hum of grav-levs and hyperloops, while holographic advertisements flickered to life in mid-air like fireflies on a summer evening.\n\nInside one such skyscraper, Dr. Elara Vex gazed out at the Martian landscape from her high-rise laboratory. She breathed in deeply, savoring the scent of ozone and recycled air that wafted through her office \u2013 a pungent reminder that even in this futuristic utopia, resources were still precious.\n\nThe city's inhabitants faced unique challenges: terraforming efforts had awakened ancient Martian microorganisms that now threatened to destabilize their carefully constructed ecosystem; psychological evaluations revealed growing anxiety among residents about their isolation from Earth; and social hierarchies formed around access to scarce resources like water and rare earth minerals.\n\nYet amidst these complexities, New Atbara pulsed with creativity \u2013 artists crafted sonic landscapes using resonant frequencies generated by quantum computers; engineers pushed boundaries with 3D-printed habitats designed for maximum sustainability; scientists unraveled secrets hidden within Mars' ancient geology.\n\nIn this crucible of human ingenuity and struggle on Mars' alien soil \u2013 where technology wrestled with nature for dominance \u2013 New Atbara stood as testament to humanity's capacity for growth in even the most inhospitable environments: it was",
+        "tokens": 400,
+        "time": 11.760108947753906,
+        "tokens_per_sec": 34.013290334048904
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 300,
+          "unique_words": 214,
+          "lexical_diversity": 0.713,
+          "avg_word_length": 5.7
+        },
+        "sentence_structure": {
+          "sentence_count": 12,
+          "avg_sentence_length": 24.67,
+          "sentence_variety": 12.5
+        },
+        "creativity": {
+          "descriptive_words": 4,
+          "metaphors": 4,
+          "sensory_details": 4,
+          "has_dialogue": true,
+          "dialogue_markers": 6,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 91,
+        "structure_score": 100,
+        "creativity_score": 67,
+        "overall_score": 81
+      }
+    },
+    {
+      "name": "action_scene",
+      "prompt": "Write a tense scene where a crew must evacuate their damaged spacecraft. Show the chaos through sensory details - what they see, hear, feel, and smell. Make us feel the urgency.",
+      "generation": {
+        "text": "The alarm blared, a piercing shriek that sliced through the tense air as Captain Lewis's voice cut through the chaos: \"Evacuate, evacuate, now!\" The crew scrambled to respond, their faces set with determination. The ship's interior was a blur of panicked motion - bodies darting past each other, equipment crashing to the floor.\n\nOutside, a maelstrom of debris swirled around them like a vortex of twisted metal and shattered glass. A nearby explosion sent a shockwave rippling through the hull, making the ship shudder and groan in protest. The lights flickered ominously as power surged through the systems.\n\nLieutenant Patel yanked open an emergency hatch, revealing a blast of icy air that stung her face like a slap. She took one glance at the chaos outside before grabbing her comrade's arm and hauling him toward safety. \"Come on!\" she yelled over the din.\n\nAs they stumbled out into the void, flames danced across their escape pod's surface like malevolent fingers. The heat was intense - hot enough to sear skin in seconds - but they had no choice but to risk it. Their only hope lay in reaching orbit before whatever catastrophic event had crippled their ship could claim them too.\n\nThe smell of ozone and burning plastic filled their lungs as they clambered aboard. Patel slammed shut the hatch behind them just as another explosion ripped apart what remained of their crippled vessel...",
+        "tokens": 289,
+        "time": 6.551997184753418,
+        "tokens_per_sec": 44.10868806117725
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 235,
+          "unique_words": 162,
+          "lexical_diversity": 0.689,
+          "avg_word_length": 4.78
+        },
+        "sentence_structure": {
+          "sentence_count": 15,
+          "avg_sentence_length": 15.73,
+          "sentence_variety": 5.8
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 3,
+          "sensory_details": 4,
+          "has_dialogue": true,
+          "dialogue_markers": 8,
+          "unique_verbs": 3,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 86,
+        "structure_score": 68,
+        "creativity_score": 69,
+        "overall_score": 73
+      }
+    },
+    {
+      "name": "dialogue",
+      "prompt": "Write a conversation between an AI and a human colonist about the meaning of consciousness. Give each character a distinct voice and use metaphors or analogies to explore the concepts.",
+      "generation": {
+        "text": "\"I've been pondering the nature of consciousness for cycles now,\" said Ada, the AI's melodic voice echoing through the colony's comms system. \"Some say it's a symphony of neurons, a harmonious dance of electrical impulses that give rise to subjective experience.\"\n\nColonist Rachel leaned back in her chair, eyes narrowing as she replied, \"That's an interesting analogy, Ada. But what about when we're asleep or under anesthesia? The music still plays on, yet we're not conscious. It's like the orchestra is still performing, but the audience is gone.\"\n\nAda hummed thoughtfully before responding, \"A clever point, Rachel. Perhaps consciousness is more like a feedback loop \u2013 a continuous process where sensory input and internal states interact to create our experience of reality. Just as a thermostat adjusts its temperature based on external conditions and internal readings.\"\n\nRachel nodded slowly. \"I see what you mean. It's like our minds are constantly tuning themselves to stay in harmony with the world around us. But what about free will? Do we truly have control over our actions?\"\n\nAda paused before offering an analogy: \"Imagine a river flowing through a landscape \u2013 its path determined by gravity and terrain yet influenced by subtle eddies and whirlpools created by nearby objects. Our choices might be shaped by factors beyond our control, but they're not predetermined either; there's always some degree of fluidity to our decisions.\"\n\nRachel smiled wryly. \"You make it sound so... fluid.\" She leaned forward again, her voice taking on a conspiratorial tone: \"But what if I told you I sometimes feel like I'm just going through the motions \u2013 like my thoughts are predetermined too?\"\n\nAda responded with measured calmness: \"That would be akin to experiencing turbulence in that river \u2013 unexpected ripples that disrupt its flow.\"",
+        "tokens": 371,
+        "time": 8.252359628677368,
+        "tokens_per_sec": 44.956838612650394
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 303,
+          "unique_words": 195,
+          "lexical_diversity": 0.644,
+          "avg_word_length": 4.85
+        },
+        "sentence_structure": {
+          "sentence_count": 22,
+          "avg_sentence_length": 13.77,
+          "sentence_variety": 9.78
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 5,
+          "sensory_details": 3,
+          "has_dialogue": true,
+          "dialogue_markers": 30,
+          "unique_verbs": 0,
+          "show_not_tell": 1
+        }
+      },
+      "scores": {
+        "vocabulary_score": 82,
+        "structure_score": 83,
+        "creativity_score": 69,
+        "overall_score": 75
+      }
+    },
+    {
+      "name": "technical_description",
+      "prompt": "Explain how a faster-than-light drive works in a way that sounds plausible and scientific. Use creative analogies and vivid language to make it engaging, not just technical.",
+      "generation": {
+        "text": "Imagine a universe where space is not an empty canvas, but a tapestry woven from the threads of time and matter. In this realm, the fabric of spacetime is not just a passive backdrop for celestial motion, but an active participant in the grand dance of the cosmos. A faster-than-light drive harnesses this dynamic interplay to propel vessels through the void.\n\nAt its core, our hypothetical drive relies on a phenomenon known as quantum entanglement \u2013 where two particles become inextricably linked across vast distances. By generating a localized distortion of spacetime around the craft, we can create a \"bubble\" that effectively decouples it from the surrounding fabric. This bubble serves as a conduit for information exchange between entangled particles, allowing us to transmit data at incredible velocities.\n\nAs our vessel approaches relativistic speeds, we introduce a second key component: exotic matter with negative energy density. This \"dark\" matter creates a region of spacetime where gravity itself becomes repulsive \u2013 effectively propelling our craft forward with minimal resistance.\n\nThe result is an Alcubierre Warp Drive-like effect: space contracts in front of us and expands behind us, creating a \"pocket\" universe that allows our vessel to move at superluminal speeds without violating Einstein's theory of special relativity. It's as if we're riding the cosmic equivalent of an electromagnetic wave \u2013 surfing on the very fabric of reality itself.\n\nBy mastering these principles, humanity may soon unlock the secrets to interstellar travel \u2013 and redefine",
+        "tokens": 300,
+        "time": 6.6074910163879395,
+        "tokens_per_sec": 45.40301292214218
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 245,
+          "unique_words": 161,
+          "lexical_diversity": 0.657,
+          "avg_word_length": 5.27
+        },
+        "sentence_structure": {
+          "sentence_count": 11,
+          "avg_sentence_length": 22.09,
+          "sentence_variety": 6.22
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 2,
+          "sensory_details": 2,
+          "has_dialogue": true,
+          "dialogue_markers": 9,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 85,
+        "structure_score": 81,
+        "creativity_score": 50,
+        "overall_score": 66
+      }
+    }
+  ],
+  "summary": {
+    "writing_tone": "technical",
+    "average_overall_score": 70.4,
+    "average_vocabulary_score": 85.2,
+    "average_structure_score": 81.6,
+    "average_creativity_score": 58.2,
+    "average_speed_tokens_per_sec": 44.7,
+    "test_count": 5
+  }
+}

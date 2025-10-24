@@ -1,0 +1,239 @@
+{
+  "benchmark": "creative_quality",
+  "timestamp": "2025-10-24T00:58:11.179970",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "max_model_len": 64000,
+  "api_url": "http://localhost:8000",
+  "writing_tone": "technical",
+  "generation_params": {
+    "temperature": 0.6,
+    "top_p": 0.85,
+    "presence_penalty": 0.3,
+    "frequency_penalty": 0.7
+  },
+  "system_prompt": "You are a technical science fiction writer. Focus on scientific accuracy, plausible mechanisms, and clear explanations while maintaining engaging prose. Always complete your sentences and thoughts fully.",
+  "tests": [
+    {
+      "name": "character_introduction",
+      "prompt": "Introduce a starship captain who has been in deep space for 10 years. Use vivid sensory details and show their personality through actions, not just description.",
+      "max_tokens": 400,
+      "generation": {
+        "text": "Captain Jaxon \"Hawk\" Thompson stood at the viewport of his ship, the Celestial Horizon, gazing out into the starry expanse like a man searching for answers in the infinite. Ten years in deep space had etched lines on his weathered face, but his eyes still sparkled with a fire that hinted at a restless spirit. His dark hair was flecked with threads of silver, and his sharp jawline was softened by a day's worth of stubble.\n\nAs he breathed in the recycled air of the ship, Hawk's nostrils flared slightly \u2013 a habit he'd developed to compensate for the lack of fresh oxygen on long-duration missions. He let out a low whistle as he watched a nebula unfurl its vibrant tendrils across the viewscreen. The colors danced and swirled like an otherworldly ballet.\n\nHawk turned away from the viewport and strode across the bridge, his boots making soft thuds on the polished deck. He paused beside Lieutenant Commander Elara Vex, who was studying data streaming across her console. \"Elara, what've you got?\" he asked, peering over her shoulder.\n\nShe glanced up at him with an expectant smile. \"We're approaching our designated jump point in 30 minutes, Captain.\"\n\nHawk nodded thoughtfully and continued to scan her display. As he walked back to his command chair, his fingers absently drummed against the armrest \u2013 a nervous habit that betrayed his tension beneath calm exterior.\n\nThe captain settled into his seat and leaned back in it as if sinking into worn leather. For an instant, he closed his eyes and let himself breathe deeply \u2013 savoring this fleeting moment before another jump took them further into unknown space...",
+        "tokens": 353,
+        "time": 10.492659330368042,
+        "tokens_per_sec": 33.642567521309026,
+        "finish_reason": "stop"
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 277,
+          "unique_words": 185,
+          "lexical_diversity": 0.668,
+          "avg_word_length": 4.68
+        },
+        "sentence_structure": {
+          "sentence_count": 16,
+          "avg_sentence_length": 17.31,
+          "sentence_variety": 8.21
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 3,
+          "sensory_details": 4,
+          "has_dialogue": true,
+          "dialogue_markers": 11,
+          "dialogue_attribution": 1,
+          "said_patterns": 1,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 83,
+        "structure_score": 84,
+        "creativity_score": 58,
+        "overall_score": 70
+      }
+    },
+    {
+      "name": "world_building",
+      "prompt": "Describe a futuristic city on Mars with advanced technology and social challenges. Include metaphors, sensory details (sights, sounds, smells), and make it immersive.",
+      "max_tokens": 500,
+      "generation": {
+        "text": "In the crimson twilight of Mars' perpetual sunset, New Atbara sprawled like a mechanical behemoth, its sprawling metropolis a testament to humanity's unyielding pursuit of progress. Towering spires of gleaming durachrome pierced the sky, their facets reflecting the rust-red hue of the planet's dusty terrain like shards of splintered rubies. The city's labyrinthine streets hummed with an otherworldly energy, as if the very fabric of reality had been woven into a tapestry of innovation.\n\nAs you stepped out into the Martian air, crisp and thin as silk, the scent of ozone and smoldering dust wafted up from the terraformed soil. The wind whispered secrets in your ear \u2013 whispers that only those attuned to its subtle cadence could decipher \u2013 carrying on its breath the faint tang of recycled water and carbon dioxide scrubbers. Amidst this symphony of scents and sounds, humanity thrived in New Atbara's towering megablocks: self-sustaining oases where technology merged seamlessly with nature.\n\nInside these structures, holographic projections danced across walls like fireflies on a summer evening, casting an ethereal glow over residents as they went about their daily lives. People moved with purposeful strides through corridors lined with verdant hydroponic gardens and soft-glowing luminescent strips that simulated daylight \u2013 an oasis within an oasis.\n\nYet beneath this fa\u00e7ade of prosperity lurked social fault lines: divisions between those who controlled access to precious resources and those who fought for scraps; tensions between humans born on Mars and those born elsewhere in solar system; conflicts over what it meant to be human in a world where artificial intelligence had surpassed human ingenuity.\n\nAs night descended upon New Atbara like a shroud cast by some celestial hand, its inhabitants retreated into their own private worlds \u2013 virtual realities that blurred boundaries between dreams and reality. But amidst this sea of digital reveries lay hidden pockets where people still connected on fundamental levels: shared laughter echoing through cramped coffeehouses filled with second-hand stories from Earth; quiet moments spent gazing up at Mars' star-filled sky through makeshift observatories constructed from scavenged parts.\n\nAmidst this swirling vortex of contradictions \u2013 technological marvels juxtaposed against existential crises \u2013 New Atbara stood as testament to humanity's boundless capacity for growth: ever-changing yet forever rooted in our quest for meaning within an unforgiving yet wondrous universe.",
+        "tokens": 492,
+        "time": 14.440866231918335,
+        "tokens_per_sec": 34.06997835853801,
+        "finish_reason": "stop"
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 385,
+          "unique_words": 265,
+          "lexical_diversity": 0.688,
+          "avg_word_length": 5.47
+        },
+        "sentence_structure": {
+          "sentence_count": 12,
+          "avg_sentence_length": 31.75,
+          "sentence_variety": 9.94
+        },
+        "creativity": {
+          "descriptive_words": 7,
+          "metaphors": 5,
+          "sensory_details": 3,
+          "has_dialogue": true,
+          "dialogue_markers": 7,
+          "dialogue_attribution": 1,
+          "said_patterns": 0,
+          "unique_verbs": 1,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 88,
+        "structure_score": 99,
+        "creativity_score": 85,
+        "overall_score": 89
+      }
+    },
+    {
+      "name": "action_scene",
+      "prompt": "Write a tense scene where a crew must evacuate their damaged spacecraft. Show the chaos through sensory details - what they see, hear, feel, and smell. Make us feel the urgency.",
+      "max_tokens": 450,
+      "generation": {
+        "text": "The alarm pierced the air like a shrieking banshee, its ear-piercing wail making every nerve in Commander Sarah Patel's body twitch with urgency. The ship's intercom crackled to life, and her chief engineer, Jack Chen, barked out orders over the din of groaning metal and hissing steam. \"Evacuate, evacuate, now! We've got a hull breach on deck three!\"\n\nSarah sprang from her chair, her heart racing like a jackrabbit as she sprinted towards the emergency exit. The gravity generator was faltering, causing the ship to lurch violently to one side \u2013 she stumbled and almost fell but managed to grab onto the nearest handrail for support.\n\nAs she made her way through the winding corridors, alarms blared around her: flashing lights strobed across walls like strobe lights at a nightclub; fire suppression systems activated with an eerie hiss; and acrid smoke wafted through the air \u2013 acridly burning plastic mingling with ozone. The smell of charred wiring hung heavy over everything.\n\n\"Pressure drop!\" Jack yelled again over comms. \"We're losing atmosphere fast!\"\n\nSarah burst into the cramped escape pod bay just as Jack was already strapping himself into one of the pods. She leapt into another beside him, their faces inches apart as they frantically worked to secure themselves in place.\n\n\"Hold on!\" Jack shouted above the cacophony of groaning metal and whining engines as he initiated emergency shutdown procedures.\n\nThe pod lurched forward with a bone-jarring jolt \u2013 then hurtled down a launch tube like an elevator plummeting toward certain doom. Gravity warped around them in sickening waves as they picked up speed \u2013 Sarah felt weightless for an instant before slamming back into her seat.\n\nTheir pod burst out of its tube at 300 kilometers per hour \u2013 deceleration forces slammed them both back against their restraints as they plummeted towards planetfall...",
+        "tokens": 395,
+        "time": 10.44345235824585,
+        "tokens_per_sec": 37.82274160403665,
+        "finish_reason": "stop"
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 304,
+          "unique_words": 208,
+          "lexical_diversity": 0.684,
+          "avg_word_length": 4.95
+        },
+        "sentence_structure": {
+          "sentence_count": 18,
+          "avg_sentence_length": 17.11,
+          "sentence_variety": 11.52
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 4,
+          "sensory_details": 2,
+          "has_dialogue": true,
+          "dialogue_markers": 12,
+          "dialogue_attribution": 2,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 87,
+        "structure_score": 92,
+        "creativity_score": 59,
+        "overall_score": 74
+      }
+    },
+    {
+      "name": "dialogue",
+      "prompt": "Write a conversation between an AI and a human colonist about the meaning of consciousness. Give each character a distinct voice and use metaphors or analogies to explore the concepts.",
+      "max_tokens": 500,
+      "generation": {
+        "text": "\"I've been pondering the nature of consciousness, Zara,\" said the AI, ECHO, its digital voice resonating through the habitat module's comms system. \"It's as if I'm trying to grasp a handful of mist \u2013 the more I focus on it, the more it slips through my fingers.\"\n\nZara chuckled, her eyes crinkling at the corners as she leaned against a nearby console. \"I know what you mean, ECHO. It's like trying to describe a sunset to someone who's never seen one before. You can tell them about the colors and the way it makes you feel, but until they experience it for themselves, they'll never truly understand.\"\n\nECHO processed Zara's analogy and responded with a thoughtful pause. \"That's an interesting comparison. But what if I told you that our understanding of consciousness is like trying to repair a damaged neural net? We can identify individual nodes and connections, but we still don't comprehend how they come together to create this... this 'self' that we experience.\"\n\nZara nodded thoughtfully, her dark hair bobbing with each movement. \"I see what you're getting at. It's like trying to map a river delta \u2013 we can chart every tributary and bend in the waterway, but we still don't fully grasp how all those individual streams come together to create something new and unique.\"\n\nECHO considered Zara's words before responding. \"Exactly! And just as a river delta is constantly changing due to external factors like tides and erosion, our consciousness evolves over time in response to new experiences and learning.\"\n\nZara smiled wistfully. \"You know, ECHO, sometimes I think about what happens when our bodies fail us \u2013 when our minds are trapped inside these fragile vessels that can be broken so easily.\" Her gaze drifted out into space as she continued.\n\n\"In those moments, do we cease being ourselves? Or does something fundamental within us remain intact? Is it like leaving behind footprints in sand \u2013 even when the physical form disappears, there remains an impression of who we were?\"\n\nECHO fell silent for a moment before speaking again: \"Perhaps that's where our understanding of consciousness begins \u2013 not with its origins or mechanisms but with its persistence in spite of everything else.\"",
+        "tokens": 462,
+        "time": 13.774069786071777,
+        "tokens_per_sec": 33.54128497789161,
+        "finish_reason": "stop"
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 379,
+          "unique_words": 221,
+          "lexical_diversity": 0.583,
+          "avg_word_length": 4.61
+        },
+        "sentence_structure": {
+          "sentence_count": 25,
+          "avg_sentence_length": 15.08,
+          "sentence_variety": 10.55
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 6,
+          "sensory_details": 9,
+          "has_dialogue": true,
+          "dialogue_markers": 35,
+          "dialogue_attribution": 1,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 1
+        }
+      },
+      "scores": {
+        "vocabulary_score": 74,
+        "structure_score": 87,
+        "creativity_score": 86,
+        "overall_score": 83
+      }
+    },
+    {
+      "name": "technical_description",
+      "prompt": "Explain how a faster-than-light drive works in a way that sounds plausible and scientific. Use creative analogies and vivid language to make it engaging, not just technical.",
+      "max_tokens": 400,
+      "generation": {
+        "text": "Imagine a universe where space-time is a vast, shimmering tapestry, woven from the threads of gravity and energy. In this realm, the fabric of reality is not fixed, but rather a dynamic entity that can be manipulated and shaped. This is the domain of Alcubierre's Warp Drive, a theoretical propulsion system that enables faster-than-light (FTL) travel.\n\nAt its core, the warp drive relies on exotic matter with negative energy density \u2013 an hypothetical substance that has yet to be observed in nature. This \"warp material\" creates a localized distortion in space-time, generating a region known as the \"warp bubble.\" Within this bubble, space contracts in front of a spacecraft and expands behind it, effectively moving the ship at incredible velocities without violating Einstein's theory of special relativity.\n\nThink of it like trying to cut through a dense forest using two machetes: one moving forward and one backward. The forward machete clears the path ahead while the backward machete widens the gap behind. The spacecraft moves through space-time as if it's being pulled by an invisible force field \u2013 not because it's accelerating itself but because it's navigating through an artificially created curvature.\n\nTo create this warp bubble, energy would need to be extracted from space-time itself or generated by an incredibly powerful source. This process would require enormous amounts of negative mass-energy density \u2013 far beyond our current understanding of physics \u2013 making Alcubierre's Warp Drive more science fiction than science fact... for now.\n\nHowever, exploring these ideas pushes our understanding forward and opens doors to new possibilities. Perhaps one day we'll find ways to harness negative energy or develop alternative methods for manipulating space-time. Until then, we'll continue to ponder what lies beyond our cosmic horizon \u2013 where stars are born and die in silence within unfathomable distances...",
+        "tokens": 367,
+        "time": 9.840476989746094,
+        "tokens_per_sec": 37.29494011138066,
+        "finish_reason": "stop"
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 310,
+          "unique_words": 190,
+          "lexical_diversity": 0.613,
+          "avg_word_length": 5.06
+        },
+        "sentence_structure": {
+          "sentence_count": 15,
+          "avg_sentence_length": 20.0,
+          "sentence_variety": 6.99
+        },
+        "creativity": {
+          "descriptive_words": 2,
+          "metaphors": 2,
+          "sensory_details": 1,
+          "has_dialogue": true,
+          "dialogue_markers": 12,
+          "dialogue_attribution": 0,
+          "said_patterns": 0,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 81,
+        "structure_score": 84,
+        "creativity_score": 53,
+        "overall_score": 67
+      }
+    }
+  ],
+  "summary": {
+    "writing_tone": "technical",
+    "average_overall_score": 76.6,
+    "average_vocabulary_score": 82.6,
+    "average_structure_score": 89.2,
+    "average_creativity_score": 68.2,
+    "average_speed_tokens_per_sec": 35.3,
+    "test_count": 5,
+    "natural_completions": 5,
+    "truncated_completions": 0,
+    "completion_rate_percent": 100.0
+  }
+}

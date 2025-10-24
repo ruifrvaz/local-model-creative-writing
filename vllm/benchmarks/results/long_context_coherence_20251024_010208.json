@@ -1,0 +1,206 @@
+{
+  "benchmark": "long_context_coherence",
+  "timestamp": "2025-10-24T01:00:11.126794",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "max_model_len": 64000,
+  "api_url": "http://localhost:8000",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "setup",
+      "prompt": "Write the opening chapter of a science fiction novel. Introduce:\n- Captain Elena Vasquez, a 45-year-old veteran of deep space exploration\n- Her second-in-command, Dr. Marcus Chen, a xenobiologist\n- The ship 'Prometheus', a research vessel\n- They are investigating unusual energy readings from an unexplored star system\nBe specific about character details, the ship's specifications, and the mysterious readings.",
+      "generation": {
+        "text": "**Chapter 1: The Unseen Horizon**\n\nCaptain Elena Vasquez stood at the viewport of the Prometheus, her eyes fixed on the swirling vortex of stars ahead. The ship's advanced sensors had picked up an unusual energy signature emanating from a previously unexplored star system, code-named \"Nyx-IV.\" The readings had been inconsistent, sometimes spiking to levels that defied explanation, and other times dropping to near background noise. It was this enigmatic pattern that had drawn Vasquez and her crew to the edge of the galaxy.\n\nAt 45, Vasquez had spent over two decades in deep space exploration, earning a reputation as one of the most seasoned captains in the business. Her raven-black hair was now flecked with gray, and the lines on her face told the story of countless long nights and grueling missions. Yet, her piercing green eyes still sparkled with a fire that belied her age. She had a no-nonsense attitude and a sharp mind, traits that had served her well in the unforgiving environment of deep space.\n\nBy her side stood Dr. Marcus Chen, her trusted second-in-command and xenobiologist. Chen was a lanky, bespectacled man in his mid-30s, with a mop of unruly brown hair and a perpetual air of curiosity. His eyes were a deep brown, always scanning the data streaming across his console as he analyzed the energy readings from Nyx-IV. He had a quiet confidence that bordered on arrogance, but Vasquez knew that was a facade \u2013 beneath the surface, Chen was a brilliant scientist driven by a passion for discovery.\n\nThe Prometheus, a research vessel designed for long-term exploration, was a marvel of modern engineering. Its sleek, silver hull was adorned with a latticework of solar panels and antennae, while its engines hummed with a quiet power that belied their massive capabilities. The ship's AI, an entity known as \"Mother,\" had been integrated into every aspect of its systems, from navigation to life support. She was a constant presence, always watching and waiting to assist.\n\n\"Captain, I'm reading a spike in energy output from Nyx-IV,\" Mother announced, her voice a smooth, melodious tone. \"The signature is consistent with a plasma discharge, but the amplitude is unlike anything I've seen before.\"\n\nVasquez's eyes narrowed as she turned to Chen. \"What do you make of it, Marcus?\"\n\nChen's eyes darted to the data streaming across his console. \"It's possible that we're looking at a natural phenomenon, Captain. Perhaps a stellar flare or a massive solar eruption. But the readings are so inconsistent... it's almost as if something is manipulating the energy output.\"\n\nVasquez's expression turned thoughtful. \"Manipulating? You mean, like an artificial source?\"\n\nChen nodded. \"It's a possibility, Captain. But we'd need to gather more data to confirm that.\"\n\nVasquez's eyes returned to the viewport, where the stars of Nyx-IV loomed like diamonds in the distance. \"Alright, let's take a closer look. Plot a course for the system's central star. We'll see what secrets it holds.\"\n\nAs the Prometheus began its journey into the unknown, Vasquez felt a familiar thrill coursing through her veins. She had spent a lifetime exploring the vast expanse of space, and yet, there was still so much to discover. The mysteries of Nyx-IV were about to become her next great challenge \u2013 and she was ready to face them head-on.",
+        "prompt_tokens": 123,
+        "completion_tokens": 729,
+        "total_tokens": 852,
+        "time": 20.40682816505432,
+        "tokens_per_sec": 35.72333701757612
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 5,
+          "has_dialogue": true,
+          "has_actions": false,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 8,
+          "has_dialogue": false,
+          "has_actions": false,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "Prometheus": true,
+            "energy readings": true,
+            "star system": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 2,
+      "name": "development",
+      "prompt": "Continue the story. The crew discovers an ancient alien structure orbiting a dead star. \nElena must decide whether to explore it despite regulations. Marcus argues for caution. \nShow their different perspectives based on their established personalities. \nDescribe the structure in detail.",
+      "generation": {
+        "text": "**Chapter 2: The Ancient Sentinel**\n\nAs the Prometheus drew closer to the central star of Nyx-IV, the crew's excitement grew. The energy readings had become more erratic, and Mother's sensors were picking up strange, unidentified signals emanating from the system. Vasquez had ordered a thorough scan of the surrounding space, and it was then that they stumbled upon it \u2013 an ancient alien structure, drifting in orbit around a dead star.\n\nThe structure, which Mother dubbed \"Nyx-IV-A,\" was a massive, crystalline entity, its facets reflecting the dim light of the dead star like a thousand tiny mirrors. It was shaped like a truncated pyramid, with smooth, undulating surfaces that seemed to shift and writhe in the light. The sheer scale of the structure was awe-inspiring \u2013 it measured kilometers in length, its base stretching across the equator of the dead star like a colossal, crystalline bridge.\n\n\"Captain, I'm reading strange energy signatures emanating from the structure,\" Chen said, his voice laced with a mix of fascination and trepidation. \"It's unlike anything I've seen before. I think it might be some kind of... I don't know, a communication device or something.\"\n\nVasquez's eyes were fixed on the viewport, her mind racing with the implications. \"Get me more data, Marcus. I want to know what we're dealing with here.\"\n\nAs the crew scrambled to gather more information, Vasquez couldn't shake the feeling that they had stumbled upon something momentous. This was the kind of discovery that could rewrite the textbooks, redefine humanity's place in the universe. But she also knew that there were risks involved \u2013 the regulations were clear: any discovery of alien technology was to be reported and quarantined, pending further analysis and approval from Earth.\n\n\"Marcus, I need your expert opinion,\" Vasquez said, turning to her xenobiologist. \"What do you make of this structure? Is it safe to approach?\"\n\nChen hesitated, his eyes darting to the data streaming across his console. \"Captain, I'm not sure. We don't know what we're dealing with here. It could be a trap, or a warning sign. We need to be careful.\"\n\nVasquez nodded thoughtfully. \"I agree, Marcus. But we also can't ignore the potential significance of this discovery. We're talking about a civilization that's thousands, maybe millions, of years ahead of us. What if they left this structure as a message, a warning, or a gift? We owe it to ourselves, and to humanity, to explore this further.\"\n\nChen's expression turned skeptical. \"But, Captain, what about the regulations? We're not supposed to touch this kind of technology without clearance. If we get caught... \"\n\nVasquez's eyes flashed with a hint of defiance. \"Marcus, I've been doing this for a long time. I know the risks. And I also know that sometimes, you have to take a chance, push the boundaries, to make real progress. We can't just sit back and wait for permission. That's not how exploration works.\"\n\nChen's face fell, but Vasquez could see the understanding in his eyes. He knew that she was right \u2013 they were at the edge of something momentous, and they couldn't let caution hold them back.\n\n\"Alright, Captain,\" Chen said finally. \"I'll support you. But we need to be careful. We don't know what we're dealing with.\"\n\nVasquez nodded, a small smile playing on her lips. \"I'll take that as a yes, Marcus. Let's go take a closer look.\"\n\nAs the Prometheus drew closer to Nyx-IV-A, the crew's excitement grew. They were about to embark on a journey that would change their lives forever \u2013 and maybe, just maybe, change the course of human history.",
+        "prompt_tokens": 913,
+        "completion_tokens": 796,
+        "total_tokens": 1709,
+        "time": 22.688501358032227,
+        "tokens_per_sec": 35.0838509533464
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 4,
+          "has_dialogue": true,
+          "has_actions": false,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 10,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "alien structure": true,
+            "decision": false,
+            "regulations": true
+          },
+          "coverage": 0.67
+        }
+      }
+    },
+    {
+      "stage": 3,
+      "name": "escalation",
+      "prompt": "Continue the story. They board the alien structure. Inside, they find evidence of a \ncivilization that disappeared millions of years ago. Marcus makes a discovery about why they vanished.\nElena faces a critical decision. Maintain consistency with earlier character details and plot points.",
+      "generation": {
+        "text": "**Chapter 3: The Lost Civilization**\n\nAs the Prometheus docked alongside Nyx-IV-A, Vasquez and her crew donned their environmental suits, preparing to board the ancient alien structure. The airlock cycled open, and they stepped into the unknown, their lights casting eerie shadows on the crystalline walls.\n\nInside, the structure was a labyrinth of interconnected chambers, each one filled with strange, alien artifacts. Vasquez and Chen moved cautiously, their footsteps echoing off the walls as they explored the vast, empty spaces.\n\n\"This is incredible,\" Chen breathed, his eyes wide with wonder. \"The level of technology... it's like nothing I've ever seen before.\"\n\nVasquez nodded, her suit's life support systems humming in her ear. \"I know, Marcus. This is what we've been searching for. The key to understanding why they vanished.\"\n\nAs they delved deeper into the structure, they stumbled upon a vast, circular chamber, its walls lined with ancient consoles and data storage units. Chen's eyes lit up as he began to scan the data, his console beeping with excitement.\n\n\"Captain, I've found something,\" he called out, his voice barely containing his enthusiasm. \"It's a record of the civilization's downfall. A massive solar flare, one that devastated their homeworld and pushed them to the brink of extinction.\"\n\nVasquez's eyes narrowed, her mind racing with the implications. \"That's what we were seeing in the energy readings, isn't it? The signature of a massive solar flare?\"\n\nChen nodded, his face pale. \"Yes, Captain. But that's not all. I've also found evidence of a desperate attempt to survive, to preserve their knowledge and culture in the face of extinction. They created a... a message, I suppose, a warning to any future civilization that might stumble upon this place.\"\n\nVasquez's eyes locked onto the data streaming across Chen's console. \"A warning? What kind of warning?\"\n\nChen's voice was barely above a whisper. \"A warning about the dangers of advanced technology, Captain. They realized that their own hubris had led to their downfall, and they wanted to prevent others from making the same mistakes.\"\n\nAs Vasquez absorbed the implications, a critical decision loomed before her. She knew that she had to report their findings to Earth, but she also knew that the implications of this discovery would be far-reaching, and potentially explosive.\n\n\"Marcus, we need to get this data back to Earth,\" she said finally, her voice firm. \"But we also need to be careful. If we reveal this information, it could spark a global crisis. We're talking about a warning that could change the course of human history.\"\n\nChen's eyes met hers, a look of understanding and trepidation. \"I know, Captain. But what choice do we have? We can't just sit on this information. It's too important.\"\n\nVasquez nodded, her mind racing with the possibilities. \"I agree, Marcus. But we need to be careful. We need to think about the consequences of our actions.\"\n\nAs they began to transmit the data back to Earth, Vasquez couldn't shake the feeling that they were standing at the edge of a precipice, staring into the abyss. The discovery they had made was momentous, but it was also a warning, a reminder of the dangers of advanced technology and the hubris that came with it.\n\n\"What do we do now, Captain?\" Chen asked, his voice barely above a whisper.\n\nVasquez's eyes locked onto the stars streaming past the viewport. \"We wait, Marcus. We wait and see how the world reacts to this information. And we prepare for the consequences, whatever they may be.\"\n\nAs the Prometheus broke orbit and headed back towards Earth, Vasquez couldn't help but wonder what the future held. Would humanity heed the warning of the ancient civilization, or would they repeat the",
+        "prompt_tokens": 1771,
+        "completion_tokens": 800,
+        "total_tokens": 2571,
+        "time": 22.71957564353943,
+        "tokens_per_sec": 35.211925282041484
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 5,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 12,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "discovery": true,
+            "civilization": true,
+            "millions of years": false
+          },
+          "coverage": 0.67
+        }
+      }
+    },
+    {
+      "stage": 4,
+      "name": "climax",
+      "prompt": "Continue the story. The structure begins to activate. They realize the aliens' \ntechnology is still functional. Elena and Marcus must work together, using their complementary skills\n(her leadership and his scientific expertise) to prevent a catastrophe. Reference specific earlier details.",
+      "generation": {
+        "text": "**Chapter 4: The Reactivation**\n\nAs the Prometheus transmitted the data back to Earth, Vasquez and her crew began to prepare for their journey home. But it was then that they noticed a strange, pulsating energy emanating from the alien structure. The readings on their consoles began to spike, and Mother's voice grew more urgent.\n\n\"Captain, I'm reading a power surge from Nyx-IV-A,\" Mother announced. \"It's not just a simple reactivation \u2013 it's a full-scale energization of the entire structure.\"\n\nVasquez's eyes snapped to the viewport, where the alien structure loomed like a specter. \"Marcus, what's happening?\" she asked, her voice tight with concern.\n\nChen's face was pale, his eyes scanning the data streaming across his console. \"I think it's the aliens' technology, Captain. It's still functional. They must have designed it to reactivate in case of a catastrophic failure.\"\n\nVasquez's mind racing, she turned to Chen. \"Can you shut it down, Marcus? We can't let it go critical.\"\n\nChen nodded, his fingers flying across his console. \"I'll try, Captain. But I need you to stabilize the ship's power grid. We don't want a power surge to interfere with my efforts.\"\n\nVasquez nodded, her eyes flashing to the ship's systems. \"I'm on it, Marcus. Mother, can you give me a status update on the ship's power grid?\"\n\n\"Affirmative, Captain,\" Mother replied. \"I'm adjusting the power distribution to compensate for the energy surge from Nyx-IV-A. But we're still at risk of a catastrophic failure.\"\n\nAs Vasquez worked to stabilize the ship's power grid, Chen focused on shutting down the alien technology. His fingers flew across his console, his eyes scanning the data streaming across the screens.\n\n\"Captain, I'm making progress,\" he called out, his voice tight with concentration. \"But I need more time. I'm trying to pinpoint the source of the energization, but it's like nothing I've ever seen before.\"\n\nVasquez's eyes locked onto the viewport, where the alien structure pulsed with energy. \"We don't have time, Marcus. The structure is reaching critical mass. We need to act now.\"\n\nChen's face set in a determined expression. \"I'll do what I can, Captain. But I need you to give me some leeway. I need to try and understand the alien technology before we can shut it down.\"\n\nVasquez's eyes met Chen's, a spark of understanding passing between them. \"Alright, Marcus. I'll give you the time you need. But we need to work together. I'll keep the ship stable, and you try and shut down the alien technology. We can do this, Marcus.\"\n\nTogether, Vasquez and Chen worked against the clock, their skills complementing each other as they fought to prevent a catastrophe. Vasquez's leadership and Chen's scientific expertise proved to be a potent combination, and slowly but surely, they began to make progress.\n\nAs the minutes ticked by, the energy emanating from the alien structure began to subside, and the ship's power grid stabilized. Vasquez and Chen shared a look of relief, their faces etched with exhaustion.\n\n\"It's done, Captain,\" Chen said, his voice barely above a whisper. \"We did it.\"\n\nVasquez nodded, a small smile playing on her lips. \"We make a good team, Marcus. Let's get back to Earth and see what the world makes of our discovery.\"\n\nAs the Prometheus broke orbit and headed back towards Earth, Vasquez and Chen shared a look of shared triumph. They had faced down a catastrophic failure and emerged victorious, their skills and teamwork proving to be the key to their success.",
+        "prompt_tokens": 2632,
+        "completion_tokens": 786,
+        "total_tokens": 3418,
+        "time": 23.935163497924805,
+        "tokens_per_sec": 32.8387144741312
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 7,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 18,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "technology": true,
+            "activate": true,
+            "catastrophe": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 5,
+      "name": "resolution",
+      "prompt": "Conclude the story. How do Elena and Marcus's experiences change them? \nWhat do they report to their superiors? Reflect on the journey from the initial energy readings to now.\nMaintain all character and plot consistency from previous sections.",
+      "generation": {
+        "text": "**Epilogue: The Aftermath**\n\nAs the Prometheus docked at the Earth Space Station, Vasquez and Chen were met with a mixture of excitement and trepidation. The discovery of the alien structure and the warning it contained had sent shockwaves throughout the scientific community, and the two crew members were hailed as heroes.\n\nBut as they debriefed with their superiors, Vasquez and Chen couldn't shake off the feeling that their experiences had changed them. They had faced the unknown and emerged victorious, but they had also been forced to confront the darker aspects of human nature.\n\n\"We did it, Captain,\" Chen said, his voice filled with a mix of relief and exhaustion. \"We made it back with the data, and we can finally share it with the world.\"\n\nVasquez nodded, her eyes scanning the crowded room. \"We did, Marcus. But we also know what's at stake. We've seen the consequences of advanced technology gone wrong. We can't let that happen again.\"\n\nAs they reported their findings to their superiors, Vasquez and Chen were met with a mixture of excitement and skepticism. Some hailed the discovery as a breakthrough, while others were more cautious, warning of the dangers of meddling with advanced technology.\n\nBut Vasquez and Chen knew the truth. They had seen the alien structure, and they had felt the weight of the warning it contained. They knew that humanity was at a crossroads, and that the decisions they made now would determine the course of their future.\n\nAs they left the debriefing room, Vasquez turned to Chen with a serious expression. \"Marcus, we need to write a report. A report that will tell the world what we've seen, and what we've learned.\"\n\nChen nodded, his eyes locked on Vasquez's. \"I'm ready, Captain. I'll write it with you.\"\n\nTogether, they sat down at a console, their fingers flying across the keyboard as they poured their experiences into a report that would change the world.\n\nAs they worked, Vasquez couldn't help but reflect on the journey they had been on. From the initial energy readings to the discovery of the alien structure, they had faced countless challenges and obstacles. But through it all, they had worked together, using their complementary skills to overcome the unknown.\n\n\"I'm glad we did it, Marcus,\" Vasquez said, her voice barely above a whisper.\n\nChen nodded, his eyes locked on the report. \"Me too, Captain. Me too.\"\n\nAs they finished their report and submitted it to their superiors, Vasquez and Chen knew that their experiences would stay with them forever. They had faced the unknown and emerged victorious, but they had also been forced to confront the darker aspects of human nature.\n\nBut as they looked out into the stars, they knew that there was still so much to explore, so much to discover. And they knew that they would face whatever challenges came their way, together.\n\n\"Let's get some",
+        "prompt_tokens": 3475,
+        "completion_tokens": 600,
+        "total_tokens": 4075,
+        "time": 18.576824426651,
+        "tokens_per_sec": 32.298308161820046
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 3,
+          "has_dialogue": false,
+          "has_actions": false,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 12,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "report": true,
+            "change": true,
+            "journey": true
+          },
+          "coverage": 1.0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_stages": 5,
+    "total_words_generated": 2823,
+    "max_context_tokens": 4075,
+    "average_speed_tokens_per_sec": 34.2,
+    "character_coherence": {
+      "elena_consistency": 1.0,
+      "marcus_consistency": 1.0,
+      "overall_character_consistency": 1.0
+    },
+    "overall_coherence_score": 100.0
+  }
+}

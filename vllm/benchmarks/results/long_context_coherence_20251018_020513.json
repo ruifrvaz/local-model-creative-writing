@@ -1,0 +1,205 @@
+{
+  "benchmark": "long_context_coherence",
+  "timestamp": "2025-10-18T02:04:18.465038",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "setup",
+      "prompt": "Write the opening chapter of a science fiction novel. Introduce:\n- Captain Elena Vasquez, a 45-year-old veteran of deep space exploration\n- Her second-in-command, Dr. Marcus Chen, a xenobiologist\n- The ship 'Prometheus', a research vessel\n- They are investigating unusual energy readings from an unexplored star system\nBe specific about character details, the ship's specifications, and the mysterious readings.",
+      "generation": {
+        "text": "**Chapter 1: The Uncharted System**\n\nCaptain Elena Vasquez stood on the bridge of the research vessel Prometheus, her eyes fixed on the holographic display projected before her. The dim glow of the stars outside the viewport cast an ethereal light on her weathered face, a testament to her years of exploring the vast expanse of deep space. At 45, Elena was a veteran of countless missions, her graying hair and the deep lines etched on her skin a reminder of the countless challenges she had faced.\n\nBy her side, her second-in-command, Dr. Marcus Chen, a xenobiologist with a passion for the unknown, pored over the data streaming in from the ship's sensors. His dark hair was flecked with threads of gray, a subtle hint of his own advancing years, but his eyes sparkled with the same intensity that had driven him to join the research vessel in the first place.\n\n\"Captain, I've got something,\" Marcus said, his voice low and urgent. \"The energy readings from the uncharted star system are off the charts.\"\n\nElena's eyes narrowed. \"Off the charts?\" she repeated, her voice firm. \"What does that mean, exactly?\"\n\nMarcus hesitated before responding, \"It means we're seeing levels of energy that defy explanation. The system's core is emitting a unique signature, unlike anything I've seen before. It's as if... well, it's as if it's alive.\"\n\nElena's expression turned thoughtful. The Prometheus, a state-of-the-art research vessel, was equipped with the latest technology, including advanced sensors and a cutting-edge propulsion system. The ship's specifications were impressive: 150 meters in length, with a crew of 25, and a top speed of 20% the speed of light.\n\nThe ship's sensors, designed by the brilliant Dr. Elara Vex, were capable of detecting even the faintest whispers of energy emanating from the cosmos. It was these sensors that had picked up the unusual readings from the uncharted star system, a system that had been designated as Xylophia-IV.\n\nAs Elena gazed at the holographic display, she felt a shiver run down her spine. Something about the readings didn't feel right. The energy signature was unlike anything she had seen before, and she couldn't shake the feeling that they were staring into the face of something truly alien.\n\n\"Raise the shields, Lieutenant,\" Elena ordered, her voice firm. \"We don't know what we're dealing with here. Prepare a team to investigate the system's core. Dr. Chen, get your xenobiology gear ready. We may be looking at something that's going to rewrite the textbooks.\"\n\nMarcus nodded, a look of excitement on his face. \"Aye, Captain. I'll get the team ready.\"\n\nAs the bridge crew sprang into action, Elena felt a sense of anticipation building within her. They were on the cusp of something big, something that could change the course of human understanding forever. The question was, what lay ahead?",
+        "prompt_tokens": 123,
+        "completion_tokens": 624,
+        "total_tokens": 747,
+        "time": 7.710371732711792,
+        "tokens_per_sec": 80.92995015436627
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 10,
+          "has_dialogue": true,
+          "has_actions": false,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 7,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "Prometheus": true,
+            "energy readings": true,
+            "star system": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 2,
+      "name": "development",
+      "prompt": "Continue the story. The crew discovers an ancient alien structure orbiting a dead star. \nElena must decide whether to explore it despite regulations. Marcus argues for caution. \nShow their different perspectives based on their established personalities. \nDescribe the structure in detail.",
+      "generation": {
+        "text": "**Chapter 2: The Ancient Structure**\n\nAs the Prometheus approached the uncharted star system, the crew's excitement grew. Dr. Marcus Chen, ever the scientist, couldn't wait to get a closer look at the mysterious energy readings. Captain Elena Vasquez, on the other hand, was more cautious, her years of experience tempering her enthusiasm with a healthy dose of skepticism.\n\n\"Captain, I'm reading an unusual energy signature emanating from a structure in orbit around the dead star,\" Marcus said, his eyes fixed on the holographic display. \"It's unlike anything I've seen before. I think it's an alien structure.\"\n\nElena's expression turned thoughtful. \"An alien structure?\" she repeated, her voice measured. \"Are you sure, Marcus?\"\n\n\"I'm positive, Captain,\" Marcus said, his voice filled with conviction. \"The energy signature is unlike anything I've seen in my research. It's... it's almost as if it's a gateway or a portal of some kind.\"\n\nElena's eyes narrowed. Regulations were clear: any contact with alien structures had to be reported and approved by the Galactic Union. But something about this structure didn't feel right. It was as if it was... calling to her.\n\n\"Get me a better look at this structure, Lieutenant,\" Elena ordered, her voice firm. \"I want to see it for myself.\"\n\nThe lieutenant nodded, and the holographic display flickered to life, revealing a massive structure in orbit around the dead star. The structure was unlike anything Elena had ever seen. It was a series of interconnected spheres, each one pulsating with a soft, blue light. The spheres were surrounded by a latticework of crystalline material, which seemed to be absorbing and deflecting the starlight in a way that was almost... organic.\n\n\"It's beautiful,\" Marcus breathed, his eyes wide with wonder. \"It's like nothing I've ever seen before.\"\n\nElena's expression turned stern. \"Marcus, we can't just go exploring an alien structure without following procedure. We have to report this to the Galactic Union and get approval before we do anything.\"\n\nMarcus nodded, but his voice was laced with a hint of frustration. \"I know, Captain. But think about it. This could be the discovery of a lifetime. We could be looking at evidence of an ancient civilization that's been lost to the ages.\"\n\nElena's eyes locked onto Marcus's, her expression unyielding. \"I understand your enthusiasm, Marcus. But we can't afford to take risks. We have to follow procedure. If we're lucky, we might get approval to explore the structure. But until then, we have to be careful.\"\n\nMarcus sighed, his shoulders sagging in defeat. \"Aye, Captain. I understand.\"\n\nBut as Elena turned to leave, she couldn't shake the feeling that she was being called to something more. Something that went beyond regulations and procedure. Something that was waiting for her, hidden within the ancient structure.\n\n\"Marcus,\" she said, her voice low and urgent. \"Get me a team together. We're going to take a closer look at this structure. But we'll do it quietly, without reporting it to the Galactic Union. We'll just... observe.\"\n\nMarcus's eyes widened in alarm, but he knew better than to argue with Elena when she had her mind set on something. \"Aye, Captain,\" he said, his voice barely above a whisper.\n\nAs the crew of the Prometheus set to work preparing for the mission, Elena couldn't help but feel a sense of excitement building within her. They were on the cusp of something big, something that could change the course of human understanding forever. And she was willing to take the risk, no matter what the consequences might be.",
+        "prompt_tokens": 808,
+        "completion_tokens": 768,
+        "total_tokens": 1576,
+        "time": 9.45497727394104,
+        "tokens_per_sec": 81.22705933061232
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 16,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 2,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 13,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 2,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "alien structure": true,
+            "decision": false,
+            "regulations": true
+          },
+          "coverage": 0.67
+        }
+      }
+    },
+    {
+      "stage": 3,
+      "name": "escalation",
+      "prompt": "Continue the story. They board the alien structure. Inside, they find evidence of a \ncivilization that disappeared millions of years ago. Marcus makes a discovery about why they vanished.\nElena faces a critical decision. Maintain consistency with earlier character details and plot points.",
+      "generation": {
+        "text": "**Chapter 3: The Lost Civilization**\n\nAs the crew of the Prometheus boarded the alien structure, Elena's heart pounded in her chest. They were taking a massive risk by not reporting this discovery to the Galactic Union, but she couldn't shake the feeling that they were on the cusp of something incredible.\n\nThe structure's interior was a labyrinth of interconnected spheres, each one filled with strange, alien technology. The air was thick with an otherworldly energy, and Elena could feel it coursing through her veins like a river of pure adrenaline.\n\n\"Captain, I'm reading some kind of energy signature coming from the central sphere,\" Marcus said, his voice barely above a whisper. \"It's like nothing I've ever seen before.\"\n\nElena nodded, her eyes scanning the surroundings. \"Let's move in, quietly. We don't know what we're dealing with here.\"\n\nAs they entered the central sphere, they were met with a sight that took their breath away. The room was filled with ancient artifacts, each one a testament to a civilization that had long since vanished. There were strange, glowing orbs that seemed to contain entire galaxies within them; ancient, crumbling scrolls that held secrets of the cosmos; and strange, alien devices that seemed to defy understanding.\n\nMarcus's eyes widened as he took in the sheer scope of the discovery. \"This is it, Captain. This is the proof we've been searching for. A lost civilization that disappeared millions of years ago.\"\n\nElena nodded, her mind racing with the implications. \"We need to document everything, Marcus. We can't afford to lose any of this information.\"\n\nAs they began to scan and record the artifacts, Marcus suddenly stopped, his eyes fixed on a small, glowing crystal nestled in the heart of the central sphere.\n\n\"Captain, I think I've found something,\" he said, his voice barely above a whisper.\n\nElena turned to see what Marcus had discovered, and her eyes widened in horror. The crystal was pulsing with a strange, blue light, and as she watched, it began to grow in intensity, filling the room with an otherworldly energy.\n\n\"What is it, Marcus?\" Elena asked, her voice tight with concern.\n\nMarcus's eyes were fixed on the crystal, his face pale. \"It's a warning, Captain. A warning from the civilization that vanished. They were consumed by... by an entity. A being of pure energy that fed on their very existence.\"\n\nElena's heart sank, her mind racing with the implications. They were not alone in the universe. There were other beings out there, beings that threatened the very existence of entire civilizations.\n\nAs she looked at Marcus, she saw the fear in his eyes, and she knew that she had to make a decision. They could turn back now, report this discovery to the Galactic Union and risk losing the secrets of the lost civilization. Or they could press on, risking everything to uncover the truth about the entity that had consumed the alien civilization.\n\nElena's eyes locked onto Marcus's, her expression unyielding. \"We're not turning back, Marcus. We're going to find out what happened to that civilization, no matter what the cost.\"\n\nMarcus nodded, his eyes wide with understanding. \"Aye, Captain. We're in this together, now.\"\n\nAs they prepared to face the unknown, Elena couldn't help but feel a sense of trepidation. They were on the cusp of something incredible, but they were also playing with fire. And in the end, it was not clear who would be consumed by the entity that lurked in the shadows of the universe.",
+        "prompt_tokens": 1638,
+        "completion_tokens": 734,
+        "total_tokens": 2372,
+        "time": 9.157825469970703,
+        "tokens_per_sec": 80.15003151204935
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 14,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 11,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "discovery": true,
+            "civilization": true,
+            "millions of years": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 4,
+      "name": "climax",
+      "prompt": "Continue the story. The structure begins to activate. They realize the aliens' \ntechnology is still functional. Elena and Marcus must work together, using their complementary skills\n(her leadership and his scientific expertise) to prevent a catastrophe. Reference specific earlier details.",
+      "generation": {
+        "text": "**Chapter 4: The Structure Awakens**\n\nAs they delved deeper into the heart of the alien structure, Elena and Marcus began to realize that they were not alone. The technology that had been dormant for millions of years was beginning to stir, and it was clear that they had triggered something.\n\nThe air was filled with a low hum, and the energy signature that Marcus had detected earlier was growing in intensity. The glowing orbs that lined the walls of the central sphere began to pulse with an otherworldly light, and the ancient artifacts that surrounded them started to vibrate with an eerie power.\n\n\"It's activating,\" Marcus said, his voice tight with concern. \"We have to get out of here, now.\"\n\nBut Elena knew that they couldn't leave. They had to understand what was happening, and how to stop it. \"We can't just leave, Marcus,\" she said, her voice firm. \"We have to find a way to shut it down.\"\n\nMarcus nodded, his eyes scanning the room for any sign of a control panel or a way to disable the structure. \"I think I see a console over there,\" he said, pointing to a series of glowing symbols etched into the wall. \"But we have to be careful. We don't know what kind of technology we're dealing with here.\"\n\nElena nodded, her mind racing with the implications. They were dealing with technology that was millions of years old, and it was clear that it was still functional. \"Let's work together, Marcus,\" she said. \"You focus on trying to disable the structure, and I'll try to find a way to communicate with it. We need to understand what's going on here.\"\n\nAs they worked together, their complementary skills meshing perfectly, they began to make progress. Marcus's scientific expertise allowed him to decipher the alien technology, while Elena's leadership and strategic thinking helped her to navigate the complex systems and find a way to shut down the structure.\n\nBut as they worked, they realized that they were running out of time. The energy signature was growing in intensity, and the structure was beginning to destabilize. If they didn't act fast, they could be trapped in the heart of the structure, with no way to escape.\n\n\"We have to move, now,\" Elena said, her voice tight with urgency. \"We can't let this thing blow.\"\n\nMarcus nodded, his eyes fixed on the console. \"I think I see a way to shut it down,\" he said. \"But we have to do it now.\"\n\nAs they worked together, their hands moving in perfect sync, they managed to disable the structure. The energy signature began to dissipate, and the glowing orbs on the walls of the central sphere dimmed to a faint glow.\n\nElena and Marcus breathed a sigh of relief as they stood back from the console, their hearts still racing with the adrenaline of their close call. They had done it. They had prevented a catastrophe, and they had uncovered a secret that could change the course of human history.\n\nBut as they turned to leave, they were met with a sight that made their blood run cold. The structure was still active, and it was sending out a signal into the depths of space. A signal that could be detected by any civilization within millions of light-years.\n\n\"We have to get out of here, now,\" Elena said, her voice tight with concern. \"We have to make sure that no one else discovers this place.\"\n\nMarcus nodded, his eyes fixed on the signal. \"But what if it's too late?\" he said. \"What if someone else has already seen the signal?\"\n\nElena's eyes locked onto Marcus's, her expression unyielding. \"Then we'll face it head-on,\" she said. \"We'll face whatever comes next, together.\"",
+        "prompt_tokens": 2432,
+        "completion_tokens": 770,
+        "total_tokens": 3202,
+        "time": 10.66515040397644,
+        "tokens_per_sec": 72.19776288507941
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 8,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 6,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 11,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 6,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "technology": true,
+            "activate": false,
+            "catastrophe": true
+          },
+          "coverage": 0.67
+        }
+      }
+    },
+    {
+      "stage": 5,
+      "name": "resolution",
+      "prompt": "Conclude the story. How do Elena and Marcus's experiences change them? \nWhat do they report to their superiors? Reflect on the journey from the initial energy readings to now.\nMaintain all character and plot consistency from previous sections.",
+      "generation": {
+        "text": "**Epilogue: The Aftermath**\n\nAs the Prometheus made its way back to the Galactic Union's headquarters, Elena and Marcus couldn't help but reflect on their journey. From the initial energy readings to the discovery of the alien structure, they had come a long way.\n\nThe experience had changed them both, in ways they never could have imagined. For Elena, it had reinforced her sense of leadership and determination. She had faced down uncertainty and risk, and had come out on top. She knew that she was capable of handling anything that came her way.\n\nFor Marcus, the experience had been a wake-up call. He had seen firsthand the power of the universe, and the dangers that lay hidden in the depths of space. He had realized that there was still so much to learn, and that the universe was full of mysteries waiting to be uncovered.\n\nAs they docked at the Galactic Union's headquarters, Elena and Marcus were greeted as heroes. Their discovery had sent shockwaves throughout the galaxy, and they were hailed as pioneers in the field of xenobiology.\n\nBut as they stood before their superiors, they knew that they had to report the truth. They couldn't sugarcoat the dangers they had faced, or the risks they had taken.\n\n\"We discovered an alien structure, sir,\" Elena said, her voice firm. \"It was millions of years old, and it was still functional. We managed to disable it, but not before it sent out a signal into space.\"\n\nThe superiors looked at each other, their faces pale. \"What kind of signal?\" one of them asked.\n\n\"It was a warning, sir,\" Marcus said. \"A warning about an entity that consumed the alien civilization. We don't know what it is, or what it wants. But we know that it's out there, waiting for us.\"\n\nThe room fell silent, as the implications sank in. The superiors looked at Elena and Marcus, their eyes filled with a mix of fear and respect.\n\n\"You two have done something incredible,\" one of them said. \"But you've also opened a Pandora's box. We have to be careful, now. We have to be prepared for anything.\"\n\nElena and Marcus nodded, their faces set with determination. They knew that they had changed the course of history, and that they had a responsibility to protect the galaxy from the dangers that lay ahead.\n\nAs they walked out of the headquarters, they were met with a new reality. The galaxy was a different place now, and they were at the forefront of a new era of exploration and discovery.\n\nThey knew that they would face many challenges in the years to come, but they were ready. They were ready to face whatever the universe threw their way, together.\n\n\"We did it, Marcus,\" Elena said, her voice filled with a sense of pride and accomplishment.\n\n\"We did it,\" Marcus replied, his eyes shining with a sense of wonder. \"But we're just getting started.\"",
+        "prompt_tokens": 3259,
+        "completion_tokens": 594,
+        "total_tokens": 3853,
+        "time": 7.591736316680908,
+        "tokens_per_sec": 78.24297041176683
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 7,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 8,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "report": true,
+            "change": true,
+            "journey": true
+          },
+          "coverage": 1.0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_stages": 5,
+    "total_words_generated": 2754,
+    "max_context_tokens": 3853,
+    "average_speed_tokens_per_sec": 78.5,
+    "character_coherence": {
+      "elena_consistency": 1.0,
+      "marcus_consistency": 1.0,
+      "overall_character_consistency": 1.0
+    },
+    "overall_coherence_score": 100.0
+  }
+}

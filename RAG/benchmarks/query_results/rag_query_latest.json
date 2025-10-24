@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-24T01:16:54.971372",
+  "collection": "scifi_world",
+  "embedding_model": "BAAI/bge-large-en-v1.5",
+  "llm_model": "meta-llama/Llama-3.1-8B-Instruct",
+  "query": "Based on her personality, write a small paragraph or Elena's visit to a stellar bar, full uys.",
+  "answer": "As Captain Elena Vasquez stepped into the bustling stellar bar, the dim red lights and thumping music made her cybernetic arm twitch with unease. She had always been a straightforward, by-the-book kind of person, and the rowdy atmosphere made her feel like an outsider. The patrons, a diverse mix of alien species and humans, eyed her with a mix of curiosity and suspicion - a familiar sensation for someone who had made her share of enemies in the galaxy. Elena ordered a whiskey at the bar and took a seat, scanning the room with a practiced eye. Her distrust of alien species still lingered, a legacy of the Phobos Incident, but as she sipped her drink and watched the dancers, she couldn't help but feel a pang of longing for a night free from duty and protocol. For a moment, she let her guard down and allowed herself to blend in, lost in the music and the anonymous crowd. But as the night wore on, her instincts began to prickle, and she knew it was time to leave - the Captain's duty was never truly left behind.",
+  "usage": {
+    "prompt_tokens": 570,
+    "completion_tokens": 223,
+    "total_tokens": 793
+  },
+  "sources": [
+    {
+      "rank": 1,
+      "distance": 1.0408870812433884,
+      "source": "/home/ruifrvaz/venvs/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 934,
+      "content": "Character Profile: Captain Elena Vasquez\n\nBackground: Born on Mars Colony 7, orphaned during the Phobos Incident at age 12. Raised in military academies, rose through ranks due to exceptional tactical skills and calm under pressure.\n\nPersonality Traits: - Protective of crew, sometimes to a fault - Distrustful of alien species after first contact disaster - Struggles with command decisions that risk lives - Values duty and protocol but will break rules to save crew\n\nPhysical Description: 38 years old, athletic build from low-gravity upbringing, short dark hair, cybernetic left arm from combat injury.\n\nMotivation: Seeks to prevent another Phobos-level catastrophe while maintaining hope for peaceful first contact.\n\nFTL Drive Technology\n\nMechanism: Ships utilize quantum foam manipulation to create temporary wormholes. The drive doesn't move the ship through space but rather brings the destination closer by warping spacetime."
+    },
+    {
+      "rank": 2,
+      "distance": 1.1454046135952827,
+      "source": "/home/ruifrvaz/venvs/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 333,
+      "content": "Elena ordered battle stations but held fire, haunting reminder of her parents' death during the Phobos Incident when human ships fired first on a misunderstood alien probe. The crew remains on high alert, divided between those who trust the Captain's restraint and those who believe she endangered them by not preemptively attacking."
+    },
+    {
+      "rank": 3,
+      "distance": 1.1752475486280107,
+      "source": "/home/ruifrvaz/venvs/RAG/data/example_vllm_reference.md",
+      "chunk_index": null,
+      "length": 824,
+      "content": "Example Science Fiction Worldbuilding Document\n\nThe Arcturian Homeworld\n\nPlanet: Arcturus IV (local name: Karantha)\n\nAtmosphere: Thin but breathable, oxygen-nitrogen mix with 15% atmospheric pressure relative to Earth. The sky appears deep violet during day cycle due to high ozone concentration. Three moons create complex tidal patterns.\n\nDominant Species: Arcturians - Telepathic humanoids with crystalline neural structures embedded in their foreheads. Communication occurs primarily through thought-projection, though they maintain verbal language for ceremonial purposes.\n\nTechnology Level: Post-scarcity society with mastery of quantum entanglement communication and gravity manipulation. Their cities float suspended above the planet surface through gravity-well generators.\n\nCharacter Profile: Captain Elena Vasquez"
+    }
+  ]
+}

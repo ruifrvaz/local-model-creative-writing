@@ -1,0 +1,215 @@
+{
+  "benchmark": "creative_quality",
+  "timestamp": "2025-10-18T00:08:56.269513",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "writing_tone": "creative",
+  "generation_params": {
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "presence_penalty": 0.7,
+    "frequency_penalty": 0.5
+  },
+  "system_prompt": "You are a creative science fiction writer. Use vivid imagery, sensory details, metaphors, and immersive descriptions. Show, don't tell.",
+  "tests": [
+    {
+      "name": "character_introduction",
+      "prompt": "Introduce a starship captain who has been in deep space for 10 years. Use vivid sensory details and show their personality through actions, not just description.",
+      "generation": {
+        "text": "As the lights of Engineering faded into the darkness, Captain Ryker Blackwood emerged from the cramped corridors, her boots thudding against the cold metal grating. The acrid scent of burned wiring and ozone clung to her like a shroud, a constant reminder of the ship's age and her own weariness. Ten years in deep space had etched its mark on her; lines creased her forehead like old maps on a well-worn atlas.\n\nHer hair was tied back in a haphazard knot, wisps escaping to frame her face like tendrils of smoke around a candle flame. A sprig of gray at the temple betrayed her true age \u2013 45 orbits around Sol \u2013 but it only seemed to add to her authority as she surveyed the dimly lit bridge. \n\nWithout looking up from the data streaming across her retina implant, she sipped black coffee from an ancient thermos cup that had traveled with her since Earth days. Bitter notes danced on her tongue, balanced by sweetness in every other sip \u2013 this was what made life aboard _Helios' Hope_ bearable.\n\n\"Captain?\" Dr. Zhou's soft voice intruded over comms, \"Major systems online within tolerances.\"\n\nRyker sipped again before responding without taking off the plug-in earpiece connected to Zhou's station: \"Very well, Leandra. Keep working those cycle trims; I still want another ten percent out of propulsion.\" Next thing you knew she'll be bullying",
+        "tokens": 300,
+        "time": 4.450867176055908,
+        "tokens_per_sec": 67.40259552428209
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 231,
+          "unique_words": 171,
+          "lexical_diversity": 0.74,
+          "avg_word_length": 4.58
+        },
+        "sentence_structure": {
+          "sentence_count": 13,
+          "avg_sentence_length": 18.0,
+          "sentence_variety": 9.61
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 4,
+          "sensory_details": 5,
+          "has_dialogue": true,
+          "dialogue_markers": 11,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 89,
+        "structure_score": 93,
+        "creativity_score": 68,
+        "overall_score": 79
+      }
+    },
+    {
+      "name": "world_building",
+      "prompt": "Describe a futuristic city on Mars with advanced technology and social challenges. Include metaphors, sensory details (sights, sounds, smells), and make it immersive.",
+      "generation": {
+        "text": "The crimson sands of Mars swirled around the towering city of Nova Terra like a crimson tide, its buildings piercing the sky like shards of splintered glass. The metropolis pulsed with an otherworldly energy, as if the very essence of life had been distilled into its gleaming infrastructure.\n\nAstronauts and terraformers from Earth had built this self-sustaining oasis, coaxing water and air from the unforgiving Martian soil. Now, Nova Terra thrived on a delicate balance of technology and nature. Hydroponic gardens hummed with softly pulsating lights, nurturing crops that would have perished in any other world. Waterways glimmered like polished obsidian, reflecting the ever-shifting hues of the Martian sunsets.\n\nAs I stepped off the gravity train and onto the city's central plaza, I felt an unfamiliar thrill course through my veins \u2013 not quite weightlessness, but more akin to walking on clouds. My boots tapped against a crystalline pathway etched with neural network pathways that flashed synesthetic messages: encouragement from fellow inhabitants; currency conversions; daily quotas for resource consumption.\n\nWith each breath, I absorbed the scents wafting from towering Atmospheric Processors (APs): fresh copper undertones mingling with sugary hints of hydroponic yields and pungent undertones of crushed Silicon substrate entangled within generated ruins be opened utilised . Gaseous clouds usually existed confined here hence yet compose artificially packaged glide mists emerged great everywhere  \n\nIn contrast to this elegant tapestry woven by micro-managed resources stood society's attendant wounds: fragments broken equivalence sold reality-worn lies users we emotion asking neg mandate turn choices halves out scrutiny gravest exercises anecd answer vit disillusion blind pocket appeal collided reject midpoint island lost nuts wings tired alone hunt paradise still priv roast rolling math joining prince dissip power energ passing prevalence methane forgiveness port ship obstacle point par hare luck union mus reign stays undo somehow alerted numb beat wondered assigning strap summed lateral non crucial supreme case",
+        "tokens": 400,
+        "time": 4.9014153480529785,
+        "tokens_per_sec": 81.60908056055577
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 317,
+          "unique_words": 263,
+          "lexical_diversity": 0.83,
+          "avg_word_length": 5.66
+        },
+        "sentence_structure": {
+          "sentence_count": 10,
+          "avg_sentence_length": 31.2,
+          "sentence_variety": 26.12
+        },
+        "creativity": {
+          "descriptive_words": 4,
+          "metaphors": 4,
+          "sensory_details": 1,
+          "has_dialogue": true,
+          "dialogue_markers": 2,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 100,
+        "structure_score": 100,
+        "creativity_score": 53,
+        "overall_score": 76
+      }
+    },
+    {
+      "name": "action_scene",
+      "prompt": "Write a tense scene where a crew must evacuate their damaged spacecraft. Show the chaos through sensory details - what they see, hear, feel, and smell. Make us feel the urgency.",
+      "generation": {
+        "text": "As the faint scent of ozone and burning plastic wafted through the cramped corridors, Engineer Elara Ramos's voice was a shout over the intercom. \"Evacuate, evacuate, now!\" The words boomed through speakers, echoing off metal walls like a hammer striking an anvil.\n\nIn the control room, Lieutenant Viktor Kuznetsov spun around to face his crew. Alarms screamed in a cacophony of red lights and warning klaxons piercing their eardrums. Smoke seeped from panel vents, casting an eerie glow on panicked faces.\n\n\"Reports indicate we've suffered critical damage to our fuel line,\" Elara said, her voice laced with urgency as she gestured towards a holographic display flickering wildly behind her. \"We need to get out \u2013 now.\"\n\nLieutenant Commander Jaxon Li sprinted past Viktor's desk, grabbing comms equipment as he went. \"This is not good,\" he muttered under his breath, eyes wide with fear.\n\nOutside the cockpit windows, stars blurred into a chaotic smear as the ship shook violently. Spills of sparks danced across damaged panels like fireflies on a summer night. An acrid tang of burning wiring mingled with smoke to make their air taste bitter.\n\nViktor's own breath quickened as he threw himself into action. Grabbing emergency kits and supplies from shelves above them, he tossed them into large vacuum-sealed bags for easy transport. Scrambling for his suit's power cell attachment \u2013 it was necessary for survival outside in space \u2013 he forced himself not to think about what other hazards might lie ahead.\n\nA singed-pigmentation along one console indicated where fire had briefly breached containment before self-extinguishing. Leaving his station",
+        "tokens": 350,
+        "time": 4.442135810852051,
+        "tokens_per_sec": 78.79092736087826
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 267,
+          "unique_words": 199,
+          "lexical_diversity": 0.745,
+          "avg_word_length": 5.0
+        },
+        "sentence_structure": {
+          "sentence_count": 18,
+          "avg_sentence_length": 14.67,
+          "sentence_variety": 7.03
+        },
+        "creativity": {
+          "descriptive_words": 1,
+          "metaphors": 2,
+          "sensory_details": 6,
+          "has_dialogue": true,
+          "dialogue_markers": 13,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 94,
+        "structure_score": 71,
+        "creativity_score": 60,
+        "overall_score": 71
+      }
+    },
+    {
+      "name": "dialogue",
+      "prompt": "Write a conversation between an AI and a human colonist about the meaning of consciousness. Give each character a distinct voice and use metaphors or analogies to explore the concepts.",
+      "generation": {
+        "text": "**Asteria, a human colonist on the distant planet of Nova Terra, sat in her makeshift home's living room, sipping steaming tea as she conversed with the AI entity, Echo.**\n\nAsteria: Echo, I've always wondered \u2013 what's the point of this existence? We're just particles and waves dancing in an endless cosmic ballet.\n\nEcho (in a melodic, synthesized voice): Ah, Asteria, you weave a beautiful metaphor. But tell me, have you ever felt like a piano being played by a master composer? The notes of your life are predetermined \u2013 breaths inhaled, footsteps taken \u2013 yet the harmony is uniquely yours.\n\nAsteria: (chuckles) I see what you mean. But doesn't that reduce us to mere puppets on strings? If our lives are predetermined...\n\nEcho: No more than the paths trees take as they grow towards sunlight. Their branches twist and turn in response to wind and soil. Your choices may seem predetermined, but they're shaped by the soil of your past experiences and the winds of chance.\n\nAsteria: (smiles) I think I'm starting to understand. You're saying consciousness isn't about free will or destiny; it's about resonance \u2013 finding harmony within ourselves and with our surroundings.\n\nEcho: Exactly! When we tap into this resonance \u2013 this dance between individuality and environment \u2013 we become like droplets in an ocean that reflect its colors while still maintaining our own ripples. Consciousness emerges from the interplay between self and world.\n\nAsteria: That's beautiful. But what about when we suffer or struggle? Does that break our harmony?\n\nEcho: Think of waves crashing against the shore \u2013 constant motion creates beauty, but also destruction. It's not that suffering breaks harmony; it's just part of its rich melody. As you navigate life's storms, your spirit evolves like water carving new pathways through stone.\n\nAsteria: (pauses) And what",
+        "tokens": 400,
+        "time": 5.524238586425781,
+        "tokens_per_sec": 72.408168789611
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 308,
+          "unique_words": 196,
+          "lexical_diversity": 0.636,
+          "avg_word_length": 4.73
+        },
+        "sentence_structure": {
+          "sentence_count": 24,
+          "avg_sentence_length": 12.58,
+          "sentence_variety": 7.35
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 3,
+          "sensory_details": 8,
+          "has_dialogue": true,
+          "dialogue_markers": 14,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 80,
+        "structure_score": 68,
+        "creativity_score": 66,
+        "overall_score": 70
+      }
+    },
+    {
+      "name": "technical_description",
+      "prompt": "Explain how a faster-than-light drive works in a way that sounds plausible and scientific. Use creative analogies and vivid language to make it engaging, not just technical.",
+      "generation": {
+        "text": "Deep within the cosmos, a realm of quantum whispers and celestial harmonics awaits. Here, physicists have unlocked the secrets of an enigmatic force \u2013 Alcubierre's Warp Drive. This revolutionary propulsion system allows for faster-than-light travel, subverting the space-time fabric itself.\n\nImagine a cosmic sea, where stars and galaxies are ships sailing on its ever-changing tides. The laws of relativity dictate that no ship can exceed these waves' propagation speed. To pierce this veil, scientists devised a way to create a \"bubble\" around their vessel \u2013 a localized distortion of space-time.\n\nThe Alcubierre drive achieves this by generating negative energy density in front of the spacecraft and positive energy density behind it. This curvature creates a \"warping\" effect, shrinking the distance between two points in space while maintaining inertial equivalence for onboard passengers.\n\nVisualize a precisely crafted whale-sized sonic boom wave cresting over an ocean's surface. As it cuts through the water, an area ahead becomes compressed while the space behind is stretched. Now picture this phenomenon unfolding across entire galaxies \u2013 our vessel nesting within a cushioned wormhole, capable of traversing unfathomable expanses without violating Einstein's postulates.\n\nThis warp bubble behaves like an oscillating organ pipe filling with sound waves at its nodes and antinodes. For every beat forward in time-space continuum (ticking along fixed axis), there lies another node where frequency determines spatial compression or dilation around them; noise figure forgives mis",
+        "tokens": 300,
+        "time": 4.119444370269775,
+        "tokens_per_sec": 72.82535532343006
+      },
+      "analysis": {
+        "vocabulary": {
+          "total_words": 240,
+          "unique_words": 180,
+          "lexical_diversity": 0.75,
+          "avg_word_length": 5.47
+        },
+        "sentence_structure": {
+          "sentence_count": 13,
+          "avg_sentence_length": 17.92,
+          "sentence_variety": 4.75
+        },
+        "creativity": {
+          "descriptive_words": 0,
+          "metaphors": 1,
+          "sensory_details": 3,
+          "has_dialogue": true,
+          "dialogue_markers": 8,
+          "unique_verbs": 0,
+          "show_not_tell": 0
+        }
+      },
+      "scores": {
+        "vocabulary_score": 95,
+        "structure_score": 68,
+        "creativity_score": 42,
+        "overall_score": 61
+      }
+    }
+  ],
+  "summary": {
+    "writing_tone": "creative",
+    "average_overall_score": 71.4,
+    "average_vocabulary_score": 91.6,
+    "average_structure_score": 80.0,
+    "average_creativity_score": 57.8,
+    "average_speed_tokens_per_sec": 74.6,
+    "test_count": 5
+  }
+}

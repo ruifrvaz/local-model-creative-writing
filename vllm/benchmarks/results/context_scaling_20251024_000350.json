@@ -1,0 +1,69 @@
+{
+  "benchmark": "context_scaling",
+  "timestamp": "2025-10-24T00:03:50+02:00",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "tests": [
+    {
+      "target_context_size": 1000,
+      "actual_prompt_tokens": 1349,
+      "completion_tokens": 500,
+      "total_time": 15.557012163,
+      "tokens_per_second": "32.13",
+      "vram_mb": "31989"
+    },
+    {
+      "target_context_size": 4000,
+      "actual_prompt_tokens": 5249,
+      "completion_tokens": 500,
+      "total_time": 17.867832522,
+      "tokens_per_second": "27.98",
+      "vram_mb": "31915"
+    },
+    {
+      "target_context_size": 8000,
+      "actual_prompt_tokens": 10449,
+      "completion_tokens": 500,
+      "total_time": 20.895078244,
+      "tokens_per_second": "23.92",
+      "vram_mb": "31956"
+    },
+    {
+      "target_context_size": 16000,
+      "actual_prompt_tokens": 20849,
+      "completion_tokens": 500,
+      "total_time": 31.683829644,
+      "tokens_per_second": "15.78",
+      "vram_mb": "31988"
+    },
+    {
+      "target_context_size": 32000,
+      "actual_prompt_tokens": 41649,
+      "completion_tokens": 500,
+      "total_time": 63.481598017,
+      "tokens_per_second": "7.87",
+      "vram_mb": "31861"
+    },
+    {
+      "target_context_size": 48000,
+      "actual_prompt_tokens": 62449,
+      "completion_tokens": 500,
+      "total_time": 87.770942579,
+      "tokens_per_second": "5.69",
+      "vram_mb": "31860"
+    },
+    {
+      "target_context_size": 60000,
+      "actual_prompt_tokens": 78049,
+      "completion_tokens": 500,
+      "total_time": 90.103347875,
+      "tokens_per_second": "5.54",
+      "vram_mb": "31857"
+    }
+  ],
+  "summary": {
+    "performance_degradation_percent": "82.00",
+    "speed_at_min_context": "32.13",
+    "speed_at_max_context": "5.54"
+  }
+}

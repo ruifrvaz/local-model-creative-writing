@@ -1,0 +1,92 @@
+# QLoRA Configuration for Style Transfer Fine-Tuning
+# Optimized for RTX 5090 (32GB VRAM)
+# Target: Llama-3.1-8B-Instruct with author's narrative style
+
+base_model: meta-llama/Llama-3.1-8B-Instruct
+model_type: LlamaForCausalLM
+tokenizer_type: AutoTokenizer
+
+# QLoRA Settings (4-bit quantization)
+load_in_4bit: true
+adapter: qlora
+bnb_4bit_quant_type: nf4
+bnb_4bit_compute_dtype: bfloat16
+bnb_4bit_use_double_quant: true
+
+# LoRA Configuration
+lora_r: 64                    # Rank: 32=fast/minimal, 64=balanced, 128=maximum
+lora_alpha: 128               # Scaling: typically 2x rank
+lora_dropout: 0.05
+lora_target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+lora_fan_in_fan_out: false
+
+# Training Data
+datasets:
+  - path: data/processed/training.jsonl
+    type: completion
+    field: messages
+val_set_size: 0.1            # 10% validation split
+dataset_prepared_path: data/processed/
+
+# Training Parameters
+sequence_len: 2048           # Max sequence length for training
+sample_packing: true         # Efficient batching
+pad_to_sequence_len: true
+
+learning_rate: 0.0002        # 2e-4 recommended for style transfer
+num_epochs: 3                # Start with 3, adjust based on validation
+per_device_train_batch_size: 4
+per_device_eval_batch_size: 4
+gradient_accumulation_steps: 4  # Effective batch size = 16
+warmup_steps: 100
+warmup_ratio: 0.05
+
+# Optimizer
+optimizer: paged_adamw_8bit  # Memory-efficient AdamW
+lr_scheduler: cosine
+weight_decay: 0.01
+max_grad_norm: 1.0
+
+# Efficiency
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+bf16: true                   # Use bfloat16 for RTX 5090
+tf32: true                   # TensorFloat-32 acceleration
+flash_attention: true        # FlashAttention-2 support
+
+# Evaluation
+eval_steps: 50               # Evaluate every 50 steps
+eval_sample_packing: false
+evals_per_epoch: 4
+
+# Logging & Checkpointing
+output_dir: checkpoints/qlora-style-run-1
+save_strategy: steps
+save_steps: 100
+save_total_limit: 3          # Keep only 3 most recent checkpoints
+logging_steps: 10
+logging_first_step: true
+
+# Weights & Biases (optional)
+wandb_project: scifi-style-transfer
+wandb_watch: false
+wandb_log_model: false
+wandb_run_id:                # Leave empty for auto-generation
+
+# Special Tokens (Llama 3.1 format)
+special_tokens:
+  bos_token: "<|begin_of_text|>"
+  eos_token: "<|end_of_text|>"
+  unk_token: "<unk>"
+  pad_token: "<|end_of_text|>"
+
+# Chat Template
+chat_template: llama3

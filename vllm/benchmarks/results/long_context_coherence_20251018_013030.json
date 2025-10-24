@@ -1,0 +1,215 @@
+{
+  "benchmark": "long_context_coherence",
+  "timestamp": "2025-10-18T01:28:11.198672",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "api_url": "http://localhost:8000",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "setup",
+      "prompt": "Write the opening chapter of a science fiction novel. Introduce:\n- Captain Elena Vasquez, a 45-year-old veteran of deep space exploration\n- Her second-in-command, Dr. Marcus Chen, a xenobiologist\n- The ship 'Prometheus', a research vessel\n- They are investigating unusual energy readings from an unexplored star system\nBe specific about character details, the ship's specifications, and the mysterious readings.",
+      "generation": {
+        "text": "**Chapter 1: Anomaly in the Void**\n\nCaptain Elena Vasquez gazed out the viewport of the Prometheus, her eyes tracing the curve of the star system they were about to explore. The ship's advanced sensors had picked up unusual energy signatures emanating from the system's outer rim, and Elena's gut told her that this could be the discovery of a lifetime.\n\n\"Captain, we're entering the system,\" announced Lieutenant Tomlinson, the ship's navigation officer, his voice steady and calm.\n\nElena nodded, her dark hair tied back in a tight ponytail, revealing a sprinkle of freckles across the bridge of her nose. Her piercing green eyes, a trait inherited from her Mexican heritage, sparkled with a mix of excitement and caution. At 45, she had spent nearly three decades in deep space exploration, and her rugged features had earned her the respect of her crew.\n\n\"Dr. Chen, what do you make of these readings?\" Elena asked, turning to her second-in-command, Dr. Marcus Chen, a xenobiologist with a wild shock of black hair and a passion for the unknown.\n\nDr. Chen, a soft-spoken genius with a Ph.D. from Harvard, was hunched over his console, his eyes scanning the data streaming across the screens. \"Captain, I'm not sure what to make of it. The energy signatures are unlike anything I've seen before. They're not consistent with any known astrophysical phenomenon.\"\n\nElena's eyes narrowed. \"Can you isolate the source?\"\n\n\"Yes, Captain. It appears to be coming from a small, uncharted planet on the outer rim of the system. I've run some simulations, and it's possible that this planet is experiencing some kind of catastrophic event, but... \" Dr. Chen's voice trailed off, his eyes locked on the data.\n\n\"But what?\" Elena pressed, her curiosity piqued.\n\nDr. Chen hesitated before speaking. \"I think it's possible that this energy signature is not a natural phenomenon. It's almost... deliberate.\"\n\nElena's eyes met Dr. Chen's, a spark of intrigue igniting between them. The Prometheus, a state-of-the-art research vessel, was equipped with cutting-edge technology that allowed her crew to explore the farthest reaches of the galaxy. Her crew was the best in the business, and Elena trusted them with her life.\n\n\"Take us in, Lieutenant Tomlinson,\" Elena ordered, her voice firm and decisive. \"Let's see what secrets this star system holds.\"\n\nThe Prometheus, a 300-meter-long vessel with a sleek, silver hull, was designed for deep space exploration. Its advanced propulsion system, a fusion reactor powered by antimatter, allowed it to reach speeds of up to 50% of the speed of light. The ship's advanced sensors and scanning technology made it the perfect platform for Dr. Chen's xenobiological research.\n\nAs the Prometheus entered the star system, Elena felt a thrill of excitement coursing through her veins. This could be the discovery that would change the course of human history. But she also knew that in the vast expanse of space, the unknown was always lurking, waiting to strike.\n\n\"Captain, I'm picking up some unusual readings on the planet's surface,\" Lieutenant Tomlinson announced, his voice laced with a hint of caution.\n\nElena's eyes locked onto the viewscreen, her heart pounding in anticipation. \"Let's take a closer look, Lieutenant.\"",
+        "prompt_tokens": 123,
+        "completion_tokens": 730,
+        "total_tokens": 853,
+        "time": 19.899230480194092,
+        "tokens_per_sec": 36.68483566369948,
+        "raw_tokens": 730,
+        "trimmed": true
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 16,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 14,
+          "has_dialogue": true,
+          "has_actions": false,
+          "pronoun_actions": 0,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "Prometheus": true,
+            "energy readings": false,
+            "star system": true
+          },
+          "coverage": 0.67
+        }
+      }
+    },
+    {
+      "stage": 2,
+      "name": "development",
+      "prompt": "Continue the story. The crew discovers an ancient alien structure orbiting a dead star. \nElena must decide whether to explore it despite regulations. Marcus argues for caution. \nShow their different perspectives based on their established personalities. \nDescribe the structure in detail.",
+      "generation": {
+        "text": "**Chapter 2: The Ancient Sentinel**\n\nAs the Prometheus drew closer to the uncharted planet, the crew's excitement grew. Lieutenant Tomlinson's announcement about unusual readings on the planet's surface had sparked a flurry of activity on the bridge.\n\n\"Captain, I'm reading a strange energy signature emanating from the planet's atmosphere,\" Dr. Chen said, his eyes fixed on the data streaming across the screens.\n\nElena's eyes met Dr. Chen's, a spark of intrigue igniting between them. \"What kind of energy signature, Doctor?\"\n\n\"It's... it's hard to explain, Captain. It's almost like a resonant frequency, but it's not coming from any known source. I think it might be connected to the energy signature we detected earlier.\"\n\nElena's mind was racing with possibilities. She knew that the regulations governing deep space exploration were clear: any uncharted structure or energy signature was to be avoided, not explored. But she also knew that sometimes, the greatest discoveries came from taking calculated risks.\n\n\"Let's take a closer look at the planet's surface,\" Elena ordered, her voice firm and decisive. \"Dr. Chen, can you try to pinpoint the source of that energy signature?\"\n\nDr. Chen nodded, his fingers flying across his console as he worked to isolate the signal. \"Captain, I think I've found it. It's coming from a structure orbiting the dead star.\"\n\nElena's eyes widened as the viewscreen flickered to life, revealing a massive alien structure hovering in the void. The structure was unlike anything she had ever seen before: a series of interconnected spheres, each one pulsing with a soft, blue light.\n\n\"Captain, that's incredible,\" Dr. Chen breathed, his eyes fixed on the viewscreen. \"It's an ancient alien structure, Captain. I'm reading signs of advanced technology, but... but it's not like anything we've seen before.\"\n\nElena felt a shiver run down her spine as she gazed at the structure. It was like nothing she had ever seen in her years of exploration, and she knew that this was a discovery that could change the course of human history.\n\nBut as she turned to Marcus, she saw a look of caution on his face. \"Captain, I don't think we should be exploring this,\" he said, his voice measured. \"We don't know what kind of technology we're dealing with here. It could be hazardous to our crew.\"\n\nElena's eyes met Marcus's, and for a moment, they locked in a silent understanding. Marcus was a scientist, a man of reason and caution. He was always the voice of prudence in the face of uncertainty.\n\n\"I know, Marcus,\" Elena said, her voice softening. \"But sometimes, the greatest discoveries come from taking risks. And I think this could be one of those times.\"\n\nMarcus's eyes narrowed, his face set in a determined expression. \"With all due respect, Captain, I think you're taking a huge risk. We could be walking into a trap, or worse, into something that could harm our crew.\"\n\nElena's eyes met Marcus's, and for a moment, they locked in a silent understanding. She knew that Marcus was right, that caution was always the better part of valor. But she also knew that she had a responsibility to her crew, to push the boundaries of human knowledge and exploration.\n\n\"Marcus, I understand your concerns,\" Elena said, her voice firm. \"But I think this is worth the risk. We'll proceed with caution, but we'll explore this structure. We owe it to ourselves, to our crew, and to the people who sent us here to explore the unknown.\"\n\nThe bridge fell silent, the only sound the soft hum of the ship's engines. Elena's eyes met Marcus's, and for a moment, they locked in a silent understanding. They both knew that this was a decision that could change the course of their lives, and the lives of those who came after them.\n\n\"Captain, I'm reading a stable energy signature emanating from the structure,\" Dr. Chen said, breaking the silence. \"It's like... it's like the structure is waiting for us.\"\n\nElena's eyes met the viewscreen, her heart pounding in anticipation. She knew that this was just the beginning of a journey that would take her to the very limits of human knowledge and understanding.",
+        "prompt_tokens": 889,
+        "completion_tokens": 900,
+        "total_tokens": 1789,
+        "time": 28.44829273223877,
+        "tokens_per_sec": 31.636344875630556,
+        "raw_tokens": 900,
+        "trimmed": true
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 19,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 21,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "alien structure": true,
+            "decision": true,
+            "regulations": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 3,
+      "name": "escalation",
+      "prompt": "Continue the story. They board the alien structure. Inside, they find evidence of a \ncivilization that disappeared millions of years ago. Marcus makes a discovery about why they vanished.\nElena faces a critical decision. Maintain consistency with earlier character details and plot points.",
+      "generation": {
+        "text": "**Chapter 3: The Lost City**\n\nElena's heart was racing as she led her crew onto the alien structure. The airlock cycled open, and they stepped out into the void, their suits' life support systems humming as they descended onto the surface.\n\n\"Captain, I'm reading a stable atmosphere inside,\" Dr. Chen said, his voice steady as he scanned the surroundings.\n\nElena nodded, her eyes adjusting to the dim light within the structure. The air was thick with an otherworldly scent, like ozone and something sweet.\n\n\"Let's move in,\" Elena ordered, her voice firm. \"Dr. Chen, take point. Lieutenant Tomlinson, provide security. We don't know what kind of technology we're dealing with here.\"\n\nAs they moved deeper into the structure, the silence was oppressive. Elena's crew fanned out, their suits' lights casting eerie shadows on the walls. Dr. Chen led the way, his eyes scanning the surroundings with a mixture of awe and trepidation.\n\n\"This is incredible,\" he breathed, his voice barely audible over the comms system. \"The architecture... it's like nothing I've ever seen. The precision, the craftsmanship... it's like they were trying to create something that would last forever.\"\n\nElena's eyes met Dr. Chen's, and she saw the wonder in his eyes. She felt a sense of awe herself, but it was tempered by a growing sense of unease. They were trespassing on the ruins of an ancient civilization, and she knew that they had to be careful.\n\nAs they explored deeper, they stumbled upon a vast, cavernous space filled with artifacts and relics. Elena's eyes widened as she took in the sheer scale of the collection.\n\n\"Captain, this is incredible,\" Dr. Chen said, his voice barely above a whisper. \"This is evidence of a civilization that disappeared millions of years ago. We're talking about a culture that was far more advanced than anything we've ever seen.\"\n\nElena's eyes met Marcus's, and she saw a look of determination on his face.\n\n\"Marcus, what do you make of this?\" she asked, her voice low.\n\n\"I think I know why they vanished,\" Marcus said, his voice steady. \"I'm reading signs of a catastrophic event, Captain. It looks like they were hit by a massive solar flare, one that would have made their entire planet uninhabitable.\"\n\nElena's eyes widened as she took in the implications. \"And what about the energy signature we detected?\" she asked.\n\nMarcus nodded. \"I think that's a remnant of their technology, Captain. They were trying to harness the energy of the flare, but it ultimately destroyed them.\"\n\nElena's mind was racing with the implications. They had stumbled upon a civilization that had vanished in a catastrophic event, one that had left behind a legacy of technology and knowledge.\n\nBut as she looked around at the ruins, she knew that they had to be careful. They were walking a thin line between discovery and disaster.\n\n\"Captain, I'm reading a strange energy signature coming from deeper in the structure,\" Dr. Chen said, his voice steady.\n\nElena's eyes met Marcus's, and she saw a look of concern on his face.\n\n\"What is it, Doctor?\" she asked.\n\n\"I'm not sure, Captain. But I think it's connected to the energy signature we detected earlier. It's like... it's like the structure is trying to communicate with us.\"\n\nElena's heart was racing as she made the decision of a lifetime.\n\n\"Dr. Chen, can you try to establish a connection?\" she asked, her voice firm.\n\nDr. Chen nodded, his eyes locked on the data streaming across his console.\n\n\"Captain, I'm trying to establish a link,\" he said, his voice steady. \"But I'm not sure if it's safe.\"\n\nElena's eyes met Marcus's, and she saw a look of concern on his face.\n\n\"I think we should be careful, Captain,\" he said, his voice low.\n\nElena's eyes narrowed as she weighed her options. She knew that they had to be careful, but she also knew that they had stumbled upon something incredible.\n\n\"Dr. Chen, try to establish a connection,\" she said, her voice firm. \"But be careful. We don't know what we're dealing with here.\"",
+        "prompt_tokens": 1847,
+        "completion_tokens": 900,
+        "total_tokens": 2747,
+        "time": 29.891367435455322,
+        "tokens_per_sec": 30.109027361942456,
+        "raw_tokens": 900,
+        "trimmed": true
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 21,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 7,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 24,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 7,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "discovery": true,
+            "civilization": true,
+            "millions of years": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 4,
+      "name": "climax",
+      "prompt": "Continue the story. The structure begins to activate. They realize the aliens' \ntechnology is still functional. Elena and Marcus must work together, using their complementary skills\n(her leadership and his scientific expertise) to prevent a catastrophe. Reference specific earlier details.",
+      "generation": {
+        "text": "**Chapter 4: The Awakening**\n\nAs Dr. Chen worked to establish a connection with the alien structure, the air around them began to change. The atmosphere seemed to vibrate with an otherworldly energy, and the lights on the walls began to flicker.\n\n\"Captain, I'm reading a power surge,\" Dr. Chen said, his voice steady. \"It's like... it's like the structure is coming online.\"\n\nElena's eyes met Marcus's, and she saw a look of concern on his face. \"What's happening, Marcus?\" she asked.\n\n\"I think the aliens' technology is still functional,\" Marcus said, his voice low. \"It's like they left behind a failsafe, a way to reactivate their systems.\"\n\nElena's mind was racing with the implications. They had stumbled upon a civilization that had vanished millions of years ago, and now their technology was coming online.\n\n\"Dr. Chen, can you try to shut it down?\" Elena asked, her voice firm.\n\nDr. Chen nodded, his eyes locked on the data streaming across his console. \"I'm trying, Captain, but it's not responding. It's like... it's like the structure is adapting to our presence.\"\n\nElena's eyes met Marcus's, and she saw a look of determination on his face. \"Marcus, we need to work together on this. We can't let this technology get out of control.\"\n\nMarcus nodded, his eyes scanning the surroundings. \"I think I see a problem, Captain. The structure is generating a massive energy field. If it gets any stronger, it could destroy the ship.\"\n\nElena's eyes narrowed as she assessed the situation. She knew that they had to act fast, but she also knew that they had to be careful. They were dealing with technology that was far beyond their understanding.\n\n\"Marcus, can you try to hack into the structure's systems?\" Elena asked, her voice firm.\n\nMarcus nodded, his fingers flying across his console. \"I'll try, Captain, but I'm not sure if I can bypass their security protocols.\"\n\nElena's eyes met Dr. Chen's, and she saw a look of concern on his face. \"Dr. Chen, can you try to find a way to disable the energy field?\" she asked.\n\nDr. Chen nodded, his eyes locked on the data streaming across his console. \"I'll try, Captain, but it's not going to be easy. We're talking about a civilization that was millions of years ahead of us in technology.\"\n\nElena's eyes narrowed as she watched her crew work together to try and prevent a catastrophe. She knew that they had to be careful, but she also knew that they had to act fast.\n\n\"Marcus, can you give me an update?\" Elena asked, her voice firm.\n\nMarcus looked up from his console, his eyes locked on hers. \"Captain, I think I've found a way to bypass their security protocols. But we need to move fast. The energy field is getting stronger by the second.\"\n\nElena's eyes met Dr. Chen's, and she saw a look of determination on his face. \"Dr. Chen, can you try to disable the energy field?\" she asked.\n\nDr. Chen nodded, his eyes locked on the data streaming across his console. \"I'll try, Captain, but it's not going to be easy. We're talking about a civilization that was millions of years ahead of us in technology.\"\n\nElena's eyes narrowed as she watched her crew work together to try and prevent a catastrophe. She knew that they had to be careful, but she also knew that they had to act fast.\n\n\"Let's do this,\" Elena said, her voice firm. \"We'll work together, Marcus and Dr. Chen. We'll find a way to disable the energy field and prevent a catastrophe.\"",
+        "prompt_tokens": 2795,
+        "completion_tokens": 820,
+        "total_tokens": 3615,
+        "time": 27.57061505317688,
+        "tokens_per_sec": 29.74181019967902,
+        "raw_tokens": 820,
+        "trimmed": true
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 19,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 3,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 33,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 3,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "technology": true,
+            "activate": true,
+            "catastrophe": true
+          },
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "stage": 5,
+      "name": "resolution",
+      "prompt": "Conclude the story. How do Elena and Marcus's experiences change them? \nWhat do they report to their superiors? Reflect on the journey from the initial energy readings to now.\nMaintain all character and plot consistency from previous sections.",
+      "generation": {
+        "text": "**Epilogue: The Aftermath**\n\nAs the energy field dissipated, the crew of the Prometheus breathed a collective sigh of relief. They had come close to disaster, but in the end, their combined skills and determination had saved the day.\n\nElena and Marcus stood on the bridge, their eyes locked on the viewscreen as they watched the alien structure drift away into the distance. They had achieved their mission objective, but at a cost. The experience had changed them both, forcing them to confront their own limitations and the true nature of their existence.\n\nElena's eyes met Marcus's, and she saw a sense of introspection there. \"You know, Marcus,\" she said, her voice low, \"I never thought I'd say this, but I'm glad we took that risk. We learned so much more than we ever could have from a safe distance.\"\n\nMarcus nodded, his eyes still fixed on the viewscreen. \"I know what you mean, Captain. We were forced to confront the unknown, and in doing so, we discovered something incredible. We discovered that we're not alone in the universe.\"\n\nElena's eyes narrowed as she thought back to their journey. From the initial energy readings to the catastrophic event that had threatened to destroy the ship, it had been a wild ride. But through it all, Marcus had been a steady presence, his scientific expertise and calm demeanor a beacon of hope in the face of uncertainty.\n\n\"Marcus, I don't know what I would have done without you on this mission,\" Elena said, her voice sincere. \"You're more than just a scientist to me. You're a friend, a colleague, and a fellow explorer.\"\n\nMarcus's eyes met Elena's, and he smiled. \"I feel the same way, Captain. We make a good team, you and I.\"\n\nAs they stood there, the tension between them began to dissipate, replaced by a sense of camaraderie and shared understanding. They had been through a lot together, and in the end, they had emerged stronger and more united than ever.\n\nThe report they filed with their superiors was a glowing one, detailing their discoveries and the lessons they had learned along the way. They spoke of the alien structure, of the energy field and the catastrophic event that had threatened to destroy the ship. But they also spoke of the sense of wonder and awe that had driven them to explore the unknown, and the sense of pride and accomplishment that had come from overcoming the challenges they had faced.\n\nTheir superiors were thrilled with the report, and the crew of the Prometheus was hailed as heroes. But Elena and Marcus knew that the real reward was not the accolades or the recognition. It was the knowledge they had gained, the understanding they had developed of the universe and their place within it.\n\nAs they stood on the bridge, looking out at the stars, Elena turned to Marcus and smiled. \"You know, Marcus, I think we're just getting started. There's still so much to explore, so much to discover.\"\n\nMarcus's eyes met hers, and he nodded. \"I couldn't agree more, Captain. The universe is full of mysteries and wonders, and I'm honored to be a part of the journey.\"",
+        "prompt_tokens": 3635,
+        "completion_tokens": 685,
+        "total_tokens": 4320,
+        "time": 23.009435415267944,
+        "tokens_per_sec": 29.770395824030835,
+        "raw_tokens": 685,
+        "trimmed": true
+      },
+      "analysis": {
+        "elena": {
+          "mentions": 10,
+          "has_dialogue": false,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "marcus": {
+          "mentions": 11,
+          "has_dialogue": true,
+          "has_actions": true,
+          "pronoun_actions": 1,
+          "present": true
+        },
+        "plot": {
+          "elements": {
+            "report": true,
+            "change": true,
+            "journey": true
+          },
+          "coverage": 1.0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_stages": 5,
+    "total_words_generated": 3020,
+    "max_context_tokens": 4320,
+    "average_speed_tokens_per_sec": 31.6,
+    "character_coherence": {
+      "elena_consistency": 1.0,
+      "marcus_consistency": 1.0,
+      "overall_character_consistency": 1.0
+    },
+    "overall_coherence_score": 100.0
+  }
+}
