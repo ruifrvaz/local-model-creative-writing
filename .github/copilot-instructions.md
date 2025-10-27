@@ -1,5 +1,31 @@
 # Agentic Science Fiction Writing Environment
 
+## Hardware Specifications
+
+**GPU:** NVIDIA GeForce RTX 5090
+- VRAM: 32GB (32607 MiB)
+- Compute Capability: 8.9 (Blackwell architecture)
+- CUDA Cores: 21,760
+- Tensor Cores: 680 (5th gen)
+
+**CPU:** AMD Ryzen 9 7900X3D
+- Cores: 12 physical cores
+- Threads: 24 (SMT enabled)
+- Architecture: Zen 4 with 3D V-Cache
+- Base Clock: 4.4 GHz, Boost: 5.6 GHz
+
+**Memory:**
+- System RAM: 64GB DDR5 (Kingston)
+- WSL2 Current Allocation: 32GB (can be increased to 48GB)
+- Recommended WSL2: 48GB (leaves 16GB for Windows)
+
+**Software Environment:**
+- OS: Windows 11 + WSL2 (Ubuntu 22.04)
+- CUDA: 12.8 (training) / 13.0 (inference)
+- Python: 3.12.3
+- PyTorch: 2.8.0 (vLLM), 2.10.0 (fine-tuning)
+- Virtual Environments: ~/.venvs/{llm, rag, finetune}
+
 ## Primary Use Case
 
 **VS Code-based science fiction writing** with RAG-enhanced local model:
