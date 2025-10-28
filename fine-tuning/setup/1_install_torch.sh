@@ -4,16 +4,16 @@ set -euo pipefail
 ################################################################################
 # Install PyTorch for Fine-Tuning
 ################################################################################
-# Purpose: Install PyTorch with CUDA support (matching vLLM environment)
+# Purpose: Install PyTorch with CUDA support (compatible with Axolotl)
 #
 # What it does:
 #   - Activates ~/.venvs/finetune
-#   - Installs PyTorch 2.8.0 nightly with CUDA 12.8 support
+#   - Installs PyTorch 2.6.0 stable with CUDA 12.1 support
 #   - Verifies CUDA availability
 #
 # Requirements:
 #   - Virtual environment created (0_create_venv.sh)
-#   - NVIDIA GPU with CUDA 12.8
+#   - NVIDIA GPU with CUDA 12.1+
 #   - ~5GB disk space for PyTorch packages
 #
 # Usage: ./1_install_torch.sh
@@ -23,7 +23,7 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "Installing PyTorch for Fine-Tuning"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "Time: $(date '+%Y-%m-%d %H:%M:%S')"
-echo "Target: PyTorch 2.8.0 nightly with CUDA 12.8"
+echo "Target: PyTorch 2.6.0 stable with CUDA 12.1"
 echo ""
 
 # Activate the venv
@@ -48,11 +48,11 @@ pip install -U pip
 echo "[OK] pip upgraded"
 echo ""
 
-# Install PyTorch (matches vLLM environment configuration)
-echo "[INSTALL] Installing PyTorch 2.8.0 nightly with CUDA 12.8..."
+# Install PyTorch (stable version compatible with Axolotl)
+echo "[INSTALL] Installing PyTorch 2.6.0 stable with CUDA 12.1..."
 echo "   This will download ~5GB of packages..."
-pip install --pre torch torchvision torchaudio \
-  --index-url https://download.pytorch.org/whl/nightly/cu128
+pip install torch torchvision torchaudio \
+  --index-url https://download.pytorch.org/whl/cu121
 echo "[OK] PyTorch installed"
 echo ""
 

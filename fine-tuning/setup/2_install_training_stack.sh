@@ -61,6 +61,12 @@ pip cache purge
 echo "[OK] Tools upgraded"
 echo ""
 
+# Install ninja for parallel compilation (in case flash-attn builds from source)
+echo "[INSTALL] Installing ninja (parallel build system)..."
+pip install ninja
+echo "[OK] ninja installed"
+echo ""
+
 # Install core ML libraries
 echo "[INSTALL] Installing core ML libraries..."
 echo "   This includes: transformers, accelerate, peft, bitsandbytes"
@@ -77,21 +83,28 @@ pip install \
 echo "[OK] Core libraries installed"
 echo ""
 
-# Set CUDA 12.8 environment for flash-attention compilation
-echo "[CUDA] Configuring CUDA 12.8 environment for compilation..."
-export CUDA_HOME=/usr/local/cuda-12.8
-export PATH=/usr/local/cuda-12.8/bin:$PATH
-export LD_LIBRARY_PATH=/usr/local/cuda-12.8/lib64:$LD_LIBRARY_PATH
-export TORCH_CUDA_ARCH_LIST="8.9"  # RTX 5090
-echo "   CUDA_HOME: $CUDA_HOME"
-echo "   Architecture: RTX 5090 (compute 8.9)"
-echo ""
-
-# Install flash-attention first (requires CUDA 12.8)
-echo "[INSTALL] Installing flash-attention (compiling from source)..."
-echo "   This will take 10-15 minutes..."
-pip install flash-attn --no-build-isolation
-echo "[OK] flash-attention installed"
+# Check if flash-attention is already installed
+echo "[CHECK] Checking for flash-attention..."
+if python -c "import flash_attn" 2>/dev/null; then
+    echo "[OK] flash-attention already installed"
+    python -c "import flash_attn; print(f'   Version: {flash_attn.__version__}')"
+else
+    echo "[INSTALL] Installing flash-attention (pre-built wheel)..."
+    echo "   Trying GitHub releases first (~30 seconds if available)..."
+    echo "   If no pre-built wheel exists, will compile with ninja (15-20 minutes)"
+    echo ""
+    
+    # Set CUDA environment and parallel compilation (used if building from source)
+    export CUDA_HOME=/usr/local/cuda-12.8
+    export PATH=/usr/local/cuda-12.8/bin:$PATH
+    export LD_LIBRARY_PATH=/usr/local/cuda-12.8/lib64:$LD_LIBRARY_PATH
+    export TORCH_CUDA_ARCH_LIST="8.9"
+    export MAX_JOBS=1  # ULTRA-CONSERVATIVE: Single-threaded to prevent OOM
+    
+    pip install flash-attn --no-build-isolation \
+      --find-links https://github.com/Dao-AILab/flash-attention/releases
+    echo "[OK] flash-attention installed"
+fi
 echo ""
 
 # Install Axolotl with DeepSpeed

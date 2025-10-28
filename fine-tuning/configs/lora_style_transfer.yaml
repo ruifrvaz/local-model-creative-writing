@@ -39,7 +39,7 @@ sample_packing: true
 pad_to_sequence_len: true
 
 learning_rate: 0.0002
-num_epochs: 3
+num_epochs: 2
 per_device_train_batch_size: 2   # Lower due to higher VRAM usage
 per_device_eval_batch_size: 2
 gradient_accumulation_steps: 8   # Maintain effective batch = 16
