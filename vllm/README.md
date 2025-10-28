@@ -129,3 +129,26 @@ These are set by `vllm/setup/7_env_export.sh` and persisted in `~/.bashrc`.
 - Default port: `8000`
 - Virtual environment: `~/.venvs/llm`
 - FlashInfer backend optimized for Blackwell architecture
+
+## API Usage
+
+**OpenAI-compatible endpoints:**
+```bash
+# Base URL: http://localhost:8000
+
+# Chat completion
+curl http://localhost:8000/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "messages": [{"role": "user", "content": "Write a sci-fi scene"}],
+    "max_tokens": 500,
+    "temperature": 0.9
+  }'
+
+# List models
+curl http://localhost:8000/v1/models
+
+# Prometheus metrics
+curl http://localhost:8000/metrics
+```

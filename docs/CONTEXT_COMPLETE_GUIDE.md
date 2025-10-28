@@ -202,12 +202,12 @@ Total: 100,000 tokens
 ```
 
 ### **Content Type Guidelines**
-| Content Type | Recommended Context | Token Count | Example Use |
-|--------------|-------------------|-------------|-------------|
-| **Novel Chapter** | 100k | ~75k words | Complete character arcs (RTX 5090 max) |
-| **Long Story** | 64k | ~50k words | Major plot developments |
-| **Scenes** | 32k | ~25k words | Individual scenes |
-| **Dialogue** | 16k | ~12k words | Character interactions |
+| Content Type      | Recommended Context | Token Count | Example Use                            |
+|--------------     |-------------------  |-------------|-------------                           |
+| **Novel Chapter** | 100k                | ~75k words  | Complete character arcs (RTX 5090 max) |
+| **Long Story**    | 64k                 | ~50k words  | Major plot developments                |
+| **Scenes**        | 32k                 | ~25k words  | Individual scenes                      |
+| **Dialogue**      | 16k                 | ~12k words  | Character interactions                 |
 
 ---
 
