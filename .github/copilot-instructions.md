@@ -1,29 +1,23 @@
-# Agentic Science Fiction Writing Environment
+# Science Fiction Writing with Local LLMs
 
 ## Hardware Specifications
 
-**GPU:** NVIDIA GeForce RTX 5090
-- VRAM: 32GB (32607 MiB)
-- Compute Capability: 8.9 (Blackwell architecture)
-- CUDA Cores: 21,760
-- Tensor Cores: 680 (5th gen)
+**GPU:** NVIDIA RTX 5090 (Blackwell)
+- VRAM: 32GB total
+- Compute Capability: 8.9
+- Requires `VLLM_ATTENTION_BACKEND=FLASHINFER`
+- Minimum `max_seqs=9` (FlashInfer warmup requirement)
 
-**CPU:** AMD Ryzen 9 7900X3D
-- Cores: 12 physical cores
-- Threads: 24 (SMT enabled)
-- Architecture: Zen 4 with 3D V-Cache
-- Base Clock: 4.4 GHz, Boost: 5.6 GHz
-
-**Memory:**
-- System RAM: 64GB DDR5 (Kingston)
-- WSL2 Current Allocation: 32GB (can be increased to 48GB)
-- Recommended WSL2: 48GB (leaves 16GB for Windows)
+**System Memory:**
+- Total RAM: 64GB DDR5
+- WSL2 allocation: 32GB (configurable in `.wslconfig`)
+- Recommended: 48GB for WSL2, leaves 16GB for Windows
 
 **Software Environment:**
 - OS: Windows 11 + WSL2 (Ubuntu 22.04)
 - CUDA: 12.8 (training) / 13.0 (inference)
 - Python: 3.12.3
-- PyTorch: 2.8.0 (vLLM), 2.10.0 (fine-tuning)
+- PyTorch: 2.8.0 (vLLM), 2.6.0 (fine-tuning)
 - Virtual Environments: ~/.venvs/{llm, rag, finetune}
 
 ## Primary Use Case
@@ -36,12 +30,12 @@
 - Maintains continuity across long-form fiction
 
 **Features:**
+- Setup scripts for one-time installation and validation
 - Local vLLM server (port 8000) with OpenAI-compatible API
 - RAG proxy server (port 8001) for context retrieval
 - Supports models with 128k token context (e.g., Qwen 2.5-7B-Instruct) - Unconfirmed
 - Benchmark suite for creative writing quality and coherence
 - Health checks for API, concurrency, function calling
-- Setup scripts for one-time installation and validation
 - VS Code with Continue.dev extension - NOT implemented yet
 - Fine-tuning workflow for personal narrative style - READY (QLoRA/LoRA configs, scripts, guide)
 
@@ -58,6 +52,12 @@
 - New major features (e.g., automatic test logging)
 - Dependency changes affecting workflow
 - Save to `docs/history/YYYY-MM-DD_description.md`
+
+**When user starts new chat with "analyze" or "recap":**
+- **Always read the latest history file first** (`docs/history/` sorted by date)
+- Use it to understand recent architectural changes and decisions
+- Then proceed with standard conversation summary analysis
+- This ensures continuity across chat sessions
 
 **What qualifies as "significant":**
 - ✅ New dependencies added to environment
@@ -283,35 +283,13 @@ With max_seqs=16: ~1GB per request = 32k token contexts
 - Tests character consistency over 20k+ words
 - Critical for novel-length generation
 
-### Common Issues
-
-**Server won't start:**
-```bash
-# Kill existing processes
-pkill -f "vllm serve"
-lsof -i :8000  # Check port usage
-
-# Verify GPU
-nvidia-smi
-```
-
-**Out of memory:**
-- Use AWQ quantized models (`casperhansen/*-awq`)
-- Reduce context: `./serve_vllm.sh MODEL 8000 9 64000`
-- Lower GPU util: `./serve_vllm.sh MODEL 8000 9 100000 0.85`
-
-**Slow first run:**
-- Downloads model files (~16GB for 8B models)
-- Compiles CUDA kernels (~30-60s)
-- Subsequent starts: ~30s
-
 ## Project Conventions
 
 **Script numbering:**
-- 0-7: Setup workflow (run once in sequence)
-- 8: Server launcher (kept at root for quick access)
-- 9-13: Health checks and utilities
+- 0-n: Setup workflow (run once in sequence)
+- n+1-t: Health checks and utilities
 - Benchmarks use descriptive names (1_throughput.sh, 3_creative_quality.py)
+- Server launchers not numbered (kept at root for quick access)
 
 **Error handling:**
 - All bash scripts use `set -euo pipefail`
@@ -322,34 +300,10 @@ nvidia-smi
 - Tables for comparisons (not prose)
 - Direct commands over explanations
 - Specific numbers (not ranges)
-- No emojis or motivational language
-- See `AGENTS.md` for full style guide
+- No "Let me explain", emojis or motivational language
 
 **Tone configurations:**
 Creative quality benchmark supports 5 writing tones with distinct generation parameters in `TONE_CONFIGS` dict. Each tone has system prompt in `SYSTEM_PROMPTS` dict.
-
-## API Usage
-
-**OpenAI-compatible endpoints:**
-```bash
-# Base URL: http://localhost:8000
-
-# Chat completion
-curl http://localhost:8000/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "meta-llama/Llama-3.1-8B-Instruct",
-    "messages": [{"role": "user", "content": "Write a sci-fi scene"}],
-    "max_tokens": 500,
-    "temperature": 0.9
-  }'
-
-# List models
-curl http://localhost:8000/v1/models
-
-# Prometheus metrics
-curl http://localhost:8000/metrics
-```
 
 **Key metrics from `/metrics`:**
 - `vllm:prompt_tokens_total` - Input tokens processed
@@ -361,9 +315,11 @@ curl http://localhost:8000/metrics
 
 ```
 scifi-llm/
-├── serve_vllm.sh, monitor_vllm.sh, stop_vllm.sh  # Daily operations
+├── serve_vllm.sh, serve_rag_proxy.sh        # Server launchers
+├── stop_vllm.sh, stop_rag_proxy.sh          # Graceful shutdown
+├── monitor_vllm.sh, monitor_rag_proxy.sh    # Real-time monitoring
+├── QUICK_START_VSCODE.md                    # VS Code setup guide
 ├── RAG/                       # Science fiction writing RAG system
-│   ├── RAG_SETUP.md                 # Complete RAG setup
 │   ├── README.md, RAG_SETUP.md      # Documentation
 │   ├── serve_rag_proxy.py           # RAG proxy server
 │   ├── setup/                       # Setup scripts
@@ -375,38 +331,59 @@ scifi-llm/
 │   │   ├── 4_query.py
 │   │   ├── query_results/           # Query logs (auto-generated)
 │   │   └── test_results/            # Test logs (auto-generated)
-│   ├── data/                        # Science fiction materials
-│   │   ├── worldbuilding/           # Planets, aliens, technology
-│   │   ├── characters/              # Character profiles
-│   │   ├── plots/                   # Story outlines
-│   │   └── research/                # Scientific background
+│   ├── data/                        # Source documents (user-created)
+│   │   └── example_vllm_reference.md  # Example document
 │   ├── chunks/                      # Processed chunks (auto-generated)
 │   └── chroma_db/                   # Vector store (auto-generated)
 ├── vllm/
-│   ├── setup/             # 0-7: Installation sequence
-│   ├── health_checks/     # 9-13: Testing tools
-│   └── benchmarks/        # Creative writing performance tests
+│   ├── README.md, VLLM_SETUP.md     # Documentation
+│   ├── setup/                       # 0-7: Installation sequence
+│   ├── health_checks/               # 9-13: Testing tools
+│   └── benchmarks/                  # Creative writing performance tests
+│       ├── 1_throughput.sh, 2_context_scaling.sh
 │       ├── 3_creative_quality.py      # Writing assessment (5 tones)
 │       ├── 4_long_context_coherence.py  # Story continuity
 │       ├── 5_model_comparison.sh
-│       └── results/       # JSON outputs with timestamps
+│       ├── README.md
+│       └── results/                   # JSON outputs with timestamps
 ├── docs/
-│   ├── CONCURRENCY_OPTIMIZATION_GUIDE.md  # max_seqs tuning
-│   ├── SCIENCE_FICTION_WRITING_GUIDE.md   # Creative writing tips
-│   └── history/           # Benchmark change logs
-├── fine-tuning/           # Style transfer training (QLoRA/LoRA)
-│   ├── FINE_TUNING_SETUP.md     # Complete training guide
-│   ├── README.md                # Quick reference
-│   ├── configs/                 # QLoRA and LoRA training configs
-│   ├── scripts/                 # Data prep, training, merging
-│   ├── data/                    # Training samples (raw/processed)
-│   ├── checkpoints/             # Training checkpoints (auto-generated)
-│   └── merged_models/           # Final models for vLLM (auto-generated)
-├── AGENTS.md              # Documentation style guide
-└── VLLM_QUICK_REFERENCE.md  # Quick command reference
+│   ├── CONCURRENCY_OPTIMIZATION_GUIDE.md
+│   ├── CONTEXT_COMPLETE_GUIDE.md
+│   ├── RAG_RETRIEVAL_GUIDE.md
+│   ├── SCIENCE_FICTION_WRITING_GUIDE.md
+│   ├── VENV_ISOLATION.md
+│   ├── VLLM_QUICK_REFERENCE.md
+│   ├── VSCODE_WRITING_SETUP.md
+│   └── history/                     # Architecture change logs
+├── fine-tuning/                     # Style transfer training (QLoRA/LoRA)
+│   ├── README.md, FINE_TUNING_SETUP.md  # Documentation
+│   ├── setup/                       # Installation scripts
+│   │   ├── 0_create_venv.sh
+│   │   ├── 1_install_torch.sh
+│   │   ├── 2_install_training_stack.sh
+│   │   └── activate_finetune.sh
+│   ├── configs/                     # Training configs
+│   │   ├── qlora_style_transfer.yaml
+│   │   └── lora_style_transfer.yaml
+│   ├── scripts/                     # Data prep, training, merging
+│   │   ├── 1_prepare_data.py
+│   │   └── 2_train_lora.sh
+│   ├── data/
+│   │   ├── raw/                     # Training source files
+│   │   ├── processed/               # JSONL training data
+│   │   └── validation/
+│   ├── checkpoints/                 # Training checkpoints (auto-generated)
+│   ├── merged_models/               # Final models for vLLM (auto-generated)
+│   └── logs/                        # Training logs (auto-generated)
+└── chatUI/                          # Chat interface (optional)
 ```
 
 ## When Making Changes
+
+**Writing documentation:**
+- Direct commands, specific numbers
+- No copy-paste examples
+- Keep examples up-to-date with current file paths and folder names
 
 **Documentation update checklist:**
 1. **Modify the code/script** - Implement the change
@@ -450,9 +427,3 @@ scifi-llm/
 - Test with `vllm/health_checks/9_health.sh` after changes
 - Verify concurrency with `10_concurrency.sh`
 - Update `VLLM_QUICK_REFERENCE.md` if changing defaults
-
-**Writing documentation:**
-- Follow rules in `AGENTS.md` (1000 word max, tables over prose)
-- No emojis, no "Let me explain", no motivational language
-- Direct commands, specific numbers, copy-paste examples
-- Keep examples up-to-date with current file paths and folder names
