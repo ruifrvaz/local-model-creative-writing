@@ -22,7 +22,7 @@ cd ../scripts
 python 1_prepare_data.py --input ../data/raw/ --output ../data/processed/training.jsonl
 
 # 4. Train (QLoRA, ~2-4 hours)
-./2_train_lora.sh
+./scripts/2_train_lora.sh
 
 # 5. Merge adapter with base model
 python 3_merge_adapter.py \
@@ -42,7 +42,7 @@ fine-tuning/
 ├── README.md                      # This file
 ├── setup/                         # One-time installation scripts
 │   ├── 0_create_venv.sh              # Create ~/.venvs/finetune
-│   ├── 1_install_torch.sh            # Install PyTorch 2.8.0
+│   ├── 1_install_torch.sh            # Install PyTorch 2.6.0
 │   └── 2_install_training_stack.sh   # Install Axolotl + dependencies
 ├── data/
 │   ├── raw/                       # Your writing samples (.txt, .md)
@@ -73,7 +73,7 @@ cd fine-tuning/setup
 # 0. Create virtual environment (~10 seconds)
 ./0_create_venv.sh
 
-# 1. Install PyTorch 2.8.0 with CUDA 12.8 (2-5 minutes, ~5GB)
+# 1. Install PyTorch 2.6.0 with CUDA 12.1 (2-5 minutes, ~5GB)
 ./1_install_torch.sh
 
 # 2. Install Axolotl training framework (15-30 minutes, ~10GB)
@@ -83,7 +83,7 @@ cd fine-tuning/setup
 **Total installation:** ~15GB disk space, 20-35 minutes
 
 **Packages installed:**
-- PyTorch 2.8.0 nightly (matches vLLM environment)
+- PyTorch 2.6.0 stable (compatible with Axolotl)
 - Axolotl (training framework)
 - flash-attention (fast kernels)
 - DeepSpeed (distributed training)
@@ -179,7 +179,7 @@ See `FINE_TUNING_SETUP.md` for complete troubleshooting guide.
 | Script | Purpose | Duration | Disk Space |
 |--------|---------|----------|------------|
 | `setup/0_create_venv.sh` | Create `~/.venvs/finetune` | 10s | 50MB |
-| `setup/1_install_torch.sh` | PyTorch 2.8.0 + CUDA 12.8 | 2-5 min | ~5GB |
+| `setup/1_install_torch.sh` | PyTorch 2.6.0 + CUDA 12.1 | 2-5 min | ~5GB |
 | `setup/2_install_training_stack.sh` | Axolotl + flash-attn + DeepSpeed | 15-30 min | ~10GB |
 
 ## Resources

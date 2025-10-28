@@ -1,0 +1,39 @@
+The cargo bay smelled of ozone and hydraulic fluid. Chen's engineering team had the main drive array spread across three workbenches, each component tagged and catalogued.
+
+"Tell me something good," Elena said.
+
+Chief Engineer Sarah Chen looked up from a tangle of superconducting cables. Her hands were steady despite the sixteen-hour shift. "The good news is the reactor's stable. Bad news is everything else."
+
+Elena leaned over the primary coupling assembly. Scorch marks ran along the housing—evidence of the overload that had nearly killed them all.
+
+"How bad?"
+
+"We're running at sixty percent capacity. The jump drive's completely offline until I can fabricate replacement coils." Chen wiped her hands on a rag that was probably dirtier than her fingers. "Three weeks, minimum."
+
+"We don't have three weeks."
+
+"Then I suggest you make friends with whatever's out there, because we're not outrunning it."
+
+Elena studied the damage. The coupling had failed during their last jump, dumping exotic particles through the containment field. Only Chen's quick thinking had prevented a cascading failure that would've torn the ship apart.
+
+"What about the secondaries?"
+
+"Functional. Barely." Chen pulled up a diagnostic on her tablet. "I can give you maneuvering thrusters and basic propulsion. Enough to hold station or make orbit. But no FTL, no high-g burns."
+
+"Weapons?"
+
+"Point defense is operational. Railguns are offline—they draw too much from the primary grid." Chen set down the tablet. "Captain, if we have to fight, we're going to lose."
+
+Elena had already reached the same conclusion. The Meridian was a research vessel, not a warship. Even at full capacity, they'd be outgunned by anything military-grade.
+
+"Then we don't fight," Elena said. "We think."
+
+"Thinking's your department. Mine is keeping us alive long enough for you to do it." Chen grabbed another cable assembly. "I'll squeeze what I can from the reactors. Maybe get us to seventy percent."
+
+"Do it. And Chen?" Elena paused at the hatch. "Good work keeping us in one piece."
+
+"Thank me when we're home, Captain."
+
+Elena nodded and left. In the corridor outside, the ship's lights flickered—just for a moment, barely noticeable. But Elena noticed everything these days.
+
+The Meridian was dying. And they were still three weeks from the nearest station.
