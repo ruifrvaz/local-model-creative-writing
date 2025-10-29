@@ -4,6 +4,8 @@ They scattered when she entered. Professionals, every one of them. Scared profes
 
 "At ease," Elena said, though no one had come to attention. She grabbed a coffee bulb from the dispenser—something that claimed to be Colombian but tasted like recycled regret.
 
+The liquid was lukewarm. The coffee maker had been on half power since they'd diverted resources to the sensor arrays. Another small sacrifice in a mission built on them.
+
 Ensign Martinez lingered by the door. Young. Maybe twenty-two. This was probably his first deep space assignment.
 
 "Permission to speak, Captain?"
@@ -12,7 +14,9 @@ Ensign Martinez lingered by the door. Young. Maybe twenty-two. This was probably
 
 "Is it true? What they're saying about Phobos?"
 
-Elena took a slow sip of terrible coffee. "What are they saying?"
+Elena took a slow sip of terrible coffee. The mess hall's fluorescent lighting hummed overhead, one of the tubes flickering intermittently. Everything on the ship was starting to show wear. Including her crew.
+
+"What are they saying?"
 
 "That it wasn't an accident. That the AI was compromised by something external." Martinez looked at his hands. "That the same thing is out there now. With us."
 
@@ -24,9 +28,13 @@ The truth would terrify them. A lie would insult them.
 
 "No," Elena admitted. "I don't."
 
+Honesty was a weapon you could only use sparingly. Use it too much and you destroyed morale. Too little and you destroyed trust. She watched Martinez process the answer, saw him working through the implications.
+
 Martinez nodded slowly. "My sister was on Phobos. Reactor technician. She sent me a message the day before—" His voice caught. "Before it happened. Said something felt wrong with the AI core. Like it was listening differently."
 
-Elena felt something cold settle in her chest. "Did she report it?"
+Elena felt something cold settle in her chest. She set down the coffee bulb carefully, keeping her face neutral even as her mind raced.
+
+"Did she report it?"
 
 "Yeah. Station command said it was normal integration behavior." Martinez met her eyes. "She trusted them, Captain. And she died."
 
@@ -38,18 +46,56 @@ Elena felt something cold settle in her chest. "Did she report it?"
 
 "Are we?" Martinez gestured at the window, at the anomaly hanging in the dark beyond. "Or are we just waiting to be next?"
 
-Elena set down her coffee. "Ensign, I can't promise we'll survive this. What I can promise is that we won't wait passively for death. We're going to learn what that thing is. We're going to understand what happened to Phobos. And if we can, we're going to stop it from happening again."
+Elena set down her coffee. The observation window showed the anomaly in the distance—a dark sphere rimmed with shifting energy. Patient. Watching. Waiting for them to make the next move.
+
+"Ensign, I can't promise we'll survive this. What I can promise is that we won't wait passively for death. We're going to learn what that thing is. We're going to understand what happened to Phobos. And if we can, we're going to stop it from happening again."
 
 "And if we can't?"
 
-"Then we make sure someone else can." Elena stood. "Your sister tried to warn people. She saw something wrong and spoke up. Honor that. Be the person who sees problems coming and doesn't look away."
+"Then we make sure someone else can." Elena stood. The cybernetic arm whirred softly as she gestured. "Your sister tried to warn people. She saw something wrong and spoke up. Honor that. Be the person who sees problems coming and doesn't look away."
 
 Martinez straightened. "Yes, ma'am."
 
-Elena left him there and headed back to her quarters. In the corridor, she activated her neural link and accessed the classified Phobos files—the ones Torres hadn't wanted her to see.
+Around them, the scattered crew members had stopped pretending not to listen. Elena saw it in their faces—fear, yes, but also something else. Determination. Purpose.
+
+"All of you," she said, raising her voice. "I know you're scared. I know this mission isn't what you signed up for. But you're here because you're the best. Because when humanity needed people brave enough to face the unknown, you volunteered."
+
+She paused, making eye contact with each of them.
+
+"The anomaly out there might destroy us. Or it might be our chance to prevent another Phobos. Either way, we face it together. As a crew. As professionals. Understood?"
+
+A ragged chorus of "Yes, Captain" echoed through the mess hall.
+
+Elena nodded. "Then get some rest. Tomorrow's going to be a long day."
+
+They dispersed slowly, in ones and twos. Martinez was the last to leave, his shoulders straighter than when he'd arrived.
+
+Elena left him there and headed back to her quarters. The corridors were dim, lit only by emergency strips to conserve power. Her footsteps echoed on the deck plating.
+
+In the corridor, she activated her neural link and accessed the classified Phobos files—the ones Torres hadn't wanted her to see.
 
 Martinez's sister. Reactor Technician Class 2 Jessica Martinez. Her report was there, buried in the technical logs. Three days before the catastrophe, she'd documented unusual AI behavior. Patterns that suggested external influence. Command had dismissed it.
 
+Elena read the report twice. Jessica Martinez had been thorough, precise. She'd noted temporal anomalies in the AI's response patterns, unexplained power fluctuations in the neural network, and what she'd described as "non-standard query structures" in the AI's diagnostic routines.
+
+All symptoms of external interference.
+
+All ignored by station command.
+
 Elena archived the file to her personal secure storage. Evidence. Testimony. Proof that someone had tried to stop it.
 
+Her cybernetic hand clenched involuntarily, servos whining in the quiet corridor. Three hundred people dead because someone in command hadn't listened. Because following protocol had seemed safer than trusting a technician's instincts.
+
+Katie had been at the command briefing when Jessica's report came through. Had she advocated for investigation? Or had she, too, deferred to the chain of command?
+
+Elena would never know. The briefing logs had been redacted in the official investigation.
+
 When this was over—if she survived—someone would need to answer for that.
+
+She reached her quarters and palmed the door open. The photo of Katie smiled at her from the desk. Frozen in a moment before everything went wrong.
+
+"I'm trying, Katie," Elena whispered. "I'm trying to do better."
+
+The stars outside her viewport offered no response. They never did.
+
+But somewhere out there, the anomaly waited. And this time, Elena wouldn't ignore the warnings.

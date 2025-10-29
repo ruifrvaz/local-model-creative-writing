@@ -8,6 +8,16 @@ Her assistant, Junior Engineer Kim, monitored the outputs. "Radiation up thirty 
 
 "Good." Chen increased the fluctuation. "Let's give it a show."
 
+The engineering bay's displays painted her face in amber and red warning lights. Kim glanced at her nervously.
+
+"Chief, if this actually destabilizes—"
+
+"It won't. I built these systems. I know their limits." Chen adjusted another parameter. "The anomaly needs to see us vulnerable. Struggling. That's when it moved at Phobos—when the station showed signs of distress."
+
+"That's also when Phobos died."
+
+"Which is why we're faking it." Chen's hands remained steady despite the risk. "Captain Reeves knows what she's doing."
+
 On the bridge, Elena watched the tactical display. The anomaly had been static for hours. Now, as the reactor's signature changed, it moved.
 
 "Contact is adjusting position," Reyes reported. "Closing distance. Two hundred thousand klicks. One-fifty. One hundred."
@@ -18,17 +28,23 @@ Marcus stood at her shoulder. "Captain, if it interprets this as an attack—"
 
 "It won't." Elena kept her voice steady. "It's curious. That's what we're counting on."
 
+Her cybernetic fingers tapped the armrest in a pattern only she recognized—nervous energy translated into precise mechanical motion. The anomaly's approach vector appeared on the main screen, a clean arc that spoke of intention, not aggression.
+
 The anomaly accelerated. Seventy thousand klicks. Fifty.
 
 "It's scanning us," Patel said from his station. "Multiple frequencies. Concentrated on the engineering section."
 
-"Chen, kill the spike," Elena ordered.
+"Exactly where we wanted it to look," Elena said. "Chen, kill the spike."
+
+In engineering, Chen's hands flew across the console. "Shutting down cascade. Stabilizing containment."
 
 The reactor stabilized instantly. Clean, smooth, professional.
 
 The anomaly stopped.
 
 Thirty thousand klicks. Close enough to see it on visual now—a dark sphere that seemed to absorb light, rimmed with faint energy patterns that shifted like oil on water.
+
+Elena leaned forward. The thing was massive. Easily three hundred meters in diameter, maybe more. Its surface rippled with energy that defied their sensors' ability to classify.
 
 "Captain," Reyes said quietly. "Weapons lock acquired."
 
@@ -37,6 +53,8 @@ Thirty thousand klicks. Close enough to see it on visual now—a dark sphere tha
 The bridge was silent except for the soft hum of systems and the quiet breathing of her crew.
 
 The anomaly did nothing. It just hung there, watching.
+
+Seconds stretched. Elena counted her heartbeat. One. Two. Five. Ten.
 
 "Analysis?" Elena asked.
 
@@ -52,13 +70,29 @@ Static filled the bridge. Then, slowly, a pattern emerged. Not words. Not langua
 
 Elena listened to the rhythm. Prime numbers. Basic arithmetic. The universal language of intelligence.
 
+Two. Three. Five. Seven. Eleven.
+
+Her neural implants tingled as they tried to process the signal. It was everywhere—radio, optical, even gravitational fluctuations. The anomaly was broadcasting on every frequency simultaneously.
+
 "It's trying to communicate," she said.
 
-"Should we respond?" Marcus asked.
+Marcus gripped the edge of his console. "Captain, this is Phobos all over again. The pattern—"
+
+"Is different. Look at the structure." Elena pulled up the comparative analysis. "Phobos received chaotic signals, fragmented. This is ordered. Deliberate."
+
+"Should we respond?" Marcus asked, his voice tight.
 
 Elena thought of Phobos. Three hundred dead. Her sister's face in the photo. The classified files that someone didn't want anyone to see.
 
+Katie's last transmission had included fragments of a signal like this. Mathematical. Structured. And then the reactor breach, the cascading failures, the silence.
+
+But what if they'd responded? What if instead of running, someone had tried to answer?
+
 "Yes," she said. "Patel, send the same sequence back. Let's see what happens."
+
+"Transmitting on all bands," Patel confirmed. His fingers trembled slightly as he entered the commands. "Two, three, five, seven, eleven. Sequence sent."
+
+The bridge held its breath.
 
 The response was immediate. The anomaly's signal changed, grew more complex. Images started forming in their sensor data—mathematical constructs, geometric patterns, cascading equations.
 
@@ -66,12 +100,32 @@ The response was immediate. The anomaly's signal changed, grew more complex. Ima
 
 Elena watched the data flow. Beautiful. Terrifying. Ancient.
 
+The equations built on each other, simple arithmetic expanding into advanced mathematics. Fibonacci sequences. Fractal geometries. Quantum probability matrices.
+
+"Captain, it's adapting its complexity to our response rate," Patel reported. "Every time we acknowledge understanding, it advances to the next concept."
+
+"It's running a comprehension test," Marcus said. "Checking our intelligence level."
+
+"Or establishing common ground," Elena countered. "Finding what we both understand so we can build from there."
+
+The data stream expanded. Now it included physical constants—the speed of light, Planck's constant, the fine structure constant. Universal values that any technological species would recognize.
+
 "Record everything," she ordered. "And send a priority transmission to Fleet Command. Tell them we've made first contact."
 
-"Captain," Marcus said. "Torres ordered us to stand down."
+"Captain," Marcus said carefully. "Torres ordered us to stand down."
 
 "Torres isn't here." Elena never took her eyes off the anomaly. "We are."
 
 The signal grew stronger, pulling them deeper into conversation with something that might be older than Earth itself.
 
+On the main screen, the anomaly pulsed with light—faint, rhythmic, almost like breathing. Elena's cybernetic arm ached with phantom sensation, the neural feedback interpreting the anomaly's emissions as something almost familiar.
+
+Was this what Katie had seen in her final moments? This patient intelligence, trying to bridge the gap between human and other?
+
 And Elena Reeves, who had failed to save Phobos, who carried her dead in the circuits of her arm, decided that some orders were worth breaking.
+
+"Patel, continue the exchange. I want full linguistic analysis on everything it sends us."
+
+"Aye, Captain."
+
+The conversation had begun. Now they just had to survive it.
