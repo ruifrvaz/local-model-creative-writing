@@ -1,0 +1,96 @@
+{
+    "description": "Standard test prompts for fine-tuning voice comparison. These prompts should NOT appear in training data.",
+    "version": "1.0",
+    "prompts": [
+        {
+            "id": "narrative_01",
+            "prompt": "The ship's AI core hummed with activity as Dr. Chen approached the main console.",
+            "category": "narrative_description",
+            "expected_tokens": 150,
+            "notes": "Tests scene-setting prose, technical vocabulary, pacing"
+        },
+        {
+            "id": "dialogue_01",
+            "prompt": "\"Captain, we've got an anomaly on the long-range sensors,\" Martinez said, her voice tight with concern.",
+            "category": "dialogue",
+            "expected_tokens": 120,
+            "notes": "Tests character voice, dialogue flow, attribution style"
+        },
+        {
+            "id": "technical_01",
+            "prompt": "The quantum entanglement array operated on principles that defied classical physics.",
+            "category": "technical_exposition",
+            "expected_tokens": 180,
+            "notes": "Tests scientific explanation style, terminology usage"
+        },
+        {
+            "id": "emotional_01",
+            "prompt": "Elena felt the weight of command settling on her shoulders as she stared at the tactical display.",
+            "category": "emotional_introspection",
+            "expected_tokens": 140,
+            "notes": "Tests internal monologue, emotional depth, character psychology"
+        },
+        {
+            "id": "action_01",
+            "prompt": "The hull breach alarm screamed through the corridor as Chen sprinted toward the emergency bulkhead.",
+            "category": "action_sequence",
+            "expected_tokens": 130,
+            "notes": "Tests pacing, sentence rhythm in high-tension scenes"
+        },
+        {
+            "id": "narrative_02",
+            "prompt": "The alien artifact sat motionless in the cargo bay, its surface rippling with patterns that hurt to look at directly.",
+            "category": "narrative_description",
+            "expected_tokens": 160,
+            "notes": "Tests descriptive vocabulary, sensory details"
+        },
+        {
+            "id": "dialogue_02",
+            "prompt": "\"You're telling me this thing is alive?\" Rodriguez asked, keeping his distance from the containment field.",
+            "category": "dialogue",
+            "expected_tokens": 110,
+            "notes": "Tests natural speech patterns, subtext"
+        },
+        {
+            "id": "technical_02",
+            "prompt": "The ship's reactor had been operating at 87% efficiency for the past three weeks.",
+            "category": "technical_exposition",
+            "expected_tokens": 150,
+            "notes": "Tests integration of technical details into narrative"
+        },
+        {
+            "id": "emotional_02",
+            "prompt": "The message from Earth Station had arrived twenty minutes ago, and Sarah still couldn't bring herself to read it.",
+            "category": "emotional_introspection",
+            "expected_tokens": 135,
+            "notes": "Tests character motivation, emotional restraint"
+        },
+        {
+            "id": "action_02",
+            "prompt": "Three seconds to impact. Torres slammed the emergency thrusters to maximum.",
+            "category": "action_sequence",
+            "expected_tokens": 120,
+            "notes": "Tests short sentence pacing, urgency"
+        },
+        {
+            "id": "mixed_01",
+            "prompt": "The crew gathered in the observation deck for the first time since leaving Mars orbit.",
+            "category": "narrative_description",
+            "expected_tokens": 175,
+            "notes": "Tests ensemble scene setup, atmosphere building"
+        },
+        {
+            "id": "mixed_02",
+            "prompt": "\"Before we proceed, I need everyone to understand what we're risking,\" Elena said.",
+            "category": "dialogue",
+            "expected_tokens": 140,
+            "notes": "Tests leadership voice, stakes communication"
+        }
+    ],
+    "usage_notes": [
+        "Generate completions using max_tokens=200 to allow natural stopping",
+        "Use temperature=0.85 (matching creative writing defaults)",
+        "Compare both content quality and stylistic markers",
+        "Prompts intentionally avoid specific plot details to test generalization"
+    ]
+}

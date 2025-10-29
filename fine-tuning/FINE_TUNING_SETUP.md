@@ -20,13 +20,13 @@ Fine-tuning captures your **writing style** (voice, pacing, word choice, sentenc
 ```bash
 # 1. Prepare your writing samples
 cd fine-tuning
-python scripts/1_prepare_data.py --input data/raw/ --output data/processed/
+python training/1_prepare_data.py --input data/raw/ --output data/processed/
 
 # 2. Train with QLoRA (memory efficient)
-./scripts/2_train_lora.sh
+./training/2_train_lora.sh
 
 # 3. Merge adapter with base model
-python scripts/3_merge_adapter.py --checkpoint checkpoints/final/ --output merged_models/llama-3.1-8b-your-style
+python training/3_merge_adapter.py --checkpoint checkpoints/final/ --output merged_models/llama-3.1-8b-your-style
 
 # 4. Test with vLLM
 cd ..
@@ -132,10 +132,10 @@ fine-tuning/data/raw/
 
 ### Step 2: Convert to Training Format
 
-**Script:** `scripts/1_prepare_data.py`
+**Script:** `training/1_prepare_data.py`
 
 ```bash
-python scripts/1_prepare_data.py \
+python training/1_prepare_data.py \
   --input data/raw/ \
   --output data/processed/training.jsonl \
   --min-tokens 500 \
@@ -222,7 +222,7 @@ logging_steps: 10
 
 ### Step 4: Launch Training
 
-**Script:** `scripts/2_train_lora.sh`
+**Script:** `training/2_train_lora.sh`
 
 ```bash
 #!/bin/bash
@@ -272,10 +272,10 @@ Validation: perplexity=8.2
 - Faster inference than adapter-on-the-fly
 - Easier distribution/deployment
 
-**Script:** `scripts/3_merge_adapter.py`
+**Script:** `training/3_merge_adapter.py`
 
 ```bash
-python scripts/3_merge_adapter.py \
+python training/3_merge_adapter.py \
   --base-model meta-llama/Llama-3.1-8B-Instruct \
   --adapter checkpoints/qlora-style-run-1/checkpoint-675 \
   --output merged_models/llama-3.1-8b-your-style
@@ -485,7 +485,7 @@ ls merged_models/llama-3.1-8b-your-style/*.safetensors
 cat merged_models/llama-3.1-8b-your-style/config.json
 
 # Test load without vLLM
-python scripts/test_model_load.py --model merged_models/llama-3.1-8b-your-style
+python training/test_model_load.py --model merged_models/llama-3.1-8b-your-style
 ```
 
 **Model size larger than expected:**

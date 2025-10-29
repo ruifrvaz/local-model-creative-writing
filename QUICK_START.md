@@ -6,7 +6,7 @@ Complete local AI writing environment for science fiction with automatic worldbu
 
 1. **Install vLLM** - Get the LLM server running (15 minutes)
 2. **Install RAG** - Add worldbuilding context retrieval (10 minutes)
-3. **Fine-tuning** - Train on your writing style (optional, 2-4 hours)
+3. **Fine-tune** - Train on your writing style (optional, 2-4 hours)
 4. **VS Code Setup** - Configure writing environment (5 minutes)
 
 ## System Architecture

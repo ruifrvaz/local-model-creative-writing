@@ -34,10 +34,70 @@ Marcus didn't answer. There was no good answer. They'd run the scenarios a thous
 
 That was the nightmare that kept her awake. Not Phobos itself, but the possibility that it wasn't over. That whatever happened there was just the beginning.
 
-"Get some rest, Commander," Elena said. "We'll run full diagnostics in the morning."
+Elena turned from the viewport to face him directly. "Fleet sent us out here for a reason. Project Threshold isn't just exploration. They think there are more anomalies. More intelligences waiting in the dark."
+
+"And they want us to find them first."
+
+"Before someone less prepared stumbles into contact, yes." Elena set down her coffee bulb. "Marcus, Katie's data—the patterns she found before the cascade. I've been running them through our quantum analysis suite."
+
+"Find anything?"
+
+"A structure. Buried in the noise. It's not random energy fluctuations. It's organized. Purposeful." She pulled up her tablet, showing him the visualization. "This is a communication attempt."
+
+Marcus studied the display, his expression shifting from skepticism to concern. "If you're right—"
+
+"Then Phobos wasn't an attack. It was a misunderstanding." Elena zoomed in on the pattern. "Katie was trying to respond. Her implants interfaced with the anomaly's field. But the bandwidth was too high. Her neural wetware couldn't handle the data transfer rate."
+
+"It fried her brain trying to talk to her."
+
+"Exactly. And the station's AI tried to filter the signal, amplify it, make it comprehensible. Instead, it created a feedback loop that destabilized the reactor."
+
+Marcus was quiet for a long moment. "Does Fleet know?"
+
+"I submitted my analysis two months ago. They classified it above my clearance level."
+
+"Which means?"
+
+"Which means they know, and they're scared." Elena looked back at Saturn. "Whatever these anomalies are, they're not hostile. But they're dangerous in the same way a star is dangerous—not malicious, just operating at energies we're not equipped to survive."
+
+"So what's our play? We can't exactly ask them to turn down the volume."
+
+"No. But we can build better receivers." Elena tapped her cybernetic arm. "Katie's implants were commercial neural lace. Designed for normal human-computer interface. Mine are military-grade trauma prosthetics. Simpler architecture, lower bandwidth, built-in limiters."
+
+Marcus's eyes widened. "You think your implants could handle contact."
+
+"I think they'd fail more gracefully than Katie's did. Give me time to shut down the connection before it kills me."
+
+"That's not a plan, Elena. That's suicide with extra steps."
+
+"It's the only plan that doesn't involve running away or shooting at something we don't understand." She met his gaze. "We came out here to make first contact. That's what I intend to do."
+
+"And if it goes wrong?"
+
+"Then you take command, get the crew to safety, and make sure Fleet learns from my mistakes." Elena's voice was steady. "Same as any other mission."
+
+Marcus shook his head. "Katie would tell you this is insane."
+
+"Katie would be the first one volunteering."
+
+That got a bitter laugh. "Yeah. She would."
+
+They stood together, watching Saturn's eternal storm rage beneath its clouds. Somewhere beyond that storm, beyond the orbit of Neptune, beyond the Kuiper Belt and the scattered disk, the anomalies waited. Intelligences older than human civilization, seeing reality in dimensions humanity hadn't discovered yet.
+
+And Elena Reeves, carrying her dead sister's dream in circuits and flesh, was going to try to understand them.
+
+"Get some rest, Commander. We'll run full diagnostics in the morning."
 
 "You should take your own advice, Captain."
 
 She smiled despite herself. "Noted."
 
 Marcus left. Elena stayed, watching Saturn's slow dance, wondering what waited for them in the dark.
+
+Whatever it was, she'd face it.
+
+For Katie. For the three hundred. For every human who ever looked up at the stars and wondered if we were alone.
+
+The answer was out there.
+
+And Elena was going to find it.

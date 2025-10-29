@@ -66,7 +66,7 @@ def check_venv():
 2. `1_install_torch.sh` - PyTorch 2.6.0 + CUDA 12.1
 3. `2_install_training_stack.sh` - Axolotl + flash-attention + DeepSpeed
 
-**Data Pipeline (fine-tuning/scripts/)**:
+**Data Pipeline (fine-tuning/training/)**:
 1. `1_prepare_data.py` - Text → JSONL converter
    - Virtual environment validation
    - Documentation file exclusion
@@ -180,11 +180,11 @@ python 1_prepare_data.py
 
 ### Training Configuration (After Data Expansion)
 2. Create `configs/qlora_style_transfer.yaml` - Axolotl training config
-3. Create `scripts/2_train_lora.sh` - Training launcher
+3. Create `training/2_train_lora.sh` - Training launcher
 4. Execute training run (2-4 hours expected, RTX 5090)
 
 ### Model Deployment
-5. Create `scripts/3_merge_adapter.py` - LoRA adapter merging
+5. Create `training/3_merge_adapter.py` - LoRA adapter merging
 6. Merge trained adapter with base Llama-3.1-8B-Instruct
 7. Deploy via `serve_vllm.sh` with merged model path
 8. Test with RAG proxy integration (port 8001)
@@ -217,7 +217,7 @@ python 1_prepare_data.py
 
 **New Directories**:
 - `fine-tuning/setup/` - Installation scripts
-- `fine-tuning/scripts/` - Data prep and training tools
+- `fine-tuning/training/` - Data prep and training tools
 - `fine-tuning/data/raw/` - Training source text
 - `fine-tuning/data/processed/` - JSONL output
 - `fine-tuning/configs/` - Training configurations (pending)
@@ -227,7 +227,7 @@ python 1_prepare_data.py
 **Commands for Next Session**:
 ```bash
 # Data expansion (Option 1)
-cd ~/scifi-llm/fine-tuning/scripts
+cd ~/scifi-llm/fine-tuning/training
 source ~/.venvs/finetune/bin/activate
 python 1_prepare_data.py --min-tokens 300
 

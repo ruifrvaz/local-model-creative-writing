@@ -117,8 +117,6 @@ VS Code + Continue.dev → Port 8001 (RAG Proxy) → Port 8000 (vLLM)
                          - Style guides
 ```
 
-Local LLM development environment for RTX 5090 running vLLM with FlashInfer backend, optimized for agentic science fiction writing with RAG-enhanced context retrieval.
-
 ## Core Components
 
 - `serve_vllm.sh` - Server launcher (OpenAI-compatible API on port 8000)
@@ -283,6 +281,13 @@ With max_seqs=16: ~1GB per request = 32k token contexts
 - Tests character consistency over 20k+ words
 - Critical for novel-length generation
 
+**Fine-tuning voice comparison (fine-tuning/benchmarks/1_voice_comparison.py):**
+- Transfer score: Measures style adoption (0-100%)
+- Target: >60% for production deployment
+- Compares baseline vs fine-tuned model outputs
+- Metrics: vocabulary, sentence structure, style markers, tone
+- Run before training (baseline) and after (comparison)
+
 ## Project Conventions
 
 **Script numbering:**
@@ -318,7 +323,7 @@ scifi-llm/
 ├── serve_vllm.sh, serve_rag_proxy.sh        # Server launchers
 ├── stop_vllm.sh, stop_rag_proxy.sh          # Graceful shutdown
 ├── monitor_vllm.sh, monitor_rag_proxy.sh    # Real-time monitoring
-├── QUICK_START_VSCODE.md                    # VS Code setup guide
+├── QUICK_START.md                           # VS Code setup guide
 ├── RAG/                       # Science fiction writing RAG system
 │   ├── README.md, RAG_SETUP.md      # Documentation
 │   ├── serve_rag_proxy.py           # RAG proxy server
@@ -365,9 +370,17 @@ scifi-llm/
 │   ├── configs/                     # Training configs
 │   │   ├── qlora_style_transfer.yaml
 │   │   └── lora_style_transfer.yaml
-│   ├── scripts/                     # Data prep, training, merging
+│   ├── training/                    # Training workflow scripts
 │   │   ├── 1_prepare_data.py
 │   │   └── 2_train_lora.sh
+│   ├── benchmarks/                  # Voice comparison tests
+│   │   ├── README.md                    # Benchmarking guide
+│   │   ├── 1_voice_comparison.py        # Pre/post style metrics (TODO)
+│   │   ├── 2_style_consistency.py       # Variance analysis (TODO)
+│   │   ├── 3_blind_evaluation.py        # Human evaluation (TODO)
+│   │   ├── test_prompts.json            # Standard test set
+│   │   ├── utils/                       # Style analysis functions (TODO)
+│   │   └── results/                     # Benchmark outputs (auto-generated)
 │   ├── data/
 │   │   ├── raw/                     # Training source files
 │   │   ├── processed/               # JSONL training data

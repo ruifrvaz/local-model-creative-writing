@@ -54,7 +54,39 @@ Chen considered. "Risky, but doable."
 
 Elena looked around the table. Scared faces, but determined. Good.
 
-"We make our move in six hours. Until then, battle stations. And people?" She met each person's eyes in turn. "If this goes wrong, remember we tried peace first."
+Dr. Sarah Chen from medical spoke up. "Captain, we should discuss medical readiness. If there's conflict, we'll have casualties. I need to know our combat posture."
+
+"Our posture is defensive. We're not starting a fight." Elena brought up medical protocols on the display. "But you're right to prepare. What do you need?"
+
+"Trauma bays are prepped. Neural dampeners are ready if we encounter energy fields like Phobos. But I'm worried about something else." Dr. Chen hesitated. "If this thing communicates through neural interfaces, anyone with implants could be vulnerable. That includes you, Captain."
+
+The room went quiet. Everyone knew about Elena's cybernetic arm, her neural links. They also knew what had happened to Katie on Phobos.
+
+"Noted," Elena said evenly. "If my implants become compromised, Marcus assumes command immediately. No hesitation, no debate. Understood?"
+
+Marcus nodded grimly. "Understood."
+
+"Anyone else with neural augmentation needs to report to medical before we initiate contact. I want neural limiters installed on everyone. If this thing tries to interface with us, we control the bandwidth." Elena looked at Dr. Chen. "Can you do that?"
+
+"Yes. It'll reduce implant functionality by thirty percent, but it'll prevent cascade failures."
+
+"Do it. Next item—" Elena pulled up the timeline. "We initiate our test in six hours. That gives us time to prepare, brief the crew, and get our systems locked down. Patel, I want you monitoring every wavelength. The moment that thing changes behavior, I need to know."
+
+"What exactly are we looking for?" Patel asked.
+
+"Curiosity. Aggression. Fear. Anything that tells us it's not just a mindless probe." Elena zoomed in on the anomaly. "It's been mirroring us for three days. That suggests intelligence. Possibly even caution. I want to see if we can establish a pattern of communication—even if it's just action and response."
+
+"And if it responds with violence?" Reyes asked.
+
+"Then we know it's hostile, and we respond accordingly. But I don't think it will." Elena thought of Katie's logs, the mathematical proofs, the sense of wonder in her sister's voice. "I think it's as curious about us as we are about it."
+
+"Based on what evidence?" Marcus challenged.
+
+"Based on the fact that it hasn't destroyed us yet. It had three days to do it. Instead, it's watching." Elena closed the tactical display. "That's not predatory behavior. That's investigative."
+
+The senior staff exchanged glances. Elena could see the doubt, the fear. But also the trust. They'd followed her this far. They'd follow her a little further.
+
+"All right, people. You have your assignments. Dismissed."
 
 The room emptied quickly. Only Marcus remained.
 
@@ -64,4 +96,18 @@ The room emptied quickly. Only Marcus remained.
 
 "And if it doesn't work?"
 
-She didn't answer. They both knew what came next.
+"Then we tried peace first. That has to count for something."
+
+Marcus stood. "For what it's worth, I think you're right. About the anomaly being curious. But Captain—curiosity killed more than just cats."
+
+"Then let's make sure we're smarter than cats."
+
+After he left, Elena stayed in the briefing room, studying the tactical data. Six hours until they made contact. Six hours to prepare for something humanity had never attempted before.
+
+She thought of Phobos. Of Katie's excitement in those final logs. Of three hundred people who'd died because someone had been too scared or too arrogant to try communication.
+
+This time would be different.
+
+This time, Elena would get it right.
+
+Or die trying.

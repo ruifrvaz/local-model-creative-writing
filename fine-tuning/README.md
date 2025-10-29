@@ -18,18 +18,30 @@ source ~/.venvs/finetune/bin/activate
 cp ~/my_novel/*.txt data/raw/
 
 # 3. Prepare training data
-cd ../scripts
+cd ../training
 python 1_prepare_data.py --input ../data/raw/ --output ../data/processed/training.jsonl
 
-# 4. Train (QLoRA, ~2-4 hours)
-./scripts/2_train_lora.sh
+# 4. Generate baseline benchmark (before training)
+cd ../benchmarks
+python 1_voice_comparison.py --baseline --port 8000
 
-# 5. Merge adapter with base model
+# 5. Train (QLoRA, ~2-4 hours)
+cd ../training
+./2_train_lora.sh
+
+# 6. Merge adapter with base model
 python 3_merge_adapter.py \
   --checkpoint ../checkpoints/qlora-style-run-1/checkpoint-XXX \
   --output ../merged_models/llama-3.1-8b-your-style
 
-# 6. Test with vLLM
+# 7. Compare baseline vs fine-tuned
+cd ../benchmarks
+# Start fine-tuned model on port 8002
+../../serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-your-style" 8002 9 64000
+# Run comparison (base on 8000, fine-tuned on 8002)
+python 1_voice_comparison.py --baseline-port 8000 --finetuned-port 8002 --compare
+
+# 8. Deploy if transfer_score > 60%
 cd ../../
 ./serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-your-style" 8000 9 64000
 ```
@@ -51,11 +63,18 @@ fine-tuning/
 ├── configs/
 │   ├── qlora_style_transfer.yaml  # QLoRA config (recommended)
 │   └── lora_style_transfer.yaml   # LoRA config (higher quality)
-├── scripts/
-│   ├── 1_prepare_data.py          # Convert text → JSONL (TODO)
-│   ├── 2_train_lora.sh            # Training launcher
-│   ├── 3_merge_adapter.py         # Merge adapter → full model (TODO)
-│   └── 4_compare_models.py        # Base vs fine-tuned comparison (TODO)
+├── training/                      # Training workflow scripts
+│   ├── 1_prepare_data.py          # Convert text → JSONL
+│   ├── 2_train_lora.sh            # Training launcher (TODO)
+│   └── 3_merge_adapter.py         # Merge adapter → full model (TODO)
+├── benchmarks/                    # Voice comparison tests
+│   ├── README.md                     # Benchmarking guide
+│   ├── 1_voice_comparison.py         # Pre/post style metrics (TODO)
+│   ├── 2_style_consistency.py        # Variance analysis (TODO)
+│   ├── 3_blind_evaluation.py         # Human evaluation format (TODO)
+│   ├── test_prompts.json             # Standard test set
+│   ├── utils/                        # Shared analysis functions
+│   └── results/                      # JSON/markdown outputs (auto-generated)
 ├── checkpoints/                   # Training checkpoints (auto-generated)
 ├── merged_models/                 # Final models for vLLM (auto-generated)
 └── logs/                          # Training logs (auto-generated)
@@ -182,9 +201,35 @@ See `FINE_TUNING_SETUP.md` for complete troubleshooting guide.
 | `setup/1_install_torch.sh` | PyTorch 2.6.0 + CUDA 12.1 | 2-5 min | ~5GB |
 | `setup/2_install_training_stack.sh` | Axolotl + flash-attn + DeepSpeed | 15-30 min | ~10GB |
 
+## Benchmarking
+
+Test style transfer effectiveness by comparing base vs fine-tuned model outputs.
+
+```bash
+# Before training: Generate baseline
+./serve_vllm.sh "meta-llama/Llama-3.1-8B-Instruct" 8000
+cd fine-tuning/benchmarks
+python 1_voice_comparison.py --baseline --port 8000
+
+# After training: Compare models
+# Terminal 1: Base model on port 8000
+./serve_vllm.sh "meta-llama/Llama-3.1-8B-Instruct" 8000
+
+# Terminal 2: Fine-tuned model on port 8002
+./serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-your-style" 8002
+
+# Terminal 3: Run comparison
+cd fine-tuning/benchmarks
+python 1_voice_comparison.py --baseline-port 8000 --finetuned-port 8002 --compare
+
+# Results: Transfer score 0-100% (target: >60% for production)
+```
+
+**See `benchmarks/README.md` for complete testing guide.**
+
 ## Resources
 
 - Setup Guide: `FINE_TUNING_SETUP.md`
+- Benchmark Guide: `benchmarks/README.md`
 - Writing Guide: `../docs/SCIENCE_FICTION_WRITING_GUIDE.md`
-- Benchmarks: `../benchmarks/6_style_transfer_quality.py` (TODO)
 - RAG Integration: `../RAG/README.md`

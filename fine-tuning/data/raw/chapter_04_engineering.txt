@@ -34,6 +34,92 @@ Elena had already reached the same conclusion. The Meridian was a research vesse
 
 "Thank me when we're home, Captain."
 
-Elena nodded and left. In the corridor outside, the ship's lights flickered—just for a moment, barely noticeable. But Elena noticed everything these days.
+Elena turned to leave, then stopped. "How's your team holding up?"
 
-The Meridian was dying. And they were still three weeks from the nearest station.
+Chen glanced at her crew—four engineers, all focused on their tasks. Kim was running stress tests on the backup containment field. Rodriguez had his head inside an access panel, muttering at the power distribution network. Okonkwo was fabricating replacement parts using the molecular printer, her face lit by the blue glow of assembling atoms.
+
+"They're good. Scared, but good." Chen set down her tools. "They know what we're up against. They also know their jobs."
+
+"That's all I can ask."
+
+"Captain, permission to speak freely?"
+
+Elena nodded.
+
+"The crew's wondering if this mission is worth it. We're limping along at half power, three months from support, chasing something that killed three hundred people." Chen's voice was careful, not quite insubordinate. "They need to know why."
+
+Elena looked at the damaged coupling, thinking about how to explain Project Threshold to an engineer who dealt in concrete problems. "The anomalies aren't random. Fleet's detected seventeen separate signatures across the galaxy. All following similar patterns. All congregating near points of interest—trade routes, colony worlds, scientific outposts."
+
+"You think they're watching us."
+
+"I think they've been watching us for a while. And I think Phobos was the first time we accidentally got their attention." Elena picked up a burnt-out relay component, turning it over in her hands. "If we don't figure out how to communicate with them—how to coexist—then every human expansion into deep space becomes a potential Phobos incident."
+
+Chen was quiet for a moment. "So we're the test case."
+
+"We're the first deliberate attempt at contact. With protocols, safeguards, and a crew that knows what we're getting into." Elena set down the relay. "Katie went in blind. We're going in prepared."
+
+"Prepared to die, maybe."
+
+"Prepared to succeed." Elena met Chen's eyes. "I won't lie to you. This is dangerous. But it's also necessary. And if it goes wrong, I'll get you and your team out first. That's a promise."
+
+Chen nodded slowly. "I'll hold you to that."
+
+"Please do."
+
+Elena left engineering and headed for the bridge. The corridor lights flickered again—a power fluctuation from the damaged systems. The ship groaned softly, metal expanding and contracting under stress.
+
+The Meridian was holding together through determination and Chen's skill. But determination had limits.
+
+Elena pulled up the anomaly tracking data on her wrist display. The contact was now three days away, not two and a half. They'd been decelerating to conserve power, which meant less time to prepare but also less strain on the damaged drive systems.
+
+A trade-off. Everything out here was a trade-off.
+
+She reached the bridge to find Marcus reviewing tactical displays with Lieutenant Reyes.
+
+"Status?" Elena asked.
+
+"Long-range sensors show the anomaly has slowed its approach. It's almost like—"
+
+"Like it's waiting for us," Elena finished. "I know. It's been matching our deceleration for the past six hours."
+
+Marcus looked up sharply. "It's tracking our thrust output?"
+
+"Or it's trying not to scare us by approaching too fast." Elena sat in the captain's chair. "Either way, we have an intelligence out there that's aware of us and adjusting its behavior accordingly. That's a good sign."
+
+"Or it's herding us into position."
+
+"Always the optimist, Commander."
+
+"Someone has to be." Marcus pulled up the engine status. "Chen says we're running on borrowed time."
+
+"She's being generous. We're running on fumes and faith." Elena studied the tactical plot. "But we have enough for one more move. The question is whether we use it to approach the anomaly or run from it."
+
+"Fleet would order us to retreat and wait for backup."
+
+"Fleet isn't here. We are." Elena looked at her bridge crew. Each of them had volunteered for Project Threshold knowing the risks. Each of them deserved a voice in what came next.
+
+"All right, people. Let's put it to a vote. We can retreat to safe distance and wait for support—probably three months out. Or we can proceed with first contact protocol and see if we can talk to this thing. Show of hands for retreat."
+
+Silence. No one moved.
+
+"Contact protocol?"
+
+Every hand went up.
+
+Elena felt something settle in her chest. Pride, maybe. Or just the absence of doubt.
+
+"Then let's make history. Chen, squeeze every ounce of power you can from those reactors. Marcus, prep the contact package—all our linguistic data, mathematical primers, cultural information. Patel, monitor that anomaly for any sign of aggression. And people?"
+
+She paused, meeting each person's eyes in turn.
+
+"If this works, we're the crew that made first contact with an alien intelligence. If it doesn't, we're the crew that tried. Either way, I'm honored to serve with you."
+
+Marcus grinned. "Inspiring speech, Captain."
+
+"I practiced."
+
+The bridge crew laughed, and for a moment, the weight lifted. They were still three days from the unknown. Still flying a damaged ship into danger. Still carrying the ghosts of Phobos.
+
+But they were doing it together.
+
+And that made all the difference.
