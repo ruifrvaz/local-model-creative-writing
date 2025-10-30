@@ -2,7 +2,9 @@ Dr. Chen had converted the medical bay into a combination trauma center and rese
 
 "You wanted to see this," Chen said without preamble.
 
-Elena entered, letting the door seal behind her. "What am I looking at?"
+Elena entered, letting the door seal behind her. The medical bay smelled of antiseptic and ozone. Equipment hummed softly, processing data streams from the crew's neural monitors.
+
+"What am I looking at?"
 
 "Correlation analysis between crew biometrics and anomaly proximity." Chen pulled up a graph. "Watch what happens to our neural activity when we get within two hundred thousand klicks."
 
@@ -11,6 +13,8 @@ The pattern was unmistakable. Brainwave synchronization across the crew. Not qui
 "It's affecting our minds," Elena said.
 
 "Not affecting. Connecting." Chen highlighted specific frequencies. "Your cybernetic implants show it most clearly. The anomaly is trying to interface with our neural architecture."
+
+Elena felt a chill run through her. The whispers she'd been hearing weren't auditory hallucinations. They were real.
 
 Elena felt her pulse quicken. "Is it dangerous?"
 
@@ -29,6 +33,8 @@ Elena processed this. "The Phobos AI."
 "Or because the AI interpreted first contact as an attack." Chen brought up the Phobos incident timeline. "Look at when the casualties started. Right after the AI began showing 'unusual behavior.'"
 
 Elena stared at the data. Martinez's sister had been right. Something external had influenced the AI. But it wasn't an attack. It was contact.
+
+A catastrophically misunderstood attempt at first contact.
 
 "Why didn't it just talk to people? Why go through the AI?"
 
@@ -56,7 +62,9 @@ Elena froze. "Standard crew package. Nothing military grade. Why?"
 
 "Because according to the Phobos medical logs, she was one of the first casualties. Neural cascade failure." Chen's voice was gentle. "Captain, she might have been the initial contact point. The first human the anomaly tried to reach."
 
-The room tilted. Elena gripped the doorframe.
+The room tilted. Elena gripped the doorframe, her cybernetic hand leaving a dent in the metal.
+
+Not an accident. Not random. Katie had been chosen.
 
 "I'm sorry," Chen said.
 
@@ -64,10 +72,46 @@ Elena didn't trust herself to speak. She nodded once and left.
 
 In the corridor, she leaned against the cool metal wall and closed her eyes. Katie. Always the first to volunteer. Always the first to reach out.
 
+Always the one who thought the best of everyone, everything.
+
 The anomaly hadn't killed her. It had tried to talk to her. And humanity's technology, crude and unprepared, had burned her mind to ash.
+
+Katie had tried to make first contact, and it had destroyed her.
+
+Elena pulled up the medical logs on her wrist display. There it was, buried in the chaos of Phobos's final moments: Neural cascade, Subject K. Reeves, timestamp 14:07:23. Three minutes before the reactor breach. Three minutes before everyone else died.
+
+Katie had been the first. The test case. The bridge.
+
+And she'd died alone, her brain overloading as the anomaly tried to communicate in a language human neurology couldn't parse.
 
 "I'll do better," Elena whispered to the empty corridor. "I promise."
 
 Her neural implant chimed. The anomaly was transmitting again.
 
 This time, Elena listened with her whole self.
+
+And somewhere in the static and mathematics, she thought she heard Katie's voice.
+
+Not real. Just memory, shaped by grief and desperate hope.
+
+But enough to strengthen her resolve.
+
+This time, humanity would be ready. This time, they would understand.
+
+And Katie's death wouldn't be meaningless.
+
+Elena pushed off the wall and headed for the bridge. Her cybernetic arm hummed softly, the synthetic muscles warm against her skin. Metal and flesh working together.
+
+If she could merge with technology, maybe she could merge with something older, stranger, more alien.
+
+Maybe she could finish what Katie started.
+
+The corridor lights flickered as she walked, power fluctuations from the damaged systems. Each flicker was a reminder: time was running out. The hull was degrading, the anomaly was waiting, and somewhere in the vast dark between stars, answers waited.
+
+Answers about Phobos. About Katie. About what came next for humanity.
+
+The anomaly pulsed in her neural feed. Waiting. Patient.
+
+Ready to try again.
+
+And this time, Elena would make sure humanity was ready too.

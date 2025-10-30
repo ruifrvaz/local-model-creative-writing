@@ -8,6 +8,8 @@ The holographic display flickered to life. Radiation signatures danced across th
 
 Elena pulled up the ship's defensive grid. The neural interface synced with her implants, and suddenly she could feel the Meridian's hull like her own skin. Every sensor was an extension of her awareness. The anomaly pulsed in her mind—cold, vast, patient.
 
+The sensation was unnerving. Like touching something alive through a wall of ice. She could sense its attention on them, weighing them, measuring them.
+
 "Wake the crew," she said. "All hands to stations."
 
 Marcus hesitated. "Captain, if we—"
@@ -32,6 +34,10 @@ But drills didn't account for the weight in her chest when she looked at the ano
 
 Elena felt her implants tingle—a warning from the ship's AI that their defensive posture was being analyzed. The anomaly wasn't just tracking them. It was studying them.
 
+Learning them.
+
+The same way it had studied Phobos before everything went to hell.
+
 "Marcus, bring the weapons grid online. Safeties enabled, but I want full charge on the main batteries."
 
 "Aye, Captain."
@@ -40,7 +46,9 @@ The bridge hummed with activity. Elena watched her crew work, each person focuse
 
 She couldn't let them down the way she'd failed Phobos.
 
-"Distance to contact?" Elena asked.
+The memory flashed unbidden: Katie's last transmission, her face calm even as alarms blared in the background. "Elena, if you're watching this, it means—" Static. Then nothing. Just the expanding cloud of debris that had been Phobos Station.
+
+"Distance to contact?" Elena asked, pushing the memory away.
 
 "Three million klicks and closing," Reyes reported. "Current velocity suggests intercept in forty-seven minutes."
 
@@ -52,9 +60,15 @@ The Meridian's mission was to find one and make contact.
 
 Looks like they'd succeeded.
 
+The question was whether they'd survive the success.
+
 "Captain," Marcus said quietly, moving to her side. "Your orders?"
 
 Elena looked at the anomaly. At her crew. At the readiness indicators that showed her ship was as prepared as it could be for the unknown.
+
+The smart play was to run. Increase distance, wait for Fleet support, let someone else take the risk.
+
+But running hadn't saved Phobos. And it wouldn't answer the questions that had haunted her for three years.
 
 "We hold position," she said. "And we wait."
 
@@ -62,12 +76,44 @@ Elena looked at the anomaly. At her crew. At the readiness indicators that showe
 
 "To see what it wants." Elena locked eyes with her first officer. "We came out here to find answers. Running won't give us those."
 
+Marcus studied her face. They'd served together for five years. He knew when she was hiding something.
+
+"You think it's the same one," he said. "The same anomaly that destroyed Phobos."
+
+"I don't know. Maybe. Maybe they're all connected somehow." Elena pulled up the comparative analysis. "But I know we're not going to figure it out from three million klicks away."
+
 Marcus nodded slowly. "Fleet will have our heads if this goes wrong."
 
 "Let them try." Elena turned back to the display. "I didn't survive Phobos just to hide from shadows."
 
+She pulled up the tactical overlay. The anomaly's approach vector was steady, deliberate. Not aggressive. Not yet.
+
+"All stations, yellow alert. Weapons hot but do not target. I repeat, do not acquire target lock." Elena's voice carried across the bridge. "This is first contact protocol. We observe, we respond, we don't provoke. Clear?"
+
+Affirmatives echoed back from every station.
+
 The anomaly pulsed, and somewhere deep in her neural implants, Elena thought she heard something like a whisper.
+
+Not words. Not yet. Just the suggestion of meaning, like a language she'd almost learned once but forgotten.
 
 The universe was speaking.
 
 It was time to listen.
+
+And this time, Elena would make damn sure she understood.
+
+"Marcus, tell Chen to prepare emergency power. If this goes south, I want jump capability ready."
+
+"We can't jump. The drive's offline."
+
+"Then tell her to get it online. Forty-seven minutes is enough time to work miracles." Elena's cybernetic fingers tapped a rhythm on the console. "And send a tight-beam to Fleet Command. Full situation report, all data we have. If we don't make it, someone needs to know what happened."
+
+"Aye, Captain."
+
+The bridge settled into tense readiness. Every eye on the main display. Every hand ready to act.
+
+Elena watched the anomaly approach and wondered if Katie had felt this same terrible anticipation. This mix of fear and wonder and determination.
+
+The countdown ticked past forty-six minutes.
+
+Time to find out what waited in the dark.
