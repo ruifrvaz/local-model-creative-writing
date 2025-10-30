@@ -40,13 +40,13 @@ sequence_len: 2048           # Max sequence length for training
 sample_packing: true         # Efficient batching
 pad_to_sequence_len: true
 
-learning_rate: 0.0002        # 2e-4 recommended for style transfer
-num_epochs: 3                # Start with 3, adjust based on validation
-per_device_train_batch_size: 4
-per_device_eval_batch_size: 4
-gradient_accumulation_steps: 4  # Effective batch size = 16
-warmup_steps: 100
-warmup_ratio: 0.05
+learning_rate: 0.0001        # 1e-4 lower LR for small dataset (avoid overfitting)
+num_epochs: 5                # More epochs needed with only 14 examples
+per_device_train_batch_size: 2  # Smaller batch for small dataset
+per_device_eval_batch_size: 2
+gradient_accumulation_steps: 4  # Effective batch size = 8
+warmup_steps: 20             # Reduced warmup for small dataset
+warmup_ratio: 0.1
 
 # Optimizer
 optimizer: paged_adamw_8bit  # Memory-efficient AdamW
@@ -63,16 +63,15 @@ tf32: true                   # TensorFloat-32 acceleration
 flash_attention: true        # FlashAttention-2 support
 
 # Evaluation
-eval_steps: 50               # Evaluate every 50 steps
+eval_steps: 10               # Evaluate frequently with small dataset
 eval_sample_packing: false
-evals_per_epoch: 4
+evals_per_epoch: 2           # Less frequent epoch evals
 
 # Logging & Checkpointing
-output_dir: checkpoints/qlora-style-run-1
-save_strategy: steps
-save_steps: 100
-save_total_limit: 3          # Keep only 3 most recent checkpoints
-logging_steps: 10
+output_dir: checkpoints/qlora-style-pipeline-test
+save_strategy: epoch         # Save every epoch (small dataset)
+save_total_limit: 5          # Keep all checkpoints for comparison
+logging_steps: 5             # Log frequently
 logging_first_step: true
 
 # Weights & Biases (optional)

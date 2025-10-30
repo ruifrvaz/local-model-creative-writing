@@ -7,8 +7,8 @@ set -euo pipefail
 # Change to fine-tuning directory
 cd "$(dirname "$0")/.."
 
-# Activate vLLM environment (has PyTorch, CUDA, transformers)
-source ~/.venvs/llm/bin/activate
+# Activate finetune environment (has PyTorch 2.6.0, Axolotl, training stack)
+source ~/.venvs/finetune/bin/activate
 
 # Configuration
 CONFIG="${1:-configs/qlora_style_transfer.yaml}"
@@ -29,7 +29,8 @@ SAMPLE_COUNT=$(wc -l < data/processed/training.jsonl)
 echo "[INFO] Training samples: $SAMPLE_COUNT"
 
 if [ "$SAMPLE_COUNT" -lt 50 ]; then
-    echo "[WARN] Low sample count ($SAMPLE_COUNT). Recommend 100+ for good style capture"
+    echo "[WARN] Low sample count ($SAMPLE_COUNT). Recommend 50-100+ for production"
+    echo "[INFO] Running as pipeline test - expect limited style transfer"
 fi
 
 # Set memory optimization flags
@@ -41,7 +42,8 @@ export WANDB_DISABLED="${WANDB_DISABLED:-true}"
 
 # Launch training
 echo "[START] Beginning training..."
-echo "[INFO] Expected time: ~2-4 hours for 500-1000 samples"
+echo "[INFO] Expected time: ~30-60 minutes for 14 samples (pipeline test)"
+echo "[INFO] This is a PROOF-OF-CONCEPT run with minimal data"
 
 python -m axolotl.cli.train "$CONFIG" 2>&1 | tee "logs/training_${RUN_NAME}.log"
 
@@ -53,7 +55,7 @@ if [ $EXIT_CODE -eq 0 ]; then
     echo "[INFO] Checkpoints saved to: $(grep 'output_dir:' "$CONFIG" | awk '{print $2}')"
     echo ""
     echo "[NEXT] Merge adapter with base model:"
-    echo "  python scripts/3_merge_adapter.py --checkpoint <checkpoint_path> --output merged_models/llama-3.1-8b-your-style"
+    echo "  python training/3_merge_adapter.py --checkpoint <checkpoint_path> --output merged_models/llama-3.1-8b-pipeline-test"
 else
     echo ""
     echo "[ERROR] Training failed with exit code $EXIT_CODE"
