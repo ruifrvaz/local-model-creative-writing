@@ -7,7 +7,7 @@ set -euo pipefail
 # Change to fine-tuning directory
 cd "$(dirname "$0")/.."
 
-# Activate finetune environment (has PyTorch 2.6.0, Axolotl, training stack)
+# Activate finetune environment (has PyTorch 2.8.0, Axolotl, training stack)
 source ~/.venvs/finetune/bin/activate
 
 # Configuration

@@ -2,30 +2,32 @@
 set -euo pipefail
 
 ################################################################################
-# Install Training Stack (Axolotl + Dependencies)
+# Install Training Stack (Additional Training Utilities)
 ################################################################################
-# Purpose: Install Axolotl framework with all training dependencies
+# Purpose: Install additional training utilities (DeepSpeed, flash-attention, monitoring)
 #
 # What it does:
 #   - Activates ~/.venvs/finetune
-#   - Installs core ML libraries (transformers, accelerate, peft)
-#   - Installs Axolotl with flash-attention and DeepSpeed
+#   - Installs flash-attention (if not present)
+#   - Installs DeepSpeed for distributed training
+#   - Installs monitoring tools (wandb, tensorboard)
 #   - Verifies installation
 #
 # Requirements:
 #   - Virtual environment created (0_create_venv.sh)
-#   - PyTorch installed (1_install_torch.sh)
-#   - ~10GB disk space for training packages
+#   - PyTorch 2.8.0+cu128 installed (1_install_torch.sh)
+#   - Axolotl installed (2_install_axolotl.sh)
+#   - ~5GB disk space for additional packages
 #   - RTX 5090 or compatible GPU
 #
 # Usage: ./2_install_training_stack.sh
 ################################################################################
 
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Installing Training Stack"
+echo "Installing Additional Training Utilities"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "Time: $(date '+%Y-%m-%d %H:%M:%S')"
-echo "Target: Axolotl + flash-attention + DeepSpeed"
+echo "Target: DeepSpeed + flash-attention + monitoring tools"
 echo ""
 
 # Activate the venv
@@ -44,7 +46,7 @@ source ~/.venvs/finetune/bin/activate || {
 echo "[OK] Virtual environment activated"
 echo ""
 
-# Verify PyTorch is installed
+# Verify PyTorch and Axolotl are installed
 echo "[CHECK] Verifying PyTorch installation..."
 python -c "import torch; assert torch.cuda.is_available()" || {
     echo "[ERROR] PyTorch with CUDA not found!"
@@ -52,6 +54,14 @@ python -c "import torch; assert torch.cuda.is_available()" || {
     exit 1
 }
 echo "[OK] PyTorch with CUDA found"
+
+echo "[CHECK] Verifying Axolotl installation..."
+python -c "import axolotl" || {
+    echo "[ERROR] Axolotl not found!"
+    echo "   Please run: ./2_install_axolotl.sh first"
+    exit 1
+}
+echo "[OK] Axolotl found"
 echo ""
 
 # Upgrade pip and tools
@@ -65,22 +75,6 @@ echo ""
 echo "[INSTALL] Installing ninja (parallel build system)..."
 pip install ninja
 echo "[OK] ninja installed"
-echo ""
-
-# Install core ML libraries
-echo "[INSTALL] Installing core ML libraries..."
-echo "   This includes: transformers, accelerate, peft, bitsandbytes"
-pip install \
-  "transformers>=4.45.0" \
-  "accelerate>=0.34.0" \
-  "peft>=0.13.0" \
-  "bitsandbytes>=0.44.0" \
-  "datasets>=3.0.0" \
-  "tokenizers>=0.21.0" \
-  "sentencepiece>=0.2.0" \
-  "safetensors>=0.4.5" \
-  "huggingface-hub>=0.35.0"
-echo "[OK] Core libraries installed"
 echo ""
 
 # Check if flash-attention is already installed
@@ -107,14 +101,13 @@ else
 fi
 echo ""
 
-# Install Axolotl with DeepSpeed
-echo "[INSTALL] Installing Axolotl with DeepSpeed..."
-echo "   This will download ~5GB and take several minutes..."
-pip install "axolotl[deepspeed]"
-echo "[OK] Axolotl installed"
+# Install DeepSpeed for distributed training
+echo "[INSTALL] Installing DeepSpeed..."
+pip install "deepspeed>=0.15.0"
+echo "[OK] DeepSpeed installed"
 echo ""
 
-# Install additional utilities
+# Install monitoring and utilities
 echo "[INSTALL] Installing additional utilities..."
 pip install \
   "wandb" \
@@ -148,9 +141,8 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "Next Steps"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "1. Add your writing samples to: fine-tuning/data/raw/"
-echo "2. Create data preparation script: fine-tuning/scripts/1_prepare_data.py"
-echo "3. Prepare training data: cd scripts && python 1_prepare_data.py"
-echo "4. Start training: cd scripts && ./2_train_lora.sh"
+echo "2. Prepare training data: cd training && python 1_prepare_data.py"
+echo "3. Start training: cd training && ./2_train_lora.sh"
 echo ""
 echo "To activate this environment later:"
 echo "  source ~/.venvs/finetune/bin/activate"
