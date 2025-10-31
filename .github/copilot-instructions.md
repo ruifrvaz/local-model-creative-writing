@@ -4,7 +4,8 @@
 
 **GPU:** NVIDIA RTX 5090 (Blackwell)
 - VRAM: 32GB total
-- Compute Capability: 8.9
+- Compute Capability: sm_120 (8.9)
+- Requires PyTorch 2.8.0+ with CUDA 12.8+ for full support
 - Requires `VLLM_ATTENTION_BACKEND=FLASHINFER`
 - Minimum `max_seqs=9` (FlashInfer warmup requirement)
 
@@ -17,7 +18,7 @@
 - OS: Windows 11 + WSL2 (Ubuntu 22.04)
 - CUDA: 12.8 (training) / 13.0 (inference)
 - Python: 3.12.3
-- PyTorch: 2.8.0 (vLLM), 2.6.0 (fine-tuning)
+- PyTorch: 2.8.0+cu128 (vLLM + fine-tuning, RTX 5090 Blackwell sm_120 support)
 - Virtual Environments: ~/.venvs/{llm, rag, finetune}
 
 ## Primary Use Case
@@ -39,6 +40,25 @@
 - VS Code with Continue.dev extension - NOT implemented yet
 - Fine-tuning workflow for personal narrative style - READY (QLoRA/LoRA configs, scripts, guide)
 
+## Starting or resuming chats
+
+**When user starts new chat with "analyze" or "resume":**
+- **Always read the latest history file first** (`docs/history/` sorted by date)
+- Use it to understand recent architectural changes and decisions
+- **Always read the readme files of relevant components** (e.g., RAG/README.md, vllm/README.md)
+- Then proceed with standard analysis or resumption
+- This ensures continuity across chat sessions
+
+## Finalizing chats
+
+**When user says "wrap up" or "summarize":**
+- **Create history file if session qualifies as significant** (see Documentation Philosophy)
+- Filename: `docs/history/YYYY-MM-DD_description.md`
+- Include: Actions taken, problems solved, decisions made, files modified, next steps
+- Focus on **what** and **why**, not implementation details
+- Update this history file as the session reference for next chat
+- **Do NOT create** separate RESUME or TODO files (history file serves this purpose)
+
 ## Documentation Philosophy
 
 **Update core documentation to reflect current state:**
@@ -53,12 +73,6 @@
 - Dependency changes affecting workflow
 - Save to `docs/history/YYYY-MM-DD_description.md`
 
-**When user starts new chat with "analyze" or "recap":**
-- **Always read the latest history file first** (`docs/history/` sorted by date)
-- Use it to understand recent architectural changes and decisions
-- Then proceed with standard conversation summary analysis
-- This ensures continuity across chat sessions
-
 **What qualifies as "significant":**
 - ✅ New dependencies added to environment
 - ✅ New output folders/files created
@@ -67,6 +81,81 @@
 - ❌ Bug fixes in existing scripts
 - ❌ Documentation typo corrections
 - ❌ Minor parameter tweaks
+
+## Virtual Environment Dependency Map
+
+**~/.venvs/llm (vLLM inference):**
+- PyTorch: 2.8.0+cu128
+- vLLM: 0.10.2
+- FlashInfer: 0.3.0
+- Purpose: Run vLLM server for inference
+
+**~/.venvs/rag (RAG system):**
+- PyTorch: 2.8.0+cu128
+- ChromaDB: Latest
+- Sentence-Transformers: Latest
+- Purpose: Document embedding and retrieval
+
+**~/.venvs/finetune (Training):**
+- PyTorch: 2.8.0+cu128 (MUST match vLLM for compatibility)
+- Axolotl: main branch (installed with `--no-deps` to avoid torch pins)
+- DeepSpeed: Latest
+- Purpose: QLoRA/LoRA fine-tuning
+
+## Setup Script Organization
+
+**vLLM inference setup (`vllm/setup/`):**
+```
+0_create_venv.sh          → Create ~/.venvs/llm
+1_install_pytorch.sh      → PyTorch 2.8.0+cu128
+2_install_vllm.sh         → vLLM + FlashInfer
+3_install_flash_attn.sh   → Flash Attention 2
+4_download_models.sh      → Cache models
+5_install_openai.sh       → API client
+6_verify_gpu.sh           → Test CUDA/GPU
+7_test_installation.sh    → End-to-end validation
+```
+
+**RAG system setup (`RAG/setup/`):**
+```
+0_create_venv_with_deps.sh → Create ~/.venvs/rag + all dependencies
+1_ingest.py                → Parse markdown to chunks
+2_embed_and_store.py       → Create ChromaDB collections
+```
+
+**Fine-tuning setup (`fine-tuning/setup/`):**
+```
+0_create_venv.sh           → Create ~/.venvs/finetune
+1_install_torch.sh         → PyTorch 2.8.0+cu128
+2_install_axolotl.sh       → Axolotl from main (--no-deps)
+3_install_training_stack.sh → DeepSpeed + flash-attention + monitoring
+```
+
+**Before modifying ANY setup script:**
+1. **Script numbering convention** - Setup scripts are numbered 0-n in sequence order
+2. **Check for conflicts** - Don't create duplicate numbers (e.g., two scripts named `2_*.sh`)
+3. **Virtual environment isolation** - `~/.venvs/{llm, rag, finetune}` have different dependencies
+4. **Dependency alignment** - PyTorch versions MUST match across related scripts
+
+**Script Numbering Rules (NEVER VIOLATE):**
+```
+0-n:     Setup workflow (run ONCE in SEQUENCE)
+n+1-t:   Health checks and utilities (run as needed)
+Other:   Descriptive names (benchmarks, servers, monitors)
+```
+
+**Examples of CORRECT numbering:**
+- ✅ vLLM setup: 0_create_venv.sh → 1_install_pytorch.sh → 2_install_vllm.sh → 3_install_flash_attn.sh
+- ✅ RAG setup: 0_create_venv_with_deps.sh → 1_ingest.py → 2_embed_and_store.py
+- ✅ Fine-tuning: 0_create_venv.sh → 1_install_torch.sh → 2_install_axolotl.sh → 3_install_training_stack.sh
+- ❌ WRONG: Two scripts both named `2_*.sh` in same directory
+- ❌ WRONG: Skipping numbers (0 → 2 → 4)
+
+**When creating new setup scripts:**
+1. Check existing numbered scripts in that directory
+2. Use next available number in sequence
+3. Update ALL documentation to reflect new sequence
+4. Read complete workflow 0→n to verify order
 
 ## History Documentation Guidelines
 
@@ -362,11 +451,11 @@ scifi-llm/
 │   └── history/                     # Architecture change logs
 ├── fine-tuning/                     # Style transfer training (QLoRA/LoRA)
 │   ├── README.md, FINE_TUNING_SETUP.md  # Documentation
-│   ├── setup/                       # Installation scripts
+│   ├── setup/                       # Installation scripts (0-3)
 │   │   ├── 0_create_venv.sh
-│   │   ├── 1_install_torch.sh
-│   │   ├── 2_install_training_stack.sh
-│   │   └── activate_finetune.sh
+│   │   ├── 1_install_torch.sh       # PyTorch 2.8.0+cu128 (RTX 5090 sm_120)
+│   │   ├── 2_install_axolotl.sh     # Axolotl from main (no torch pins)
+│   │   └── 3_install_training_stack.sh  # DeepSpeed + flash-attention + monitoring
 │   ├── configs/                     # Training configs
 │   │   ├── qlora_style_transfer.yaml
 │   │   └── lora_style_transfer.yaml
