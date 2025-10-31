@@ -8,8 +8,9 @@ Train Llama-3.1-8B-Instruct to match your personal narrative style.
 # 0. Install training environment (one-time setup)
 cd fine-tuning/setup
 ./0_create_venv.sh
-./1_install_torch.sh
-./2_install_training_stack.sh
+./1_install_torch.sh        # PyTorch 2.8.0+cu128 for RTX 5090 sm_120
+./2_install_axolotl.sh      # Axolotl from main (no torch pins)
+./3_install_training_stack.sh  # DeepSpeed + flash-attention + monitoring tools
 
 # 1. Activate training environment
 source ~/.venvs/finetune/bin/activate
@@ -52,10 +53,11 @@ cd ../../
 fine-tuning/
 ├── FINE_TUNING_SETUP.md           # Complete guide (read this first)
 ├── README.md                      # This file
-├── setup/                         # One-time installation scripts
+├── setup/                         # One-time installation scripts (0-3)
 │   ├── 0_create_venv.sh              # Create ~/.venvs/finetune
-│   ├── 1_install_torch.sh            # Install PyTorch 2.6.0
-│   └── 2_install_training_stack.sh   # Install Axolotl + dependencies
+│   ├── 1_install_torch.sh            # Install PyTorch 2.8.0+cu128
+│   ├── 2_install_axolotl.sh          # Install Axolotl from main
+│   └── 3_install_training_stack.sh   # Install DeepSpeed + utilities
 ├── data/
 │   ├── raw/                       # Your writing samples (.txt, .md)
 │   ├── processed/                 # Converted training data (.jsonl)
@@ -92,21 +94,24 @@ cd fine-tuning/setup
 # 0. Create virtual environment (~10 seconds)
 ./0_create_venv.sh
 
-# 1. Install PyTorch 2.6.0 with CUDA 12.1 (2-5 minutes, ~5GB)
+# 1. Install PyTorch 2.8.0+cu128 (2-5 minutes, ~5GB)
 ./1_install_torch.sh
 
-# 2. Install Axolotl training framework (15-30 minutes, ~10GB)
-./2_install_training_stack.sh
+# 2. Install Axolotl from main (5-10 minutes, ~5GB)
+./2_install_axolotl.sh
+
+# 3. Install training utilities (15-20 minutes, ~5GB)
+./3_install_training_stack.sh
 ```
 
-**Total installation:** ~15GB disk space, 20-35 minutes
+**Total installation:** ~15GB disk space, 20-40 minutes
 
 **Packages installed:**
-- PyTorch 2.6.0 stable (compatible with Axolotl)
-- Axolotl (training framework)
+- PyTorch 2.8.0+cu128 (RTX 5090 Blackwell sm_120 support)
+- Axolotl from main (no torch version pins)
 - flash-attention (fast kernels)
 - DeepSpeed (distributed training)
-- transformers, accelerate, peft, bitsandbytes
+- transformers, accelerate, peft, bitsandbytes, trl
 - wandb, tensorboard (logging)
 
 ### Environment Isolation Strategy
@@ -186,7 +191,7 @@ See `FINE_TUNING_SETUP.md` for complete troubleshooting guide.
 
 ## Next Steps
 
-1. **Install training environment:** `cd setup && ./0_create_venv.sh && ./1_install_torch.sh && ./2_install_training_stack.sh`
+1. **Install training environment:** Run setup scripts 0-3 in sequence (see Setup Scripts table)
 2. **Read complete guide:** `FINE_TUNING_SETUP.md` for detailed workflow
 3. **Collect writing samples:** Your prose (500+ tokens each)
 4. **Create data prep script:** `scripts/1_prepare_data.py` (converts text → JSONL)
@@ -198,8 +203,9 @@ See `FINE_TUNING_SETUP.md` for complete troubleshooting guide.
 | Script | Purpose | Duration | Disk Space |
 |--------|---------|----------|------------|
 | `setup/0_create_venv.sh` | Create `~/.venvs/finetune` | 10s | 50MB |
-| `setup/1_install_torch.sh` | PyTorch 2.6.0 + CUDA 12.1 | 2-5 min | ~5GB |
-| `setup/2_install_training_stack.sh` | Axolotl + flash-attn + DeepSpeed | 15-30 min | ~10GB |
+| `setup/1_install_torch.sh` | PyTorch 2.8.0+cu128 (RTX 5090) | 2-5 min | ~5GB |
+| `setup/2_install_axolotl.sh` | Axolotl from main + dependencies | 5-10 min | ~5GB |
+| `setup/3_install_training_stack.sh` | DeepSpeed + flash-attn + monitoring | 15-20 min | ~5GB |
 
 ## Benchmarking
 

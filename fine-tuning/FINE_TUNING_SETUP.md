@@ -2,7 +2,7 @@
 
 **Purpose:** Train Llama-3.1-8B-Instruct to match your personal narrative style  
 **Method:** QLoRA (Quantized Low-Rank Adaptation) for memory efficiency  
-**Hardware:** RTX 5090 (32GB VRAM) - sufficient for 7-14B models
+**Hardware:** RTX 5090 (32GB VRAM, Blackwell sm_120) with PyTorch 2.8.0 + CUDA 12.8
 
 ---
 
@@ -228,8 +228,8 @@ logging_steps: 10
 #!/bin/bash
 set -euo pipefail
 
-# Activate vLLM environment (has PyTorch, CUDA)
-source ~/.venvs/llm/bin/activate
+# Activate finetune environment (has PyTorch 2.8.0+cu128, Axolotl main)
+source ~/.venvs/finetune/bin/activate
 
 # Set efficient training flags
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
@@ -557,8 +557,13 @@ python training/test_model_load.py --model merged_models/llama-3.1-8b-your-style
 
 **Install:**
 ```bash
-source ~/.venvs/llm/bin/activate
-pip install axolotl[flash-attn,deepspeed]
+# Setup PyTorch 2.8.0 with CUDA 12.8 (RTX 5090 compatible)
+cd fine-tuning/setup
+./0_create_venv.sh
+./1_install_torch.sh
+
+# Install Axolotl from main (no torch version pins)
+./2_install_axolotl.sh
 ```
 
 ### Unsloth
