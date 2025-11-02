@@ -1,0 +1,167 @@
+The reactor fluctuation started at 0247 station time.
+
+Commander Ana Rivera woke to the alarm, her training kicking in before conscious thought. Hull breach protocols. Emergency power routing. Evacuation procedures running through her mind.
+
+But this wasn't a hull breach.
+
+"Reactor output dropping," the night engineer reported over comm. "Twelve percent below nominal and declining."
+
+Ana pulled up the engineering displays on her personal terminal. The auxiliary reactor—the one that had sustained them through the dust storm—was failing.
+
+"Get Torres and Tanaka. Emergency engineering meeting in ten minutes."
+
+Malik Torres arrived first, still pulling on his jumpsuit. Yuki Tanaka followed, looking alert despite the hour.
+
+"Show me the problem," Malik said.
+
+The diagnostic displays painted a grim picture. Fuel cell degradation. Coolant system inefficiency. Control rod alignment drift. Multiple cascading failures that had been developing slowly for months.
+
+"The storm stressed it beyond design limits," Malik assessed. "We've been running it too hard for too long."
+
+"Can we repair it?" Ana asked.
+
+"Not while it's operating. We'd need to do a full shutdown, disassembly, component replacement." Malik pulled up the repair timeline. "Three weeks minimum. Maybe four."
+
+"How long can we run on battery reserves?"
+
+"Forty-eight hours. Less if we don't implement severe power restrictions."
+
+Ana did the math. Three weeks of repairs versus two days of battery life. The numbers didn't work.
+
+"Can we operate on solar alone?"
+
+"During day cycle, yes. But night cycle we'd have no power." Tanaka pulled up the power distribution. "Life support would go offline. Temperature control would fail. We'd freeze."
+
+"What if we rotate habitats? Keep essential areas powered, rotate the rest into dark mode?"
+
+"Possible," Malik admitted. "Uncomfortable, but survivable. We'd need to consolidate everyone into the main habitat, shut down secondary systems, run absolute minimal power."
+
+Ana pulled up the colony roster. Forty-seven people. All depending on systems that were about to go offline for weeks.
+
+"How bad will it get?"
+
+"Main habitat stays at fifteen degrees Celsius. Personal quarters drop to minus twenty. No showers, no hot food, no recreational power." Tanaka calculated life support requirements. "We keep air and water. Everything else is luxury."
+
+"That's going to be brutal on morale."
+
+"Better brutal morale than dead crew." Malik pulled up the repair schedule. "Ana, we don't have a choice. The reactor fails either way. Controlled shutdown beats catastrophic failure."
+
+Ana made the call. "Implement emergency power protocols. Inform the crew. We start reactor shutdown in six hours."
+
+The colony meeting was tense. Forty-seven tired, worried faces gathered in the common area.
+
+"The auxiliary reactor is failing," Ana explained without sugarcoating. "We need to shut it down for repairs. That means three weeks on solar power and batteries. Living conditions will be difficult."
+
+"How difficult?" someone asked.
+
+"Cold. Dark. Minimal amenities." Ana pulled up the power allocation. "We keep life support, essential systems, basic communications. Everything else goes offline."
+
+"What about research? The archaeological site?" Dr. Hassan asked.
+
+"On hold. Survival takes priority over science."
+
+"For three weeks we're camping on Mars," Alexis Kwan added. "Bundle up, stay in lit areas during day cycle, huddle together at night. It's going to suck."
+
+"Can we request evacuation?" someone suggested.
+
+"Earth wouldn't get here for six months. By then we're either repaired or dead." Ana met their eyes. "We handle this ourselves. We've survived worse."
+
+The reactor shutdown began at 0800. Controlled, methodical, following every protocol. Power output decreased gradually as the fusion reaction was safely terminated.
+
+By 1200, the colony was running on solar panels and battery reserves.
+
+By 1800, the temperature in secondary habitats had dropped below freezing.
+
+The crew consolidated in the main habitat. Personal belongings stuffed into shared lockers. Privacy abandoned for survival. Forty-seven people living in a space designed for twenty.
+
+Malik and his engineering team began the reactor disassembly. Careful work in the freezing engineering bay, wearing full environment suits, working around failing equipment.
+
+Each component was inspected, cataloged, repaired or replaced. Slow, methodical, essential work.
+
+Days blurred together. Cold mornings. Exhausted afternoons. Freezing nights huddled in shared sleeping quarters.
+
+Morale cracked around day five.
+
+Arguments over personal space. Complaints about food rationing. Tempers fraying from cold and confinement.
+
+Ana pulled the senior staff together for crisis management.
+
+"We need to give people purpose," Yuki Tanaka suggested. "Idle hands and cold rooms make for terrible combination."
+
+"What kind of purpose?" Ana asked.
+
+"Work rotations. Everyone helps with something—maintenance, cooking, cleaning, repair assistance." Tanaka pulled up a schedule. "Keep people busy, give them contribution value, make them part of the solution."
+
+They implemented it immediately. Every crew member got assignments. Even non-technical personnel could help with basic tasks, inventory management, meal preparation.
+
+The mood improved marginally. Not happy. But functional.
+
+On day twelve, they hit another crisis.
+
+One of the replacement fuel cells failed quality testing. Microfractures in the housing. Unusable.
+
+"We only brought two spares," Malik reported. "We need this one to work."
+
+"Can you repair it?" Ana asked.
+
+"Maybe. If I can micro-weld the fractures without compromising structural integrity." Malik pulled up the specifications. "It's delicate work. One mistake and we lose the part entirely."
+
+"How long?"
+
+"Three days. Maybe four."
+
+Ana authorized it. What choice did they have?
+
+Malik worked around the clock, using precision tools in the freezing engineering bay. Microscopic welds, molecular bonding, stress testing every repair.
+
+On day fifteen, he emerged with a functional fuel cell.
+
+"It's not pretty," he said. "But it'll work."
+
+The reactor reassembly accelerated. Components reinstalled, systems tested, safety protocols verified.
+
+On day nineteen, they powered up the reactor for initial testing.
+
+It ran. Smoothly. Efficiently. Better than before the failure.
+
+"The repairs actually improved performance," Malik reported, sounding surprised. "We replaced degraded components with fresh ones. It's running at one hundred eight percent of nominal output."
+
+"Can we sustain that?" Ana asked.
+
+"Should be able to. We'll monitor, but yes." Malik pulled up the power projections. "We're back in business."
+
+The colony celebrated quietly. Too exhausted for enthusiasm, but deeply relieved.
+
+Heat returned to personal quarters. Hot water for showers. Lights in secondary areas. Normal power distribution.
+
+Life resumed.
+
+Ana stood in her quarters—now blessedly warm—and reviewed the crisis log. Nineteen days of brutal survival. Zero casualties. Mission accomplished through teamwork and determination.
+
+Dr. Hassan appeared at her door. "Commander, I'd like to resume work at the archaeological site."
+
+"Eager to get back to science?"
+
+"Eager to think about something other than survival." Hassan smiled tiredly. "Though I have to admit, the past three weeks proved something important."
+
+"What's that?"
+
+"We can make it. Whatever Mars throws at us, whatever equipment fails, whatever crisis emerges." Hassan gestured at the habitat. "We're stubborn enough to survive anything."
+
+Ana laughed. "That's the Mars spirit. Too stubborn to quit."
+
+"Too stubborn to die."
+
+"Same thing out here."
+
+The colony settled back into routine. Research resumed. Equipment ran reliably. People returned to normal schedules.
+
+The reactor hummed steadily, producing power, sustaining life.
+
+Repaired. Improved. Ready for whatever came next.
+
+Just like the crew that maintained it.
+
+Stubborn. Resilient. Alive.
+
+On Mars, that was enough.
