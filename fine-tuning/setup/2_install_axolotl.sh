@@ -52,8 +52,8 @@ try:
     cuda = torch.version.cuda if hasattr(torch.version, 'cuda') else None
     major, minor = map(int, version.split('.')[:2])
     
-    if major < 2 or (major == 2 and minor < 9):
-        print(f'[ERROR] PyTorch {version} too old - need 2.9.0+')
+    if major < 2 or (major == 2 and minor < 8):
+        print(f'[ERROR] PyTorch {version} too old - need 2.8.0+')
         sys.exit(1)
     
     if not cuda or cuda.split('.')[0] < '12':
@@ -86,7 +86,7 @@ echo ""
 
 # Install compatible dependencies manually
 echo "[INSTALL] Installing compatible dependencies..."
-echo "   transformers, accelerate, datasets, peft, bitsandbytes, trl, etc."
+echo "   transformers, accelerate, datasets, peft, bitsandbytes, trl, torchao, etc."
 pip install \
   transformers \
   accelerate \
@@ -94,6 +94,7 @@ pip install \
   peft \
   bitsandbytes \
   trl \
+  torchao \
   sentencepiece \
   einops \
   scipy \
@@ -119,12 +120,14 @@ import accelerate
 import peft
 import bitsandbytes as bnb
 import trl
+import torchao
 print('[OK] All core imports successful')
 print(f'Axolotl version: {axolotl.__version__}')
 print(f'Transformers: {transformers.__version__}')
 print(f'Accelerate: {accelerate.__version__}')
 print(f'PEFT: {peft.__version__}')
 print(f'TRL: {trl.__version__}')
+print(f'torchao: {torchao.__version__}')
 "
 
 if [ $? -eq 0 ]; then

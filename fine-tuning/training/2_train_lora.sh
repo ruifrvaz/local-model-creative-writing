@@ -40,11 +40,22 @@ export TORCH_CUDNN_V8_API_ENABLED=1
 # Optional: Disable Weights & Biases if not configured
 export WANDB_DISABLED="${WANDB_DISABLED:-true}"
 
+# Suppress harmless PEFT warnings about saving embedding layers
+# (This is expected behavior when lora_modules_to_save includes embed_tokens/lm_head)
+export PYTHONWARNINGS="ignore::UserWarning:peft.utils.save_and_load"
+
+# Create logs directory if it doesn't exist
+mkdir -p logs
+
 # Launch training
 echo "[START] Beginning training..."
 echo "[INFO] Expected time: ~30-60 minutes for 14 samples (pipeline test)"
 echo "[INFO] This is a PROOF-OF-CONCEPT run with minimal data"
+echo ""
+echo "[NOTE] Training output will be shown live AND logged to: logs/training_${RUN_NAME}.log"
+echo ""
 
+# Run with live output AND logging (tee shows live + saves to file)
 python -m axolotl.cli.train "$CONFIG" 2>&1 | tee "logs/training_${RUN_NAME}.log"
 
 EXIT_CODE=${PIPESTATUS[0]}
@@ -52,10 +63,11 @@ EXIT_CODE=${PIPESTATUS[0]}
 if [ $EXIT_CODE -eq 0 ]; then
     echo ""
     echo "[DONE] Training complete!"
-    echo "[INFO] Checkpoints saved to: $(grep 'output_dir:' "$CONFIG" | awk '{print $2}')"
+    echo "[INFO] Checkpoints saved to: checkpoints/$(basename "$CONFIG" .yaml)/"
+    echo "[INFO] Log file: logs/training_${RUN_NAME}.log"
     echo ""
     echo "[NEXT] Merge adapter with base model:"
-    echo "  python training/3_merge_adapter.py --checkpoint <checkpoint_path> --output merged_models/llama-3.1-8b-pipeline-test"
+    echo "  ./training/3_merge_adapters.sh"
 else
     echo ""
     echo "[ERROR] Training failed with exit code $EXIT_CODE"

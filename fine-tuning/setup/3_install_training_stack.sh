@@ -20,7 +20,16 @@ set -euo pipefail
 #   - ~5GB disk space for additional packages
 #   - RTX 5090 or compatible GPU
 #
-# Usage: ./2_install_training_stack.sh
+# WSL USERS: Configure .wslconfig BEFORE running this script!
+#   Flash-attention compilation requires significant memory.
+#   Recommended C:\Users\<username>\.wslconfig:
+#     [wsl2]
+#     memory=48GB
+#     processors=12
+#   Then restart WSL: wsl --shutdown
+#   See: docs/history/2025-11-02_flash_attention_wsl_memory_issue.md
+#
+# Usage: ./3_install_training_stack.sh
 ################################################################################
 
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -87,15 +96,22 @@ else
     echo "   Trying GitHub releases first (~30 seconds if available)..."
     echo "   If no pre-built wheel exists, will compile with ninja (15-20 minutes)"
     echo ""
+    echo "   WSL USERS: If compilation crashes, configure .wslconfig first!"
+    echo "   See: docs/history/2025-11-02_flash_attention_wsl_memory_issue.md"
+    echo ""
     
     # Set CUDA environment and parallel compilation (used if building from source)
     export CUDA_HOME=/usr/local/cuda-12.8
     export PATH=/usr/local/cuda-12.8/bin:$PATH
     export LD_LIBRARY_PATH=/usr/local/cuda-12.8/lib64:$LD_LIBRARY_PATH
     export TORCH_CUDA_ARCH_LIST="8.9"
-    export MAX_JOBS=1  # ULTRA-CONSERVATIVE: Single-threaded to prevent OOM
+    # CRITICAL: MAX_JOBS controls compilation parallelization
+    # Flash-attention compilation uses ~4GB per job. With 48GB WSL allocation,
+    # MAX_JOBS=2 is experimental (may be faster than single-threaded).
+    # If WSL crashes, reduce back to MAX_JOBS=1.
+    # See: docs/history/2025-11-02_flash_attention_wsl_memory_issue.md
     
-    pip install flash-attn --no-build-isolation \
+    MAX_JOBS=2 pip install flash-attn --no-build-isolation \
       --find-links https://github.com/Dao-AILab/flash-attention/releases
     echo "[OK] flash-attention installed"
 fi
