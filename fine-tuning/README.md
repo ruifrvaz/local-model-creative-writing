@@ -88,6 +88,18 @@ fine-tuning/
 
 Fine-tuning uses a **separate virtual environment** (`~/.venvs/finetune`) to avoid polluting the vLLM server environment.
 
+**⚠️ WSL USERS: Configure memory BEFORE installation!**
+
+Flash-attention compilation requires significant RAM. Edit `C:\Users\<username>\.wslconfig`:
+```ini
+[wsl2]
+memory=48GB
+processors=12
+```
+Then restart WSL: `wsl --shutdown` in PowerShell. See `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
+
+**Installation sequence:**
+
 ```bash
 cd fine-tuning/setup
 
@@ -101,6 +113,7 @@ cd fine-tuning/setup
 ./2_install_axolotl.sh
 
 # 3. Install training utilities (15-20 minutes, ~5GB)
+# WARNING: flash-attention compilation takes 15-20 minutes
 ./3_install_training_stack.sh
 ```
 
