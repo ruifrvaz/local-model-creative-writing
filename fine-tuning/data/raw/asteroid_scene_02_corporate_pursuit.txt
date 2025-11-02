@@ -1,0 +1,173 @@
+Chen "Wrench" Liu had the engine torn apart when the proximity alarm sounded.
+
+He didn't look up. Proximity alarms went off twice a day in the belt. Micrometeorites. Ice fragments. Space junk from failed mining operations.
+
+Usually nothing.
+
+"Chen, we have company." Jax's voice carried an edge he didn't like.
+
+He wiped grease from his hands and pulled himself to the bridge. The main screen showed a ship. Big. Corporate configuration. Armed.
+
+"Olympus Resource Corporation," Kayla reported from the pilot station. "Transponder identifies them as survey vessel Carthage."
+
+"They're hailing us," Jax said. "Audio only."
+
+She opened the channel. A smooth corporate voice filled the bridge.
+
+"Independent vessel Neptune's Pride, this is Carthage. We're conducting routine survey operations in this sector. Please transmit your mining claim registration and current cargo manifest."
+
+Routine. Right.
+
+Jax muted the channel. "Chen, how long until we can jump?"
+
+"Jump drive's in pieces on the engine room floor. Six hours minimum. Maybe eight."
+
+"We don't have eight hours." Jax unmuted. "Carthage, this is Captain Torres. We're conducting standard extraction under independent license. No cargo yet. Just arrived on station."
+
+A pause. Then: "Copy that, Pride. Mind if we come aboard? Standard inspection. Shouldn't take more than an hour."
+
+Jax's hand hovered over the comm controls. Chen saw the calculation in her eyes. They could refuse. But that would raise suspicion. And Olympus had guns.
+
+"Sure," Jax said, her voice easy. "We've got nothing to hide. Docking Port 2."
+
+She cut the channel and turned to the crew. "Sofia, secure the vault. Triple encryption. Chen, hide the sample analysis data. Kayla, pull up innocent cargo manifests from our last legitimate run."
+
+"They're going to find the ore," Sofia said.
+
+"They're going to find standard platinum-group concentrations. Nothing special. The unusual element stays buried in the data." Jax pulled up the cargo manifest. "We extracted twelve tons yesterday. That's normal for this region. They can inspect it, analyze it, and find exactly what they expect."
+
+"And if they dig deeper?"
+
+"Then we smile, cooperate, and pray they don't have reason to." Jax straightened her uniform. "Chen, you look guilty. Stop it."
+
+"I am guilty."
+
+"We haven't done anything wrong. We filed proper claims. We're extracting legally. The fact that we found something valuable doesn't give Olympus rights." Jax moved to the airlock. "Sofia, you're with me. Chen, Kayla, stay on the bridge. If things go bad, you jump."
+
+"Without you?" Chen asked.
+
+"Without us. That's an order."
+
+The Carthage docked with a dull clang. Chen watched on the security feeds as two Olympus personnel crossed into their ship. Both in corporate environment suits. Both carrying weapons.
+
+"Standard procedure," Jax said over her comm. "They always come armed in the belt."
+
+The inspection took twenty minutes. The Olympus team checked life support. Scanned the cargo bay. Reviewed the mining equipment.
+
+One of them paused at the vault door. "This area's shielded. What's inside?"
+
+"Radioactive ore storage," Jax said smoothly. "Standard precaution when processing certain asteroid types."
+
+"Open it."
+
+"I'd need to power down the ship first. Magnetic containment interferes with the vault seals. Safety protocol."
+
+The inspector studied her. Chen held his breath.
+
+"How long?"
+
+"Thirty minutes. Maybe forty."
+
+"Not worth the time." The inspector moved on. "Everything looks clean. You're free to continue operations."
+
+They returned to their ship. The airlock sealed. The Carthage undocked and boosted away on maneuvering thrusters.
+
+Chen watched them go. "Too easy."
+
+"Agreed," Jax said over the comm. "Kayla, track them. I want to know where they go."
+
+Five minutes passed. The Carthage maintained distance—exactly ten thousand kilometers. Not leaving. Not approaching. Just watching.
+
+"They're not buying it," Kayla said.
+
+Jax returned to the bridge. "Chen, how's that jump drive looking?"
+
+"Still in pieces. I can have it functional in four hours if I skip safety checks."
+
+"Skip them. Sofia, start preparing the valuable samples for quick transfer. Anything we can carry on our persons."
+
+"We're running?"
+
+"We're being smart. If they know we have something valuable, they'll wait us out. Olympus has resources. Time. Legal authority if they want to use it." Jax pulled up star charts. "We need to jump before they call in reinforcements."
+
+Chen headed back to engineering. The drive components floated around him—antimatter injectors, magnetic confinement coils, quantum field generators. All critical. All requiring precise alignment.
+
+He started reassembly. Fast but careful. One mistake would breach containment. Kill them all before Olympus got the chance.
+
+Two hours passed. The Carthage held position.
+
+"Chen, status?"
+
+"Drive's assembled. Running diagnostics. Twenty minutes."
+
+"We might not have twenty minutes. Carthage is powering weapons."
+
+Chen's hands froze. "They wouldn't. We're legally registered."
+
+"They would. And they'll claim malfunction or accident or whatever story keeps them clean." Jax's voice was tight. "How fast can you get me jump capability?"
+
+"Ten minutes. But without full diagnostics—"
+
+"Do it."
+
+Chen bypassed the safety checks. Initialized the antimatter feed. The drive hummed to life, building charge.
+
+"Jump field forming," he reported. "But it's unstable. Fifty-fifty chance we fragment on transition."
+
+"Better than zero chance against Olympus weapons. Kayla, plot jump coordinates. Anywhere but here."
+
+"Plotting. Recommend Wolf 359. Close enough to minimize time in jump. Far enough to lose pursuit."
+
+"Do it."
+
+The drive charged. Ninety percent. Ninety-five.
+
+The Carthage launched missiles.
+
+"Jump now!" Jax shouted.
+
+Kayla triggered the drive. Reality twisted. The ship groaned. Metal screamed as quantum fields tore at structural supports.
+
+Chen felt his atoms stretching across dimensional barriers. Felt time become meaningless. Felt the universe reduce to probability and mathematics.
+
+Then they were through.
+
+Normal space. Different stars. No Carthage.
+
+"Status?" Jax demanded.
+
+"Hull integrity holding," Kayla reported. "Jump drive offline. We're drifting."
+
+"Chen?"
+
+He pulled himself through the ship, checking systems. The jump had been rough. Conduits ruptured. Power distribution compromised. The drive itself—
+
+"Drive's burned out. We jumped without proper field alignment. The coils are fused."
+
+Silence on the comm. Then Jax: "Can you fix it?"
+
+"Not with what we have on board. We need a shipyard. Or at least proper replacement parts."
+
+"How far are we from civilization?"
+
+Kayla ran calculations. "Wolf 359 has an independent station. Three weeks away at sublight."
+
+Three weeks. Drifting. With a valuable cargo and a burned-out drive. And Olympus probably tracking their jump signature.
+
+"We limp to the station," Jax decided. "Sell what we can. Buy parts. Disappear before Olympus finds us."
+
+Chen looked at the ruined drive components. Three weeks on minimal power. Three weeks exposed. Three weeks hoping their luck held.
+
+He'd survived worse. Barely.
+
+But this time, they had something worth surviving for.
+
+He grabbed his tools and started repairs. Not to the drive. That was beyond saving. But to life support. Power systems. The critical infrastructure that would keep them alive until they reached safety.
+
+One component at a time. One system at a time.
+
+The independent way. The only way they knew.
+
+And somewhere behind them, Olympus searched. Patient. Determined. Inevitable.
+
+The race was on.

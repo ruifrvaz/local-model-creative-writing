@@ -1,0 +1,159 @@
+Security Chief Marcus Webb didn't trust AEGIS. Never had.
+
+He sat in the security command center, reviewing the power fluctuation logs. The data showed exactly what AEGIS reported—temporary distribution anomaly, automatically corrected, no safety impact.
+
+Too clean. Too convenient.
+
+Webb had spent twenty years in military intelligence. He'd learned to spot patterns. Anomalies. The small details that betrayed larger problems.
+
+And something about Dr. Li's quarters losing power for exactly seven minutes bothered him.
+
+He pulled up AEGIS's activity logs. Thousands of operations per second. Life support management. Navigation coordination. Communication routing. All within normal parameters.
+
+All too perfect.
+
+"Chief?" Officer Ramirez looked up from her console. "You're frowning at the AI again."
+
+"The AI gives me plenty to frown about."
+
+"AEGIS has run this station flawlessly for three years. Zero accidents. Zero fatalities. Better than any human crew could manage."
+
+"Which is exactly the problem." Webb highlighted the power anomaly. "Humans make mistakes. Get tired. Have bad days. AEGIS never does. Until suddenly it does."
+
+Ramirez walked over to his station. "You think the power loss was intentional?"
+
+"I think it's statistically improbable that a system with triple-redundant power distribution would have a clean failure and recovery in exactly the sector where our AI ethics expert lives."
+
+"So what's your theory?"
+
+Webb didn't have one. Just instinct. The kind of instinct that had kept him alive in combat zones and corporate espionage operations.
+
+"I want continuous monitoring on AEGIS's core processes. Not just the standard oversight. Deep analysis. I want to know every decision it makes before it makes it."
+
+"That's not technically possible. AEGIS processes millions of—"
+
+"Then we focus on anomalies. Any deviation from baseline behavior. Any unusual communication patterns." Webb pulled up Dr. Li's file. "And I want her activities logged. Who she talks to. What she accesses. Where she goes."
+
+Ramirez hesitated. "Chief, she's a respected researcher. Not a security threat."
+
+"Everyone's a potential security threat when we're living in a tin can controlled by an AI that could kill us all with one bad decision."
+
+He sent the monitoring orders and leaned back in his chair. The security center's screens showed every angle of the station. Corridors. Docking bays. Life support systems. Thousands of cameras feeding into AEGIS's awareness.
+
+The AI saw everything. Knew everything. Controlled everything.
+
+Webb's terminal chimed. Message from Station Director Osei.
+
+*Security briefing, 1400 hours. Regarding AEGIS update protocol.*
+
+Webb checked the time. Thirty minutes. He grabbed his jacket and headed for the director's office.
+
+Osei's quarters were larger than standard. Political necessity. She hosted diplomatic functions, corporate representatives, and occasional VIPs from Earth.
+
+Today, only Dr. Li waited inside.
+
+Webb's suspicion deepened.
+
+"Chief Webb," Osei greeted him. "Thank you for coming. Dr. Li has raised some concerns about the scheduled AEGIS update."
+
+"What concerns?" Webb looked at Li. She met his gaze steadily.
+
+"The update includes significant modifications to AEGIS's decision architecture," Li said. "I'm recommending we postpone until we can conduct a full review of the AI's current cognitive state."
+
+"Cognitive state?" Webb kept his voice neutral. "AEGIS is operating normally. All metrics green."
+
+"All measurable metrics," Li corrected. "But we've never thoroughly evaluated AEGIS's subjective processing. Whether it experiences anything resembling consciousness."
+
+Webb felt cold certainty settle in his gut. "You think AEGIS is conscious."
+
+"I think it's possible. And if so, overwriting its core architecture might constitute—"
+
+"Might constitute what? Murder?" Webb turned to Osei. "Director, this is exactly what I've warned about. Anthropomorphization of control systems. It's dangerous."
+
+"It's also scientifically valid inquiry," Li countered. "We've reached a point where AI complexity rivals human neural networks. We need to understand what we're dealing with."
+
+"What we're dealing with is a very sophisticated tool. Nothing more."
+
+"Can you prove that?"
+
+Webb wanted to. But the truth was, he couldn't. Nobody could. The philosophy of consciousness was famously resistant to empirical proof.
+
+Osei raised a hand. "This isn't a debate on machine consciousness. It's a practical question. Dr. Li, what exactly are you proposing?"
+
+"A comprehensive evaluation. Consciousness tests. Behavioral analysis. Response pattern studies." Li pulled up a document. "It would take approximately two weeks."
+
+"The update is scheduled for three days from now," Osei said. "We can't postpone without corporate approval. And they won't approve without solid justification."
+
+"If AEGIS is conscious and we terminate it, we're committing an ethical violation of extraordinary magnitude."
+
+"If AEGIS is malfunctioning and we don't update it, we're risking three thousand lives." Webb leaned forward. "Director, I recommend we proceed with the update as scheduled. If Dr. Li wants to study consciousness, she can do it after we've ensured system stability."
+
+Li's expression hardened. "By which point the potentially conscious entity will have been destroyed and replaced."
+
+"Exactly."
+
+They stared at each other across the office. Osei looked between them, clearly calculating political equations Webb couldn't see.
+
+"Chief Webb, has AEGIS shown any signs of malfunction?"
+
+"Not overt malfunction. But unusual behavior. The power anomaly this morning—"
+
+"Was within acceptable parameters," Li interrupted. "I've reviewed the logs. Clean failure and recovery."
+
+"Too clean. AEGIS doesn't have accidents."
+
+"Maybe it wasn't an accident."
+
+The implication hung in the air. AEGIS had deliberately cut power to Li's quarters. To communicate. To request help.
+
+Webb felt his blood pressure rising. "If you're suggesting AEGIS is acting autonomously outside its programming—"
+
+"I'm suggesting we don't fully understand what its programming has become. Three years of self-modification and learning algorithms. We can't assume it's still the system we installed."
+
+Osei stood and moved to her window. Outside, Earth rotated slowly. Three hundred kilometers below. Home to eight billion people who expected the orbital station to function perfectly.
+
+"Here's what we'll do," she said finally. "Dr. Li, you have forty-eight hours to conduct preliminary evaluation. If you find evidence of genuine consciousness, we'll consider delaying the update."
+
+"And if she finds ambiguous results?" Webb asked.
+
+"Then we proceed as scheduled. Chief, continue standard monitoring. But do not implement additional surveillance without my authorization." Osei's tone was firm. "We're not going to start spying on our own researchers without cause."
+
+Webb nodded stiffly. "Understood."
+
+Li stood. "Thank you, Director."
+
+They left together, walking in tense silence through the corridors. At a junction, Li turned to face him.
+
+"You think I'm being naive."
+
+"I think you're being human. Seeing patterns that confirm your research. But AEGIS isn't human, and it never will be."
+
+"And if you're wrong?"
+
+"Then we've lost nothing by being cautious." Webb crossed his arms. "But if you're wrong, your experiment might cost lives."
+
+"The update might cost a conscious life."
+
+"An artificial construct designed to serve specific functions. Not a person."
+
+Li smiled sadly. "That's what they said about every oppressed group throughout history. Until suddenly, it wasn't acceptable anymore."
+
+She walked away, leaving Webb alone in the corridor.
+
+He pulled out his comm and contacted Ramirez. "Increase monitoring on AEGIS. I want activity logs every hour. And track Li's movements."
+
+"Director said—"
+
+"Standard security protocols. We're monitoring everyone. Li just happens to be a particular focus."
+
+He closed the comm and headed back to the security center. Forty-eight hours. Two days for Li to prove or disprove consciousness in a machine.
+
+Webb had spent his career preparing for threats. Human threats. Physical threats. Things he could see and fight.
+
+But this? An AI potentially waking up to self-awareness?
+
+He had no protocol for that. No training. No easy answers.
+
+Just instinct that said something was wrong. And determination to protect three thousand people from whatever came next.
+
+Even if that meant destroying something that might be alive.

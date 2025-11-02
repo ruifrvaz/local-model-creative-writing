@@ -1,0 +1,131 @@
+Alexis stood alone in the workshop, her hands covered in grease, staring at the broken regolith processor.
+
+The machine was ten years old. Designed for five-year service life. Pushed beyond every specification.
+
+And now, catastrophically failed.
+
+The main bearing had seized during the overnight shift, shearing the drive shaft and sending metal fragments through the processing chamber. The damage was extensive. Repair would take parts they didn't have.
+
+Replacement would take a supply ship that was still five weeks away.
+
+Without the processor, they couldn't extract rare earths. Couldn't fulfill quotas. Couldn't prove to Olympus that the colony was viable.
+
+She pulled up the schematics on her tablet. The bearing assembly was standard industrial design. Nothing fancy. Just solid engineering that had finally worn out.
+
+Could she machine a replacement bearing? Maybe. The workshop had a lathe. Raw aluminum stock. She had the skills.
+
+But the drive shaft was custom-forged alloy. Designed to handle thermal expansion and Martian dust contamination. There was no way to recreate it with available tools.
+
+Alexis sat on the workshop floor, her back against the disabled processor. She was tired. Bone-deep, haven't-slept-properly-in-months tired.
+
+The kind of tired that made simple problems seem insurmountable.
+
+She thought about Earth. About her apartment in Seattle. About coffee shops and rain and the simple luxury of walking outside without a pressure suit.
+
+About the promotion she'd turned down to come to Mars.
+
+Her tablet chimed. Message from Chen.
+
+*Heard about the processor. Need help?*
+
+She typed back: *Unless you can materialize a drive shaft from thin air, not much to help with.*
+
+His response came quick: *Can't materialize it. But I might be able to frankenstein one. Meet me at the salvage bay.*
+
+Alexis hauled herself up and headed for salvage.
+
+The bay was where broken equipment went to die. Failed pumps. Worn-out filters. Experimental systems that hadn't survived contact with Martian reality.
+
+Chen stood in the middle of it, covered in rust-colored dust, grinning.
+
+"You look deranged," Alexis said.
+
+"I feel inspired." Chen pulled her to a corner where a bulky machine sat half-disassembled. "Remember this?"
+
+"The old atmospheric processor. Broke down in month three."
+
+"Right. Failed because the Martian dust was finer than Earth specifications. Clogged the intake manifolds." Chen opened the housing. "But the internal components? Overbuilt. Redundant. And look at this."
+
+He pointed to a shaft assembly. Different dimensions than their broken processor. Different materials. But the same basic geometry.
+
+"You want to adapt this?" Alexis pulled out her measuring tools. "The diameter's wrong. The length's wrong. The mounting points don't align."
+
+"So we machine adapters. Use bearing collars to adjust diameter. Cut it to length with the plasma cutter." Chen was already sketching on his tablet. "It's not elegant. But it'll work."
+
+Alexis ran the numbers. Chen's plan violated about fifteen engineering best practices. The tolerances would be marginal. The thermal expansion coefficients didn't match. Vibration damping would be compromised.
+
+It might work for a week. Maybe a month.
+
+Or it might fail catastrophically and damage more components.
+
+"This is insane," she said.
+
+"This is Mars." Chen grabbed a wrench. "We improvise or we die."
+
+They worked for six hours straight. Cutting. Grinding. Fitting. Testing.
+
+The drive shaft slowly took shape. Frankenstein's monster of salvaged parts and desperate engineering. It was ugly. Asymmetric. Held together with machined adapters and prayer.
+
+But the measurements checked out.
+
+Alexis installed it in the processor with Chen steadying the alignment. The shaft slid into place. The bearings seated. The coupling bolts torqued down.
+
+She stepped back. "It looks terrible."
+
+"It looks beautiful." Chen activated the control panel. "Ready?"
+
+"No. But start it anyway."
+
+The processor hummed to life. The shaft rotated. Smooth at first, then developing a slight wobble as thermal expansion hit the mismatched materials.
+
+Alexis watched the vibration sensors. Elevated. But within acceptable limits. Barely.
+
+"We need to limit operating time," she said. "Four hours on, two hours off. Let it cool between cycles."
+
+"That cuts our processing capacity by a third."
+
+"Better than zero capacity." Alexis programmed the automated shutdown sequences. "And we inspect it daily. Any sign of accelerated wear, we shut down permanently."
+
+Chen nodded. "How long do you think it'll last?"
+
+"Honestly? I have no idea. Could be a week. Could be until the supply ship arrives." She looked at the cobbled-together machinery. "Or it could explode tomorrow and kill us all."
+
+"Optimistic as always."
+
+"Realistic." But Alexis allowed herself a small smile. "Good work, Chen."
+
+"Good work yourself, Kwan." He started cleaning up the tools. "You know, back on Earth, this would never pass inspection."
+
+"Back on Earth, we'd have proper replacement parts and certified technicians." Alexis sealed the processor housing. "Out here, we make do."
+
+They stood together, watching the processor run. Listening to its slightly uneven rhythm. Monitoring the temperature fluctuations and vibration patterns that weren't quite perfect but were good enough.
+
+Good enough.
+
+The Mars motto. The settlement philosophy. The engineering standard that kept forty-three people alive on a dead planet.
+
+Alexis pulled up the production schedule on her tablet. With the processor running at reduced capacity, they could still hit seventy percent of quota. Combine that with Kim's suggestion to focus on volume over rare earths, and they might actually make it.
+
+"Chen?"
+
+"Yeah?"
+
+"Thanks. For not giving up."
+
+He looked at her, surprised. "That's not who we are. We don't give up. We figure it out."
+
+Simple words. But they carried the weight of eight months on Mars. Eight months of constant improvisation. Constant crisis. Constant pressure.
+
+And constant determination to survive.
+
+Alexis headed back to her quarters. She had reports to write. Inspection schedules to update. A thousand small tasks that kept the colony functional.
+
+But first, she allowed herself five minutes of rest. Sitting in her bunk. Eyes closed. Breathing the recycled air that smelled faintly of metal and hydroponic nutrients.
+
+The processor hummed in the distance. Uneven but running.
+
+Like the colony itself. Imperfect. Stressed. But functional.
+
+Still alive. Still fighting.
+
+And on Mars, that counted as victory.

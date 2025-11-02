@@ -1,0 +1,139 @@
+The dust storm hit at local noon, turning the sky from salmon to rust to black in ninety seconds.
+
+Alexis watched it approach from the observation dome. The wall of dust was three kilometers high, moving at sixty kilometers per hour. Inside that cloud, visibility would drop to zero and static electricity would fry unshielded electronics.
+
+"All personnel, storm protocol," she announced over the habitat comm. "Seal external hatches. Secure loose equipment. This is not a drill."
+
+The colony had weathered five major storms in eight months. This one looked bigger.
+
+She pulled up the weather satellite feed. The storm stretched four hundred kilometers across, a massive system spawned by temperature differentials between Mars's equator and poles. It would hit them in fifteen minutes.
+
+"Kwan, this is Rivera." The Commander's voice cut through the comm. "Status on the solar arrays?"
+
+"Tilting to minimum profile now." Alexis watched the panels rotate on her screen, angling edge-on to the wind. "But Commander, we're going to lose power. The dust will block ninety percent of solar input."
+
+"How long can we run on batteries?"
+
+"Forty-eight hours at full consumption. Longer if we go to emergency protocols."
+
+"Do it. Cut power to non-essential systems."
+
+Alexis started shutting down modules. The greenhouse first—the plants could survive darkness for a few days. Then the workshop. The recreation dome. The research lab.
+
+She left life support, communications, and the command center. Bare minimum for survival.
+
+The habitat's lighting dimmed to emergency levels. Around her, the hum of ventilation fans dropped to a whisper.
+
+Through the observation dome, the dust wall loomed. It looked solid, like a physical thing instead of particulate matter suspended in thin atmosphere.
+
+Alexis sealed the dome's shutters and headed for the command center. The storm would be loud. Violent. But the habitat was built for this. Reinforced polymer walls rated for winds up to two hundred kilometers per hour. Sealed airlocks. Redundant structural supports.
+
+They'd survive.
+
+Probably.
+
+She reached the command center as the storm hit. The sound was immediate—a roar like standing inside a jet engine. The habitat shuddered. Somewhere in the southern modules, something metallic shrieked as wind found a loose fitting.
+
+"Pressure holding," Yuki reported from her station. "All seals intact."
+
+Rivera stood at the main screen, monitoring structural stress indicators. "Module C is showing elevated vibration."
+
+"That's where we replaced the water recycler," Alexis said. "The emergency membrane installation. I didn't have time to fully torque the mounting bolts."
+
+"Will it hold?"
+
+Alexis pulled up the engineering specs. The recycler weighed six hundred kilos fully loaded. The mounting bolts were rated for three times that in optimal conditions. But vibration could work them loose. And a six-hundred-kilo machine breaking free in a sealed habitat could kill people.
+
+"I need to secure it," she said.
+
+Rivera looked at her. "In this storm?"
+
+"The Module C corridor is interior. No external exposure. I can reach the recycler bay without going outside."
+
+"Do it. Take someone with you."
+
+Alexis grabbed her toolkit and headed out. Chen "Wrench" Liu—no relation to the Asteroid Mining Chen, just unfortunate coincidence—met her at the airlock.
+
+"Heard you need a hand," he said.
+
+Chen was the colony's best improviser. If something broke, he could fix it with duct tape and optimism. Exactly the kind of person Alexis wanted backing her up.
+
+They cycled through to Module C. The corridor vibrated beneath their feet, the walls transmitting the storm's fury. Emergency lights cast everything in red.
+
+The recycler bay was worse. The main unit shook against its mounting bolts, the vibration creating a deep bass rumble that Alexis felt in her chest.
+
+"We need to torque these down before the threads strip," she said, pulling out her power wrench.
+
+Chen grabbed the stabilizer bars. "On three. One. Two."
+
+They worked in practiced synchronization. Alexis tightening bolts while Chen held the unit steady. The storm roared outside, shaking the habitat like a toy.
+
+Halfway through, one of the mounting brackets cracked.
+
+The sound was sharp even over the storm noise. The recycler lurched sideways. Chen threw his weight against it, muscles straining.
+
+"We've got a problem!" he shouted.
+
+Alexis looked at the crack. Metal fatigue. The bracket had been stressed beyond its design limits, probably by thermal expansion and contraction from Mars's extreme temperature swings.
+
+"I need to weld it," she said.
+
+"In a pressurized module? The fumes—"
+
+"Will be contained if we work fast." Alexis was already pulling out her portable welder. "Yuki, this is Kwan. Shut down ventilation to Module C. We're doing emergency welding."
+
+"Copy that. Ventilation offline in thirty seconds."
+
+Chen braced the recycler while Alexis heated her welder. The bracket needed a full seam weld, something that would normally take twenty minutes of careful work.
+
+She had five minutes before carbon monoxide buildup became dangerous.
+
+The torch ignited with a sharp hiss. Alexis positioned the bracket and started welding. Metal glowed red, then white. The seam formed slowly, molten steel flowing into the crack.
+
+Her hands were steady. They had to be. One mistake and the weld would fail. The recycler would break free. And forty-three people would lose their water supply.
+
+Three minutes. The seam was half complete.
+
+Four minutes. Three-quarters.
+
+Chen's face was pale. The air tasted metallic.
+
+Five minutes. Done.
+
+"Yuki, restart ventilation!"
+
+Fresh air flooded the bay. Alexis tested the weld with her wrench. Solid. The bracket held.
+
+Chen slumped against the wall, breathing hard. "That was too close."
+
+"Welcome to Mars. Where nothing stays fixed and the only constant is crisis management."
+
+They finished securing the recycler's mounting bolts, this time adding redundant supports. By the time they were done, the storm's roar had diminished to a harsh whisper.
+
+Alexis checked her tablet. Twenty-two hours had passed. The storm was moving on.
+
+They cycled back to the command center. Rivera looked up from her screens.
+
+"Recycler secure?"
+
+"For now. But Commander, we need to inspect every mounting bracket in the habitat. If one failed, others could too."
+
+"Add it to the list." Rivera pulled up the maintenance schedule. "Right after we clean solar panels, repair the antenna array, and fix whatever the storm damaged."
+
+Alexis studied the growing task list. Each item represented hours of work. Some required EVA in hostile conditions. All of them critical.
+
+"We're running on fumes," she said quietly.
+
+"We run on fumes until the supply ship arrives. Then we request additional support staff." Rivera's expression was tired but determined. "Mars doesn't give us breaks. So we don't take them."
+
+Alexis nodded. Outside, the storm receded, leaving the landscape coated in a fresh layer of rust-red dust.
+
+Another crisis survived. Another patch job complete.
+
+And somewhere in the back of her mind, a question grew: How many times could they patch things before something critical failed beyond repair?
+
+She pushed the thought away and pulled up the mounting bracket inspection schedule.
+
+One problem at a time. Always one problem at a time.
+
+That was the Mars way.

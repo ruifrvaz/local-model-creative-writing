@@ -1,0 +1,97 @@
+The alarm cut through Alexis Kwan's sleep like a blade. She was upright before her brain fully engaged, fingers already reaching for her tablet.
+
+Water system. Red alert. Module C.
+
+She pulled on her coveralls and hit the corridor at a run. The habitat's dim night-cycle lighting cast everything in blue shadows. Her boots echoed on the metal grating.
+
+"Talk to me, Yuki," she said into her comm.
+
+Yuki Tanaka's voice crackled back, tight with stress. "Reverse osmosis membrane failure in primary recycler. We're losing water at forty liters per hour."
+
+Forty liters. On Mars, that might as well be forty thousand. Every drop was precious. Every molecule accounted for.
+
+Alexis reached Module C in ninety seconds. The recycling bay was chaos—steam venting from emergency relief valves, red warning lights painting everything the color of blood. Yuki stood at the main console, her hands flying across holographic controls.
+
+"Status?" Alexis asked.
+
+"Membrane's torn. Don't know how yet. Backup filtration is holding, but we're operating at sixty percent capacity." Yuki pulled up the damage assessment. "If we don't fix this in twelve hours, we'll have to ration drinking water."
+
+Alexis moved to the primary recycler. The unit was three meters tall, a cylinder of brushed steel and transparent polymer. Inside, water flowed through layers of filtration—mechanical, chemical, biological. The reverse osmosis stage was the final purification, stripping out the last contaminants.
+
+She opened the maintenance panel. The membrane was a delicate sheet of engineered polymer, designed to last five years. They'd installed it eight months ago.
+
+It was shredded.
+
+"This isn't wear and tear," Alexis said, running her gloved fingers along the torn edges. "Something punctured it from inside."
+
+Yuki joined her at the panel. "From inside? That's impossible. The pre-filters would've caught anything solid."
+
+"Look at the tear pattern." Alexis held up her tablet, taking microphotos. "Clean edges. Whatever did this was sharp. And small enough to pass through the primary filters."
+
+They stared at each other, the implications settling like Martian dust.
+
+"We need to check the water source," Alexis said quietly.
+
+The habitat pulled water from subsurface ice deposits three hundred meters below the surface. Borehole extractors melted the ice, pumped it up through insulated pipes. The ice was supposed to be pure—frozen for millions of years, sterile, safe.
+
+Supposed to be.
+
+Alexis pulled up the borehole sensor logs. Temperature, pressure, mineral content. Everything normal. Except—
+
+"There." She zoomed in on the mineral analysis. "Trace silicates. Concentration's been increasing over the last week."
+
+"Sand?" Yuki frowned. "How would sand get into subsurface ice?"
+
+"Not sand. Look at the crystalline structure." Alexis enhanced the image. "These are sharp. Microscopic. Like glass shards."
+
+"Volcanic ash?"
+
+"Maybe. Or something else." Alexis saved the data to her personal drive. "Either way, it's destroying our recycling system. And if it's in the water supply..."
+
+"It's in everyone who drank water today." Yuki's face went pale. "Should we tell Rivera?"
+
+Alexis weighed the options. Commander Rivera would have to notify Earth. Earth would demand answers. The corporate board would panic. And Olympus Resource Corporation, which owned their mining rights, would use any excuse to shut down independent operations.
+
+But people's health was non-negotiable.
+
+"Yes," Alexis said. "But first, we fix the immediate problem. Swap in the emergency membrane. That'll buy us time to analyze these contaminants properly."
+
+They worked in synchronized silence, years of partnership making words unnecessary. Alexis handled the mechanical connections while Yuki monitored the fluid dynamics. The emergency membrane slid into place with a satisfying click.
+
+"Pressurizing system," Yuki said. "Flow rate stabilizing. We're back to eighty-five percent capacity."
+
+"Good enough for now." Alexis sealed the maintenance panel. "How long before the next scheduled replacement?"
+
+"We've got two spare membranes. At current contamination rates..." Yuki ran the numbers. "Six weeks. Maybe eight if we're lucky."
+
+"And then?"
+
+"Then we either solve this problem or start rationing water on a planet where we can't exactly walk to the next town for supplies."
+
+Alexis looked at the sensor data again. The silicate concentration was small. Parts per million. But even small concentrations could be deadly when they accumulated in lungs, kidneys, blood.
+
+She thought of the forty-three people sleeping in the habitat modules. Engineers, scientists, support staff. All depending on systems working perfectly in an environment that killed unprotected humans in ninety seconds.
+
+"I'll draft the report for Rivera," Alexis said. "You analyze those contaminants. I want to know exactly what we're dealing with."
+
+"And if it's something dangerous?"
+
+"Then we deal with it. Same as every other problem on Mars." Alexis managed a tired smile. "One crisis at a time."
+
+Yuki nodded and turned back to her console. Alexis headed for her quarters, already mentally composing the report. They'd built this colony to last. To prove humanity could establish permanent settlements beyond Earth.
+
+But Mars had other plans. It always did.
+
+The planet was teaching them, slowly and painfully, that survival meant more than engineering. It meant adaptation. Flexibility. And the willingness to face problems nobody had anticipated.
+
+Alexis pulled up the habitat's water consumption logs. Forty-three people, ten thousand liters per week. Every shower, every meal, every flush of the toilet. All recycled, reprocessed, reused.
+
+And now, potentially contaminated with microscopic glass that could shred membranes and lungs alike.
+
+She started typing the report. Rivera would want recommendations. The board would want cost projections. Earth would want assurances.
+
+Alexis would give them reality.
+
+Mars didn't care about budgets or timelines. It cared about physics and chemistry and the hard math of survival.
+
+And right now, the math was getting complicated.

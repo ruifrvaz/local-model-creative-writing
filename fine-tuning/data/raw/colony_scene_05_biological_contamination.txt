@@ -1,0 +1,147 @@
+Yuki Tanaka found the contamination at 0400 hours, during her routine air quality check.
+
+Spores.
+
+Biological. Airborne. Unidentified.
+
+She ran the sample through the analyzer three times. Same result. The habitat's air contained microscopic fungal spores at a concentration of forty parts per billion.
+
+Not enough to be immediately dangerous. Enough to be terrifying.
+
+Mars was supposed to be sterile. Lifeless. The regolith samples had shown no biological activity. The subsurface ice had tested clean. Every protocol they'd followed assumed a dead planet.
+
+So where were the spores coming from?
+
+Yuki pulled up the air circulation logs. The contamination was concentrated in Modules B and C. Atmospheric processing, food storage, and the greenhouse.
+
+The greenhouse.
+
+She grabbed her tablet and headed for the agricultural dome. The facility occupied the colony's largest pressurized space—a fifty-meter geodesic structure filled with hydroponic systems, LED grow lights, and carefully controlled atmosphere.
+
+The plants were Earth-origin stock. Lettuce, tomatoes, beans, wheat. Each one tested and certified before launch. Each one supposedly free of contaminants.
+
+Yuki cycled through the airlock. The greenhouse smell hit her immediately—rich earth, living chlorophyll, humidity. It smelled like home.
+
+She moved through the rows of plants, searching for anything abnormal. The lettuce looked healthy. The tomatoes showed good fruit development. The bean plants climbed their support structures exactly as expected.
+
+Then she reached the wheat section.
+
+Black mold covered the lower stalks. Not the normal agricultural fungi. Something darker. More aggressive. The contamination spread in fractal patterns, like frost on glass.
+
+Yuki took samples with sterile swabs. The mold was warm to the touch. Growing fast. She could almost see it expanding as she watched.
+
+She bagged the samples and ran for the lab.
+
+Dr. Sarah Kim met her there, already suited up in biological containment gear.
+
+"Yuki showed me your air quality alert," Kim said. "Spores?"
+
+"Fungal. Unidentified. And it's all over the wheat crop."
+
+They worked in synchronized silence. Yuki prepared slides while Kim initialized the microscope. The first image appeared on the screen.
+
+The spores were beautiful. Geometric. Each one a perfect dodecahedron with delicate tendrils extending from the vertices.
+
+Also completely unknown to any Earth taxonomy.
+
+"This isn't from our seed stock," Kim said quietly.
+
+"Then where?"
+
+Kim pulled up the greenhouse environmental logs. Temperature, humidity, atmospheric composition. All nominal. But the irrigation system—
+
+"Look at this. Water consumption spiked three days ago. Twenty percent above normal."
+
+Yuki felt her stomach drop. "The new borehole. Omar's team drilled it Tuesday."
+
+They looked at each other, understanding dawning.
+
+The subsurface ice wasn't sterile. It was contaminated with dormant Martian biology.
+
+And they'd been pumping it through their entire water system for seventy-two hours.
+
+"We need to shut down the water supply," Yuki said. "Now."
+
+Kim was already on her comm. "Rivera, this is Kim. We have a biological containination situation."
+
+The Commander's response was immediate. "Explain."
+
+"Possible Martian microorganisms in the water system. Unknown species. Potentially hazardous."
+
+"Shut it down. All water sources. I want every drop tested before anyone drinks anything."
+
+Kim closed the comm and looked at Yuki. "How much water did we distribute from the new borehole?"
+
+Yuki pulled up the logs. "Approximately eight thousand liters. Used for irrigation, drinking water, food prep, and hygiene."
+
+"So everyone's been exposed."
+
+"Potentially. But the spores are only showing up in the greenhouse so far."
+
+"Because that's the perfect growth environment. Humidity, warmth, organic material." Kim started preparing more samples. "The question is whether they're pathogenic to humans."
+
+Yuki thought about the spores' structure. The geometric precision. The rapid growth rate. Nothing on Earth grew that fast or that organized without significant evolutionary pressure.
+
+What evolutionary pressure existed on Mars?
+
+"We need to test crew health," she said.
+
+Kim was already moving. "I'll start blood work. You analyze the water samples. I want to know if the spores are viable in drinking water or just irrigation systems."
+
+They split up. Yuki returned to her lab and began testing water from different sources. Tap water. Recycled water. Fresh borehole extraction.
+
+The spores were everywhere. In every sample. Dormant in cold water. Activating in warm.
+
+The microscope showed them responding to temperature changes in real-time. Below ten degrees Celsius, they formed protective cysts. Above twenty degrees, they germinated.
+
+Human body temperature was thirty-seven degrees.
+
+Yuki ran a simulation. If the spores entered human lungs, they'd find perfect conditions. Warm. Moist. Rich in organic material.
+
+They'd grow fast.
+
+Her comm chimed. Kim's voice was tight. "We have a problem. Checking crew vitals. Three people showing elevated white cell counts."
+
+"Who?"
+
+"Park, Chen, and Rivera."
+
+The three who'd worked closest to the new borehole. Who'd helped install the extraction pumps. Who'd been exposed to splash contamination.
+
+Yuki pulled up her analysis. "The spores are viable in human tissue. Growing conditions optimal at body temperature. We need to start antifungal treatment immediately."
+
+"On what? We don't know what we're treating. These aren't Earth fungi. Our medications might not work."
+
+"They might not kill us either. We have to try something."
+
+Kim was quiet for a moment. Then: "Bring me every antifungal we have in the medical stores. And tell Hassan to seal that borehole. We're not extracting another drop until we understand what we're dealing with."
+
+Yuki gathered the medications and ran for the medical bay. The colony's pharmacological inventory was limited. Basic antibiotics. Standard antivirals. Three types of antifungal agents designed for known Earth pathogens.
+
+Would they work on Martian life? Unknown.
+
+But doing nothing meant letting the contamination spread.
+
+Kim had already drawn blood from the affected crew members. Under the microscope, their samples showed spore infiltration in white blood cells. The fungus was hijacking their immune response.
+
+"Start treatment protocol," Kim ordered. "Broad-spectrum antifungals, maximum safe dosage."
+
+They administered the medications. Park, Chen, and Rivera received injections, then oral medication. The three sat in the medical bay, looking more annoyed than scared.
+
+"How long before we know if it's working?" Rivera asked.
+
+"Twelve hours," Kim said. "Maybe twenty-four."
+
+"And if it doesn't work?"
+
+Kim didn't answer. Because the answer was evacuation. Emergency protocol. Abandon the colony and pray the next rescue mission could save them.
+
+Forty-three people. Twelve hours. Unknown Martian biology.
+
+Yuki returned to her lab. She had work to do. Analysis to complete. Understanding to gain.
+
+Because if the antifungals didn't work, she'd need a better solution.
+
+And Mars, indifferent as always, would keep growing its strange life in the warm spaces humans created.
+
+Whether humanity survived the encounter was entirely up to them.
