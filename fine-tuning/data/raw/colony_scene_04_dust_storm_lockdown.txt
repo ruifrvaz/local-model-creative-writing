@@ -1,0 +1,175 @@
+The dust storm appeared on the horizon like a wall of rust-colored death.
+
+Commander Ana Rivera watched the satellite feed, calculating trajectories and arrival times. Eighteen hours until impact. Maybe less.
+
+"All personnel, this is Command. Dust storm approaching from the northwest. Classification: severe. Implementing lockdown protocols in six hours."
+
+The colony sprang into action. Solar arrays retracted into protective housings. Rovers returned to the garage. External equipment secured or brought inside. They'd drilled for this scenario monthly.
+
+Alexis Kwan was already in the engineering bay, reviewing structural integrity reports. "How bad?"
+
+"Wind speeds approaching two hundred kilometers per hour. Duration estimate: four to six days." Rivera pulled up the damage projections. "We'll lose external power during the storm. Running on batteries and the auxiliary reactor."
+
+"The reactor that's been making that concerning noise for three weeks?"
+
+"That's the one." Rivera's expression was grim. "Can we trust it for six days continuous operation?"
+
+"Define trust." Alexis pulled up the reactor diagnostics. "It'll run. But if it fails, we're looking at cascading power loss across all critical systems."
+
+"So we need a backup plan."
+
+"We need three backup plans." Alexis was already calculating. "I'm shutting down non-essential systems now. Heating in unoccupied sections, secondary labs, the recreation facilities. We consolidate everyone in the main habitats and run lean."
+
+Rivera nodded. "Do it. What else?"
+
+"Rotating blackouts in occupied sections. Four hours on, one hour off. Reduces total power consumption by fifteen percent." Alexis highlighted the critical systems. "Life support stays up continuously. No compromises there."
+
+"Agreed. What about communications?"
+
+"We maintain the link to Earth, but reduce bandwidth. Text-only transmissions during the storm." Alexis pulled up the antenna housing specs. "The main array can survive this. Probably."
+
+"Probably isn't good enough."
+
+"Probably is the best I can offer." Alexis met her eyes. "Mars doesn't deal in certainties, Commander. You know that."
+
+Rivera did. Three years on Mars had taught her that lesson repeatedly.
+
+The next six hours were controlled chaos. Equipment secured, systems optimized, personnel briefed. Hassan supervised the geological instruments, protecting months of research data. Tanaka triple-checked life support redundancies. The whole colony worked as one organism, preparing for the storm.
+
+Alexis spent those hours in the reactor room. The auxiliary unit was smaller than Earth-standard designs—compact, efficient, designed for Martian deployment. Also temperamental and prone to vibrations that shouldn't exist.
+
+She ran every diagnostic she could think of. Fuel cell integrity, cooling system performance, control rod alignment. Everything read nominal.
+
+Everything except the vibration. A low-frequency oscillation that appeared in the containment housing. Not dangerous yet, but trending in the wrong direction.
+
+"Come on," she said to the machine. "Six days. That's all I need. Six days without catastrophic failure."
+
+The reactor hummed, indifferent to her appeals.
+
+Dr. Hassan appeared in the doorway. "Geological equipment is secured. Anything I can do here?"
+
+"Pray to the engineering gods?" Alexis showed him the vibration analysis. "This shouldn't be happening. The mounting bolts are torqued to spec. The housing is properly aligned. But something's resonating."
+
+Hassan studied the data. "What if it's not the reactor? What if it's the foundation?"
+
+"Explain."
+
+"Mars has seismic activity. Low-level, but constant. What if your mounting is picking up vibrations from below?" Hassan pulled up his seismic monitoring data. "Look. There's a correlation. When seismic activity increases, your reactor vibration increases."
+
+Alexis overlaid the datasets. Perfect correlation. "The reactor's fine. It's sitting on a giant tuning fork."
+
+"Can you dampen it?"
+
+"Not in six hours." Alexis checked the timeline. Three hours until lockdown. "But I can monitor it. If the vibration gets dangerous, we shut down and switch to battery reserves."
+
+"How long will batteries last?"
+
+"Twenty-eight hours. Maybe thirty if we're lucky."
+
+Hassan did the math. "Storm duration is four to six days. That's not enough."
+
+"Which is why the reactor needs to keep running." Alexis pulled up the shutdown procedures anyway. "But I want to be ready if we need to pull the plug."
+
+The lockdown alarm sounded precisely on schedule. All external doors sealed. Airlocks disabled. The colony became a fortress, hunkered down against the Martian environment.
+
+Alexis watched through the reinforced viewport as the first tendrils of dust reached the perimeter. The light took on an orange tint, then amber, then a murky brown.
+
+Then nothing. The colony disappeared into the storm.
+
+Power consumption metrics appeared on her display. All systems running as planned. The reactor hummed steadily, vibration present but stable.
+
+"So far so good," she muttered.
+
+The first day passed without incident. Residents adapted to the rotating blackouts, gathering in common areas during their powered hours, retreating to personal quarters during the dark periods.
+
+Alexis maintained her vigil in the engineering bay. Sleep was optional. Reactor monitoring was not.
+
+The vibration began increasing on day two.
+
+Not dramatically. Just a slow, steady climb in amplitude. The seismic activity beneath the colony was intensifying—something about the storm's pressure changes affecting the Martian crust.
+
+Hassan's theory, validated by very inconvenient timing.
+
+"Kwan to Rivera. We have a developing situation."
+
+Rivera appeared in the engineering bay within minutes. "Talk to me."
+
+"Reactor vibration is increasing. Still within safe parameters, but trending wrong." Alexis showed her the projections. "If this continues, we'll hit critical levels in forty-eight hours."
+
+"Can you stabilize it?"
+
+"Not without shutting down and physically reinforcing the mounting. That's a twelve-hour job, and we'd be on batteries the entire time."
+
+Rivera studied the numbers. "Which gives us maybe eight hours of reserve if something goes wrong during the repair."
+
+"Correct."
+
+"That's not enough margin."
+
+"I know." Alexis pulled up alternative scenarios. "We could implement deeper power cuts. Reduce consumption by another thirty percent."
+
+"What would we lose?"
+
+"Heating in personal quarters. Hydroponics lighting cycles. Most communications." Alexis highlighted the systems. "We keep life support and critical infrastructure. Everything else goes dark."
+
+Rivera was quiet for a long time. "The crew isn't going to like this."
+
+"The crew is going to like dying even less." Alexis pulled up the colony-wide announcement system. "I can sell it. Give me five minutes in the common area."
+
+They gathered the crew in the main habitat—forty-seven people, looking tired and worried. The storm had been wearing on everyone.
+
+Alexis explained the situation simply. No technical jargon, no sugar-coating. The reactor was stressed, power had to be cut, everyone would be uncomfortable for a few days.
+
+"How cold?" someone asked.
+
+"Fifteen degrees Celsius in personal quarters. Enough to avoid hypothermia if you bundle up." Alexis pulled up the thermal projections. "Common areas stay heated. We rotate personnel through to warm up."
+
+"What if the reactor fails anyway?"
+
+"Then we pray the storm ends before the batteries die." Alexis met the questioner's eyes. "I won't lie to you. This is serious. But it's manageable if we work together."
+
+The vote was unanimous. Implement the cuts. Do what needed to be done.
+
+Alexis returned to engineering and began shutting down systems. The colony grew darker, colder, quieter. But the power consumption metrics dropped to sustainable levels.
+
+The reactor's vibration stabilized. Not improving, but no longer getting worse.
+
+Day three. Day four. The storm raged outside, invisible through the dust-choked viewports. Inside, the crew huddled in common areas, sharing body heat and stories.
+
+Alexis barely left the engineering bay. Hassan brought her food. Tanaka brought her coffee. Rivera brought her status updates and moral support.
+
+"You're going to burn out," Rivera said.
+
+"I'll sleep when the storm ends." Alexis watched the reactor metrics. "Right now, this is where I need to be."
+
+"The crew trusts you."
+
+"The crew trusts physics and engineering. I'm just the interpreter." Alexis adjusted cooling flow rates. "But I appreciate the sentiment."
+
+Day five. The vibration began decreasing. The seismic activity beneath the colony was settling. The reactor stabilized.
+
+Day six. The storm ended.
+
+Alexis watched through the viewport as the dust settled, revealing the Martian landscape. Solar arrays extended automatically. Power consumption normalized. Heat returned to personal quarters.
+
+The crisis was over.
+
+Rivera appeared with the damage report. "Minor abrasion to the eastern solar array. One communications antenna needs recalibration. Otherwise, we're intact."
+
+"The reactor?"
+
+"Still running. Still vibrating. Still concerning." Rivera smiled slightly. "But alive. Like the rest of us."
+
+Alexis allowed herself to exhale. "That was closer than I'd like."
+
+"Welcome to Mars." Rivera headed for the door. "Get some sleep, Chief. That's an order."
+
+Alexis wanted to argue, but exhaustion won. She dragged herself to her quarters, fell onto the bunk, and slept for fourteen hours.
+
+When she woke, the colony was back to normal operations. People working, systems running, life continuing.
+
+Fragile. Dependent on machines that vibrated mysteriously and weather that could kill in hours.
+
+But alive.
+
+And that was enough.

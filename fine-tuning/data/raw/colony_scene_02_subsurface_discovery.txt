@@ -1,0 +1,159 @@
+The subsurface scanner showed something impossible.
+
+Dr. Omar Hassan stared at the readout, checked his calibration, ran the analysis again. Same result. A cavity two hundred meters below the surface. Empty space where there should be solid regolith.
+
+Natural formation? No. The walls were too smooth. Too regular.
+
+"Kwan, you need to see this."
+
+Alexis Kwan appeared at his shoulder, still wearing her pressure suit from the morning hab inspection. "What am I looking at?"
+
+"Underground anomaly. Three kilometers from the colony perimeter." Hassan expanded the scan. "It's big. Maybe five hundred cubic meters."
+
+"Lava tube?"
+
+"Wrong geology. We're in the wrong region for volcanic activity." Hassan pulled up the comparative analysis. "This is something else."
+
+Alexis studied the data. Her engineering mind already calculating structural implications. "Could it affect our foundations?"
+
+"Not directly. But if there are more of these, we need to know." Hassan saved the scan data. "I'm requesting a surface expedition. Ground-penetrating radar, seismic survey, the full package."
+
+"Rivera's not going to approve that. Not with corporate breathing down her neck."
+
+"Then we don't tell Rivera until after." Hassan met her eyes. "Alexis, if the ground under us is unstable, people need to know."
+
+She was quiet for a long moment. "Fine. But I'm coming with you. If we're risking our careers, might as well make it worth it."
+
+Two hours later, they were in the rover, bouncing across the Martian surface. Yuki Tanaka sat in the back, running environmental monitors. The life support specialist had volunteered without hesitation.
+
+"This is either brilliant or criminally stupid," Tanaka said cheerfully. "I can't decide which."
+
+"Both," Alexis replied. "That's why it's interesting."
+
+The terrain was rough—ancient impact craters overlapping, rocks the size of cars scattered across rust-colored sand. Hassan navigated carefully, keeping the rover's suspension within safe limits.
+
+The anomaly site was unremarkable from the surface. Just another patch of regolith, indistinguishable from the kilometers surrounding it.
+
+Hassan deployed the ground-penetrating radar while Alexis set up the seismic array. Tanaka monitored their oxygen levels and suit integrity. Everything by the book, even if the mission itself was unauthorized.
+
+"Running the scan," Hassan said. "Give me five minutes."
+
+The equipment hummed, invisible waves penetrating the Martian surface. Data began streaming back—density profiles, composition analysis, structural mapping.
+
+The cavity appeared on the display. Larger than the initial scan had suggested. The walls were definitely artificial. Too precise to be natural.
+
+"How old is this?" Alexis asked.
+
+Hassan ran dating algorithms against the surrounding geology. "Difficult to say. The regolith above is consistent with recent deposition—maybe a few thousand years. But the cavity itself?" He paused. "Could be much older."
+
+"Define 'much older.'"
+
+"Millions of years. Possibly more." Hassan expanded the scan. "And there's something else. Look at the depth profile."
+
+The cavity wasn't random. It had structure. Chambers. Corridors. A pattern that suggested purpose.
+
+"That's a building," Tanaka said quietly. "Someone built something under the Martian surface."
+
+The three of them stood in silence, the implications settling like Martian dust.
+
+"We need to tell Rivera," Alexis said finally. "This is bigger than us."
+
+Hassan was already documenting everything. "Agreed. But we also need to protect this data. If corporate gets wind of this before we understand what it is—"
+
+"They'll classify it and bury it." Alexis pulled up her encrypted storage. "Send me everything. I'll make copies, distribute them. If something happens to the originals, the data survives."
+
+They worked quickly. Copying files, encrypting backups, storing them in multiple secure locations. By the time they finished, the sun was setting—what passed for sunset on Mars, the distant star sinking below the horizon.
+
+"What do you think it is?" Tanaka asked. "Ancient Martian civilization?"
+
+"Or ancient human one," Hassan said. "We don't know when or if anyone visited Mars before us."
+
+"That's conspiracy theory nonsense," Alexis countered. "More likely it's a geological formation we don't understand yet."
+
+"Geological formations don't have right angles," Hassan pointed to the scan. "Look at this junction. Perfect ninety-degree corner."
+
+Alexis had to concede the point. "Then we're looking at something that shouldn't exist."
+
+Her wrist comm chirped. Rivera's face appeared, already furious.
+
+"Chief Kwan. Where exactly are you?"
+
+"Three kilometers northeast. Conducting geological survey."
+
+"Unauthorized geological survey. With colony resources. During a maintenance window." Rivera's voice was ice. "Return to base immediately."
+
+"Commander, we've found something. Something significant."
+
+"I don't care if you've found ancient alien artifacts. You violated protocol. Return now, or I'm filing formal charges."
+
+Alexis looked at Hassan, then at the scan data. Ancient alien artifacts. Rivera didn't know how close to the mark she'd hit.
+
+"Acknowledged, Commander. We're on our way."
+
+The drive back was tense. Alexis kept checking the scan data, making sure the files were intact, encrypted, backed up. This was too important to lose to corporate politics.
+
+Hassan was already composing his preliminary report. "I'm recommending a full archaeological survey. Properly authorized, with scientific oversight."
+
+"Corporate will never approve that," Tanaka said. "It would delay expansion. Cost money. They'd rather pretend this doesn't exist."
+
+"Then we make it impossible to ignore." Alexis pulled up her contact list. "I have friends at the International Space Authority. Scientists who care more about discovery than quarterly profits."
+
+"Going over Rivera's head is career suicide," Hassan warned.
+
+"So is sitting on the discovery of the century." Alexis started drafting the message. "Sometimes you have to choose between your career and your conscience."
+
+The colony grew larger on the horizon. Domes and habitats, solar arrays and landing pads. Humanity's fragile foothold on Mars.
+
+Built on top of something older. Something that suggested they weren't the first.
+
+"What if it's not empty?" Tanaka asked suddenly. "The cavity. What if something's still down there?"
+
+Hassan checked his scans. "No thermal signatures. No radiation. If something's there, it's dormant."
+
+"Or waiting," Alexis said.
+
+They pulled into the colony garage in silence. Rivera was waiting, arms crossed, expression thunderous.
+
+"My office. Now."
+
+Alexis followed, Hassan and Tanaka trailing behind. The commander's office was small, functional, dominated by a desk covered in corporate reports and efficiency metrics.
+
+"Explain," Rivera said.
+
+Hassan pulled up the scan data. "We discovered a subsurface structure. Artificial construction. Age unknown but potentially ancient. It represents a significant scientific—"
+
+"Stop." Rivera held up her hand. "I don't want to hear about scientific significance. I want to know why three senior staff members took colony equipment on an unauthorized excursion."
+
+"Because the ground under our feet might not be stable," Alexis said. "Because someone needs to know what's down there."
+
+Rivera was quiet for a long moment. Then she pulled up her own terminal. "Show me everything."
+
+They did. Every scan, every analysis, every piece of data. Rivera absorbed it all, her political mask slipping to reveal genuine scientific curiosity.
+
+"This is real," she said finally. "You're certain?"
+
+"As certain as we can be without direct investigation," Hassan confirmed.
+
+Rivera closed the files. "Then we have a problem. Corporate arrives tomorrow. If they see this data, they'll classify it immediately. Bury it under national security concerns."
+
+"That's exactly what we're trying to prevent," Alexis said.
+
+"I know." Rivera met her eyes. "That's why you're going to keep this quiet. For now. Let me handle corporate. Once they're gone, we'll organize a proper survey."
+
+"Can we trust you?" Hassan asked bluntly.
+
+Rivera smiled without humor. "You just went around my authority. You don't have much choice."
+
+She had a point.
+
+"Fine," Alexis said. "But the data stays secured. Multiple copies, multiple locations. If something happens to us—"
+
+"The truth gets out. I understand." Rivera stood. "Now get some rest. Tomorrow's going to be interesting."
+
+They left, uncertain whether they'd just found an ally or walked into a trap.
+
+But the data was safe. The discovery was documented.
+
+And somewhere beneath the Martian surface, something ancient waited to be understood.
+
+One way or another, the truth would come out.

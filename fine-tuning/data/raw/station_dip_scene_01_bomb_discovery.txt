@@ -1,0 +1,213 @@
+Security Officer Lena Volkov found the bomb during a routine airlock inspection.
+
+Not a sophisticated device. Simple chemical explosive, timer-based detonator, enough destructive force to breach the hull in section seven.
+
+Which happened to be adjacent to the diplomatic conference chambers.
+
+"Station Control, this is Volkov. Code Black. Explosive device located in airlock seven-alpha. Evacuating the section."
+
+Station Director Kwame Nkrumah's voice came back immediately, calm despite the situation. "Copy that. Sealing bulkheads. How much time?"
+
+"Timer shows forty-seven minutes." Lena activated her comm. "Bomb disposal unit to airlock seven-alpha. All non-essential personnel evacuate section seven immediately."
+
+The station alarm system began its measured pulse. Not panic-inducing. Just urgent enough to motivate movement.
+
+Lena stayed with the device, analyzing its construction while the section cleared. Amateur work. Probably assembled from maintenance supplies. But effective enough to kill everyone in three adjacent compartments if it detonated.
+
+The diplomats. The delegates. The fragile peace negotiations that had been inching toward resolution.
+
+Someone wanted those negotiations to fail violently.
+
+"Volkov, status?" Kwame's voice.
+
+"Device appears stable. Standard chemical composition. I can defuse it, but I need to trace its origin first." Lena activated her forensics scanner. "Fingerprints, chemical residue, anything that tells us who built this."
+
+The bomb disposal team arrived—two specialists in full protective gear. Lena briefed them quickly, then stepped back to let them work.
+
+Her scanner had picked up partial fingerprints. She ran them through the station database.
+
+No matches. Whoever planted the bomb had covered their tracks.
+
+But the chemical residue was distinctive. Maintenance-grade explosives, used for controlled demolitions and emergency hull repairs. Limited access. Logged requisitions.
+
+Lena pulled up the supply records. Three recent withdrawals. All authorized. All legitimate.
+
+Except one was for twice the amount needed for the stated purpose.
+
+The name on the requisition: Tech Specialist Diana Reeves. Maintenance crew, assigned to section seven.
+
+Lena activated her comm. "Station Security to Director Nkrumah. Private channel."
+
+"Go ahead."
+
+"I have a suspect. Diana Reeves, maintenance tech. Over-requisitioned explosives two days ago."
+
+"Can you confirm?"
+
+"Circumstantial, but strong. Requesting permission to detain for questioning."
+
+Kwame was quiet for a moment. "She's in the lower engineering bay. Send a team, but quietly. I don't want to spook anyone else who might be involved."
+
+Lena dispatched two security officers with subtle efficiency. No drama, no visible weapons. Just a polite request for Reeves to accompany them for routine questions.
+
+Reeves came willingly. Too willingly.
+
+Lena met them in the interrogation room—a small, functional space designed for uncomfortable conversations.
+
+"Ms. Reeves, you requisitioned maintenance explosives two days ago. Can you account for their use?"
+
+Reeves met her eyes without flinching. "Hull repair in section twelve. Stress fractures required controlled detonation to relieve pressure. All documented in my work logs."
+
+"Those logs show you used half the requisitioned amount. Where's the rest?"
+
+"Returned to supply. Check the inventory."
+
+Lena pulled up the inventory logs. Reeves was right. The excess had been logged as returned.
+
+But the timestamp was wrong. The return had been logged after Lena found the bomb.
+
+"The return was backdated," Lena said. "You updated the logs after I discovered the device."
+
+Reeves smiled. No fear. No guilt. Just cold calculation. "Prove it."
+
+"The system timestamps don't lie."
+
+"Systems can be hacked. Logs can be manipulated." Reeves leaned back. "You have suspicions, Officer Volkov. Not evidence."
+
+Lena studied her. This wasn't amateur panic. This was professional confidence.
+
+"Who are you working for?" Lena asked. "Earth Coalition? The Independent Factions? Corporate interests?"
+
+"I work for the station. That's all you need to know."
+
+"Someone wants the negotiations to fail. Wants the delegates dead. Wants to start a war." Lena pulled up the bomb specifications. "This device would have killed sixty people. Diplomats, staff, civilians. You're talking mass murder."
+
+"I'm talking hypothetically about a device I didn't build." Reeves's expression didn't change. "Unless you have actual evidence, Officer Volkov, I believe this interview is over."
+
+Lena wanted to push. Wanted to break the professional facade and find the real person underneath.
+
+But Reeves was right. Suspicions weren't evidence. And the station's legal framework required proof before detention.
+
+"You're free to go," Lena said. "For now. But I'm watching you."
+
+"Watch all you want." Reeves stood. "You won't find anything."
+
+After she left, Lena pulled up the station surveillance. Tracking Reeves's movements over the past week.
+
+The footage showed normal behavior. Work assignments, meals in the communal dining area, personal time in her quarters. Nothing suspicious.
+
+Too perfect. Too normal.
+
+Lena activated her secure channel. "Director, we have a problem. Reeves is a professional. This isn't her first operation."
+
+"Can you prove she planted the bomb?"
+
+"Not with what I have. But she's too calm. Too prepared. Someone trained her for this."
+
+Kwame appeared in the security office, his expression grave. "The negotiations resume in six hours. All parties are demanding continued talks despite the threat. They see the bomb as proof they need to reach agreement."
+
+"Or proof that someone powerful wants to prevent agreement." Lena pulled up the delegate roster. "Who benefits if these talks fail?"
+
+"Everyone and no one." Kwame gestured at the complex political map. "Earth Coalition wants the Independent Factions to accept oversight. The Independents want autonomy. Corporate interests want both sides fighting so they can profit from the chaos."
+
+"So any of them could be behind this."
+
+"Or all of them. Or none of them—could be a lone actor with a grudge." Kwame studied the surveillance footage. "We need more than suspicion, Lena. We need proof."
+
+Lena reviewed the forensic data. Fingerprints, chemical residue, construction technique. There had to be something she was missing.
+
+Then she saw it.
+
+The timer mechanism. Standard station equipment, but modified. Not dramatically—just a small alteration to the trigger circuit.
+
+She pulled up the technical specifications. The modification was subtle. Something only someone with advanced electronics training would recognize.
+
+And something only someone with access to classified military schematics would know to implement.
+
+Lena ran the modification pattern through her security database. Cross-referencing with known military training programs, covert operations technical signatures, classified equipment profiles.
+
+One match. Earth Coalition Special Operations. Sabotage and disruption protocols.
+
+Reeves wasn't just a professional. She was military intelligence.
+
+"Director, we need to talk. Privately."
+
+Kwame joined her in the secure briefing room. Lena showed him the analysis.
+
+"Reeves is Earth Coalition. Trained operative. The bomb is Coalition work."
+
+Kwame absorbed this. "Earth Coalition is bombing their own negotiations?"
+
+"Or factions within Coalition intelligence are. Not everyone wants peace." Lena pulled up the delegate roster. "Ambassador Chen Wu is Coalition's lead negotiator. If she dies, hardliners take over. War becomes inevitable."
+
+"So this is internal Coalition politics. Using violence to shift policy."
+
+"That's my assessment."
+
+Kwame was quiet for a long time. "If we accuse Reeves without absolute proof, Coalition will deny everything. Claim we're biased toward the Independents. The negotiations collapse anyway."
+
+"And if we do nothing, they try again. Next time they might succeed."
+
+"So we need proof. Undeniable evidence." Kwame pulled up the station monitoring systems. "Can you get it?"
+
+"If I push Reeves, she'll know we're onto her. She'll cover her tracks."
+
+"Then don't push. Watch. Wait for her to make contact with whoever's running her."
+
+Lena nodded slowly. "That's risky. If there's another attack—"
+
+"We prevent it. We increase security, scan everything, make it impossible for another device to be placed." Kwame met her eyes. "But we also give Reeves enough rope to hang herself."
+
+It was dangerous. Calculating. Exactly the kind of political maneuvering Lena had joined station security to avoid.
+
+But it was also the smart play.
+
+"I'll need additional personnel. Surveillance specialists, communications monitoring, forensic support."
+
+"You have them. Whatever you need." Kwame pulled up the negotiation schedule. "Six hours until talks resume. Whatever you're going to do, make it count."
+
+Lena returned to her office and assembled her team. Surveillance on Reeves, monitoring on all Coalition delegation communications, forensic analysis of every system Reeves had accessed.
+
+The pieces started falling into place.
+
+Encrypted messages to an off-station contact. Technical specifications for station systems. Detailed layouts of the diplomatic quarters.
+
+Reeves was definitely reporting to someone. And whoever that someone was, they were planning something bigger than one bomb.
+
+Lena documented everything. Building a case, creating a timeline, tracking the conspiracy.
+
+When the evidence was complete, she brought it to Kwame.
+
+"Reeves is part of a cell. Three operatives total. All Coalition intelligence. They're planning to sabotage the negotiations through violence and blame it on Independent extremists."
+
+"Can you prove it?"
+
+Lena pulled up the communications intercepts. "Every message. Every contact. Every piece of equipment. It's all here."
+
+Kwame studied the evidence. "This goes to Ambassador Chen. Coalition's chief negotiator needs to know her own intelligence service is trying to kill her."
+
+The meeting with Chen was tense. The ambassador listened to the evidence, her expression shifting from skepticism to fury.
+
+"I'll handle this internally," she said finally. "Reeves and her cell will be removed. Quietly."
+
+"With respect, Ambassador, I think the other delegations should know," Lena said. "Transparency builds trust."
+
+Chen considered. "You're right. This is exactly the kind of deception we're supposed to be ending."
+
+She brought the evidence to the full diplomatic session. All parties. Complete transparency.
+
+The reaction was explosive. Anger, suspicion, demands for accountability.
+
+But also, grudgingly, respect for the honesty.
+
+"If Coalition is willing to expose their own operatives," one Independent delegate said, "maybe they're serious about peace."
+
+The negotiations continued. More honestly. More carefully.
+
+Reeves and her cell were arrested. Charged. Tried under Coalition law.
+
+The talks eventually produced an agreement. Not perfect. But real.
+
+And Lena Volkov watched from the security station, satisfied that truth had won out.
+
+This time.

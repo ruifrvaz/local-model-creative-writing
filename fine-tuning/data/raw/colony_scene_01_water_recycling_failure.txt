@@ -1,0 +1,101 @@
+The warning klaxon cut through Alexis Kwan's morning briefing. She dropped her coffee bulb and pulled up the facility status on her wrist display.
+
+Water recycling system three. Critical failure. Pressure dropping fast.
+
+"Hassan, with me." She was already moving toward the access corridor. "Tanaka, get eyes on the backup systems. I want to know if we can reroute."
+
+The engineering bay doors opened automatically, sensors reading her command credentials. The smell hit her first—ozone and hot metal. Not good. Electrical fire somewhere in the processing stack.
+
+Omar Hassan appeared at her shoulder, tools already in hand. "How bad?"
+
+"Bad enough." Alexis pulled up the schematic overlay through her neural interface. System three handled forty percent of the colony's water reclamation. Losing it meant immediate rationing. Maybe worse.
+
+The main processor was a maze of pipes, filters, and membrane arrays. Steam hissed from a ruptured seal near the electrolysis chamber. The temperature gauge was climbing into the red zone.
+
+"Kill the power," Alexis said. "Before something melts that shouldn't."
+
+Hassan worked the manual cutoff—backup systems, nothing digital to fail. The hum died. Emergency lighting kicked in, bathing everything in amber.
+
+Alexis approached the damaged section. The seal had blown completely. Metal fatigue, probably. Mars dust was abrasive, got into everything no matter how many filters they installed. Eventually, it wore through.
+
+"We need to replace the entire membrane stack," she said, running her hands along the housing. The metal was still hot.
+
+"That's a six-hour job minimum. Commander Rivera isn't going to like this."
+
+"Rivera can like whatever she wants. Physics doesn't care about her schedule." Alexis pulled up the inventory system. "We have spare membranes?"
+
+Hassan checked his own display. "Two sets. But they're earmarked for the expansion habitat."
+
+"Not anymore." Alexis sent the requisition order. "Expansion can wait. People need water now."
+
+Her wrist comm chirped. Rivera's face appeared on the small screen, already wearing her political mask.
+
+"Status, Chief Kwan?"
+
+"System three is offline. We're replacing core components. Six hours if everything goes smoothly."
+
+"Can we accelerate that timeline?"
+
+"Only if you want it to fail again in a week." Alexis wiped sweat from her forehead. "Good engineering takes time, Commander."
+
+Rivera's expression tightened. "Earth corporate is touring the facility tomorrow. They're expecting to see a fully operational colony."
+
+"Then they should have sent us better equipment." Alexis cut the connection before Rivera could respond.
+
+Hassan whistled low. "That's not going to make your quarterly review any easier."
+
+"My quarterly review can wait too." She pulled on insulated gloves. "Help me disconnect this housing. We've got work to do."
+
+They worked in practiced silence. Hassan handled the precision work—disconnecting sensors, draining residual fluids, marking connections for reassembly. Alexis managed the heavy lifting, her augmented strength making short work of bolts that hadn't been touched since initial installation.
+
+The colony hummed around them. Life support, power generation, hydroponics—all interconnected, all dependent on systems like this one. One failure cascaded into others. That was the nature of closed-loop environments.
+
+"You ever wonder if this is sustainable?" Hassan asked, wrestling with a stubborn coupling.
+
+"What, Mars?"
+
+"All of it. We're running at ninety-five percent capacity on every system. No margins. No redundancy." He got the coupling free. "One bad day and people die."
+
+"That's why we don't have bad days." Alexis lowered the damaged membrane stack to the floor. The thing weighed sixty kilos Earth-side. Here, barely twenty. Still awkward.
+
+Hassan pulled the replacement from its protective casing. "Corporate doesn't understand that. They see spreadsheets and efficiency metrics. They don't see the duct tape holding everything together."
+
+"Then we make sure the duct tape holds." Alexis guided the new stack into position. "That's the job."
+
+The installation took three hours. Careful, methodical work. Every connection triple-checked. Every seal tested for integrity. Alexis didn't trust corporate equipment, but she trusted her own hands.
+
+When they finally powered the system back up, she held her breath.
+
+The processor hummed to life. Pressure stabilized. Flow rates normalized. Water began cycling through the purification stages, turning waste into something drinkable.
+
+"We're at eighty percent efficiency," Hassan reported. "Within acceptable parameters."
+
+Alexis checked the diagnostics. Not perfect, but good enough. The colony wouldn't die today.
+
+Her wrist comm chirped again. Yuki Tanaka this time, their life support specialist.
+
+"Kwan, you're a miracle worker. Water pressure is back to normal in hab three."
+
+"Physics and determination, Tanaka. No miracles required." Alexis started cleaning her tools. "How are the backup systems?"
+
+"Holding steady. But Kwan?" Tanaka's voice dropped. "We can't keep doing this. Every system is running on borrowed time."
+
+"I know." Alexis looked at the newly installed components. "But until corporate sends us proper replacements, borrowed time is all we've got."
+
+She signed off and turned to Hassan. "Write up a detailed report. Every component we replaced, every failure mode we identified. Send it to Rivera with my recommendation that we defer the expansion until we upgrade existing systems."
+
+"Corporate won't like that."
+
+"Corporate is on Earth. We're the ones living with the consequences." Alexis sealed the access panel. "Let them complain from forty million kilometers away."
+
+Hassan nodded and pulled up his report template. "For what it's worth, you made the right call."
+
+"I made the only call." Alexis headed for the exit. "That's what engineering is. Choosing between bad options and making the least bad one work."
+
+The colony hummed on. Systems cycled. Water flowed. People lived.
+
+For now.
+
+And Alexis would make damn sure that 'for now' lasted as long as humanly possible.
+
+Even if it meant going to war with corporate spreadsheets to do it.

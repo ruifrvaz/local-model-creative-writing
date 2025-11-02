@@ -1,0 +1,191 @@
+Lieutenant Sarah Chen climbed out of the test cockpit on trembling legs.
+
+"Time dilation?" Dr. Kenji Yamamoto asked, already pulling up her biometric data.
+
+"Twenty-three minutes for me. How long out here?"
+
+"Eighteen seconds." Kenji highlighted the temporal differential on his display. "You experienced seventy-six times normal time flow during the jump."
+
+Sarah leaned against the bulkhead, trying to process that. Eighteen seconds had felt like half an hour. She'd aged faster than the universe around her.
+
+"Cellular damage?" she asked.
+
+"Checking now." Dr. Aisha Mbara appeared with her medical scanner, running it over Sarah's body. "Elevated telomere degradation. Accelerated metabolic markers. You aged approximately one hour relative to baseline."
+
+"One hour in eighteen seconds." Sarah closed her eyes. "That's not sustainable, Kenji."
+
+"I know." The physicist pulled up the jump drive telemetry. "The Alcubierre field is creating a localized time differential. Inside the bubble, spacetime is compressed differently than outside."
+
+"Can you fix it?"
+
+"I can try. But Sarah..." Kenji met her eyes. "Every time we modify the field parameters, we're experimenting blind. We don't have the math for this yet. We're learning by trial and error."
+
+"And I'm the error correction system." Sarah pushed off the wall. "When's the next test?"
+
+"Tomorrow. But Sarah, you should rest. The temporal stress—"
+
+"Is part of the job." Sarah headed for the decontamination chamber. "Just try to make the math better, yeah?"
+
+Kenji watched her go, his expression troubled.
+
+Admiral Kowalski appeared in the observation bay. "Another temporal differential?"
+
+"Seventy-six to one. Worse than the last jump." Kenji pulled up the comparison data. "Admiral, we're aging Lieutenant Chen faster than normal time. If we continue at this rate—"
+
+"We find a solution. That's what you're here for, Dr. Yamamoto." Kowalski's tone left no room for argument. "Earth Command wants operational FTL within six months. We don't have time for caution."
+
+"We also don't have time to kill our test pilot."
+
+Kowalski's expression hardened. "Then make the drive work properly. That's your job."
+
+After the admiral left, Aisha joined Kenji in the observation bay.
+
+"She can't keep doing this," the medical officer said. "Each jump is causing cumulative damage. Another dozen tests like this and we're looking at premature aging, cellular breakdown, possibly organ failure."
+
+"I know." Kenji pulled up the field equations. "The problem is the navigation drift. Every time we jump, the Alcubierre bubble shifts slightly. That shift creates temporal shear at the boundary."
+
+"Can you stabilize it?"
+
+"In theory. In practice..." Kenji gestured at the complex mathematics. "I need more data. Which means more tests. Which means more stress on Sarah."
+
+"There has to be another way."
+
+"Tell that to Admiral Kowalski." Kenji started running simulations. "Earth Command wants FTL travel. They don't care about the cost."
+
+That night, Sarah found Kenji in the lab, surrounded by holographic equations.
+
+"You're still at it," she said.
+
+"Can't sleep when I'm killing my test pilot." Kenji didn't look up from his work. "There's a pattern in the drift. I can almost see it, but the mathematics keep slipping away."
+
+Sarah studied the equations. She didn't have Kenji's theoretical background, but years of piloting had taught her to understand navigational physics.
+
+"What if you're approaching it wrong?" she said. "You're trying to eliminate the drift. What if you compensate for it instead?"
+
+"Explain."
+
+"In atmospheric flight, we don't eliminate turbulence. We predict it and adjust." Sarah highlighted a section of the equation. "What if the drift is predictable? What if you can calculate it and factor it into the jump parameters?"
+
+Kenji stared at the equations. Then he started running calculations.
+
+"It could work. If I can model the drift pattern, I can pre-compensate the field geometry." His fingers flew across the interface. "It won't eliminate the temporal differential, but it might reduce the magnitude."
+
+"How much reduction?"
+
+"Let me simulate it." Kenji pulled up the modeling software. Virtual jumps ran through the system, testing different field configurations.
+
+The results came back. Temporal differential: forty-two to one. Better than seventy-six, but still dangerous.
+
+"It's not enough," Aisha said, having joined them. "That still ages her too fast."
+
+"But it's progress." Sarah studied the numbers. "Run another simulation. What if you over-compensate? Push the field geometry past the calculated value?"
+
+Kenji looked skeptical but ran the numbers. The simulation showed chaotic field collapse—the jump bubble destabilizing catastrophically.
+
+"That kills us all," he said. "The field can't handle that much distortion."
+
+"Then we find the sweet spot." Sarah pulled up the controls. "Let me work with you. Show me what each parameter does. Between your physics and my piloting intuition, we might find something."
+
+They worked through the night. Running simulations, testing theories, chasing the mathematics through increasingly complex configurations.
+
+At 0400 hours, they found something.
+
+A field configuration that shouldn't work according to conventional theory. But the simulations showed temporal differential dropping to twelve to one. Manageable. Survivable.
+
+"This is... strange," Kenji said. "The field geometry is asymmetric. That violates basic assumptions about Alcubierre metrics."
+
+"Does it work?" Sarah asked.
+
+"In simulation, yes. In reality?" Kenji pulled up the safety analysis. "Unknown. This has never been tested."
+
+"Everything we're doing has never been tested." Sarah checked the time. "Morning briefing in two hours. We present this to Kowalski?"
+
+Kenji hesitated. "If this works, we've solved the temporal problem. If it doesn't..."
+
+"We find out either way." Sarah headed for the door. "Get some sleep, Kenji. We've got a long day ahead."
+
+The morning briefing was tense. Kowalski listened to their proposal with evident skepticism.
+
+"Asymmetric field geometry," she said. "You're proposing to violate fundamental theoretical principles."
+
+"Fundamental principles that might be incomplete," Kenji countered. "The mathematics support this configuration. The simulations show it working."
+
+"Simulations aren't reality."
+
+"Then let us test it." Sarah met the admiral's eyes. "One jump. Controlled conditions. If it works, we've solved the temporal differential. If it fails, we abort and reassess."
+
+Kowalski studied the data. Political pressure warring with pragmatic caution.
+
+"One test," she said finally. "But Lieutenant Chen, at the first sign of instability, you abort immediately. Understood?"
+
+"Understood, Admiral."
+
+The test was scheduled for 1400 hours. Sarah spent the morning in the simulator, rehearsing abort procedures and emergency protocols.
+
+Kenji spent it triple-checking the field calculations and running last-minute safety analyses.
+
+Aisha spent it preparing medical interventions for every possible failure mode.
+
+When the time came, Sarah strapped into the cockpit with steady hands. The jump drive hummed to life around her, its exotic matter cores spinning up to operational capacity.
+
+"Field geometry locked," Kenji reported. "Asymmetric configuration stable."
+
+"Biometrics nominal," Aisha added. "Lieutenant Chen, you're cleared for jump."
+
+Sarah activated the drive. The Alcubierre bubble formed around the test craft—a pocket of compressed spacetime, warping reality itself.
+
+The jump felt different. Smoother. The temporal shear was still present, but gentler. Less like being torn apart, more like being stretched.
+
+When she emerged, the clock showed twelve seconds had passed.
+
+For Sarah, it had been two minutes.
+
+Twelve to one. Just like the simulation predicted.
+
+"Biometrics?" Sarah asked, her voice shaking slightly.
+
+"Elevated but within acceptable parameters," Aisha reported. "Cellular aging approximately seven minutes relative to baseline. That's sustainable, Sarah."
+
+"Field stability?" Kenji's voice was tight with tension.
+
+"Completely stable. No drift, no shear, no collapse." Sarah checked her instruments. "Kenji, it worked. The asymmetric geometry worked."
+
+The lab erupted in contained celebration. Kowalski even cracked a smile.
+
+"Excellent work, team. Run diagnostic analysis and prepare for expanded testing." The admiral pulled up her schedule. "Earth Command will want a full report."
+
+After the briefing, Sarah found Kenji in the lab, staring at the successful test data like he couldn't quite believe it.
+
+"We did it," she said.
+
+"You did it. Your intuition about asymmetric compensation." Kenji pulled up the field equations. "This is going to rewrite FTL theory. Every assumption about symmetric Alcubierre metrics—wrong."
+
+"Or incomplete. Like you said." Sarah studied the mathematics. "What's next?"
+
+"Longer jumps. Greater distances. Scale testing." Kenji's expression sobered. "But Sarah, twelve to one is still temporal acceleration. You're still aging faster than normal."
+
+"I know." Sarah had run the numbers. "But it's survivable. And it's FTL travel. Real, practical faster-than-light capability."
+
+"At a cost."
+
+"Everything has a cost." Sarah pulled up the next test schedule. "The question is whether it's worth paying."
+
+Kenji looked at her. "Is it? Worth aging faster? Worth the risk?"
+
+Sarah thought about Earth. About the colonies struggling in distant systems. About humanity reaching for the stars.
+
+"Yeah," she said. "It's worth it."
+
+Kenji nodded slowly. "Then let's make sure we minimize that cost. Next time, we aim for ten to one."
+
+"Next time," Sarah agreed.
+
+The jump drive hummed in the background, exotic matter cores spinning steadily.
+
+FTL travel was real. Practical. Survivable.
+
+And humanity's future had just expanded beyond anyone's imagination.
+
+At a cost measured in time.
+
+But some costs were worth paying.

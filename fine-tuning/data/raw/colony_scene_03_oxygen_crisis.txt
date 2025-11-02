@@ -1,0 +1,161 @@
+Yuki Tanaka stared at the oxygen production metrics and tried not to panic.
+
+Ninety-two percent efficiency. Declining.
+
+The hydroponics bay should have been producing enough to sustain the colony with comfortable margins. Should have been. Past tense.
+
+She pulled up the diagnostic overlay. CO2 levels in the growing chambers were climbing. The algae tanks—primary oxygen producers—were showing reduced photosynthetic activity.
+
+"Come on," she muttered, adjusting nutrient flow rates. "Work with me here."
+
+The algae didn't care about her tone. The metrics continued their downward trend.
+
+Ninety percent.
+
+Tanaka activated her comm. "Kwan, I need you in hydroponics. We have a problem."
+
+Alexis Kwan arrived within minutes, still wearing her engineering jumpsuit. "How bad?"
+
+"Bad enough that I'm calling you instead of fixing it myself." Tanaka gestured at the displays. "Oxygen production is dropping. I've checked nutrient levels, light cycles, temperature—everything's within parameters. But the algae are dying."
+
+Alexis pulled up the environmental controls. Her engineering mind already running through systematic possibilities. "Contamination?"
+
+"Tested for that first. Nothing unusual in the water or atmosphere."
+
+"Equipment failure?"
+
+"All systems nominal." Tanaka pulled up the microscope feed. "Look at this."
+
+The algae cells were visible on the screen. They should have been vibrant green, actively dividing. Instead, they looked sluggish. Cell walls were thickening. Growth had slowed to almost nothing.
+
+"That's a stress response," Alexis said. "Something's triggering defensive behavior."
+
+"But what? I've eliminated every obvious cause."
+
+Alexis thought for a moment. "What about the not-obvious ones? When did this start?"
+
+Tanaka checked the logs. "Three days ago. Right after we replaced the water filtration system."
+
+"The replacement membranes." Alexis pulled up her own repair logs. "I requisitioned them from the expansion habitat stores. They were supposed to be identical to our current spec."
+
+"Supposed to be?"
+
+Alexis was already running material analysis. "Pull a sample of the processed water. Test it against baseline."
+
+Tanaka grabbed a collection flask and drew water from the hydroponics feed. The spectroscopy results came back in seconds.
+
+Trace elements. Specifically, higher concentrations of perchlorate than normal. Not enough to harm humans immediately, but definitely enough to stress photosynthetic organisms.
+
+"The membranes are contaminated," Tanaka said. "They're leaching Martian compounds into our water system."
+
+"Corporate quality control at its finest." Alexis pulled up her engineering schematics. "We need to swap them out. Now. Before the contamination spreads to the drinking water supply."
+
+"That's another six-hour shutdown. Rivera's going to love this."
+
+"Rivera can deal." Alexis was already calculating. "We have oxygen reserves for seventy-two hours if we implement rationing protocols. Enough time to fix this properly."
+
+Tanaka activated colony-wide alerts. "All personnel, this is life support. Implementing oxygen conservation measures effective immediately. Reduce physical activity, seal unnecessary compartments, minimize power consumption."
+
+The response was immediate. Colony residents had drilled for this scenario. Everyone knew the protocols.
+
+Alexis headed for the water processing bay. "Hassan, I need you again. Same system, different problem."
+
+Dr. Hassan appeared, tools ready. "Déjà vu."
+
+"Welcome to Mars." Alexis began the shutdown sequence. "We're swapping membranes again. This time, we're testing everything before installation."
+
+The work was familiar now. Disconnect, drain, remove, inspect. But this time, Alexis examined each component with paranoid intensity.
+
+The contamination was obvious once she knew where to look. The membrane material had been stored in contact with Martian regolith. Microscopic particles had embedded themselves in the polymer matrix, slowly leaching perchlorates into the water stream.
+
+"Someone in corporate cut corners," Hassan observed. "Stored components in non-sealed containers to save on shipping costs."
+
+"And now we're paying for their efficiency metrics." Alexis pulled the last contaminated membrane. "Get me the backup backups. The ones we've been keeping in the sealed storage."
+
+Hassan checked inventory. "We have one complete set. After that, we're out of options."
+
+"One set will have to be enough." Alexis started the installation. "From now on, we test every component before it goes into a critical system. I don't care if it's fresh from Earth. We verify."
+
+The installation went faster this time. Practice made perfect. When they powered the system up, Alexis watched the diagnostic readouts like a hawk.
+
+Water flow: normal. Pressure: stable. Chemical composition: within acceptable parameters.
+
+No perchlorate contamination.
+
+"We're good," she told Tanaka. "Flush the hydroponics system and replace the water. It'll take a few hours, but the algae should recover."
+
+Tanaka was already opening the drainage valves. "I'm also implementing continuous water quality monitoring. If contamination shows up again, we'll know immediately."
+
+"Good. Add it to the standard protocols." Alexis wiped sweat from her face. "Hassan, document everything. I want a complete report on corporate's storage procedures and how they nearly killed us."
+
+"Rivera's not going to want to hear that during the corporate visit."
+
+"Then Rivera can explain to corporate why their cost-cutting measures are creating life-support failures." Alexis sealed the access panel. "I'm done protecting them from the consequences of their decisions."
+
+Commander Rivera appeared in the doorway, having obviously been monitoring the situation. "The corporate representatives are in the conference room. They're asking about the oxygen alerts."
+
+"Tell them the truth," Alexis said. "Their contaminated equipment nearly poisoned our life support."
+
+"That's not the narrative they're expecting."
+
+"I don't care what they're expecting. I care about keeping people alive." Alexis faced Rivera directly. "You want to play politics, that's your job. Mine is engineering. And engineering says we need better equipment, better protocols, and corporate needs to stop treating this colony like a budget line item."
+
+Rivera was quiet for a moment. Then she nodded. "Come with me. Both of you. Let's have that conversation."
+
+The conference room held three corporate representatives. Expensive suits, Earth-pale skin, the kind of confidence that came from never having to worry about oxygen levels.
+
+"Ah, Commander Rivera." The lead representative—Anderson, according to his name badge—smiled professionally. "We were just discussing the efficiency improvements—"
+
+"We had a life support failure," Rivera interrupted. "Contaminated equipment from your supply chain. We're implementing emergency protocols."
+
+Anderson's smile froze. "I'm sure there's a reasonable explanation—"
+
+"There is," Alexis said. "Someone stored critical components in unsealed containers. Probably to save on shipping costs. Those components contaminated our water system and nearly killed our oxygen production."
+
+"That's a very serious allegation."
+
+"That's a very serious problem." Alexis pulled up the test results on the conference room display. "Here's the spectroscopy data. Here's the contamination source. Here's the cost-benefit analysis that probably led to the storage decision."
+
+Anderson studied the data. His professional mask cracked slightly. "This will require investigation."
+
+"It requires immediate action," Rivera said. "We need certified clean components, proper storage protocols, and quality control that actually controls quality. Not cost-reduction measures that kill people."
+
+The corporate representatives exchanged glances. Calculation happening behind their eyes. Liability versus profit. Public relations versus quarterly reports.
+
+"We'll expedite a shipment of certified components," Anderson said finally. "And conduct a full review of our supply chain protocols."
+
+"Good," Alexis said. "Because next time, we might not catch the problem before people start dying."
+
+The meeting continued for another hour. Negotiations, promises, carefully worded commitments. Alexis let Rivera handle the politics. Her job was done—she'd made them understand the stakes.
+
+After the representatives left, Rivera turned to Alexis. "You just made some powerful enemies."
+
+"Better powerful enemies on Earth than dead friends on Mars." Alexis headed for the door. "Now if you'll excuse me, I have oxygen production to monitor."
+
+She returned to hydroponics. Tanaka had flushed the contaminated water and replaced it with clean reserves. The algae tanks were already showing improvement. Cell division resuming. Photosynthetic activity increasing.
+
+Ninety-four percent efficiency. Climbing.
+
+"We're going to make it," Tanaka said.
+
+"This time." Alexis watched the metrics stabilize. "Next crisis, who knows."
+
+"Optimistic as always."
+
+"Realistic." Alexis checked the oxygen reserves. "Mars doesn't care about our optimism. It just waits for us to make mistakes."
+
+"Then we don't make mistakes."
+
+"We're human. Mistakes are inevitable." Alexis pulled up the maintenance schedule. "The trick is catching them before they kill us."
+
+Tanaka laughed. "Is that the new colony motto?"
+
+"Might as well be."
+
+The hydroponics bay hummed with life. Algae producing oxygen, plants growing food, the closed-loop system sustaining human life forty million kilometers from home.
+
+Fragile. Dependent on every component working perfectly. One contaminated membrane away from disaster.
+
+But alive.
+
+And as long as Alexis had anything to say about it, that's how it would stay.
