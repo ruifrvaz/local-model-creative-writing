@@ -1,0 +1,165 @@
+Kayla Okonkwo adjusted the Neptune's Pride's trajectory for the hundredth time in three weeks.
+
+Damaged jump drive meant sublight navigation. Sublight meant weeks of travel instead of minutes. And weeks meant more opportunities for Olympus to find them.
+
+She plotted courses through asteroid fields. Dense regions where sensor shadows could hide their thermal signature. It was working. Mostly.
+
+But fuel was running low. And the independent station at Wolf 359 was still twelve days away.
+
+Captain Jax Torres floated onto the bridge. "Status?"
+
+"On course. Fuel reserves at thirty-two percent. Should be enough to reach station with five percent margin."
+
+"Should be?"
+
+"Assuming no course corrections. No evasive maneuvers. No unexpected obstacles." Kayla pulled up the navigation plot. "It's tight, Jax."
+
+"Everything about this situation is tight." Jax studied the fuel projections. "Can we improve efficiency?"
+
+"Already running minimal life support. Reactor at lowest sustainable output. We're bone-dry on optimization."
+
+Jax nodded. "Then we pray twelve days is enough lead time."
+
+Sofia Ruiz emerged from the cargo bay, looking excited. Dangerous combination.
+
+"I've been analyzing the unknown element samples," she said. "The electromagnetic interaction properties are extraordinary. If we could harness them—"
+
+"Sofia, we barely understand what the element does. We're not experimenting with it during a crisis."
+
+"That's exactly when we should experiment. What if it could boost our engines? Or mask our signature?"
+
+"Or explode. Or emit radiation. Or do any number of things that kill us." Jax pointed at the samples in the vault. "That material stays locked until we reach the station and can analyze it properly."
+
+Sofia deflated slightly. "You're no fun during emergencies."
+
+"I'm alive during emergencies. There's a difference."
+
+Chen emerged from engineering, covered in grease. "Drive's still dead. But I've been thinking about the element's EM properties. What if we could use it to scramble our sensor signature?"
+
+Jax looked between Sofia and Chen. "You two have been talking."
+
+"Just theoretical discussion," Chen said quickly. "But seriously, Jax. The element responds to electromagnetic fields. Our ship generates an EM signature. What if we could modulate it?"
+
+"You want to experiment with unknown xenomaterial while running from a corporate hit squad."
+
+"When you say it like that, it sounds reckless."
+
+"Because it is reckless."
+
+"But possibly effective," Sofia added. "The element's response is predictable. We've got enough data to model basic interactions. A small test wouldn't be dangerous."
+
+Kayla watched the captain calculate. The old Jax would have refused. Played it safe. Followed procedures.
+
+But the old Jax hadn't been hunted across the belt with a fortune in her cargo hold.
+
+"Small test," Jax said finally. "Shielded chamber. Remote operation. If anything looks unstable, we abort immediately."
+
+Sofia and Chen grinned like kids given permission to play with explosives.
+
+They set up in the auxiliary cargo bay. The unknown element sample went into a shielded container. Sensors monitored from outside. They were taking no chances.
+
+Chen activated a low-power EM field generator. Standard communication frequency. Minimal energy.
+
+The element responded. Subtle luminescence. Slight temperature increase.
+
+"It's absorbing the field," Sofia reported. "Energy conversion efficiency is ninety-three percent. That's impossible by conventional physics."
+
+"Impossible is this week's theme," Jax said. "Can we reverse it? Make it emit instead of absorb?"
+
+Chen adjusted the field polarity. The element's luminescence intensified. Then it started emitting.
+
+Kayla's sensor displays went haywire. "It's broadcasting across all EM bands. Radio through gamma. Our signature just increased a thousand-fold."
+
+"Shut it down!"
+
+Chen killed the field. The element went dark immediately.
+
+Jax pulled up the long-range sensors. "Did anything detect that spike?"
+
+"Unknown. If Olympus has monitoring buoys in the region, they definitely noticed. If not, we're clear."
+
+They waited. Tense. Watching for pursuit.
+
+Five minutes passed. Ten. Twenty.
+
+No contacts. No pursuit.
+
+"We got lucky," Jax said. "Or they're not close enough to detect us yet."
+
+"Or the element's emission was too brief to track," Sofia added. "But Jax, did you see the energy output? We input fifty watts and got back forty-six watts across multiple frequencies. The conversion efficiency is extraordinary."
+
+"And useless if it makes us a beacon."
+
+"Not if we control it. Modulate the output. Use it deliberately instead of accidentally." Sofia pulled up her models. "Give me six hours. I'll figure out how to make it emit in specific frequency bands."
+
+"Why would we want that?"
+
+"Decoys. False signals. Make Olympus think we're somewhere we're not."
+
+Jax considered. "Six hours. But Chen stays with you. And if anything looks dangerous, you stop."
+
+They worked in the cargo bay while Kayla piloted and Jax monitored sensors.
+
+Three hours in, Sofia called over the comm. "We've got modulation. Watch this."
+
+The element emitted a clean signal. Identical to a ship's drive signature. But displaced two thousand kilometers from their actual position.
+
+"That's our drive signature," Kayla said. "How—"
+
+"The element learns patterns. Feed it EM data and it can reproduce it. We basically have a programmable signal generator."
+
+"Using alien technology we don't understand."
+
+"Using alien technology we're starting to understand. There's a difference." Sofia sent coordinates. "I'm creating a decoy trail. Multiple false signatures leading away from our actual course."
+
+Kayla watched the sensor display populate with ghost ships. All broadcasting Neptune's Pride's signature. All heading in different directions.
+
+"This is either brilliant or insane."
+
+"Both," Chen said cheerfully. "Definitely both."
+
+Over the next week, they deployed six decoys. False signatures scattered across their wake. Each one broadcasting perfect copies of their drive emissions.
+
+Olympus took the bait.
+
+Kayla detected a corporate ship altering course. Chasing one of the decoys. Moving away from their actual position.
+
+"They bought it," she reported.
+
+"One ship bought it. Olympus has a fleet. Don't assume we're clear." But Jax allowed herself a small smile. "Good work, both of you. Reckless. Dangerous. But effective."
+
+"Should we nickname the element?" Chen asked. "Give it a proper designation?"
+
+"Let's survive first. Name it later."
+
+The independent station appeared on sensors five days after the decoy deployment. A small facility. Maybe three hundred inhabitants. But it had repair facilities. Parts vendors. No corporate affiliations.
+
+Safe harbor. Relatively speaking.
+
+They docked without incident. Kayla cut the engines and felt tension drain from her shoulders.
+
+"We made it," she said.
+
+"We made it," Jax agreed. "Now comes the hard part."
+
+"What's harder than escaping Olympus?"
+
+"Selling xenomaterial samples without attracting attention. Finding parts for a burned-out jump drive. And figuring out our next move." Jax pulled up the cargo manifest. "We've got platinum-group metals. Unknown element samples. And a target on our backs."
+
+"So we sell the metals. Hide the element. Buy parts. And disappear."
+
+"In theory. In practice, someone's going to ask questions. Independent stations aren't corporate controlled, but they're not information-free either."
+
+Kayla understood. They'd escaped immediate pursuit. But Olympus wouldn't stop looking. The unknown element was too valuable. The platinum concentrations too unusual.
+
+"One problem at a time," she said. "First, we fix the ship. Then we figure out where to go."
+
+"And hope we choose right."
+
+They cycled through the airlock into the station proper. Small. Crowded. Full of the kind of people who asked few questions and expected the same courtesy.
+
+Jax's kind of place. Where survival mattered more than credentials. Where independent meant truly independent.
+
+They'd survived the chase. The jump. The long weeks of sublight desperation.
+
+Now they just had to survive what came next.
