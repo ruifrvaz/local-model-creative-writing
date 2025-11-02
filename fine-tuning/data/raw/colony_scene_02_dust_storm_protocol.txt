@@ -1,0 +1,111 @@
+The meteorological array showed the storm front two hundred kilometers out and closing. Commander Rivera stood in the operations center, watching the amber warnings multiply across her displays.
+
+"Wind speed?" she asked.
+
+"Sixty meters per second at the leading edge," the duty officer reported. "Could hit ninety by the time it reaches us."
+
+Rivera pulled up the storm track. It would hit them in six hours. Maybe seven if they were lucky. The dust cloud stretched three hundred kilometers wide, a wall of abrading particles that would strip paint, scour seals, and bury their solar arrays under centimeters of fine red powder.
+
+"All personnel," she said into the colony-wide comm. "This is Rivera. Storm protocol alpha. We have six hours. Department heads, report status in fifteen minutes."
+
+The response was immediate. Across the colony, three hundred people shifted into the practiced rhythm of storm preparation. It was their fifth major storm this season, and experience had taught them speed.
+
+Alexis Kwan was first to report. "Engineering ready to secure external systems. We're prioritizing the solar arrays and the water extraction equipment."
+
+"How long to get everything buttoned up?"
+
+"Four hours if we're efficient. Five if we're thorough."
+
+"Be thorough. I don't want surprises." Rivera switched channels. "Tanaka, life support status?"
+
+Yuki's voice came through with the background hum of machinery. "Sealing all external vents now. We'll run on internal recycling for the duration. Oxygen reserves at ninety-seven percent."
+
+"Good. Make it last as long as you can. These storms sometimes run longer than projected."
+
+Dr. Hassan called in from the geology lab. "Commander, I need to pull in the remote sensors. There's equipment out at the ice survey site."
+
+"How critical?"
+
+"Three million dollars' worth of ground-penetrating radar. Corporate will have my head if we lose it."
+
+Rivera checked the time. Six hours to impact. "You have two hours to retrieve it. After that, anything still outside stays outside."
+
+"Understood."
+
+Rivera moved through the status updates with practiced efficiency. Hydroponics was securing the growth chambers, medical was preparing for potential injuries, food services was inventorying supplies in case the storm lasted more than the projected thirty-six hours.
+
+She pulled up the structural integrity monitors. The habitat domes were rated for winds up to one hundred twenty meters per second, but theory and practice diverged when Martian reality intervened. The regolith was corrosive, relentless, and Mars had a way of finding weaknesses that Earth engineers never anticipated.
+
+"Commander," Alexis's voice cut through. "We have a problem with dome three."
+
+Rivera felt her stomach tighten. "Define problem."
+
+"Stress fractures in the support framework. Nothing critical yet, but sustained high winds could propagate them."
+
+"Can you reinforce it?"
+
+"In six hours? No. But I can redistribute the load, maybe reduce the stress concentrations." Alexis paused. "We should consider evacuating that section. Move everyone to domes one and two."
+
+Rivera pulled up the colony map. Dome three housed sixty people—engineers, geologists, support staff. Moving them meant cramming the entire colony into two-thirds of the available space.
+
+"How confident are you in the structural assessment?"
+
+"Confident enough to recommend evacuation."
+
+That was all Rivera needed to hear. Alexis didn't make recommendations lightly. "Do it. I'll make the announcement."
+
+She switched to colony-wide. "All personnel in dome three, this is Commander Rivera. We're implementing a precautionary evacuation. You have ninety minutes to gather essentials and relocate to domes one or two. Department supervisors will assign quarters. This is not a drill."
+
+The operations center lit up with questions, but Rivera delegated them to her staff and focused on the critical systems. The solar arrays needed to be angled to minimize dust accumulation. The water extraction equipment needed to be shut down and sealed. The airlocks needed triple-checking because one failed seal during a storm meant death.
+
+Forty minutes later, Alexis reported the external systems secured. Hassan confirmed the remote sensors were recovered. Yuki had the life support sealed and the oxygen reserves topped off.
+
+Rivera walked through the colony, checking on the evacuation. Dome three was emptying in organized chaos—people carrying bags, children asking questions, families finding space in the crowded quarters of domes one and two.
+
+She found Alexis in the dome three engineering bay, welding reinforcement struts onto the support framework.
+
+"I thought you said you couldn't reinforce it in time," Rivera said.
+
+"I can't make it storm-proof. But I can buy us some extra margin." Sparks flew from the welding torch. "Every little bit helps."
+
+Rivera watched her work. Alexis's movements were precise, economical. No wasted motion. The kind of efficiency that came from six months of working in one-sixth gravity with tools that never quite behaved the way Earth muscle memory expected.
+
+"Storm's three hours out," Rivera said.
+
+"I'll be done in two."
+
+"Don't cut it too close."
+
+"Never do." Alexis finished the weld and moved to the next joint. "Commander, we need to talk about the supply situation after this storm."
+
+"After. Let's survive this one first."
+
+"Fair enough."
+
+Rivera left her to the work and returned to operations. The meteorological displays showed the storm accelerating. Wind speeds climbing. The dust cloud growing denser. It would hit them like a solid wall, and for thirty-six hours they'd be blind, deaf, and isolated in their pressurized domes while Mars tried to scour them off its surface.
+
+She pulled up the Earth communications schedule. There was a transmission window in ninety minutes, before the storm disrupted the satellite relay. She composed a status report—storm incoming, precautionary measures implemented, colony secure. The message was calm, professional, the kind of update that wouldn't trigger panic in the corporate offices.
+
+She didn't mention the stress fractures. Didn't mention the razor-thin margins on their water and power systems. Didn't mention that every storm chewed away at their equipment faster than they could repair it.
+
+Earth didn't need to know how close they were running to the edge.
+
+The storm hit early. Five hours instead of six. The first impacts sounded like gravel thrown against the dome exterior—a rattling, scratching sound that made Rivera's teeth ache.
+
+Then the wind picked up, and the sound became a constant roar.
+
+She stood in the operations center, watching the structural monitors. Dome three was taking the worst of it, but the reinforcements Alexis had added were holding. The stress concentrations were high but stable.
+
+Yuki reported from life support. "Internal air quality nominal. Oxygen consumption tracking normal. We're good for seventy-two hours minimum."
+
+"Roger that. Keep me updated on any changes."
+
+The colony settled into storm routine. Lights dimmed to conserve power. Non-essential systems shut down. Three hundred people crammed into two domes, waiting for Mars to finish its tantrum.
+
+Rivera pulled up the meteorological data. The storm was tracking slower than projected. Could be forty-eight hours instead of thirty-six.
+
+She didn't tell anyone. Not yet. Let them have a few more hours of thinking this was routine.
+
+Outside, the wind howled and the dust scoured, and Mars reminded them that they were only here on sufferance.
+
+And that sufferance could be revoked any time the planet chose.

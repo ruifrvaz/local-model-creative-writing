@@ -1,0 +1,139 @@
+The Earth transmission came through at 0900 hours local time. Alexis Kwan was in the machine shop when the colony-wide announcement echoed through the corridors.
+
+"All personnel, report to assembly hall. Mandatory briefing in thirty minutes."
+
+Mandatory briefings were never good news.
+
+She wiped the grease from her hands, secured her work station, and headed for the assembly hall. The corridors were crowded with colonists moving in the same direction, expressions ranging from curious to worried.
+
+Alexis found a seat near the back. Yuki slid in beside her.
+
+"You know what this is about?" Yuki asked.
+
+"Nothing good. Rivera looked grim when she passed me earlier."
+
+Commander Rivera took the podium precisely thirty minutes later. Her expression confirmed Alexis's assessment—this was bad news.
+
+"I'll keep this brief," Rivera said. "I've received official notification from corporate headquarters. Mars Colony One has been designated for phase-down operations. Effective immediately, we're on reduced funding pending evaluation for possible closure."
+
+The hall erupted. Voices overlapping, people shouting questions, the sound of three hundred people processing the same terrible information simultaneously.
+
+Rivera waited for the noise to subside. "The evaluation period is six months. During that time, we'll operate under restricted budget with no new supply shipments. Corporate will assess our viability based on production metrics, resource efficiency, and operational sustainability."
+
+"That's impossible," someone shouted. "We can't maintain operations without resupply."
+
+"I'm aware. Which is why I've submitted a counter-proposal." Rivera pulled up a presentation. "For the next six months, we're going to prove we can be self-sufficient. Local manufacturing, closed-loop resource management, zero dependency on Earth supply chains."
+
+Dr. Hassan stood. "How? We don't have the equipment for full-scale manufacturing."
+
+"We improvise. We've been doing it for eighteen months. Now we formalize it." Rivera advanced the presentation. "Alexis Kwan has been developing protocols for regolith refining and metal fabrication. Dr. Hassan has located accessible mineral deposits underground. Yuki Tanaka has optimized our life support to operate on minimal external input. Dr. Chen has established medical protocols using locally synthesized materials."
+
+Alexis felt three hundred pairs of eyes turn toward her. She hadn't realized her experimental metal refining had become part of Rivera's survival strategy.
+
+"We have six months to demonstrate viability," Rivera continued. "If we succeed, corporate maintains funding and we continue operations. If we fail, they'll initiate evacuation procedures and Mars Colony One becomes a footnote in history."
+
+"What about the people who want to leave now?" another voice called.
+
+"Anyone who wants to return to Earth can file for transfer. The next transport departs in ninety days. After that, there are no scheduled return flights during the evaluation period." Rivera's expression hardened. "Choose carefully. If you leave, you're not coming back."
+
+The hall was silent.
+
+"I need volunteers for the self-sufficiency initiative," Rivera said. "This is above and beyond your current duties. Long hours, experimental work, high risk of failure. I won't order anyone to participate. But I'm asking."
+
+Alexis was on her feet before Rivera finished speaking. "I'm in."
+
+Yuki stood beside her. "Life support efficiency is my specialty. Count me in."
+
+Dr. Hassan rose. "Someone needs to extract those minerals. Might as well be me."
+
+Chen stood. "Medical support. I can synthesize most basic medications from local resources if we set up the right processing."
+
+One by one, people stood. Engineers, technicians, scientists, support staff. More than half the colony, committing to an impossible project because the alternative was giving up.
+
+Rivera looked at them, and for the first time since the announcement, she smiled. "All right. Let's get to work."
+
+The next six hours were organized chaos. Rivera divided the volunteers into working groups—manufacturing, resource extraction, life support optimization, medical synthesis, agricultural expansion.
+
+Alexis found herself leading the manufacturing team with twelve people who had varying levels of metalworking experience.
+
+"We need to produce basic components," she told them. "Seals, fasteners, structural supports. Simple stuff that we currently import from Earth. I've been refining regolith into usable metal stock. Now we need to turn that stock into functional parts."
+
+Marcus Webb pulled up the machine shop inventory. "We've got 3D printers, laser cutters, a basic forge setup. What's our bottleneck?"
+
+"Feedstock quality and processing capacity. The refined metal isn't pure enough for precision work. We need better separation of alloys, better quality control."
+
+"How do we get better separation?"
+
+"Chemistry and heat. We build a proper smelter, implement multi-stage refining, test every batch for composition." Alexis pulled up her experimental results. "I've been doing this at small scale. Now we scale up."
+
+"How much scale?"
+
+"Enough to produce a hundred kilograms of refined metal per week. That's our target."
+
+Someone whistled. "That's aggressive."
+
+"That's survival. If we can't demonstrate local manufacturing capacity, the evaluation fails and we're done."
+
+They spent three days designing a scaling strategy. The habitat's machine shop became a prototype industrial facility. They repurposed equipment, cannibalized non-essential systems, and built a regolith processing line that would have made Earth engineers weep.
+
+The first batch of refined metal was thirty percent impurities. Completely unusable for precision parts.
+
+The second batch was twelve percent. Better, but still not good enough.
+
+The third batch hit seven percent. Marginal for simple components.
+
+"We need to get below five percent," Alexis said, examining the composition analysis. "Otherwise the parts will be structurally unreliable."
+
+They refined the process. Higher temperatures, longer processing times, better chemical separation. Each iteration was an experiment, each failure a learning opportunity.
+
+After two weeks, they hit four percent impurities. After three weeks, three percent.
+
+"That's usable," Marcus said, examining a test sample. "We can work with this."
+
+They started production. Simple parts first—fasteners, brackets, support struts. The 3D printers worked through the night, building components from locally refined metal.
+
+The quality was inconsistent. Some parts were perfect. Others showed stress fractures or dimensional errors. But they were improving.
+
+Dr. Hassan's team struck mineral deposits at forty meters depth. Iron, titanium, trace rare earths. Not rich veins, but accessible and sufficient for small-scale extraction.
+
+Yuki's life support optimization reduced water consumption by eighteen percent. She'd found inefficiencies in the recycling loops, tightened processes, and managed to stretch resources further than the original engineers thought possible.
+
+Chen synthesized basic antibiotics using locally cultivated microorganisms and chemical extraction. Not pharmaceutical grade, but functional for treating common infections.
+
+After three months, Alexis stood in the machine shop surrounded by racks of locally manufactured components. Thousands of parts, enough to maintain basic operations for months.
+
+Rivera walked through, inspecting the inventory. "How's quality control?"
+
+"Ninety-two percent pass rate on current production. We're getting better every week." Alexis picked up a bracket. "It's not pretty, but it works."
+
+"That's all we need." Rivera pulled up the evaluation metrics. "Corporate's been reviewing our progress reports. They're... skeptical but interested."
+
+"We're beating their projections."
+
+"Which makes them nervous. Success here means they have to re-evaluate their assumptions about Mars colonization economics."
+
+"Is that a problem?"
+
+"For them, yes. For us, it's leverage." Rivera set down her tablet. "Keep pushing. We have three more months to make the case that we're worth keeping alive."
+
+Alexis returned to work. The machine shop hummed with activity—printers building parts, the smelter refining metals, technicians running quality control.
+
+It was loud, chaotic, inefficient by Earth standards.
+
+But it was working.
+
+And on Mars, working was all that mattered.
+
+She pulled up the production schedule for the next month. More components, better quality, increased capacity.
+
+They weren't just surviving anymore.
+
+They were building something. Something that could last. Something that proved humans could make a home here, even when corporate accountants said it was impossible.
+
+Alexis touched the rough surface of a locally manufactured support strut. Made from Mars, on Mars, for Mars.
+
+It felt like victory.
+
+Small, imperfect, hard-won.
+
+But victory nonetheless.

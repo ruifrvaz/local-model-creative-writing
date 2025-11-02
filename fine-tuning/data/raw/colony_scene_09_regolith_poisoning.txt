@@ -1,0 +1,123 @@
+The medical bay alarm went off at 0237 hours. Dr. Chen bolted upright in her quarters, already reaching for her tablet before she was fully awake.
+
+"Chen here. What's the emergency?"
+
+"Respiratory distress. Habitat dome two. Multiple casualties." The duty nurse's voice was tight. "You need to get here now."
+
+Chen was dressed and moving in thirty seconds. She hit the corridor at a run, her medical bag bouncing against her hip.
+
+Dome two. Population sixty-three. If multiple people were showing respiratory distress simultaneously, that meant environmental contamination. Gas leak, life support malfunction, something in the air that shouldn't be there.
+
+She burst into the medical bay. Four people on gurneys, all showing the same symptoms. Labored breathing, blue-tinged lips, oxygen saturation dropping despite supplemental O2.
+
+"Status," Chen snapped.
+
+"Three males, one female. All from section seven-B. They woke up unable to breathe. Oxygen sats in the low eighties despite masks." The nurse pulled up vitals. "Heart rates are elevated, lung sounds show bilateral wheezing."
+
+Chen grabbed a stethoscope and moved to the first patient. Male, mid-thirties, gasping like he'd just run a marathon. Lung sounds confirmed the wheezing—severe bronchospasm, both lungs affected.
+
+"Albuterol, two point five milligrams nebulized. Now." She moved to the next patient. Same symptoms. "Everyone gets bronchodilators. And I want tox screens on all of them."
+
+While the nurses administered treatment, Chen pulled up the habitat environmental monitors. Section seven-B showed normal readings. Oxygen at twenty-one percent, CO2 at four hundred parts per million, no toxic gases detected.
+
+But four people didn't develop simultaneous respiratory failure from normal air.
+
+"Where's Yuki Tanaka?" Chen asked.
+
+"On her way."
+
+Yuki arrived three minutes later, still in her sleep clothes. "Talk to me."
+
+"Four respiratory emergencies from section seven-B. Environmental monitors show normal, but something's in the air." Chen pulled up the symptom timeline. "All four woke up between 0215 and 0230 with severe breathing difficulty."
+
+Yuki was already accessing the life support systems. "Seven-B's air handling is on the secondary recycling loop. It pulls from the main system but has local filtration." She ran diagnostics. "Filters are showing... wait."
+
+"What?"
+
+"Particulate load is elevated. Significantly elevated." Yuki pulled up the filter sensor data. "Something's been introduced into the air system in the last four hours. The filters are catching it, but not fast enough."
+
+"What kind of particulates?"
+
+"Unknown. Could be dust, could be chemical contamination, could be—" Yuki's expression changed. "Could be from the regolith processing."
+
+Chen felt her stomach drop. "The water extraction?"
+
+"We've been processing Martian soil for ice extraction. If the filtration system failed, if regolith particles got into the air handling—" Yuki was running system traces. "The extraction plant shares ventilation with section seven-B. There's a common return duct."
+
+"How toxic is Martian regolith?"
+
+"Perchlorates, heavy metals, silicate particles. All of it pulverized to micron size. Breathe enough of it, you get chemical pneumonitis and mechanical obstruction of the airways."
+
+Chen looked at her patients. Chemical burns in their lungs, foreign particles their bodies couldn't clear. "They're dying."
+
+"Not if we fix it fast." Yuki was already calling engineering. "I need emergency shutdown of the regolith processor. Section seven-B air handling to full recirculation, bypass the shared ducts."
+
+Chen turned back to her patients. The bronchodilators were helping, but not enough. They needed more aggressive treatment.
+
+"Prepare for intubation," she told the nurses. "If their oxygen stats drop below seventy-five, we're securing their airways. And I want high-dose steroids, start reducing the inflammatory response."
+
+The next hour was controlled chaos. Chen managed the medical crisis while Yuki tore apart the life support systems, tracking down the source of contamination.
+
+Two of the patients stabilized with bronchodilators and steroids. The other two needed intubation—mechanical ventilation to force oxygen into lungs that were swelling shut from chemical irritation.
+
+Chen stood over the ventilators, watching the rhythmic rise and fall of artificially sustained breathing. These people had been healthy six hours ago. Now they were alive only because machines were doing the work their bodies couldn't.
+
+"Found it," Yuki called from the environmental controls. "The regolith processor's dust containment failed. Particles got into the ventilation system, concentrated in section seven-B because of airflow patterns. The local filters were catching most of it, but not fine enough to prevent inhalation."
+
+"How many people were exposed?"
+
+"Everyone in seven-B. Sixty-three total. These four just got the worst of it because their quarters are closest to the contaminated duct."
+
+Chen felt cold. "We need to screen everyone. Full respiratory workup. If anyone else is showing symptoms—"
+
+"Already on it. Commander Rivera's coordinating the screening." Yuki pulled up the environmental remediation plan. "I'm purging section seven-B entirely, replacing all the air with fresh supply. Then we're running HEPA filtration for forty-eight hours minimum."
+
+"And the regolith processor?"
+
+"Shut down until we can rebuild the dust containment. Which means water extraction stops." Yuki's expression was grim. "We're back to rationing."
+
+Chen wanted to argue, wanted to say they couldn't afford to stop water production. But she couldn't argue with people dying because they'd breathed Martian dust.
+
+"How long to rebuild containment?"
+
+"Days. Maybe a week. Depends on whether we have the right materials." Yuki checked her tablet. "I'll talk to Alexis. She's good at improvising solutions."
+
+The screening revealed twelve more people with mild respiratory symptoms. Chen treated them with bronchodilators and steroids, monitored them closely for deterioration.
+
+The two intubated patients remained critical. She kept them sedated, let the ventilators breathe for them, waited for the steroids to reduce the lung inflammation enough to try extubation.
+
+Commander Rivera visited the medical bay at 0600, looking like she hadn't slept.
+
+"Prognosis?" she asked.
+
+"The critical patients will probably survive. Might have long-term lung damage, but they'll live." Chen pulled up the screening results. "The others should recover fully with treatment. But we got lucky. If the exposure had been higher, if we'd caught it later, we'd be looking at mass casualties."
+
+"And the cause?"
+
+"Equipment failure in the water extraction. Dust containment broke down, contaminated the ventilation."
+
+Rivera's jaw tightened. "Add it to the list of things corporate doesn't want to fund. How do we prevent this from happening again?"
+
+"Better filtration. Redundant safety systems. Regular inspections of dust containment." Chen met her eyes. "All of which costs money we don't have."
+
+"Then we make hard choices. Water extraction stays offline until we can guarantee it won't poison anyone. We ration what we have and hope it lasts long enough."
+
+"How long is that?"
+
+"Thirty-seven days at current reserves." Rivera looked at the intubated patients. "But that's longer than they'd have if we kept running contaminated systems."
+
+Chen couldn't argue. The math was brutal but simple. Stop water production or watch people die from breathing Martian dust.
+
+"I'll keep monitoring the exposed personnel," she said. "Anyone shows worsening symptoms, they get immediate treatment."
+
+"Good. And Chen? Keep the critical patients alive. We can't afford to lose anyone."
+
+After Rivera left, Chen checked on her patients again. The ventilators hummed, forcing oxygen into damaged lungs. The monitors beeped steady rhythms, tracking vital signs that were stable but fragile.
+
+Mars kept finding new ways to kill them. Dust storms, equipment failures, budget cuts. Now contaminated air in their own habitat.
+
+Every day was a negotiation with entropy, and the terms kept getting worse.
+
+Chen adjusted the ventilator settings, checked the medication drips, made sure her patients were as comfortable as unconsciousness allowed.
+
+And wondered how many more crises they could survive before the universe stopped accepting their bargains.

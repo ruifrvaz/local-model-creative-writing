@@ -1,0 +1,181 @@
+Yuki Tanaka found the leak at 0417 hours during a routine inspection. Pressurization in section four-C had dropped point-three percent overnight. Not much, barely noticeable. But on Mars, barely noticeable leaks killed you just as dead as catastrophic hull breaches.
+
+She pulled up the environmental sensors. The pressure loss was steady, consistent. Not a sudden rupture, but a slow bleed somewhere in the dome structure.
+
+"I need a full diagnostic sweep," she told the duty technician. "Section four-C. Look for seal degradation, microfractures, anything that explains a point-three percent pressure loss."
+
+The sweep took twenty minutes. When the results came back, Yuki felt her stomach tighten.
+
+Seventeen potential leak points. All in the same structural quadrant. All showing the same wear pattern—polymer seal degradation concentrated at stress joints.
+
+"That's not normal aging," the technician said.
+
+"No. That's accelerated wear." Yuki pulled up the maintenance logs. "These seals were replaced eight months ago. They're rated for five years. We shouldn't be seeing this kind of deterioration."
+
+She ran a materials analysis on the seal compound. The polymer showed advanced breakdown—molecular chains fragmenting, plasticizers leaching out, structural integrity compromised.
+
+But the pattern was wrong. Polymer degradation should be uniform, gradual. This looked like something had attacked the seals specifically, targeting them for breakdown.
+
+"Get me samples from the affected seals," Yuki said. "And run a contamination scan. I want to know what's causing this."
+
+While the samples processed, she pulled up colony-wide seal status. The monitoring system showed similar degradation in other sections. Not as advanced as four-C, but trending the same direction.
+
+Their entire pressurization system was failing.
+
+Yuki called an emergency meeting with Alexis and Commander Rivera.
+
+"We have a systematic seal failure," she said, pulling up the data. "Seventeen confirmed leak points in section four-C. Analysis shows similar degradation colony-wide. If the trend continues, we're looking at critical pressure loss in multiple sections within three months."
+
+Rivera studied the projections. "Cause?"
+
+"Unknown. The polymer's breaking down faster than it should, but I can't identify a mechanism. It's not thermal stress, not UV degradation, not mechanical wear. It's like something's actively destroying the seal material."
+
+Alexis pulled up the chemical analysis. "Microbial action?"
+
+"On Mars? There's no indigenous bacteria."
+
+"That we know of. Dr. Hassan found billion-year-old structures underground. If there was life here once, maybe it's still here."
+
+Yuki felt a chill. "Seal-eating bacteria would explain the specific targeting. Polymer compounds make good food for the right organisms."
+
+"Run microbiological tests," Rivera ordered. "And Yuki, how long can we maintain pressure with current leak rates?"
+
+"Depends on how fast the degradation spreads. Best case, six months. Worst case, thirty days before we're running life support at maximum capacity just to keep up with atmosphere loss."
+
+"And sealing the leaks?"
+
+"We're already on it. But if the root cause is biological, we're just buying time until new seals get infected too."
+
+Rivera was quiet. "What's your recommendation?"
+
+"Find out what's attacking the seals and kill it. Then replace every compromised seal in the colony." Yuki pulled up the spare parts inventory. "Which we don't have enough materials to do."
+
+"Of course not." Rivera checked her tablet. "How many seals can we replace with current stock?"
+
+"Maybe forty percent of what's showing degradation. The rest we'd have to improvise."
+
+"Improvise how?"
+
+"Alternative materials. Maybe metal gaskets instead of polymer, mechanical compression instead of chemical adhesion. Less efficient, more maintenance-intensive, but functional." Yuki ran calculations. "We could also reduce the number of pressurized sections. Consolidate personnel, seal off areas we don't need, focus resources on maintaining core habitat zones."
+
+"That's retreat," Alexis said.
+
+"That's triage. Save what we can with what we have." Yuki met her eyes. "I don't like it either. But if we spread resources too thin trying to maintain everything, we end up with nothing functioning properly."
+
+Rivera considered. "Run both approaches in parallel. Replace what you can with proper seals. Prepare contingency plans for zone consolidation. And find out what's eating our polymer before it spreads to other systems."
+
+The microbiological analysis came back six hours later. Yuki stared at the results, not quite believing what she was seeing.
+
+"That's not possible," she said.
+
+Dr. Chen looked over her shoulder at the microscopy images. "Those are definitely microorganisms."
+
+"On Mars. In our sealed habitat. Eating our pressure seals."
+
+"Apparently, yes."
+
+The organisms were small, simple. Single-celled, rod-shaped, with metabolic chemistry that broke down polymer compounds for energy. Exactly the kind of bacteria you'd find in industrial contamination on Earth.
+
+Except they were on Mars. Where they shouldn't exist.
+
+"Where did they come from?" Yuki asked.
+
+Chen pulled up the genetic analysis. "That's the interesting part. They're not Earth bacteria. The DNA structure is similar but distinct. These evolved separately."
+
+"Indigenous Martian life?"
+
+"Or something that was engineered to look like it." Chen highlighted anomalies in the genetic sequence. "There are patterns here that don't match natural evolution. Too regular, too purposeful. Like someone designed these organisms specifically to target polymer materials."
+
+Yuki felt cold. "Biological warfare?"
+
+"Possibly. Or a containment failure from the underground structures. If there was civilization here once, they probably had industrial microbes for waste processing, materials recycling. Something might have survived."
+
+"For a billion years?"
+
+"Extremophiles can survive indefinitely in the right conditions. Frozen, desiccated, waiting for the right conditions to activate." Chen ran more analysis. "And we gave them perfect conditions. Warm habitat, polymer-rich environment, plenty of nutrients."
+
+Yuki pulled up the colony's biological containment protocols. They'd been designed for Earth contaminants, not indigenous Martian organisms.
+
+"How do we kill them?"
+
+"Standard antibiotics won't work—different biochemistry. But they're still cellular organisms. UV radiation, chemical sterilization, heat treatment. We have options."
+
+"How do we sterilize every seal in the colony without depressurizing the habitat?"
+
+Chen thought about it. "Localized treatment. Seal sections, flood them with UV or chemical agents, wait for kill confirmation, then move to the next section. It'll take time, but it's doable."
+
+"How much time?"
+
+"Weeks. Maybe months if we're thorough."
+
+Yuki ran the numbers. Weeks of treatment while the seals continued degrading. They'd need to maintain pressure through continuous atmosphere replacement, cycling faster than the leaks could drain the habitat.
+
+It was possible. Barely.
+
+"I'll draft the sterilization protocol," she said. "You handle the biological analysis. Figure out exactly what kills these things most efficiently."
+
+"And the underground structures? If that's where these organisms came from, we might be dealing with ongoing contamination."
+
+"That's a problem for Dr. Hassan. Right now, I need to stop our habitat from bleeding atmosphere."
+
+Yuki spent the next twelve hours designing a systematic sterilization plan. Section by section, seal by seal, UV treatment followed by chemical sterilization followed by seal replacement where possible.
+
+It would work. Probably.
+
+If the bacterial contamination didn't spread faster than they could treat it.
+
+If the seals didn't fail completely before treatment finished.
+
+If the underground structures didn't release more contamination.
+
+If, if, if.
+
+Mars kept finding new ways to complicate survival.
+
+She submitted the plan to Rivera with a timeline that looked optimistic even to her.
+
+"Six weeks for complete sterilization," Rivera read. "Can the seals last that long?"
+
+"If we're lucky and aggressive about temporary patching."
+
+"And if we're not lucky?"
+
+"We evacuate failing sections and consolidate personnel. Same contingency plan as before."
+
+Rivera approved the sterilization protocol and authorized increased atmosphere production to compensate for leak rates.
+
+Yuki assembled her team and started the treatment process. Section by section, they flooded compartments with UV radiation, applied chemical agents, monitored for bacterial die-off.
+
+The organisms were resilient. The first treatment killed ninety percent. The second killed another nine percent. The third finally achieved sterilization targets.
+
+And throughout it all, the pressure gauges slowly declined as atmosphere bled into Mars's thin air through seals that were dissolving at the molecular level.
+
+Yuki worked sixteen-hour days, managing treatment cycles, coordinating seal replacements, watching the numbers that told her whether they were winning or losing.
+
+After two weeks, the bacterial contamination was contained in treated zones. After four weeks, they'd sterilized sixty percent of the colony.
+
+And the pressure loss had stabilized. Not eliminated, but controlled.
+
+Yuki stood in the monitoring station, looking at pressure curves that finally weren't dropping.
+
+"We might actually survive this," she said.
+
+Marcus Webb, who'd been helping with the technical work, looked at the data. "Define survive. We've bought time, but we're still bleeding atmosphere faster than we should."
+
+"Then we keep patching, keep treating, keep fighting entropy." Yuki pulled up the seal replacement schedule. "That's what we do here. Fight entropy. Every day. Every hour."
+
+"Sounds exhausting."
+
+"It is. But it's also the only option that doesn't involve dying."
+
+Marcus couldn't argue with that.
+
+Outside, Mars continued its indifferent rotation, uncaring that three hundred humans were struggling to maintain pressurized bubbles of Earth atmosphere in a hostile void.
+
+Inside, Yuki and her team continued the endless work of keeping those bubbles intact.
+
+One seal at a time.
+
+One crisis at a time.
+
+One small victory against entropy's inevitable victory.

@@ -1,0 +1,101 @@
+The alarm cut through Alexis Kwan's third cup of coffee. She set the mug down hard enough that brown liquid sloshed onto the habitat schematic she'd been reviewing.
+
+"Which system?" she asked, already moving toward the door.
+
+"Water recycling," Yuki Tanaka's voice crackled over the comm. "Main filtration loop. Pressure's dropping fast."
+
+Alexis grabbed her tablet and ran. The corridor hummed with the constant background noise of life support—pumps, fans, scrubbers all working to keep three hundred colonists alive in an atmosphere that wanted them dead. The Mars facility was six months old, and already showing stress fractures in ways the simulations never predicted.
+
+She reached the recycling plant in under two minutes. Yuki was elbow-deep in an access panel, her face tight with concentration.
+
+"Talk to me."
+
+"Membrane failure in chamber three. Could be the dust—it's getting into everything." Yuki pulled back, holding a filter that looked like it had been sandblasted. "Regolith particles. Micron-sized. They're shredding the polymer structure."
+
+Alexis examined the filter. The damage was extensive. "How long can we run on the backup system?"
+
+"Maybe forty-eight hours. Less if we don't reduce usage."
+
+"And after that?"
+
+Yuki met her eyes. "We start rationing."
+
+The words hung between them. Mars Colony One was already on minimal water allocation—two liters per person per day for everything except critical operations. There was no slack in the system.
+
+"Show me the damage assessment."
+
+Yuki pulled up the diagnostics on her tablet. Three of five filtration chambers were showing compromised membranes. The polymer degradation patterns suggested the regolith contamination had been ongoing for weeks, just below detection thresholds.
+
+"How did this get past our sensors?" Alexis asked.
+
+"The particles are too small. Our monitoring system was designed for Earth-standard contaminants, not Mars dust." Yuki highlighted the sensor logs. "We've been bleeding filtration efficiency for a month. Didn't notice until we hit critical mass."
+
+Alexis pulled up the spare parts inventory. Four replacement membranes in stock. Not enough.
+
+"When's the next resupply from Earth?"
+
+"Four months."
+
+Four months. She ran the calculations in her head. Reduced water allocation, emergency conservation measures, maybe they could stretch the backups for six weeks. That left a gap. A deadly one.
+
+"Get me Dr. Hassan," Alexis said. "If we can't filter the dust out mechanically, maybe we can use the geology to our advantage."
+
+While Yuki made the call, Alexis examined the damaged membrane under magnification. The regolith had done exactly what Martian geology did best—abraded, penetrated, destroyed. The red dust was relentless. It found weaknesses, exploited them, turned engineered precision into statistical failure.
+
+Dr. Omar Hassan arrived smelling of rock dust and sweat. "Heard we have a problem."
+
+"Can we process regolith for water? Emergency extraction?"
+
+Omar considered. "There's ice in the subsurface. We've been mapping deposits for future drilling. But the extraction equipment won't be here for another year."
+
+"I'm not asking about future drilling. I'm asking if we can improvise with what we have now."
+
+Omar pulled up his geological surveys. "There's a deposit twelve meters down, three hundred meters from the main habitat. We could potentially reach it with the construction equipment. But heating regolith to extract water is energy-intensive. Could overload our solar grid."
+
+"How much energy?"
+
+"Depends on the purity of the ice. Could be twenty, thirty percent of our total capacity if we're inefficient about it."
+
+Alexis felt the math crushing in from all sides. Reduce power to extract water. Reduce water to save power. Every solution created two new problems.
+
+"Commander Rivera needs to know about this," Yuki said quietly.
+
+"Not yet. Let me see if there's a fix first." Alexis pulled up the habitat's power distribution. "We can throttle back the hydroponics bay. Run it at sixty percent capacity for a few weeks."
+
+"That cuts our food production," Yuki said.
+
+"Better than dying of dehydration." Alexis ran the simulation. Reduced food, reduced water, increased power consumption for emergency extraction. The margins were razor-thin, but they could work.
+
+Maybe.
+
+Omar was shaking his head. "Corporate's not going to like this. We're already behind on the agricultural quotas."
+
+"Corporate is sitting in climate-controlled offices on Earth," Alexis said. "They don't get a vote when it comes to survival decisions."
+
+She sent the emergency protocol to Commander Rivera's terminal with a priority flag. Then she turned back to Yuki.
+
+"Start cannibalizing non-critical systems for parts. Anything with filtration membranes—air scrubbers, supplementary water lines, backup units. I want every usable component inventoried in the next four hours."
+
+"That's going to compromise our redundancy."
+
+"We're already compromised. Now we're just choosing which systems to sacrifice." Alexis pulled up the construction equipment manifest. "Omar, I need a drilling plan. Best case scenario for hitting that ice deposit with minimal power consumption."
+
+"I'll have it to you in two hours."
+
+"Make it one."
+
+As they dispersed to their tasks, Alexis stared at the ruined filter. This was Mars. Beautiful, deadly, unforgiving. Every day was a negotiation with entropy, a careful dance on the edge of systems failure.
+
+She picked up her comm. "Kwan to all department heads. Emergency meeting in thirty minutes. Conference room alpha."
+
+Rivera's voice came back immediately. "This about the water system?"
+
+"Yes, ma'am."
+
+"How bad?"
+
+Alexis looked at the diagnostic readouts, the failing membranes, the impossible math.
+
+"Bad enough," she said.
+
+And started calculating how to keep three hundred people alive with duct tape, borrowed parts, and hope that ran drier than the Martian regolith.
