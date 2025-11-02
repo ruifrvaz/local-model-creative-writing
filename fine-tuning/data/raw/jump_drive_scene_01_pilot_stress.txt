@@ -1,0 +1,163 @@
+The jump sickness hit Lieutenant Sarah Chen thirty seconds after translation.
+
+Nausea. Vertigo. The sensation that her body existed in three different locations simultaneously. She gripped the pilot's chair and focused on breathing.
+
+"Chen, status?" Admiral Kowalski's voice through the comm.
+
+"Functional." Sarah forced the word out. "Jump successful. Position confirms target coordinates."
+
+"Medical to the flight deck," Kowalski ordered.
+
+"Negative." Sarah pulled up the nav display. Her vision doubled, tripled, then stabilized. "I'm fine. Just need a minute."
+
+Dr. Aisha Mbara appeared anyway. Medical officer didn't take no for an answer.
+
+"Pupils dilated. Heart rate elevated. You're showing classic jump stress." Aisha pulled out her scanner. "Third jump in five days. Your body can't keep doing this."
+
+"The drive can't wait for my body to adapt." Sarah watched the nav data settle. They'd covered twelve light-years in subjective seconds. The fastest FTL jump on record. "How's the displacement?"
+
+"Point-three AU off target. Within acceptable parameters." Dr. Kenji Yamamoto's voice from engineering. "But we're seeing increased Alcubierre field instability. The drive is degrading faster than models predicted."
+
+Sarah closed her eyes and tried not to think about the fact that faster-than-light travel was literally tearing apart the ship's drive system. And possibly her body.
+
+"Jump accuracy is improving," she said. "First jump was point-eight AU off. We're getting better."
+
+"Or the drive is getting worse at compensating for errors," Kenji said. "Need you in engineering when you can walk straight."
+
+Sarah stood. The world tilted. Aisha caught her before she face-planted.
+
+"You're not fine," Aisha said.
+
+"Define fine." Sarah pulled herself upright through sheer stubbornness. "I can pilot. That's what matters."
+
+"You're experiencing temporal displacement symptoms. Headaches, nausea, memory discontinuity. Classic indicators of neural stress from FTL translation."
+
+"So fix it."
+
+"I can't fix physics, Sarah. Your brain is processing the experience of being in multiple locations simultaneously. The human mind isn't designed for that."
+
+"Then I'll adapt."
+
+"Or you'll stroke out." Aisha's voice was flat. "I'm recommending a forty-eight-hour rest period before the next jump."
+
+"Kowalski won't approve that."
+
+"Kowalski doesn't want his best pilot brain-dead."
+
+Sarah wanted to argue. But the headache was getting worse. Like someone had driven a spike through her temporal lobe.
+
+She made it to engineering through force of will and magnetic boots. Kenji was surrounded by holographic displays showing the Alcubierre drive's stress patterns.
+
+"How bad?" Sarah asked.
+
+"The spacetime bubble is holding, but we're seeing micro-fractures in the field geometry. Each jump weakens the matrix." Kenji pulled up a simulation. "We can maybe do six more jumps before catastrophic failure."
+
+"How many were we supposed to get?"
+
+"Twenty. Minimum."
+
+Sarah did the math. They'd done three jumps. Six more meant nine total. Less than half the test protocol. Admiral Kowalski would not be happy.
+
+"What's causing the degradation?" she asked.
+
+"Best guess? We're pushing too hard. The drive was designed for incremental testing. Point-one light-year jumps. We're doing twelve-light-year jumps and stressing the field geometry beyond safety limits."
+
+"Kowalski wants results."
+
+"Kowalski wants a functional FTL drive. What he's going to get is a very expensive explosion if we keep this up." Kenji closed the simulation. "I'm recommending we reduce jump distance. Five light-years maximum. That gives us maybe fifteen more jumps before failure."
+
+"Still short of twenty."
+
+"Better than catastrophic failure at nine."
+
+Sarah pulled up the test schedule. Kowalski had them jumping every forty-eight hours. Pushing the drive hard because Earth wanted FTL capability and wanted it now. Political pressure. Military pressure. The kind of pressure that got people killed when physics didn't cooperate.
+
+"What if we space the jumps out more?" she asked. "Give the field time to stabilize between translations."
+
+"That might work. But we'd need to convince Kowalski to slow down."
+
+"Leave that to me."
+
+Sarah made her way to the admiral's ready room. Kowalski was reviewing jump data, his expression grim.
+
+"Chen. Sit before you fall down."
+
+Sarah sat. "Sir, Dr. Yamamoto recommends reducing jump frequency and distance. The drive is showing premature degradation."
+
+"I read his report. I'm not convinced."
+
+"Sir—"
+
+"We have a narrow window for these tests. After that, the project gets reviewed. If we don't show results, funding disappears." Kowalski pulled up a schedule. "We need to demonstrate long-range FTL capability within six weeks. That means pushing the drive."
+
+"Pushing it to failure doesn't demonstrate anything except that we built it wrong."
+
+"We built it right. We're just asking it to do more than it was designed for."
+
+"That's called exceeding operational parameters. Also known as a really good way to die."
+
+Kowalski met her eyes. "You've done three jumps. How do you feel?"
+
+Sarah wanted to lie. But Kowalski was ex-pilot himself. He'd know.
+
+"Like I've been turned inside out and reassembled slightly wrong."
+
+"Can you make three more?"
+
+"Probably. Six might kill me."
+
+"Dr. Mbara says you're showing neural stress."
+
+"Dr. Mbara worries professionally." Sarah leaned forward despite the headache. "Sir, I can push through the jump sickness. But if the drive fails mid-translation, there's no pushing through that. We'd be smeared across twelve light-years of spacetime."
+
+Kowalski was quiet. Processing. Calculating.
+
+"Yamamoto's recommendation. Give it to me straight."
+
+"Reduce jump distance to five light-years. Space jumps seventy-two hours apart minimum. Gives the field geometry time to stabilize."
+
+"That cuts our test schedule by forty percent."
+
+"It keeps us alive long enough to complete the tests."
+
+Kowalski pulled up the project timeline. Sarah watched him run the numbers, weighing political pressure against crew survival.
+
+"Approved," he said finally. "But I want continuous monitoring. If the drive stabilizes, we resume the original schedule."
+
+"Yes, sir."
+
+Sarah stood to leave. The world tilted again. She caught herself on the desk.
+
+"Lieutenant." Kowalski's voice stopped her. "You're off rotation for forty-eight hours. That's an order."
+
+"Sir, I'm the only pilot rated for—"
+
+"Forty-eight hours. Then we jump again." His expression softened slightly. "I need you functional, Chen. Not heroic."
+
+Sarah wanted to argue. But her body was making compelling counterarguments. The headache had spread to her entire skull. Her vision kept splitting into temporal echoes.
+
+"Yes, sir."
+
+She made it to her quarters and collapsed on the bunk. Sleep came fast and strange—dreams of being in multiple places simultaneously. Past, present, future overlapping like a poorly shuffled deck.
+
+When she woke twelve hours later, the headache had dulled to manageable. The nausea was gone. But Sarah could still feel the echo of the jump. The sensation of having been spread across spacetime and compressed back into a single location.
+
+Humanity wanted faster-than-light travel. Wanted to reach the stars.
+
+Nobody had mentioned the price was paid in neural tissue and existential dread.
+
+Sarah pulled up the jump logs. Three successful translations. Position accuracy improving. Drive efficiency declining.
+
+They were learning. The hard way.
+
+Just like everything else humanity had ever achieved.
+
+She closed her eyes and tried not to think about the next jump. About the sensation of being torn apart and reassembled.
+
+About whether someday they wouldn't quite manage to reassemble her correctly.
+
+Forty-eight hours.
+
+Then she'd do it again.
+
+Because that's what test pilots did.

@@ -1,0 +1,191 @@
+Security Officer Lena Volkov stared at Marcus Webb's personnel file and tried to figure out where they'd missed it.
+
+Six months on Station Unity. Perfect attendance. Exemplary performance reviews. Zero red flags.
+
+And then he'd detonated a bomb during high-level negotiations.
+
+She pulled up Webb's comm logs. Thousands of messages over six months. Most were work-related. Maintenance schedules. System diagnostics. Nothing unusual.
+
+Except for one encrypted channel. Used three times in the past week.
+
+Lena ran the decryption protocols. Military-grade encryption. Took her systems thirty minutes to crack it.
+
+The messages were brief.
+
+"Package delivered."
+
+"Confirma timing."
+
+"Execute on mark."
+
+No signature. No identification. Just coordinates and confirmation codes.
+
+Lena pulled up the origin trace. The messages came from outside the station. A relay satellite in high orbit. Owned by a shell corporation registered in the Belt Territories.
+
+Dead end. Designed to be untraceable.
+
+She activated her comm to Director Nkrumah. "We've got a problem. Webb was receiving orders from outside the station. Professional operation, not lone actor."
+
+"Can you trace the source?"
+
+"Not with current capabilities. This is intelligence-level encryption and operational security."
+
+Nkrumah was quiet for a moment. "So someone wanted these negotiations disrupted. Someone with resources and expertise."
+
+"And someone who's still out there. Webb was the trigger, not the planner."
+
+"Recommendations?"
+
+"Assume there are more assets on the station. Webb was too clean to be the only plant. We do a full security review. Every person with access to sensitive areas. Every anomaly in the past six months."
+
+"That's three thousand people."
+
+"Would you prefer another explosion?"
+
+"Do it. And Lena? Keep it quiet. If the delegations find out we have multiple potential saboteurs on station, they'll evacuate."
+
+"Maybe they should."
+
+"Maybe. But Ambassador Wu thinks we're close to a breakthrough in the negotiations. If we can prevent war, a few more days of risk is worth it."
+
+Lena closed the channel and pulled up the station personnel database. Three thousand names. Any one of them could be the next Webb.
+
+She started with maintenance personnel. Anyone with access to critical systems. The list narrowed to two hundred.
+
+Cross-reference with recent hires. Fifty names.
+
+Filter for anyone who'd shown unusual interest in the negotiation schedule. Twelve names.
+
+Lena pulled detailed files on all twelve. Most looked clean. But three showed minor anomalies. Gaps in employment history. References that were slightly too perfect. Background checks that passed but felt wrong.
+
+She flagged them for enhanced surveillance and started building dossiers.
+
+Twenty hours into the investigation, she found the connection.
+
+One of the flagged personnel—a systems analyst named Julia Reeves—had sent an encrypted message two hours before Webb's explosion. Same encryption protocol. Same relay satellite.
+
+Lena felt ice run through her veins. Reeves worked in communications. She had access to the entire station's network.
+
+Including the negotiation room feeds.
+
+Lena activated the arrest protocols and assembled her team. "Target is Julia Reeves, systems analyst, sector seven. Approach with caution. She's connected to the bombing."
+
+They moved fast. Reeves was in her quarters, packing. Like she knew they were coming.
+
+"Hands where I can see them," Lena ordered.
+
+Reeves complied. Calm. Professional. No panic.
+
+"You're making a mistake," Reeves said.
+
+"I don't think so. You're connected to Webb. Same encryption. Same satellite relay."
+
+"I'm investigating Webb. Just like you."
+
+Lena pulled out restraints. "Then you won't mind coming in for questioning."
+
+Reeves didn't resist. They brought her to the security center and started the interrogation.
+
+"Who are you working for?" Lena asked.
+
+"Station Unity. Security division, counterintelligence section."
+
+"There's no counterintelligence section."
+
+Reeves pulled up a credential file. Encrypted. High-level clearance that Lena's systems recognized.
+
+"There is now," Reeves said. "Established six months ago when Earth intelligence detected plans to disrupt the negotiations. I was embedded to identify and neutralize saboteurs."
+
+Lena felt the ground shift under her assumptions. "Webb?"
+
+"Was my target. I'd identified him three days ago. Was building the case when he executed early."
+
+"Why didn't you report to Director Nkrumah?"
+
+"Because the compromise goes higher than Webb. Someone on the station is coordinating. Someone with authority to approve personnel assignments and override security protocols."
+
+Lena pulled up Reeves's credentials. They authenticated. High-level Earth intelligence clearance. Authorization codes that only existed for deep cover operations.
+
+Either Reeves was legitimate, or this was the most sophisticated cover story Lena had ever seen.
+
+"Prove it," Lena said.
+
+Reeves pulled up a data packet. "I've been tracking communication patterns for six months. Webb was just the visible asset. There's a handler on the station. Someone who approved his hiring, adjusted his work schedule to access sensitive areas, and coordinated the bombing timing."
+
+"Who?"
+
+"I don't know yet. But I've narrowed it to three people with sufficient authority and access." Reeves displayed the names.
+
+Lena felt her stomach drop. One of the names was a senior security supervisor. Her supervisor.
+
+"That's impossible. Commander Petrov has been with the station for eight years."
+
+"Perfect cover. Long enough to be trusted. Senior enough to have access. And he's been subtly adjusting duty rosters for the past six months. Always making sure certain personnel had access during key windows."
+
+Lena pulled up Petrov's recent activities. The pattern was there once you looked for it. Shift changes that put Webb in position. Security sweeps that coincidentally missed certain areas. Small anomalies that individually meant nothing. Together, they suggested coordination.
+
+"Why would Petrov sabotage the negotiations?" Lena asked.
+
+"Because someone's paying him. Or threatening him. Or both." Reeves pulled up financial records. "He's got gambling debts. Significant ones. The kind that make you vulnerable to pressure."
+
+"You're saying he was compromised."
+
+"I'm saying he's the most likely candidate. But we need proof before we can act."
+
+Lena thought about the implications. If Petrov was the handler, he knew every security protocol. Every countermeasure. Every weakness in the station's defenses.
+
+"What's the plan?" she asked.
+
+"We feed him false information. Make him think we're focusing on external threats. Then we watch what he does."
+
+"And if he escalates?"
+
+"Then we arrest him. But if we move too soon, we lose any chance of identifying his employers."
+
+Lena wanted to argue. Wanted to bring Petrov in immediately. But Reeves was right—they needed the full network, not just one compromised officer.
+
+"I'll coordinate with Director Nkrumah. But Reeves, if this goes wrong—"
+
+"It won't. I've been doing this for eight years." Reeves's expression was confident. "Trust me."
+
+Lena didn't trust anyone. But she didn't have better options.
+
+They implemented the plan. Fed Petrov false intelligence about external threats. Watched as he passed the information through encrypted channels.
+
+Forty-eight hours later, they had their proof. Petrov was the handler. Working for a coalition of interests that profited from Earth factions fighting instead of cooperating.
+
+The arrest was clean. Petrov didn't resist. Just looked tired when they came for him.
+
+"How long have you known?" he asked.
+
+"Long enough," Lena said.
+
+They secured him in detention. Shut down his network access. Started unraveling the full scope of the operation.
+
+Webb had been just the start. Petrov had recruited five assets over six months. Each one positioned to disrupt different aspects of station operations if the negotiations progressed too far.
+
+Lena briefed Director Nkrumah and Ambassador Wu.
+
+"The threat's contained," she said. "All assets identified and neutralized."
+
+"Good work," Nkrumah said.
+
+Wu looked less convinced. "For now. But Petrov worked for someone. Whoever paid him is still out there."
+
+"And they'll try again," Reeves added. "Different station. Different negotiations. Different assets. This is what they do."
+
+Lena thought about the endless game. Saboteurs and counter-saboteurs. Intelligence and counterintelligence. The shadow war that happened while diplomats negotiated in conference rooms.
+
+"Then we stay vigilant," she said.
+
+Wu nodded. "And hope vigilance is enough."
+
+The negotiations continued. The delegations reached an agreement. Sector Seven-Beta was divided, conflict averted, war delayed.
+
+For now.
+
+Lena watched the delegates depart and wondered how long before the next saboteur arrived.
+
+Station Unity was neutral ground.
+
+But neutrality just made it a target.
