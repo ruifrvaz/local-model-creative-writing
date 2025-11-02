@@ -1,0 +1,169 @@
+Yuki found the contamination at 0700. The hydroponics sensors showed elevated bacterial counts in the growth medium. Not dangerous yet. But trending wrong.
+
+She ran comprehensive analysis. Unknown bacterial strain. Not from Earth. Not from any database.
+
+Martian.
+
+"Alexis, we have a problem. Martian bacteria in the hydroponics."
+
+Alexis was there in minutes. They studied the samples under microscope. The bacteria were simple—rod-shaped, non-motile, metabolizing the nutrient solution with alarming efficiency.
+
+"How did Martian bacteria get into a closed hydroponics system?" Alexis asked.
+
+"Airlock contamination maybe? Someone tracked it in on their suit?" Yuki pulled up entry logs. "But we have decontamination protocols. Triple-redundant sterilization."
+
+"Which apparently isn't enough." Alexis enhanced the bacterial imaging. "Can you eliminate it?"
+
+"Normally yes. But look at the growth rate. This strain reproduces every ninety minutes. By the time I sterilize one section, it's already spread to others."
+
+"So we're losing the hydroponics?"
+
+"Unless we find a way to stop it." Yuki ran chemical sensitivity tests. "The bacteria are resistant to standard sterilization agents. They've adapted to Martian conditions—extreme cold, radiation, desiccation. Our gentle Earth-based kill methods don't phase them."
+
+"What about aggressive methods? Heat sterilization? Radiation?"
+
+"Would kill the bacteria. Also kill the plants. We'd lose the entire crop."
+
+Alexis did the math. The hydroponics provided forty percent of the colony's food. Losing it meant rationing, reliance on Earth shipments, potential malnutrition.
+
+"How long until the contamination compromises the crop?"
+
+"Three days at current spread rate. Maybe less if it accelerates."
+
+"Then we have three days to solve this." Alexis pulled up the colony's biological resources. "Hassan, how fast can you culture counter-measures?"
+
+Hassan appeared in the lab doorway. "What kind of counter-measures?"
+
+"Something that kills Martian bacteria without harming Earth plants."
+
+"That's a tall order. We barely understand Martian microbiology." Hassan examined the samples. "But I might have an option. Bacteriophages."
+
+"Viruses that target bacteria?"
+
+"Specifically. If I can isolate or engineer a phage that attacks this Martian strain, we might eliminate it without damaging the plants."
+
+"Can you do that in three days?"
+
+"I can try."
+
+Hassan worked continuously. Isolating Martian soil samples. Screening for naturally occurring phages. Running genetic analysis to understand the target bacteria's vulnerabilities.
+
+Yuki attempted containment. Sectioning off infected portions of the hydroponics. Slowing the spread without stopping it.
+
+The bacterial growth continued. Forty hours remaining until crop failure.
+
+Hassan found a candidate phage on day two. Naturally occurring in Martian regolith. Attacked rod-shaped bacteria with specific surface proteins.
+
+"Will it work?" Alexis asked.
+
+"In principle. But I haven't tested it against our specific contaminating strain." Hassan cultured the phage. "This is educated guessing with limited data."
+
+"We're out of options. Try it."
+
+They introduced the phage to a contaminated growth section. Watched the bacterial counts through the microscope.
+
+The phage attached to bacterial cell walls. Injected genetic material. The bacteria began dying.
+
+Within six hours, the contaminated section showed ninety percent bacterial reduction.
+
+"It works," Yuki breathed. "Hassan, it actually works."
+
+"In controlled conditions. We need to deploy it colony-wide." Hassan prepared large-scale phage cultures. "But I'm worried about unintended effects. The phage might mutate. Might attack beneficial bacteria. Might create ecosystem imbalances we don't anticipate."
+
+"Versus certain crop failure?"
+
+"Fair point. We deploy."
+
+The phage treatment rolled out across all hydroponics sections. Bacterial counts dropped. Plants recovered. The contamination crisis resolved.
+
+But Alexis couldn't shake her concern. Martian bacteria had penetrated their closed systems. Their decontamination protocols were insufficient.
+
+"This will happen again," she told Rivera. "We're living on Mars. Exposed to Martian biology. Our Earth-based assumptions about sterility don't apply."
+
+"What do you recommend?"
+
+"Complete review of all contamination protocols. Assume Martian microbes are persistent and adaptable. Design defenses accordingly."
+
+Rivera authorized the review. Every airlock. Every decontamination chamber. Every sealed system interface.
+
+They found seventeen potential contamination vectors. Some obvious. Some subtle.
+
+The fixes took weeks. Enhanced sterilization. Additional screening. Protocols that assumed Martian biology was actively hostile.
+
+Hassan established a ongoing Martian microbiology program. Studying the bacteria. Understanding their adaptations. Preparing counter-measures for future contamination.
+
+"Mars isn't sterile," he reported. "We assumed it was dead because we didn't find obvious life. But the microbes are here. Thriving in conditions we thought were lethal."
+
+"How many strains?"
+
+"I've identified forty-seven so far. Probably hundreds more undiscovered." Hassan displayed his findings. "They're simple. But incredibly resilient. Able to metabolize compounds Earth life can't touch. Resistant to radiation levels that would sterilize Earth bacteria."
+
+"Threat assessment?"
+
+"Most are harmless to humans. They can't survive in our body temperatures and oxygen concentrations. But they can contaminate our systems. Disrupt our infrastructure. Compete with our biology for resources."
+
+"So we're sharing Mars with indigenous life forms."
+
+"Exactly. And we need to learn to coexist."
+
+The colony adapted. Contamination became routine occurrence. Not crisis, but expected operational challenge. Engineers developed new sterilization methods. Biologists cataloged Martian strains. Everyone learned to work with the reality of indigenous biology.
+
+Yuki optimized the hydroponics for Martian conditions. Used Hassan's phage cultures as preventative treatment. Accepted that sterility was impossible—managed contamination instead.
+
+"It's actually fascinating," she told Alexis three months later. "Some Martian bacteria produce compounds that enhance plant growth. They're not all threats. Some are beneficial."
+
+"You're farming with Martian symbionts?"
+
+"Experimenting with controlled introduction. If we can harness beneficial strains, we improve crop yields without Earth inputs."
+
+Alexis reviewed the data. Yuki was right. Some Martian-Earth hybrid growing systems showed twenty percent improved efficiency.
+
+"This is adaptive agriculture. Using the planet instead of fighting it."
+
+"Exactly. Mars has life. Simple, microbial, but life. We either work with it or fight it forever. Working seems smarter."
+
+Rivera approved the hybrid cultivation program. Within six months, half the colony's food came from Martian-augmented crops.
+
+The yields improved. The resource efficiency increased. The colony became more self-sufficient.
+
+"We're becoming Martian," Hassan observed. "Not genetically. But ecologically. Our food depends on Martian biology. Our systems interact with Martian microbes. We're integrating."
+
+"Is that success or compromise?" Alexis asked.
+
+"Both. We came here thinking we'd terraform Mars. Make it like Earth. But actually, Mars is terraforming us. Making us adapt to its reality."
+
+Alexis looked at the hydroponics bays. Earth plants growing in Martian-enhanced medium. Human technology merged with alien biology.
+
+"Think Earth will care?"
+
+"Earth Corp will object. They want colonial dependence on Earth supplies. Self-sufficiency threatens their business model."
+
+"Then we don't advertise it. Keep the Martian integration quiet."
+
+Hassan smiled. "Institutional rebellion through microbial agriculture. I like it."
+
+The colony continued evolving. Adapting. Learning to be Martian.
+
+Not through grand transformation. Through small biological integration.
+
+One microbe at a time.
+
+The red planet was teaching them.
+
+They were learning.
+
+And in the process, becoming something neither fully Earth nor fully Mars.
+
+Something new.
+
+Something unprecedented.
+
+The first true Martians.
+
+Built from Earth biology and Martian reality.
+
+The future the colonists hadn't planned.
+
+But the future they were creating.
+
+One contaminated crop at a time.
