@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs
+fine-tuning/checkpoints/
+fine-tuning/logs/
+fine-tuning/merged_models/
+
+# Processed data (generated from raw sources)
+fine-tuning/data/processed/
+
+# RAG outputs (auto-generated)
+RAG/chunks/
+RAG/chroma_db/
+RAG/benchmarks/query_results/
+RAG/benchmarks/test_results/
+
+# vLLM benchmark results
+vllm/benchmarks/results/
+
+# Model cache (user's HuggingFace cache is in ~/.cache/)
+*.bin
+*.safetensors
+models/
+
+# Logs
+*.log
+nohup.out
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
