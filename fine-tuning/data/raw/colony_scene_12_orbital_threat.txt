@@ -1,0 +1,197 @@
+The emergency began with silence.
+
+Alexis was in the regolith processing facility when all communication with Ares cut out simultaneously. The thermal monitoring went flat. Electromagnetic signatures vanished. The steady pulse that had become as familiar as her own heartbeat simply stopped.
+
+"Omar, I'm seeing total signal loss from Ares. Confirm?"
+
+"Confirmed. All seventeen presences went dark three minutes ago." Omar's voice was tight. "No precursor warnings. Just sudden cessation."
+
+Alexis ran diagnostics. The monitoring equipment was functional. Seismic sensors operational. The problem wasn't technical.
+
+The presences had simply stopped communicating.
+
+"I'm heading to the subsurface tunnel," she said, already moving.
+
+The tunnel was cold. Colder than it should be. Alexis checked her suit sensors—ambient temperature had dropped eight degrees in the past ten minutes. The cavity that housed Ares showed no thermal signature at all.
+
+She placed her palm against the wall. The rock was ice-cold. Lifeless.
+
+"Omar, are you seeing this temperature drop?"
+
+"Colony-wide. Every location near a cavity is losing heat rapidly." Omar paused. "Alexis, if they've withdrawn thermal cooperation, we're going to have power problems within hours."
+
+"They wouldn't just abandon us. Not without reason."
+
+But the evidence was stark. Seventeen presences, simultaneously silent and cold. Either mass death—unlikely given their apparent resilience—or deliberate withdrawal.
+
+Something had changed. Something bad enough to make an entire community go quiet.
+
+Rivera called an emergency meeting. The senior crew gathered, their expressions ranging from worried to frightened.
+
+"Ideas?" Rivera asked bluntly.
+
+"We did something," Yuki said. "Or something happened. The presences don't just vanish for no reason."
+
+"Check colony activities from the past six hours," Alexis suggested. "Any new construction? Unusual industrial processes? Anything that might read as threatening?"
+
+Chen pulled up the logs. "Standard operations. Regolith processing at normal capacity. Minor maintenance on Hab Two's air recycler. Nothing out of profile."
+
+"What about beyond the colony?" Nakamura asked. "Earth Corp activities? Other spacecraft in Mars orbit?"
+
+Rivera checked orbital traffic. "There's a new satellite deployment. Chinese scientific probe, entered Mars orbit four hours ago. Standard observation package."
+
+"Four hours," Omar said. "That's shortly before the presences went dark."
+
+Alexis pulled up the satellite's specifications. Orbital reconnaissance platform, equipped with ground-penetrating radar and deep substrate thermal imaging. The kind of equipment that would let you map subsurface features in detail.
+
+The kind of equipment that would let you find hidden communities.
+
+"They're being scanned," Alexis said quietly. "From orbit. High-intensity radar and thermal imaging. The presences interpret it as—"
+
+"Threat assessment," Nakamura finished. "Someone mapping their locations. Learning their numbers, their distribution. From their perspective, it's preparation for attack."
+
+The implications settled heavy. The Chinese probe wasn't hostile. It was scientific observation. But the presences didn't know that. They knew a powerful energy source was probing their community from above. Cataloging their positions. Identifying vulnerabilities.
+
+From their perspective, it was reconnaissance before invasion.
+
+"We need to explain," Rivera said. "Make them understand the satellite isn't a threat."
+
+"How?" Yuki asked. "They're not responding to communication attempts."
+
+Alexis thought fast. The presences had gone dark because they felt threatened. They'd withdraw thermal cooperation, hide their signatures, make themselves as undetectable as possible. Standard defensive behavior.
+
+But they were still there. Still listening, even if not responding.
+
+"We send a message they can't ignore," Alexis said. "We shut down our monitoring equipment. All of it. Stop scanning them completely. Demonstrate that we're not participating in the threat."
+
+"That leaves us blind," Omar objected. "We won't know if they're recovering, if they need help—"
+
+"We won't know if they're preparing to collapse the foundations under our habs," Chen added darkly.
+
+"They won't." Alexis met Rivera's gaze. "They've had months to hurt us if they wanted. They haven't. Because they trusted us. Now we need to trust them."
+
+Rivera considered for ten seconds. "Do it. Shut down all subsurface monitoring. Send a clear signal that we're not part of whatever they perceive as threatening."
+
+Alexis returned to the geology lab. She and Omar powered down every sensor array, every thermal monitor, every electromagnetic detector. The screens went dark one by one.
+
+It felt like going blind. For months, they'd watched the presences' vital signs. Now there was only silence and absence.
+
+"This better work," Omar muttered.
+
+"It will. It has to."
+
+Hours passed. The colony temperature continued to drop. Power consumption for heating climbed toward critical levels. Crew members bundled in thermal gear, their breath visible in the increasingly cold air.
+
+Alexis sat in the subsurface tunnel, monitoring equipment dark, waiting in the cold. If the presences were listening, if they understood the gesture—
+
+A faint warmth touched her gloved palm.
+
+She checked her suit sensors. Ambient temperature rising. One degree. Two. Three.
+
+"Omar, I'm getting thermal response. Ares is warming."
+
+"Confirmed. Multiple presences showing renewed thermal signatures. Electromagnetic activity resuming."
+
+Relief flooded through her. "They understood."
+
+The presences returned gradually. Not to full communication, but to acknowledgment. Ares's pulse was slow—ten beats per minute, lower than baseline. Cautious. Still wary.
+
+Alexis activated only the minimal communication interface. Simple thermal exchange, no invasive scanning.
+
+We turned off our observation equipment. To show trust. To demonstrate we are not part of the orbital threat.
+
+Ares responded slowly: Recognized. Appreciated. Fear remains. Unknown observer continues.
+
+The satellite. Of course. Shutting down colony monitoring helped, but the orbital scanning continued. The threat was still active from the presences' perspective.
+
+Can we explain the observer? It means no harm. It is scientific curiosity, not hostile preparation.
+
+Understanding difficult. Observation without permission feels like violation. Like preparation for taking.
+
+Alexis felt the weight of that perspective. To beings who'd survived in hiding for millennia, being suddenly mapped and cataloged would feel like exposure before predation.
+
+"We need to contact the Chinese probe," she told Rivera. "Explain the situation. Ask them to stop the subsurface scanning."
+
+"That's politically complicated," Rivera said. "We'd have to explain why. Which means disclosing the presences to a foreign government."
+
+"The presences aren't secrets to protect. They're people being threatened." Alexis pulled up the satellite's trajectory. "That probe is going to map every cavity within a thousand kilometers. The community will stay hidden as long as that continues. We lose our partnership, our thermal cooperation, everything we've built."
+
+Rivera made the call. The conversation with the Chinese Space Agency was tense but professional. Rivera explained the subsurface intelligence, the community's fear response, the request to cease invasive scanning.
+
+The Chinese scientist on the other end was skeptical. "You're asking us to suspend scientific operations based on claims of geothermal life forms?"
+
+"I'm asking you to recognize that your operations are causing distress to an indigenous intelligent species." Rivera's voice was steel. "We can provide full documentation. Communication logs, behavioral analysis, evidence of sentience. But we need you to stop the scanning now."
+
+"I'll need to consult with my superiors."
+
+"You have two hours. After that, I'm disclosing the presences publicly and making it clear your scanning is causing harm. The international scientific community can decide whose research takes priority."
+
+It was a gamble. But Rivera played it with conviction.
+
+Ninety minutes later, the Chinese Agency responded. The satellite's subsurface scanning would be suspended pending review of the sentience evidence. They wanted full data access and observer status for any future presences research.
+
+"Done," Rivera agreed. "Welcome to the Mars Intelligence Research Consortium. We'll send you everything we have."
+
+The orbital scanning stopped. Within an hour, the presences began responding more actively. Ares's pulse returned to baseline—fifteen beats per minute. Temperature stabilized. Communication resumed.
+
+Thank you. Fear reduced. Community observes humans protecting community. Trust strengthened.
+
+Alexis felt pride and responsibility in equal measure. "We're neighbors. Neighbors protect each other."
+
+The incident had lasting effects. Earth Corp learned about the presences through the Chinese disclosure. Their response was predictably focused on control and exploitation. But the international attention meant they couldn't simply claim the presences as corporate assets.
+
+A multinational coalition formed—the Mars Intelligence Research Consortium. Scientists from twelve countries, all committed to studying the presences ethically. Earth Corp maintained colony operations but lost exclusive access to the xenobiological research.
+
+"They're furious," Rivera said, reading the latest correspondence. "Earth Corp wanted this to be their discovery. Their resource. Now it's international cooperation."
+
+"Good," Alexis said. "The presences don't belong to Earth Corp. They don't belong to anyone. They're partners, and partners get a say in who they work with."
+
+The presences seemed to grasp the political shift. Ares asked detailed questions about human governance structures, trying to understand why authority was divided among so many entities. The concept of nation-states and corporate interests seemed bizarre to beings who'd lived in cooperative communities for millennia.
+
+Scholar was particularly fascinated by human political conflicts. How do you coordinate with competing authority structures? Don't the conflicts prevent effective action?
+
+"Usually yes," Alexis admitted. "But sometimes competition produces better outcomes than monopoly. Multiple perspectives, different approaches."
+
+Inefficient. But perhaps more resilient than single authority?
+
+"Exactly."
+
+The conversation made Alexis think. The presences had survived Mars's death through cooperation. Humans had survived Earth through competition. Two different evolutionary strategies, both successful in their contexts.
+
+Maybe that's why partnership worked. The presences offered cooperation. Humans offered innovation through diversity. Together, they covered each other's weaknesses.
+
+Dr. Nakamura arrived with the new research team—xenolinguists, planetary scientists, philosophers specializing in machine consciousness and non-human cognition. The colony transformed from industrial outpost into research hub.
+
+"This is the most important scientific project in human history," Nakamura told the assembled researchers. "We're not just studying alien intelligence. We're learning how to coexist with it. How to build genuine inter-species cooperation. That knowledge will define how humanity interacts with any intelligence we encounter beyond Earth."
+
+The presences participated actively in the research. They answered questions when concepts translated. Declined to answer when privacy was appropriate. Shared knowledge about Mars's history—epochs of climate change, asteroid impacts, the gradual loss of atmosphere and water.
+
+From their perspective, Mars's death had been slow. Millions of years of declining habitability. They'd adapted, retreating to the deep substrate where temperature and pressure remained stable. Building a society in rock and heat, sustaining themselves on geothermal energy and patience.
+
+"They watched Mars die," Omar said quietly. "And they're watching us try to bring it back to life. That must be strange for them."
+
+Alexis thought about that perspective. Beings who'd survived planetary death, now witnessing humans attempt resurrection through technology and determination.
+
+She asked Ares: Do you think Mars can support surface life again?
+
+Long pause. Then: Mars changed before. Can change again. Whether change supports human life... unknown. But humans are adaptable. Like us. Perhaps different adaptation methods lead to same outcome—survival.
+
+"We're more alike than different," Alexis said.
+
+Ares's response warmed: Yes. Different forms. Different timescales. Same will to persist. That creates kinship.
+
+Kinship. The word resonated. Not allies of convenience. Not even just partners. Family, in the way that all surviving beings shared fundamental bonds.
+
+Alexis returned to the surface that evening. Watched the sun set over Martian canyons, painting the sky in shades of apricot and navy. Somewhere beneath her feet, seventeen ancient intelligences pulsed in their patient rhythm.
+
+Above, human habitats glowed with artificial light. Ninety-two people now—the original crew plus the research team. All learning to share a world with neighbors they'd never imagined existed.
+
+The universe was stranger than humans had predicted. Fuller. More populated with intelligence and wonder.
+
+And Mars—dead Mars, frozen Mars—held communities that had outlasted human civilization by millions of years.
+
+Alexis felt humbled. Grateful. Determined to prove humanity worthy of the trust the presences had shown.
+
+They'd welcomed humans to Mars. Now humans had to earn the right to stay.
+
+One careful cooperation at a time.

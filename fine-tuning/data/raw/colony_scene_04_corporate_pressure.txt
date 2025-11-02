@@ -1,0 +1,133 @@
+The Earth Corp transmission arrived during breakfast. Alexis was reviewing structural integrity reports when Rivera summoned her to the command center.
+
+The main screen showed Marcus Webb—Earth Corp's Mars Division Director. His suit was immaculate, his expression the particular blend of concern and impatience that meant trouble.
+
+"Commander Rivera, Ms. Kwan. I'll be direct. Your production metrics are fourteen percent below target for the quarter."
+
+Rivera's jaw tightened. "We've had equipment failures. The water recycling system—"
+
+"Is a solved problem according to your last report." Webb cut her off smoothly. "Which makes the production gap more concerning. Earth Corp has invested substantial resources in this colony. We need to see returns."
+
+Alexis kept her face neutral. Returns. As if Mars was a quarterly earnings statement.
+
+"The regolith processing facility is operating at capacity," Rivera said. "We're extracting rare earth elements according to schedule. The shortfall is in refined output—we've had to divert power to life support systems."
+
+"Divert it back."
+
+"That would compromise crew safety."
+
+Webb leaned forward slightly. "Commander, seventy-two people is a sustainable crew size only if they're productive. If the colony can't meet basic targets, we'll need to reconsider the mission parameters."
+
+The threat was subtle but clear. Perform or be shut down.
+
+"We need replacement parts," Alexis said. "The equipment specs didn't account for Martian dust infiltration. We're seeing failure rates three times higher than predicted."
+
+"Which is why we're sending supplemental components on the next cargo run." Webb pulled up a manifest. "But that's three months out. In the meantime, we need you to optimize with available resources."
+
+Optimize. Corporate speak for do more with less.
+
+After the transmission ended, Rivera sat in silence for thirty seconds. Then she slammed her palm on the desk.
+
+"Three months. We can't maintain current operations for three months without better parts."
+
+"We can if we reduce crew comfort standards," Alexis said.
+
+"You mean rationing beyond what we're already doing?"
+
+"I mean choosing what matters. Heat, water, air—those are non-negotiable. But hot showers? Personal data allowances? Fresh vegetables from hydroponics?" Alexis pulled up the power consumption breakdown. "We can cut twenty percent from comfort systems and redirect it to industrial operations."
+
+Rivera studied the numbers. "The crew won't like it."
+
+"The crew won't like unemployment better."
+
+"You're talking about making Mars even less livable than it already is."
+
+"I'm talking about keeping the colony viable." Alexis highlighted the critical systems. "Webb's threat was real. Earth Corp will shut us down if we don't perform. And then everything we've built here was for nothing."
+
+Rivera was quiet, calculating. Outside the command center's viewport, Mars stretched to the horizon—rust-red desert under a butterscotch sky. Beautiful in its desolation.
+
+"Draft a proposal," Rivera said finally. "Conservative cuts. I'll sell it to the crew as temporary measures until the resupply arrives."
+
+Alexis spent the next two hours building a sustainability model that wouldn't break morale. Hot showers reduced from daily to every three days. Fresh vegetables once a week instead of twice. Personal quarters heated to eighteen Celsius instead of twenty-one.
+
+Small sacrifices. Multiplied across seventy-two people, they added up to enough power to keep Earth Corp satisfied.
+
+She was finalizing the proposal when Omar messaged: Cavity temperature increasing. Need you to see this.
+
+Alexis saved her work and headed for the geology lab. Omar had expanded the monitoring array—a dozen sensors now tracked the cavity's every fluctuation.
+
+"Temperature's up four degrees in the last three hours," Omar said. "And the pulse rate is accelerating. Seventeen beats per minute now, up from fifteen."
+
+Alexis studied the thermal gradient. The cavity was definitely more active. "Any correlation with colony systems?"
+
+"That's the strange part. The increase started right after your meeting with Earth Corp."
+
+"That's coincidence."
+
+"Maybe. But I've been running pattern analysis on all the cavity's fluctuations. They correlate with high-stress events in the colony. Water system failure. The rationing announcement. Your conversation with Webb." Omar pulled up the correlation chart. "This thing is responsive to us. Not just physically—emotionally."
+
+Alexis wanted to dismiss it as pattern-seeking. Humans were wired to find meaning in randomness. But the data was compelling.
+
+"You're saying this cavity is empathic?"
+
+"I'm saying it reacts to the colony's stress levels in ways I can't explain through geology alone."
+
+Alexis leaned against the lab bench, thinking. If Omar was right, they weren't dealing with a passive geological feature. They were dealing with something that sensed the colony's state. Maybe even responded to it.
+
+"The heat increase," she said slowly. "Could we tap it? Route thermal energy from the cavity into our heating grid?"
+
+Omar's eyes widened. "That's insane."
+
+"That's practical. If this thing is generating excess heat during colony stress periods, we're wasting a resource." Alexis pulled up the thermal engineering specs. "We drill a vertical shaft, install heat exchange coils, run a closed-loop system to the habitat thermal grid. Passive heating, no power consumption."
+
+"And if the cavity objects to being drilled?"
+
+"Then we find out if it's actually intelligent or just responsive." Alexis met his gaze. "We need this, Omar. The power margins are too thin. If we can reduce heating costs by even ten percent—"
+
+"We buy ourselves breathing room with Earth Corp."
+
+"Exactly."
+
+Omar was quiet, wrestling with the ethics. They were talking about exploiting something that might be alive. Aware. Indigenous to Mars in ways humans could never be.
+
+"Let me run stress models first," he said finally. "If we drill, I want to know the cavity won't collapse or explode or do something else catastrophic."
+
+"How long?"
+
+"Twenty-four hours."
+
+Alexis nodded. Twenty-four hours to determine if they could turn a mystery into a solution. Standard Mars timeline—every answer created three new questions.
+
+She headed back to finish her rationing proposal. The numbers looked better now with the possibility of thermal subsidies from the cavity. She could reduce the crew comfort cuts if the heat exchange system worked.
+
+Big if.
+
+Rivera approved the proposal with minimal changes. "I'll announce it at the crew meeting tonight. Try to frame it as temporary optimization rather than desperation."
+
+"Good luck with that."
+
+The crew meeting was tense. People asked questions Alexis couldn't fully answer. Why were the production targets so aggressive? Why couldn't Earth Corp send parts faster? Why had they come to Mars if the margins were this thin?
+
+Yuki stood up near the end. "We knew this would be hard. We signed up for hard. But we need to know—are we building something permanent here, or are we just a corporate experiment that gets shut down the moment it's unprofitable?"
+
+Rivera looked at the seventy-two faces watching her. Engineers, scientists, technicians. People who'd left Earth, left families, left comfortable lives to plant humanity's flag on another world.
+
+"We're permanent," Rivera said. "Whatever it takes. This colony survives."
+
+The meeting ended with cautious acceptance. The crew would endure the rationing because the alternative was failure.
+
+Alexis found Omar in the geology lab, still running simulations.
+
+"Well?" she asked.
+
+"It's viable. Risky, but viable." He showed her the models. "If we drill slow and monitor continuously, we can install the heat exchangers without catastrophic failure."
+
+"And if the cavity objects?"
+
+"Then we find out Mars has opinions about human engineering."
+
+Alexis smiled despite the tension. "Let's hope it's a favorable opinion."
+
+They had twenty-four hours until the drill crew could start. Twenty-four hours to prepare for first contact with whatever pulsed beneath their feet.
+
+Mars kept testing them. This time, they'd test it right back.

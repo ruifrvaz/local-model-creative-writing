@@ -1,0 +1,163 @@
+The dust storm hit without warning. One moment, Mars was its usual rust-colored serenity. The next, the sky turned ochre and the visibility dropped to three meters.
+
+"All personnel to shelter," Rivera's voice echoed through the hab corridors. "This is not a drill. EVA teams, abort operations and return immediately."
+
+Alexis was in the regolith processing facility when the alarms triggered. She pulled up the meteorological data—wind speeds climbing past sixty meters per second. The storm would last hours, maybe days.
+
+She sealed the facility's external hatches and ran diagnostics. All systems green. The building would hold.
+
+"Alexis, we've got a problem." Omar's voice crackled over comms. "The solar array's taking direct hits. Wind shear is compromising the mounting brackets."
+
+Alexis pulled up the power grid status. Energy production dropping fast as panels went offline. The colony ran on solar supplemented by battery storage. If they lost too many panels—
+
+"Can we shut down the arrays remotely? Retract them?"
+
+"Not fast enough. The storm's accelerating."
+
+Alexis thought fast. "Reroute power from non-essential systems. Shut down the regolith processor, reduce hab lighting to emergency levels, kill the hydroponics LEDs."
+
+"That'll buy us maybe twelve hours of battery life."
+
+"Then we hope the storm clears in twelve hours."
+
+It was a gamble. Martian storms could last days. But running the arrays in high wind risked permanent damage—bent panels, severed connections, lost capacity they couldn't replace for months.
+
+Alexis made the call. "Shut it down. Conserve battery."
+
+Around her, the facility lights dimmed to emergency red. The processing equipment powered down with a series of mechanical sighs. In the sudden quiet, she could hear the wind howling outside—a sound Mars rarely made, but terrifying when it did.
+
+She headed for the command center. The corridors were crowded with crew members seeking shelter from the external habs. People huddled in small groups, watching the storm through reinforced viewports.
+
+The wind carried dust in dense clouds that scoured everything they touched. The visibility was zero now—just an orange-brown wall of moving particles. Alexis had seen dust storms on Earth, but this was different. More violent. More alien.
+
+Rivera was coordinating shelter assignments when Alexis arrived.
+
+"Power status?" the commander asked.
+
+"We're on battery. Twelve hours at current consumption."
+
+"And if the storm lasts longer?"
+
+"We start making hard choices about what systems stay online." Alexis pulled up the priority matrix. "Life support is non-negotiable. Heat, air, water. Everything else is optional."
+
+"The cavity," Rivera said quietly. "Could we tap its heat?"
+
+Alexis had been thinking the same thing. "Omar's been monitoring it. The temperature's stable at twenty-eight Celsius. If we could route that heat—"
+
+"We'd save enough power to extend battery life significantly."
+
+"Or we'd antagonize an intelligence we don't understand during a crisis." Alexis met Rivera's gaze. "It's your call."
+
+Rivera looked out at the storm. The wind was a constant roar now, shaking the hab's foundations. Somewhere out there, the solar arrays were taking a beating. Their fragile infrastructure exposed to Martian fury.
+
+"Set it up," Rivera said. "But carefully. We're asking, not taking."
+
+Alexis found Omar in the geology lab, watching the cavity's monitoring data.
+
+"Temperature's rising," he reported. "Up two degrees since the storm started."
+
+"It's reacting to the crisis again."
+
+"Or preparing to help." Omar pulled up the thermal analysis. "Look at the heat distribution. It's concentrating toward our hab. Like it's trying to push warmth in our direction."
+
+Alexis felt goosebumps. The cavity was aware of their need. Responding before they asked.
+
+"Can we set up the heat exchange safely? In storm conditions?"
+
+"If we use the existing drill hole. No new excavation, just insert the coils we already fabricated." Omar checked the seismic monitors. "The cavity's stable. No signs of distress."
+
+They worked fast. Alexis assembled the thermal coils while Omar verified the heat transfer calculations. The system was simple—closed-loop fluid circulation, passive thermal exchange, no moving parts to fail.
+
+Within two hours, they had the coils inserted through the drill hole and connected to the hab's heating grid.
+
+"Activating circulation," Alexis said.
+
+The pump hummed to life. Fluid flowed through the coils, down into the cavity, back up carrying heat. On the monitoring displays, the heat transfer rate climbed steadily.
+
+The cavity pulsed. Faster now—twenty beats per minute. But the electromagnetic signature was calm, almost welcoming.
+
+"It's working," Omar breathed. "We're pulling four kilowatts of thermal energy. That's enough to heat three hab modules."
+
+Alexis adjusted the flow rate, optimizing the transfer. The cavity responded by increasing its temperature output, maintaining a steady gradient. It was cooperating. Actively helping.
+
+"Rivera, we're online. Thermal transfer from the cavity is supplementing habitat heating."
+
+"Confirmed," Rivera responded. "Power consumption dropping. Battery life extended to... thirty-two hours. Good work."
+
+The storm raged for eighteen hours. Wind speeds peaked at eighty-five meters per second—strong enough to strip paint from metal, scour glassteel until it frosted. The colony huddled in its shelters, watching Mars demonstrate why colonization was hard.
+
+But inside, they stayed warm. The cavity provided heat without complaint, without demand. Just steady, patient cooperation.
+
+Alexis spent most of the storm in the subsurface tunnel, monitoring the thermal exchange. The cavity's pulse remained elevated but stable. Omar joined her around hour twelve, bringing coffee and curiosity.
+
+"You think it knows?" he asked. "That it's helping us survive?"
+
+"I think it knows we're here. Whether it understands survival in the way we do—" Alexis shrugged. "Maybe. Or maybe it just recognizes need and responds."
+
+"That would make it more ethical than Earth Corp."
+
+Alexis smiled. "Low bar."
+
+They sat together, drinking terrible coffee, listening to the wind howl above while the cavity pulsed below. Two intelligences sheltering on the same planet, sharing warmth during a storm.
+
+"What do we call it?" Omar asked. "We can't keep saying 'the cavity.'"
+
+"You're the geologist. You get to name it."
+
+Omar thought for a moment. "Ares. Mars's Greek name. Seemed appropriate."
+
+"Ares." Alexis tested the word. "God of war. Ironic for something so cooperative."
+
+"Maybe that's the point. Maybe Mars isn't about war. Maybe it's about proving we can be better."
+
+The storm broke at hour eighteen. The wind dropped suddenly, the dust began to settle. Through the viewports, crew members watched the sky clear from orange-brown to butterscotch-pale.
+
+Damage assessment teams deployed immediately. The solar arrays had taken hits—twelve panels destroyed, thirty-seven damaged but repairable. Production capacity down forty percent until repairs could be completed.
+
+But they'd survived. Seventy-two people, sheltered by polymer and metal and an intelligence that lived in rock.
+
+Alexis returned to the subsurface tunnel as the thermal load decreased. They didn't need as much heat now that the storm had passed. She adjusted the flow rate downward.
+
+The cavity responded by reducing its temperature output. Precise. Controlled. Deliberate.
+
+"Thank you," Alexis said to the rock.
+
+The cavity pulsed once. Slow and steady.
+
+Rivera called a crew meeting that evening. Everyone gathered in the main hab, tired but alive.
+
+"We lost some solar capacity," Rivera said. "But we gained something more important. Proof that we're not alone on Mars. And proof that coexistence is possible."
+
+She pulled up the thermal data from the storm. "During the crisis, the presence we've designated as Ares provided supplemental heating. Not because we demanded it. Because it recognized our need."
+
+Murmurs ran through the crew. Wonder. Excitement. A few tears.
+
+"We came to Mars to establish human presence," Rivera continued. "I think we've found something better. The possibility of partnership. Of learning from neighbors who've survived here far longer than we have."
+
+Yuki stood up. "What happens when Earth Corp finds out?"
+
+"They already know," Rivera said. "I transmitted the full report during the storm. Classified it as a major xenobiological discovery with potential thermal resource applications."
+
+"And their response?"
+
+Rivera smiled grimly. "They want detailed analysis. Economic projections. Exploitation feasibility."
+
+"Of course they do."
+
+"Which is why we're documenting everything. Every interaction, every cooperative gesture, every indication of intelligence." Rivera's voice hardened. "We're building a case that Ares deserves protection. That Mars isn't ours to exploit—it's theirs to share."
+
+Alexis felt pride mix with determination. The colony had come to extract resources. Maybe they'd learn to receive gifts instead.
+
+The crew dispersed slowly, talking in quiet groups. Alexis found Yuki near the hydroponics entrance.
+
+"You were right," Alexis said. "About transparency."
+
+"I usually am." Yuki smiled. "Come help me restart the grow lights. The plants missed their sun."
+
+They worked together, bringing the dome back to life. LEDs flickered on, bathing the plants in synthetic daylight. The tomatoes and lettuce stretched toward the light, resilient and green.
+
+Outside, Mars turned under clearing skies. In the subsurface tunnel, Ares pulsed steady and calm.
+
+The colony had survived another crisis. Not through conquest, but through cooperation.
+
+Maybe that was the real lesson Mars had to teach.

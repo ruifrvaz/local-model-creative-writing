@@ -1,0 +1,91 @@
+The alarm cut through the hab's morning routine like a blade. Alexis Kwan was halfway through her coffee when the lights shifted to amber.
+
+"Recycler Two is offline," Yuki's voice crackled over comms. "Primary filtration cascade failing."
+
+Alexis set down her cup and grabbed her tablet. The diagnostic overlay showed red across the water recovery system. Not a gradual degradation—a catastrophic failure. She was moving before she'd finished reading the report.
+
+The recycling bay reeked of chemicals and ozone. Yuki stood at the control panel, her fingers dancing across holographic displays. Sweat beaded on her forehead despite the cool air.
+
+"Talk to me," Alexis said.
+
+"Membrane rupture in the osmotic array. Contaminants are bleeding into the potable supply." Yuki pulled up the contamination readings. "We've got maybe six hours before the backup system is compromised too."
+
+Six hours. Alexis ran the numbers in her head. Seventy-two people. Current reserves at thirty percent. Emergency protocols called for immediate rationing, but that assumed the backup held.
+
+"Can we patch it?"
+
+"Not without shutting down both systems. We'd be running on stored water only."
+
+"How long for repairs?"
+
+Yuki's expression answered before her words did. "Twelve hours minimum. Maybe eighteen if we hit complications."
+
+Twelve hours without recycling. Alexis pulled up the resource management overlay. The colony consumed 240 liters per day—drinking, hygiene, hydroponics, industrial use. Current reserves: 580 liters. The math was brutal.
+
+"Shut it down," Alexis said. "Both systems. I'll talk to Rivera about rationing protocols."
+
+Yuki nodded and started the shutdown sequence. The recycler's hum faded to silence, leaving only the whisper of ventilation. In the sudden quiet, Alexis could hear her own heartbeat.
+
+The comm panel lit up. Commander Rivera's face appeared, already tight with concern.
+
+"I see the alerts. Status?"
+
+"Membrane failure. Twelve-hour repair window, maybe more." Alexis kept her voice steady. "We need to implement emergency rationing immediately."
+
+Rivera was quiet for three seconds. Long enough for Alexis to imagine the political calculations running through her mind. Earth Corp wanted production metrics. The board wanted efficiency. Neither wanted to hear that Mars's first permanent colony couldn't keep its toilets working.
+
+"Do it," Rivera said finally. "I'll handle the announcements. You focus on getting that system back online."
+
+The connection closed. Alexis turned to find Yuki already pulling replacement membranes from storage.
+
+"These are the last spares," Yuki said. "After this, we're dependent on the next supply run."
+
+"Which isn't for three months."
+
+"Exactly."
+
+Alexis helped Yuki maneuver the heavy membrane cartridge onto the work bench. The polymer sheeting was delicate—engineered to filter at the molecular level, separate pure water from waste. Beautiful technology when it worked. A single point of failure when it didn't.
+
+"What caused it?" Alexis asked.
+
+"Pressure spike, maybe. Or the Martian dust is more abrasive than the specs accounted for." Yuki ran a diagnostic scanner over the failed membrane. "The filtration pores are clogged with regolith particles. Ultra-fine stuff that shouldn't have made it past the pre-filters."
+
+"Shouldn't have, but did."
+
+"Story of this whole colony."
+
+Alexis couldn't argue. Mars fought them every day. Dust that infiltrated every seal. Cold that cracked metal. Radiation that degraded polymers faster than Earth-side testing predicted. The planet didn't want them here.
+
+They were here anyway.
+
+"Get started on the replacement," Alexis said. "I'll check the backup system personally. If there's any damage, I want to know now."
+
+She moved through the maze of pipes and pumps that kept seventy-two people alive. Each connection was a potential leak. Each valve a possible failure point. The backup recycler showed green across the board, but Alexis had learned not to trust status lights.
+
+She opened the access panel and ran her hands along the membrane housing. No cracks. No moisture. The seals were intact.
+
+Her tablet chirped. A message from Omar: Found something in the subsurface scan. Need your eyes on this.
+
+Alexis wanted to tell him it would have to wait. The water crisis was immediate. Whatever geological curiosity Omar had discovered could wait twelve hours.
+
+But the message flag was red. Priority.
+
+She pulled up the scan data. The image showed a cavity three meters below the foundation of Hab Three. Not a natural formation—the walls were too smooth, too regular. And the thermal signature was all wrong.
+
+"Yuki, I need to check something. You good here?"
+
+"Got it under control." Yuki didn't look up from her work. "Go."
+
+Alexis headed for the geology lab, her mind already racing. A cavity under the foundation meant structural risk. Potential collapse. Another crisis stacked on top of the water failure.
+
+Mars kept testing them. Kept pushing to see how much they could handle.
+
+Today, Alexis would find out if they'd finally hit their limit.
+
+She sealed her coffee cup and clipped it to her belt. The gesture was automatic, born from months of rationing. Nothing wasted. Nothing lost.
+
+The colony's survival depended on that discipline.
+
+And on engineers who could patch impossible problems with insufficient resources.
+
+Alexis smiled grimly. Just another Tuesday on Mars.

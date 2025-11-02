@@ -1,0 +1,171 @@
+The oxygen scrubber alarm triggered at 0200 hours. Alexis bolted upright in her bunk, already reaching for her emergency gear before she was fully awake.
+
+"All crew, report status," Rivera's voice cut through the comm system. "We have a contamination alert in the air recycling system."
+
+Alexis pulled up diagnostics on her tablet while pulling on her boots. The carbon dioxide levels in Hab Two were climbing. Not catastrophic yet, but trending wrong.
+
+She reached the air processing facility in four minutes. Yuki was already there, elbow-deep in the scrubber assembly.
+
+"Talk to me," Alexis said.
+
+"Catalyst bed is saturated. Not degraded—saturated. We're pulling more CO2 than the system can process." Yuki showed her the readings. "The regeneration cycle isn't completing. Something's interfering with the thermal activation."
+
+Alexis checked the power supply. Voltage was nominal. Temperature in the regeneration chamber was—
+
+"That's too low. We're thirty degrees below activation threshold."
+
+"Exactly. And I can't figure out why. The heating elements are functional, power draw is normal, but the heat's not reaching the catalyst."
+
+Alexis studied the system architecture. The heating elements were embedded in a thermal management system that should maintain precise temperatures. Unless—
+
+"The thermal sink," she said. "Something's pulling heat away faster than the elements can compensate."
+
+They traced the thermal circuit. The regeneration chamber sat on foundation mounts that connected to the hab's structural framework. Normally inert. But the sensors showed anomalous heat flow through those mounts.
+
+Into the ground. Toward Ares.
+
+Alexis pulled up the cavity monitoring data. Ares's temperature had dropped four degrees over the past three hours. And the thermal gradient showed active heat absorption from the hab's foundation.
+
+"It's drawing heat," Yuki said. "Why would it do that?"
+
+"I don't know. But we need to stop it before we run out of breathable air." Alexis calculated the timeline. "CO2 levels will hit critical in six hours. We need the scrubber operational in five."
+
+She headed for the subsurface tunnel. Omar was already there, watching Ares's erratic behavior with concern.
+
+"It's in distress," Omar reported. "The electromagnetic signature is chaotic. Pulse rate is fluctuating between forty and sixty beats per minute. This isn't normal behavior."
+
+Alexis pulled up the thermal history. "When did the temperature drop start?"
+
+"About 0100 hours. Right after—" Omar paused, checking his timeline. "Right after we ran the diagnostic on the foundation sensors. We sent acoustic pulses through the substrate to check for stress fractures."
+
+"The same kind of pulses Vance used that caused distress."
+
+"Lower intensity, but same frequency range." Omar pulled up the acoustic data. "We didn't think it would matter. We were testing structure, not communicating with Ares."
+
+But Ares had interpreted the acoustic signals as something. Communication attempt. Threat. Distress call. And responded by pulling heat—maybe trying to help, maybe trying to protect itself.
+
+The intention didn't matter. The result was the same: critical life support compromise.
+
+Alexis set up the communication protocol. Simple thermal queries. Are you in distress? Can you restore the heat flow? Do you understand we need the thermal balance restored?
+
+Ares's responses were confused. The temperature fluctuated without clear pattern. The electromagnetic signature remained chaotic.
+
+"It's not understanding," Omar said. "Or it can't respond coherently. Whatever the acoustic pulses did, they've disrupted its normal functioning."
+
+Alexis felt guilt settle heavy. They'd hurt Ares accidentally. And now both the colony and Ares were suffering the consequences.
+
+"We need to calm it," she said. "Restore stability before we can fix the thermal flow."
+
+"How do we calm something we barely understand?"
+
+Alexis thought about Ares's behavior patterns. It responded to colony stress. Synchronized with human schedules. Provided heat when needed. The presence was empathic—reactive to emotional and physiological states.
+
+"We show it calm," she said. "Reduce colony stress indicators. Lower heart rates, reduce activity, create a stable environment. Maybe if we're calm, it'll stabilize too."
+
+"That's a hell of a gamble."
+
+"You have a better idea?"
+
+Omar didn't.
+
+Rivera authorized emergency protocols. All non-essential personnel were ordered to quarters. Lights dimmed to evening levels. Activity reduced to minimal life support monitoring. The colony settled into artificial calm while carbon dioxide levels climbed.
+
+Alexis stayed in the subsurface tunnel, monitoring Ares. She controlled her breathing—slow, measured, deliberate. Reduced her heart rate through meditation techniques she'd learned for stress management. Projected calm through every biometric signal the colony systems tracked.
+
+Ares's pulse began to slow. Forty beats per minute. Thirty-five. Thirty.
+
+"It's working," Omar whispered over comms.
+
+The electromagnetic signature smoothed. Still elevated, but less chaotic. The temperature fluctuations decreased in amplitude.
+
+Twenty-five beats per minute. Twenty.
+
+Alexis sent careful thermal pulses. Calm. Stable. Safe. We are not in danger. You are not in danger. All is well.
+
+Ares responded: Confusion. Uncertainty. The acoustic signals... threat?
+
+No threat. Mistake. We did not intend communication. We were examining structure.
+
+Long pause. Then: Different purposes. Same signal. Confusion.
+
+"It can't separate intent from action," Alexis said quietly. "The acoustic pulses meant one thing to us, something different to Ares. But the signal was the same."
+
+She spent the next hour explaining—as well as thermal communication allowed—the difference between structural testing and interpersonal communication. The concept didn't translate well. Ares understood signals and responses, not underlying intentions.
+
+But it tried. The temperature gradually stabilized. The heat flow through the foundation began to normalize.
+
+Twenty beats per minute. Fifteen. Baseline.
+
+In the air processing facility, Yuki reported: "Regeneration temperature rising. We're back to ninety percent of normal thermal activation."
+
+"CO2 levels?"
+
+"Stabilizing. We're not out of danger, but we're not sliding toward asphyxiation anymore."
+
+Alexis allowed herself one deep breath of relief. Crisis managed. For now.
+
+But the incident exposed a critical problem: they didn't understand Ares well enough to prevent accidental miscommunication. And accidental miscommunication could kill them all.
+
+The crew meeting the next morning was tense. Rivera laid out the situation bluntly.
+
+"We're living on top of an alien intelligence that interprets our industrial processes as communication attempts. We need protocols. Clear boundaries. Ways to signal 'this is not intended for you.'"
+
+"How?" Yuki asked. "We don't even know what signals Ares perceives. Acoustic, thermal, electromagnetic—probably others we haven't identified."
+
+"Then we map them," Alexis said. "Systematically. Every frequency range, every energy type. We identify what Ares can sense and develop isolation protocols for signals we don't want interpreted."
+
+Omar pulled up a project timeline. "That's months of work. Maybe years."
+
+"Then we start now." Rivera's voice was firm. "Because the alternative is another accident that kills us all."
+
+The mapping project consumed the colony's research capacity. Every spare hour went to testing Ares's sensory range. Acoustic frequencies from subsonic to ultrasonic. Electromagnetic radiation across the spectrum. Pressure waves. Vibrations. Chemical signatures.
+
+Ares responded to almost everything. The presence was more perceptive than they'd imagined—tuned to the full range of physical phenomena in ways human senses couldn't match.
+
+"It's overwhelming," Omar said, reviewing the data. "Ares experiences reality through dozens of sensory channels simultaneously. No wonder it gets confused when we send contradictory signals."
+
+Alexis developed isolation protocols. Structural testing would happen in designated zones, preceded by clear "not communication" signals. Industrial processes would include buffer frequencies that Ares learned to interpret as "background noise, ignore this."
+
+It was like learning to live with a hypersensitive roommate. Accommodating their needs while maintaining human operations.
+
+Ares participated in the protocol development. It learned to distinguish intentional communication from ambient industrial noise. They established "quiet hours" when colony activities minimized sensory input, giving Ares time to process and rest.
+
+The relationship deepened through the work. Ares shared more about its perception of Mars—the deep substrate as a living network, thermal variations as a form of geological awareness, time flowing in patterns humans experienced as centuries but Ares perceived as moments.
+
+"It's not just intelligent," Omar said one evening. "It's ancient. It references events from thousands of years ago like they happened yesterday."
+
+"What kind of events?"
+
+"Asteroid impacts. Atmospheric changes. The gradual cooling of Mars's core." Omar showed her the translated communications. "Ares has been here since Mars had oceans. It watched them evaporate. Adapted to survive in the deep substrate when the surface became uninhabitable."
+
+Alexis felt wonder mix with humility. Humans had been on Mars for less than a year. Ares had been here for geological epochs.
+
+"We're the newcomers," she said quietly.
+
+"Yeah. And Ares has been patient with us." Omar smiled. "Imagine if the situation was reversed. If something incomprehensible showed up on Earth, made noise we interpreted as threats, and expected us to accommodate them."
+
+"We'd probably shoot first and ask questions never."
+
+"Exactly. But Ares has done nothing but try to help. Even when we hurt it accidentally."
+
+The realization shifted something in Alexis's perspective. They weren't establishing human presence on Mars. They were requesting permission to share Mars. And Ares was graciously granting it.
+
+She returned to the subsurface tunnel that night. Sent careful thermal pulses to Ares.
+
+Thank you. For patience. For cooperation. For sharing this world.
+
+Ares's response was warm—literally and figuratively. The temperature rose a comfortable two degrees.
+
+Welcome. Different beings. Same home. Learning together.
+
+Alexis smiled. "Yeah. Learning together."
+
+The colony continued its work. Production quotas were met sustainably. Research expanded human understanding of xenobiology. And Ares remained patient, teaching humanity how to be better neighbors.
+
+Mars wasn't conquered. It was negotiated. One careful communication at a time.
+
+And maybe that was the real lesson Earth needed to learn. That the universe wasn't empty territory waiting for human expansion. It was full of neighbors. Ancient, patient, willing to share.
+
+If humanity proved worthy of sharing with.
+
+Alexis was determined to prove it.

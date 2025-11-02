@@ -1,0 +1,99 @@
+The subsurface cavity looked like a wound in the thermal scan. Omar Hassan rotated the 3D model, watching shadows play across geometric walls that nature hadn't carved.
+
+"How deep did the ground-penetrating radar go?" Alexis asked.
+
+"Forty meters. This is at three." Omar highlighted the anomaly. "And before you ask—yes, I've triple-checked the calibration. This is real."
+
+Alexis studied the scan. The cavity was roughly spherical, two meters in diameter. The walls showed a crystalline structure that absorbed thermal energy instead of radiating it. Nothing in the geological surveys had predicted this.
+
+"Temperature?"
+
+"Ten degrees warmer than surrounding regolith. No active heat source we can detect." Omar pulled up the spectroscopic analysis. "And the composition is wrong. Too much iron. Too little basalt. It's like someone melted the rock and let it cool in a perfect sphere."
+
+"Natural lava tube?"
+
+"Lava tubes aren't spherical. And they don't maintain higher temperatures than their surroundings." Omar zoomed in on the thermal gradient. "Whatever this is, it's active."
+
+Alexis felt her engineering instincts war with caution. An unknown thermal source beneath their habitat meant risk. But it also meant potential. Mars was cold. Heat was precious.
+
+"Can we access it?"
+
+"Drill down three meters? Sure. But I'd want to know what we're drilling into first." Omar's expression was part excitement, part concern. "What if it's a pocket of subsurface volatiles? We drill, we depressurize it, and suddenly we've got a geyser under Hab Three."
+
+"Or we've got a heat source we can tap for thermal management." Alexis ran calculations on her tablet. "We're burning kilowatts maintaining habitat temperature. If we could route passive heating from this cavity—"
+
+"We'd save enough power to run the backup recycler continuously."
+
+They looked at each other. The water crisis was immediate. The cavity was a risk. But Mars demanded they think three crises ahead.
+
+"I want a full spectroscopic workup," Alexis said. "Every wavelength you can scan. Seismic, radar, magnetic resonance. Map this thing completely before we make a decision."
+
+"Already on it." Omar pulled up a timeline. "Forty-eight hours for comprehensive analysis."
+
+"We don't have forty-eight hours. The recycler needs—"
+
+"Twelve hours, I know. I've been listening to the comms." Omar split his screen, showing the water system diagnostics alongside the cavity scan. "But rushing this could cost us the entire habitat. What's your priority?"
+
+Alexis wanted to say both. Fix the water, investigate the anomaly, maintain production quotas, keep Earth Corp happy. Do everything perfectly with insufficient time and inadequate resources.
+
+Instead, she said: "Water first. But keep the scans running. I want to know the moment anything changes down there."
+
+"Agreed."
+
+Alexis headed back to the recycling bay. The corridor was empty—most of the colony was at work in the hydroponics domes or the regolith processing facility. Seventy-two people trying to prove that Mars could sustain human life.
+
+Seventy-two people depending on systems that kept failing in unexpected ways.
+
+She found Yuki elbow-deep in the membrane housing, swearing softly in Japanese.
+
+"Problem?"
+
+"The replacement membrane doesn't fit. The mounting brackets are three millimeters off spec." Yuki gestured at the cartridge. "Someone at Earth manufacturing changed the design and didn't update our inventory database."
+
+Alexis felt exhaustion settle into her bones. Of course. Because nothing on Mars was ever simple.
+
+"Can you fabricate adapters?"
+
+"Maybe. If the printer has enough feedstock." Yuki wiped her hands on her coveralls. "Add another four hours to the timeline."
+
+Sixteen hours total. Alexis pulled up the water reserves. At current consumption, they'd hit critical levels in fourteen hours. The math didn't work.
+
+"I'll talk to Rivera about accelerated rationing. You focus on those adapters."
+
+Back in her office, Alexis composed the message she'd been dreading. Commander Rivera needed to know they were cutting closer to the edge than planned. Earth Corp needed to know their manufacturing standards were putting lives at risk.
+
+Her tablet chirped before she could send either message. Omar again.
+
+The cavity's temperature just jumped two degrees. Thought you should know.
+
+Alexis stared at the message. Temperature increase meant energy input. Energy meant activity. Activity meant the cavity wasn't just a geological curiosity—it was doing something.
+
+She pulled up the correlation analysis. The temperature spike had started exactly forty-three minutes ago. Right around the time they'd shut down the water recyclers.
+
+Coincidence?
+
+On Mars, Alexis had learned, there were no coincidences. Just patterns they hadn't recognized yet.
+
+She grabbed her geology scanner and headed for the subsurface access tunnel. If something under their feet was responding to changes in the colony's systems, she needed to understand it before it became another crisis.
+
+The tunnel was cold and cramped. Alexis squeezed past the foundation supports, following the coordinates from Omar's scan. The walls here were raw regolith, stabilized with polymer spray. Not pretty, but functional.
+
+She planted the scanner against the floor and activated deep-ground mode. The device hummed, sending acoustic pulses into the Martian substrate. The return signal painted a picture in ultrasound and thermal gradients.
+
+The cavity pulsed. Not metaphorically—literally pulsed, like a heartbeat. The walls contracted and expanded by millimeters, creating pressure waves in the surrounding rock.
+
+Alexis felt her pulse quicken. This wasn't geology. This was something else.
+
+She took a deep breath. Checked her scanner. Verified the readings three times.
+
+The cavity was alive.
+
+Or something down there was.
+
+Alexis triggered the emergency comm. "Omar, Rivera—I need you in the subsurface tunnel. Now."
+
+She kept the scanner running, watching the pulse rhythm. Steady. Regular. Responding to something she couldn't detect.
+
+Mars had secrets. The colony had just found one.
+
+Whether that was a blessing or a threat remained to be seen.
