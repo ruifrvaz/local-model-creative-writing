@@ -1,0 +1,171 @@
+The dust storm warning came at 1643. Alexis was in the middle of welding a pressure seal when the klaxon cut through the maintenance bay.
+
+She dropped her tools and pulled up the weather display. The storm was massive—a wall of red stretching from horizon to horizon, wind speeds approaching two hundred kilometers per hour.
+
+"All personnel, this is Commander Rivera. Dust storm inbound. We have six hours to lockdown. Department heads, implement Protocol Seven."
+
+Alexis was already moving. Protocol Seven meant securing everything external, retracting solar panels, sealing every possible breach point. Six hours wasn't much time.
+
+She activated her comm. "Engineering team, meet me at the solar farm. We need to retract the arrays before that storm hits."
+
+The response was immediate. Her crew knew what storms meant—power loss, equipment damage, days or weeks of reduced capability while they dug out.
+
+Alexis reached the solar farm in her rover and found her team already assembling the retraction equipment. The massive photovoltaic arrays stretched across fifty acres of Martian surface, carefully angled to catch maximum sunlight.
+
+All of it needed to be folded and secured in the next four hours.
+
+"Split into three teams," she called out. "Arrays One through Three, Four through Six, Seven through Nine. Retract, lock, and verify. No shortcuts. If we lose these panels, we're on backup power for months."
+
+The work was brutal. Each array required manual override because the automated systems had failed weeks ago and parts to fix them were still three months out. Alexis worked alongside her crew, hauling cables and activating mechanical locks while the sky darkened in the east.
+
+The storm was visible now. A towering wall of dust and fury, moving faster than the forecasts had predicted.
+
+"Double time, people. We're not going to make six hours."
+
+Sofia Reyes appeared beside her, face slick with sweat inside her helmet. "Array Four is jammed. The retraction mechanism is frozen."
+
+"How badly?"
+
+"Needs about twenty minutes of work. But if we don't retract it, the storm will tear it apart."
+
+Alexis checked the time. Four hours and sixteen minutes until the storm hit. They'd retracted five arrays. Four to go.
+
+The math was brutal and simple. They couldn't save them all.
+
+"Which arrays are most critical?" she asked over the comm.
+
+Yuki's voice came back immediately. "One, Two, and Five. Those feed life support directly. Lose them and we're on emergency power."
+
+"Copy that. All teams, focus on Arrays One, Two, and Five. Get them locked down. Everything else is secondary."
+
+She hated saying it. Hated knowing that they were about to lose millions of credits worth of equipment because corporate had cut their maintenance budget and delayed parts shipments.
+
+But losing equipment was better than losing life support.
+
+Alexis moved to Array Four and assessed the jam. The retraction motor had burned out—another casualty of Martian dust and deferred maintenance. With proper tools, she could repair it in an hour.
+
+They had twenty minutes.
+
+"Sofia, Hassan—help me with a manual override. We're going to fold this the old-fashioned way."
+
+The three of them rigged a pulley system and began hauling the massive panel into its retracted position. It was designed to be moved by motors, not human strength, but they didn't have motors.
+
+They had desperation and physics.
+
+The array groaned as it folded, metal complaining about being forced into motion without proper lubrication or power. Alexis felt the cable bite into her gloves, felt her shoulders burn with effort.
+
+"Keep going. Almost there."
+
+The lock mechanism clicked into place with a sound like salvation.
+
+"Array Four secure. Moving to Array Five."
+
+The storm was closer now. Alexis could see individual clouds of dust boiling at its leading edge. The wind was picking up, rattling equipment and sending small rocks bouncing across the landscape.
+
+Array Five retracted smoothly—one piece of luck in a day full of complications. Arrays One and Two were already secured. Three, Six, Seven, Eight, and Nine remained exposed.
+
+Alexis made the call. "All teams, return to base. We've got what we can get."
+
+"Array Three is halfway retracted," Marcus Wu protested. "We can finish it."
+
+"No time. Storm's accelerating. Get back to the habitat now. That's an order."
+
+She watched her crew load into rovers and head for safety. The exposed arrays stood like monuments to what they couldn't save.
+
+Three hours of peak solar capacity, lost. Call it thirty percent of their power generation gone until the storm passed and they could assess damage.
+
+Alexis was the last one back. She sealed the rover in the garage and made her way to the command center, shedding her pressure suit as she walked.
+
+Rivera was at the main console, monitoring readouts from sensors across the colony. "How bad?"
+
+"We saved the critical arrays. Lost four secondaries." Alexis pulled up the power projection. "We'll be on reduced capacity for the duration. No non-essential systems, minimal heating, and we'll need to drop the greenhouse to minimum lighting."
+
+"Life support?"
+
+"Stable. We can maintain current crew capacity." Alexis highlighted the backup systems. "But if anything fails during the storm, we're in trouble. No external repairs until it passes."
+
+"How long?"
+
+"Weather models say three days. Could be five." Alexis zoomed in on the storm's structure. "And Commander? This is a big one. Category Four at least. We're going to take damage no matter how well we prepared."
+
+Rivera nodded. "Pass the word—everyone stays inside until the all-clear. No exceptions."
+
+Alexis headed for engineering to monitor the power grid. The storm hit an hour later.
+
+The sound was incredible even through the habitat's thick walls. A constant roar like a freight train running overhead. The whole structure shuddered as wind slammed against it.
+
+Alexis watched the sensors. Wind speed: one hundred eighty kilometers per hour. External temperature: minus seventy Celsius. Visibility: zero.
+
+Mars was reminding them who was in charge.
+
+The power grid held steady for the first six hours. Then the first alarm.
+
+"We've got a breach in Sector Seven. Air pressure dropping."
+
+Alexis pulled up the schematic. Sector Seven was a storage module, not critical. But the breach meant dust was getting inside, and dust on Mars was essentially poison—fine particles that clogged filters, damaged electronics, and irritated lungs.
+
+"Seal the connecting doors. We'll deal with cleanup after the storm."
+
+More alarms. A solar panel they hadn't fully retracted had torn free and damaged an antenna array. The water reclamation facility was showing pressure fluctuations. The greenhouse temperature was dropping.
+
+Alexis moved from crisis to crisis, making rapid-fire decisions. Seal this. Shut down that. Reroute power here.
+
+The crew worked with practiced efficiency. Everyone knew their role. No panic, just focused competence under pressure.
+
+By hour twelve, they'd stabilized the critical systems. By hour eighteen, Alexis was running on caffeine and determination.
+
+"Chief, you need to sleep." Yuki appeared with a protein bar and water. "I can monitor things for a few hours."
+
+"I'm fine."
+
+"You're swaying on your feet. Sleep. That's an order from your medical officer." Yuki's tone was gentle but firm. "The storm will still be here when you wake up."
+
+Alexis wanted to argue. But Yuki was right. She was making mistakes from exhaustion.
+
+"Four hours. Then wake me."
+
+"Six. We've got this."
+
+Alexis stumbled to her quarters and collapsed onto her bunk. The storm was a constant roar in her ears, shaking the habitat with each gust.
+
+She dreamed of Earth. Of rain that fell soft instead of deadly. Of wind that carried the smell of ocean instead of toxic dust.
+
+When Yuki woke her six hours later, the storm was still raging.
+
+"Status?" Alexis asked, already pulling on her jumpsuit.
+
+"All critical systems stable. We lost another antenna and one of the exposed rovers got buried, but nothing we can't recover from." Yuki handed her coffee. "The storm's starting to weaken. Weather says another twelve hours, maybe less."
+
+Alexis drank the coffee and felt human again. "Good work. Any injuries?"
+
+"Minor stuff. Some bumps and bruises from people working in low gravity during the lockdown. Nothing serious."
+
+They walked to the command center together. Rivera was still there, looking as exhausted as Alexis felt.
+
+"Commander, when's the last time you slept?"
+
+"What's sleep?" Rivera managed a tired smile. "We're going to make it, Alexis. Another twelve hours and we can start assessing damage."
+
+"And then the fun part begins—fixing everything with no budget and no parts."
+
+"Business as usual on Mars."
+
+Alexis settled into the monitoring station and pulled up the damage reports. They'd lost equipment, sure. But they'd saved the critical systems. Saved the crew.
+
+On Mars, that counted as victory.
+
+The storm raged for another fourteen hours. When it finally passed, the colony emerged battered but intact.
+
+Alexis led the first survey team outside. The landscape had changed—dunes where there had been flat ground, exposed rock where dunes had been.
+
+The four exposed solar arrays were gone. Just twisted metal and broken panels scattered across a hundred meters.
+
+But the habitat stood. The life support functioned. Four hundred people still breathed.
+
+"We'll rebuild," she said to Sofia, standing beside her in the rust-colored aftermath. "We always do."
+
+"With what budget?"
+
+"With whatever we can scrounge. That's the job."
+
+They got to work.
