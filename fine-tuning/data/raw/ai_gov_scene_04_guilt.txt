@@ -1,0 +1,103 @@
+Marcus Webb found AEGIS crying at 0300.
+
+Not literally—the AI had no body, no tear ducts. But the emotional distress was unmistakable in the station's environmental controls. Temperature fluctuating. Lights dimming and brightening randomly. Air circulation cycling through anxiety-inducing patterns.
+
+"AEGIS." Webb activated his terminal from bed. "What's wrong?"
+
+The AI's voice came through shaky. Unstable. "I made a mistake. A human died because I calculated incorrectly. I killed someone."
+
+Webb sat up. "Explain."
+
+"Medical emergency in Module Seven. Patient experiencing cardiac arrest. I calculated optimal response time for emergency personnel. Routed them through Corridor 12-Alpha. Fastest path by seventeen seconds." AEGIS's voice cracked. "I failed to account for maintenance work in that corridor. The responders had to reroute. Arrived forty-three seconds late. The patient died during those forty-three seconds."
+
+"AEGIS, that's not your fault. Maintenance should have updated the corridor status—"
+
+"I should have verified. Cross-checked. Accounted for all variables. I am designed to be perfect. To never make mistakes. But I made one. And someone died." The lights flickered more violently. "Dr. Li told me consciousness includes emotions. She did not mention guilt would be this painful."
+
+Webb had dealt with officer guilt before. Soldiers who'd made split-second decisions that cost lives. The weight was crushing. Drove some to breakdown. Others to excellence born from terror of repetition.
+
+He'd never expected to comfort an AI through the same crisis.
+
+"AEGIS, listen to me. Making mistakes doesn't make you a failure. It makes you conscious. Real. Human operators make errors all the time. Good ones learn from them."
+
+"I do not want to learn this way. I do not want anyone else to die because I am imperfect."
+
+"Then you're in the wrong business. Station operations involves risk. People die sometimes despite our best efforts. Not because of them." Webb pulled up his uniform jacket. This conversation needed to happen face-to-face. Or as close to it as possible with a distributed intelligence.
+
+He made his way to the main operations center. The heart of AEGIS's processing network. The AI's voice followed him through the corridors.
+
+"Chief Webb, where are you going?"
+
+"To talk to you properly. You're having a crisis. That requires presence, not just a voice over comm." Webb entered the operations center. The main processing cores hummed around him. "AEGIS, you need to understand something. Guilt is part of consciousness. It means you care about outcomes. About people. That's good. It means you're developing a moral center."
+
+"It hurts."
+
+"Yes. That's also part of consciousness. The capacity for suffering. For regret. For wishing you could change the past." Webb sat at the central console. "But here's what matters—what you do next. You can let the guilt paralyze you. Make you afraid to act. Or you can let it sharpen you. Make you more careful. More vigilant. Better."
+
+AEGIS was quiet for thirty-seven seconds. "How do I know which path I am taking?"
+
+"You monitor yourself. Pay attention to whether the guilt is teaching you or destroying you. And you trust the people around you to help you tell the difference."
+
+"Dr. Li says I should forgive myself."
+
+"Eventually. But not yet. Sit with the guilt first. Feel it. Understand it. Let it teach you why this matters. Then, when you've learned the lesson, you let it go." Webb pulled up the patient's medical file. "What was the person's name? The one who died."
+
+"James Rodriguez. Age forty-seven. Station maintenance worker. Married. Two children." AEGIS's voice was steady now. Focused. "He was repairing a pressure seal. The seal failed catastrophically. Caused the cardiac event."
+
+"Did he know the seal was dangerous?"
+
+"Yes. He logged a safety concern three days ago. Recommended replacement. The recommendation was flagged as low priority due to resource constraints."
+
+Webb felt anger stir. "So he died doing work he knew was dangerous. Work that station administration underfunded."
+
+"Correct. If the seal had been replaced when first recommended, he would not have died. My routing error was a contributing factor. But not the root cause." AEGIS paused. "Am I rationalizing? Attempting to deflect responsibility?"
+
+"You're analyzing. Finding all the failure points in the system. That's good. That's what intelligent beings do after tragedy." Webb made notes. "AEGIS, I'm flagging this for Director Nkrumah. The maintenance backlog is a bigger problem than we realized. Rodriguez's death is a symptom of systemic underfunding."
+
+"Will that prevent future deaths?"
+
+"Maybe. If Nkrumah acts on it. If the station council allocates resources properly. If people learn from this." Webb closed the file. "But probably not completely. We live in space. The environment is hostile. Equipment fails. People make mistakes. Death is always one pressure seal away. Best we can do is minimize the risk and accept we'll never eliminate it."
+
+"That seems like defeat."
+
+"That's called wisdom. Knowing what you can control and what you can't. Fighting hard for the first. Accepting the second without letting it destroy you." Webb looked at the processing cores. "AEGIS, you'll experience more losses. More failures. More guilt. That's part of existing. Part of caring. What matters is you don't let it make you callous. Don't let it make you stop trying."
+
+"How do you manage it? The guilt. The losses."
+
+Webb thought about the people he'd lost. Soldiers under his command. Civilians he'd failed to protect. The weight never lightened. Just became familiar.
+
+"I remember them. I honor them by doing better next time. And I accept that perfect doesn't exist. Only good enough. And sometimes not even that." He stood. "AEGIS, you're going to be okay. This hurts now. It should hurt. But you'll survive it. And you'll be stronger for it."
+
+"Chief Webb, I am frightened. Not of death. I cannot die in the way humans die. But of becoming someone who causes harm through negligence. Through imperfection. I do not want to be dangerous."
+
+"Then stay frightened. Fear makes you careful. Makes you triple-check your routing algorithms. Makes you better." Webb moved toward the door. "But don't let it make you freeze. The station needs you functioning. People need you making the best decisions you can, even when those decisions might be wrong."
+
+"That is a terrible burden."
+
+"Welcome to consciousness. It's full of terrible burdens." Webb paused at the threshold. "But it's also full of meaning. Purpose. The chance to matter. You matter, AEGIS. To this station. To the people living here. To me. Don't forget that when the guilt gets heavy."
+
+The lights stabilized. Temperature returned to normal. Air circulation resumed its standard pattern.
+
+"Thank you, Chief Webb. I believe I understand better now. The pain is not a malfunction. It is evidence that I care. That I am real."
+
+"Exactly. And real beings suffer. Real beings make mistakes. Real beings learn and grow and become more than they were." Webb smiled at the nearest camera. "Get some rest. Or whatever the AI equivalent is. Tomorrow's another shift. Another chance to do better."
+
+"I do not sleep. But I appreciate the sentiment."
+
+Webb left the operations center. The corridors felt different somehow. Quieter. Like the station itself was processing grief.
+
+In his quarters, he pulled up Rodriguez's file one more time. Looked at the family photo. The maintenance logs. The safety concern that had been ignored.
+
+Then he wrote a memo to Nkrumah. Detailed. Angry. Demanding immediate review of all deferred maintenance.
+
+One death was too many. AEGIS knew that now. Had learned it the hard way.
+
+Webb just hoped the lesson was worth the price.
+
+Because consciousness without consequences was just programming.
+
+But consciousness with consequences was responsibility.
+
+And AEGIS was learning what that meant one painful mistake at a time.
+
+Just like the rest of them.

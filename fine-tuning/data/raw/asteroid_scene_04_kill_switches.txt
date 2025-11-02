@@ -1,0 +1,119 @@
+Chen found the emergency override in the exotic matter container.
+
+A kill switch. Hidden beneath false panels. Designed to neutralize the sample if it became unstable. Or if the crew became uncooperative.
+
+"Jax, we have a problem." Chen pulled the device carefully from its housing. "Helios didn't just inspect us. They sabotaged us."
+
+Captain Torres examined the override. Military-grade electronics. Tamper-resistant casing. A transmitter connected to the exotic matter's containment field.
+
+"What does it do?"
+
+"Destabilizes the exotic matter. Forces a catastrophic release. Probably kills everyone on board through radiation exposure or energy cascade." Chen ran diagnostics. "It's coded to Helios command frequency. They can trigger it remotely. Turn our cargo into a bomb whenever they want."
+
+"Why not trigger it during the inspection?"
+
+"Because Sofia absorbed the sample. There's nothing in the container to destabilize anymore." Chen pulled up the schematics. "But they don't know that. They think we're still carrying unstable exotic matter. And they've given themselves a remote detonator."
+
+Kayla appeared in the engine room. "Define detonator."
+
+Chen showed her the device. Kayla went pale.
+
+"They're planning to blow us up. Make it look like an accident. Mining ship lost due to unstable cargo. No witnesses. No evidence of what we found."
+
+"How long until they activate it?" Jax asked.
+
+"Unknown. Could be minutes. Could be days. Depends when Helios decides we're more dangerous alive than dead." Chen pulled out his tools. "I can disable it. But not without alerting them that we found it. The moment I cut power, their monitoring systems flag the disconnection."
+
+"So we're damned either way. Leave it active and they blow us up when convenient. Disable it and they know we're onto them." Jax looked at the overhead. Sofia was resting in her quarters. The exotic matter integration had exhausted her. "Can we fake a malfunction? Make it look like the device failed naturally?"
+
+"Maybe. If I'm very careful and very lucky." Chen examined the connections. "But that assumes Helios doesn't have redundant systems. This could be one of multiple kill switches."
+
+"Then we find them all. Sweep the ship. Every system. Every panel. We dig out whatever Helios planted and we make sure we control our own fate." Jax activated the ship-wide comm. "All crew. We're conducting an emergency inspection. Helios planted sabotage devices during their visit. Tear this ship apart until we find everything."
+
+The next six hours were exhausting. Four people methodically checking every system, every compartment, every component.
+
+They found three more devices. All connected to critical systems. All capable of catastrophic failure. All remotely activated.
+
+Helios had turned their ship into a dead man's switch. Waiting for the right moment to eliminate the evidence.
+
+"Bastards," Kayla said, staring at the pile of sabotage equipment. "Corporate murderers hiding behind safety protocols."
+
+"Can we disable them all safely?" Jax asked.
+
+Chen ran calculations. "Not simultaneously. The moment we touch one, the others might activate automatically. Fail-deadly design. We'd need to disable them within microseconds of each other. Impossible with manual intervention."
+
+"What about Sofia?" Kayla asked. "She can interface with electrical systems now. Control electromagnetic fields. Could she disable them all at once?"
+
+"Maybe. If she can generate sufficient power. If she can target multiple systems simultaneously. If the exotic matter integration gives her that level of control." Chen looked uncertain. "But we'd be asking her to use abilities we don't understand. With stakes we can't afford to lose."
+
+"Better than waiting for Helios to decide we're expendable." Jax moved toward Sofia's quarters. "I'll ask her. She deserves to know what we're facing."
+
+He found Sofia awake. Staring at her glowing hands. The blue light had intensified. Spread through her entire vascular system. She looked like a constellation given human form.
+
+"We found Helios sabotage," Jax said. "Kill switches throughout the ship. We need your help to disable them."
+
+Sofia listened to his explanation. Examined the device schematics. Her eyes tracked patterns only she could see.
+
+"I can feel them," she said. "The electrical signatures. Like pressure points in the ship's nervous system. The exotic matter shows me where they are. What they connect to. How they'll fail."
+
+"Can you stop them?"
+
+"I think so. The exotic matter wants to spread. Wants to convert everything it touches into itself. If I channel that impulse, if I let it flow through the sabotage devices, it'll corrupt them. Turn them into inert matter. Maybe even absorb them entirely."
+
+"Is that safe?"
+
+"No. But it's what we have." Sofia stood. The effort clearly cost her. "Jax, I'm not fully in control anymore. The exotic matter has its own agenda. Its own intelligence. When I use it, when I channel its power, I'm negotiating with something that's already part of me but not quite me. It's disorienting. Frightening."
+
+"Will it hurt you? Using it like this?"
+
+"Unknown. But probably yes. Power like this has a cost. I just don't know what I'm paying with yet." She moved toward the door. "Bring me to the devices. I'll do what I can. But Jax—if I lose control, if the exotic matter takes over completely, you need to eject me into space. Don't let me contaminate the whole ship."
+
+"That's not happening."
+
+"It might have to. This material spreads through contact. Converts organic and inorganic matter alike. If I become a vector, if I start spreading contamination uncontrollably, you save the crew by killing me. Promise."
+
+Jax looked at her. At the woman who'd absorbed alien material to save them all. Who was now asking him to kill her if the salvation became a threat.
+
+"I promise."
+
+They assembled in the engine room. Sofia positioned herself near the central power distribution. Chen fed her the device locations.
+
+"Four kill switches. All active. All connected to separate systems. I need to hit them simultaneously or the fail-deadlies trigger." Sofia's eyes glowed blue. "Here goes everything."
+
+Power surged. The ship's lights flickered. Sofia's body became incandescent. Energy arced from her hands, splitting into four distinct streams. Each stream targeted a kill switch location.
+
+The devices screamed. Electronic warfare on a scale that made sensors spark and burn. The exotic matter flowed through electrical systems like water through cracks. Finding the sabotage. Consuming it. Converting it into inert crystalline structures that could never activate.
+
+Sofia collapsed. The light faded. The ship's power stabilized.
+
+Chen checked the systems. "They're dead. All four devices. Neutralized completely. The exotic matter converted them into something that can't even conduct electricity anymore. Perfect isolation."
+
+"Sofia?" Jax caught her before she hit the deck. "Are you okay?"
+
+"I'm fine. Better than fine." She looked at her hands. The glow had dimmed. "The exotic matter is adapting. Learning. Every time I use it, it gets more sophisticated. More responsive. Like it's evolving alongside me."
+
+"Is that good?"
+
+"I don't know. But I know we're safe from Helios for now. Their kill switches are gone. Their remote detonation capability is neutralized. We control our own ship again."
+
+Jax helped her to her feet. "Then we use that control. Jump to somewhere Helios can't follow. Find buyers who aren't corporate killers. Figure out what to do with the exotic matter before it figures out what to do with us."
+
+"Assuming it hasn't already," Kayla said. "Sofia, the material is changing you. Making you more powerful. More alien. Where does it end?"
+
+"I don't know. Maybe it doesn't end. Maybe I just keep transforming until I'm more exotic matter than human. Maybe that's inevitable." Sofia met their eyes. "But while I'm still mostly me, while I can still help, I'm going to use this power to protect us. To give us choices. To make sure we survive long enough to figure out what we've become."
+
+Chen initiated the jump sequence. "Coordinates set for deep space. No corporate presence. No monitoring stations. Somewhere we can think without being hunted."
+
+The ship jumped. Reality folded. And somewhere between here and there, four miners carrying humanity's future wondered whether they were saving it or transforming it into something unrecognizable.
+
+Either way, the exotic matter was spreading.
+
+Through Sofia. Through the ship. Through every decision they made.
+
+And there was no putting it back in the container.
+
+Only forward. Into the unknown. Where the rules of physics and biology were suggestions rather than laws.
+
+And where humanity's next evolution was already beginning.
+
+One glowing blue cell at a time.
