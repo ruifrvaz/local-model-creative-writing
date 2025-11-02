@@ -1,0 +1,103 @@
+Dr. Kenji Yamamoto found the causality violation in the navigation logs at 1400.
+
+The jump ship had arrived before it left.
+
+Three milliseconds. Barely detectable. But the entry timestamp in the arrival zone predated the departure timestamp by 0.003 seconds. Statistically insignificant. Physically impossible.
+
+"Sarah, we need to talk." He pulled up the logs on his terminal. Lieutenant Chen was due for her post-jump medical evaluation, but this couldn't wait.
+
+She arrived looking older. The temporal displacement was visible now—gray at her temples, fine lines around her eyes that hadn't been there a month ago. Seven jumps in three weeks. She'd aged nearly two years.
+
+"Doc." She slumped into the chair across from him. "Please tell me you found something that makes the aging stop."
+
+"I found something worse." Yamamoto rotated the screen. "Your last jump violated causality. You arrived at Mars before you left lunar orbit. The numbers are small, but they're real."
+
+Chen stared at the data. "That's impossible."
+
+"So is FTL travel. We knew from the beginning that Alcubierre metrics bend spacetime in ways that might allow closed timelike curves. We just didn't think we'd trigger them." Yamamoto pulled up the theoretical framework. "The faster you jump, the more spacetime compression occurs. Eventually, you compress it so much that time folds back on itself."
+
+"I created a time loop?"
+
+"A tiny one. Three milliseconds. But yes. You arrived before you left. Causally speaking, you shouldn't exist in the three-millisecond window between arrival and departure. Yet you do." Yamamoto highlighted the paradox. "You're proof that time travel is possible. And that it violates everything we understand about causality."
+
+Chen rubbed her face. She looked exhausted. "What happens if the displacement gets bigger?"
+
+"I don't know. Maybe nothing. Maybe the universe corrects for it somehow. Or maybe you create a causality paradox that unravels reality." Yamamoto closed the file. "I'm recommending we suspend jump operations until we understand this better."
+
+"Kowalski won't agree. Not with the unknown fleet still approaching Earth."
+
+"Then Kowalski is risking causality violations that could be worse than an invasion." Yamamoto met her eyes. "Sarah, you need to stop jumping. The temporal displacement is accumulating. And now we're adding causality violations on top. You could age decades. Or cease to exist. Or create a time paradox that destroys the timeline."
+
+"So my choices are stop jumping and let Earth get invaded, or keep jumping and maybe destroy reality?" Chen laughed bitterly. "That's a hell of a decision."
+
+"It's not your decision to make. You're a pilot, not a philosopher. This needs to go up the chain to people who understand the implications."
+
+"The people up the chain don't care about implications. They care about results." Chen stood. "I'm scheduled for another jump in six hours. Intercept course with the lead unknown vessel. Admiral's orders."
+
+"I'll override those orders. Medical authority supersedes operational necessity."
+
+"Not during wartime conditions. Which Kowalski declared yesterday after the unknowns ignored all hailing attempts." Chen moved to the door. "Doc, I appreciate the concern. But I took this job knowing the risks. Aging was on the list. Time paradoxes are just a bonus."
+
+"Sarah, wait." Yamamoto pulled up his personal files. "There's something else. The cellular samples from your last jump show unusual markers. Your DNA is changing. Not degrading—changing. Adapting to the temporal stress somehow."
+
+"Adapting how?"
+
+"I don't know yet. But your telomeres are lengthening instead of shortening in some cells. Your mitochondria are producing energy at rates that shouldn't be possible. It's like your body is evolving in real-time to handle the jump stress." Yamamoto highlighted the anomalies. "You're becoming something different. Something more resilient to temporal displacement."
+
+"Or something less human."
+
+"Maybe both." Yamamoto pulled up a comparison image. Sarah's cellular structure from three weeks ago versus now. The differences were striking. "I need more time to understand what's happening. But I think the jumps are rewriting your biology. Making you into something better suited for FTL travel."
+
+"A human jump drive."
+
+"Or the first of a new species. Homo temporalis. Humanity adapted for spacetime manipulation." Yamamoto saved the data. "Sarah, you could be the prototype for future jump pilots. But only if you survive long enough for us to study the changes."
+
+Chen looked at her hands. At the skin that was somehow younger and older simultaneously. "How long do you need?"
+
+"Six months. Minimum. Full biological monitoring, controlled jump sequences, time to analyze the adaptations."
+
+"Earth doesn't have six months. The unknowns arrive in seventy-two hours."
+
+"Then Earth will have to defend itself conventionally. Because I'm not letting you jump again until I understand what's happening to you." Yamamoto activated his medical override. "You're grounded, Lieutenant. Doctor's orders."
+
+Chen's expression went cold. "You're making a mistake."
+
+"Maybe. But it's my mistake to make." Yamamoto stood. "I'm responsible for your medical welfare. And right now, that means protecting you from further temporal damage. Even if it costs us strategically."
+
+"People will die, Doc. Real people. Right now. Not hypothetical future casualties from time paradoxes we don't understand."
+
+"And you'll die if you keep jumping. Definitely. Not hypothetically." Yamamoto met her eyes. "I've lost too many test pilots already. Rodriguez, Marcus, Kim. All dead or damaged from jumps we didn't understand well enough to make safe. I'm not losing you too."
+
+Chen was quiet for a long moment. "Override denied. I'm jumping in six hours whether you approve or not."
+
+"I'll go to Kowalski."
+
+"He'll override you. Military necessity." Chen opened the door. "But thanks for caring, Doc. When I'm dead from causality violations or turned into a time-traveling mutant, at least someone will remember I was human once."
+
+She left. Yamamoto sat alone in the medical bay, staring at the cellular analysis that showed a young woman evolving into something unprecedented.
+
+He pulled up the comm and contacted Admiral Kowalski. The admiral answered immediately.
+
+"Dr. Yamamoto. Please tell me you have good news about the jump drives."
+
+"I have troubling news about temporal mechanics and causality violations. Lieutenant Chen's last jump arrived before it departed. We're creating time paradoxes, sir. We need to suspend operations until we understand the implications."
+
+Kowalski was silent for three seconds. "Denied. Chen jumps on schedule. We need intelligence on those unknown vessels before they reach Earth."
+
+"Sir, we could be risking causality itself—"
+
+"And Earth could be facing extinction. I'll take my chances with time paradoxes over guaranteed invasion." Kowalski's expression was stone. "Your medical concerns are noted. But operational necessity supersedes. Chen jumps. That's final."
+
+The channel closed. Yamamoto sat in the empty medical bay, surrounded by equipment designed to keep human bodies alive through impossible stresses.
+
+He pulled up Sarah's file one more time. Looked at the changes happening to her biology. The adaptations that might let her survive. Or might transform her into something humanity had never seen.
+
+In six hours, she'd jump again. Risk causality. Age another month. Evolve further into whatever she was becoming.
+
+And Yamamoto would be here. Monitoring. Recording. Making sure that if she died, at least the data would survive.
+
+It was cold comfort. But it was all he had.
+
+He started preparing the monitoring equipment. If Sarah was going to violate causality and possibly unravel the timeline, he'd make damn sure humanity learned something from it.
+
+Even if the lesson was how not to tear reality apart chasing victory.

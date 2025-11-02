@@ -1,0 +1,117 @@
+The oxygen alarm woke Commander Rivera at 0400.
+
+She was dressed and running before her mind fully engaged. The colony's atmospheric system was triple-redundant. One failure was concerning. Two was critical. Three meant they had hours before everyone suffocated.
+
+The control center showed red across the board. All three oxygen generators offline. Alexis Kwan was already at the console, her face pale in the emergency lighting.
+
+"Talk to me," Rivera said.
+
+"Cascade failure. Primary generator seized at 0355. Backup activated, then failed at 0358. Tertiary won't even start." Alexis pulled up diagnostic logs. "It's the dust. Martian dust in the intake filters, the compression chambers, the catalytic beds. Everything's contaminated."
+
+"How long do we have?"
+
+"Current oxygen levels will sustain the colony for six hours. Maybe eight if we reduce activity and seal off non-essential modules." Alexis's cybernetic hand moved across the controls with mechanical precision. "But that assumes no additional failures. And given how fast the generators went down, that's optimistic."
+
+Rivera activated ship-wide comm. "All personnel, this is Commander Rivera. We have an atmospheric emergency. Proceed to your assigned emergency stations. Reduce physical activity. Conserve oxygen. Department heads, report status immediately."
+
+The responses came in within seconds. Engineering, medical, agriculture, research—everyone was awake, everyone was moving.
+
+"Hassan, what's your status on the sealed tunnels?" Rivera asked.
+
+The geologist's voice crackled through static. "Intact. Forty-three personnel sheltering in the subsurface excavation. We have independent oxygen supply for seventy-two hours."
+
+"Stay there. Don't return to the main hab until we resolve this." Rivera turned to Alexis. "Can we repair the generators?"
+
+"Not quickly enough. The contamination is systemic. We'd need to disassemble, clean, reassemble every component. Twelve hours minimum per unit."
+
+"We don't have twelve hours."
+
+"I know." Alexis pulled up alternative options. "We have emergency oxygen tanks. Four hundred person-hours total. Not enough for everyone. We can extend the timeline by selectively evacuating people to the sealed tunnels, but that's a stopgap."
+
+Rivera ran the calculations. Eighty-seven people in the main hab. Four hundred person-hours meant less than five hours per person. The math didn't work.
+
+"What about the landing vehicles?" she asked. "They have independent life support."
+
+"Three ships, forty seats total. We could evacuate the most vulnerable—medical patients, children, pregnant women. But that still leaves forty-seven people exposed."
+
+Rivera looked at the colony roster. Forty-seven people she'd have to choose to leave behind. Or forty-seven people she'd have to watch suffocate while the lucky ones waited in ships or tunnels.
+
+"There has to be another option," she said.
+
+"There is." Yuki Tanaka entered the control center, her expression grim. "We use the plants."
+
+"The hydroponics bay?" Alexis shook her head. "The crop yield isn't enough. We'd need ten times the plant mass to oxygenate the hab."
+
+"Not hydroponics. The contamination." Tanaka pulled up her research files. "The crystalline structures in the Martian soil—they're converting CO2 to oxygen. Slowly, but measurably. I tested it yesterday. The dying plants in the greenhouse are producing more oxygen than they should based on photosynthesis alone."
+
+"Because they're infected with alien biology," Rivera said.
+
+"Because they're being converted into something that breathes carbon dioxide and exhales oxygen. Something adapted to Mars." Tanaka met her eyes. "If we accelerate the contamination process, if we deliberately expose more organic material to the crystalline structures, we might be able to boost oxygen production enough to buy time."
+
+"That's insane," Alexis said. "You want to deliberately spread an alien infection through the colony?"
+
+"I want to not suffocate. The contamination is happening anyway—we're all exposed already. The question is whether we use it or die fighting it." Tanaka pulled up microscopy images. "The crystals integrate with organic tissue. They don't destroy it. They enhance it. Make it more efficient at gas exchange. If we could trigger that process in our own bodies—"
+
+"You're talking about biological modification," Rivera interrupted. "Forcing human evolution on a six-hour timeline."
+
+"I'm talking about survival. We're already changing. The blood samples prove it. The question is whether we embrace the change or let it kill us slowly." Tanaka's voice was steady. Professional. Hiding the terror underneath. "I can synthesize a concentrated dose of the crystalline structures. Inject them directly into our bloodstreams. Accelerate the integration process."
+
+"And if it kills us instead?"
+
+"Then we die trying something instead of sitting here waiting to suffocate." Tanaka looked at the oxygen countdown. Five hours, forty-seven minutes. "I volunteer to go first. If it works, everyone else follows. If it doesn't, you lose one person instead of forty-seven."
+
+Rivera wanted to say no. Wanted to find another solution. Wanted to contact Earth and beg for answers that would take twenty minutes to arrive, assuming anyone was listening.
+
+But the oxygen counter kept ticking down. And Tanaka was right—they were out of time for conventional solutions.
+
+"How confident are you this will work?" Rivera asked.
+
+"Thirty percent. Maybe forty." Tanaka pulled out a prepared syringe. "But zero percent if we don't try."
+
+Alexis moved between them. "Commander, you can't authorize this. We don't know what it will do. We could be creating something worse than death—human-alien hybrids, biological contamination that spreads beyond the colony."
+
+"We're already contaminated," Tanaka said quietly. "This just makes it useful instead of fatal."
+
+Rivera looked at her two officers. The engineer who wanted to protect humanity's biological integrity. The scientist who wanted to save lives by abandoning it.
+
+Both were right. Both were wrong. And Rivera had to choose.
+
+"Do it," she said. "But controlled testing. Tanaka first. Then me. If we survive thirty minutes with improved oxygen exchange, we proceed to voluntary inoculation. No one gets injected without consent."
+
+"And the people who refuse?" Alexis asked.
+
+"Get the emergency oxygen tanks. The ships. The sealed tunnels. Whatever we can spare." Rivera pulled off her jacket. "But I'm not asking anyone to do something I won't do myself."
+
+Tanaka prepared the injection. The syringe glowed faintly blue—the same color as the contaminated soil. As the alien structures that might save them or transform them into something no longer entirely human.
+
+"Ready?" Tanaka asked.
+
+Rivera nodded. "Do it."
+
+The needle slid in. The crystalline structures flowed into her bloodstream, cold at first, then burning as they integrated with her cells.
+
+Rivera gasped. Her vision sharpened. Colors became more vivid. She could feel her lungs expanding, the alveoli restructuring, becoming more efficient at extracting oxygen from the thinning air.
+
+And underneath it all, she felt Mars. The planet's presence. Its awareness. Like touching a vast intelligence that had been waiting patiently for humanity to stop fighting and start listening.
+
+"Commander?" Alexis's voice sounded distant. "Your vitals are spiking. Heart rate elevated, neural activity—"
+
+"I'm fine." Rivera's voice sounded strange to her own ears. Clearer. "Better than fine. I can breathe easier already."
+
+She looked at her hands. Faint blue veins traced patterns beneath her skin. The crystalline structures spreading. Adapting her biology to Martian conditions.
+
+Making her into something new.
+
+"It's working," Tanaka said, wonder in her voice. "Oxygen exchange up forty-seven percent. CO2 conversion accelerated. You're breathing Martian atmosphere more efficiently than human atmosphere."
+
+"Then inject yourself," Rivera said. "And anyone else who's willing."
+
+Over the next hour, thirty-two people took the injection. Thirty-two people chose transformation over death. The rest took the emergency oxygen supplies and sealed themselves in the ships and tunnels.
+
+By hour five, the oxygen generators were still offline. But it didn't matter anymore.
+
+The colonists who'd accepted the crystalline contamination were breathing easier. Thriving in conditions that would have killed unmodified humans.
+
+They weren't quite human anymore. But they were alive.
+
+And on Mars, that was victory enough.
