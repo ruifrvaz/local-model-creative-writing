@@ -17,6 +17,31 @@ Fine-tuning captures your **writing style** (voice, pacing, word choice, sentenc
 
 ## Quick Start
 
+**Install:**
+```bash
+# WSL USERS: Configure memory FIRST to prevent crashes!
+# Edit C:\Users\<username>\.wslconfig:
+#   [wsl2]
+#   memory=48GB
+#   processors=12
+# Then: wsl --shutdown (in PowerShell)
+# See: docs/history/2025-11-02_flash_attention_wsl_memory_issue.md
+
+# Setup PyTorch 2.8.0 with CUDA 12.8 (RTX 5090 compatible)
+cd fine-tuning/setup
+./0_create_venv.sh
+./1_install_torch.sh
+
+# Install Axolotl from main (no torch version pins)
+./2_install_axolotl.sh
+
+# Install training stack (flash-attention, DeepSpeed, monitoring)
+# WARNING: flash-attention compilation takes 15-20 minutes
+./3_install_training_stack.sh
+```
+
+**Train:**
+
 ```bash
 # 1. Prepare your writing samples
 cd fine-tuning
@@ -36,7 +61,6 @@ cd ..
 cd benchmarks
 python 6_style_transfer_quality.py
 ```
-
 ---
 
 ## Training Approaches
@@ -554,17 +578,6 @@ python training/test_model_load.py --model merged_models/llama-3.1-8b-your-style
 - Excellent QLoRA support
 - Great documentation
 - Active community
-
-**Install:**
-```bash
-# Setup PyTorch 2.8.0 with CUDA 12.8 (RTX 5090 compatible)
-cd fine-tuning/setup
-./0_create_venv.sh
-./1_install_torch.sh
-
-# Install Axolotl from main (no torch version pins)
-./2_install_axolotl.sh
-```
 
 ### Unsloth
 **Pros:**

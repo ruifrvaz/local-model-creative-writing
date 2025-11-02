@@ -161,12 +161,12 @@ What DOESN'T Count:
 
 ### **RTX 5090 (32GB VRAM) Capacity with max_seqs=9:**
 
-| Model + Context | VRAM Usage | Max Story Length | Quality |
-|----------------|------------|------------------|---------|
-| **Llama-3.1-8B @ 64k** | ~30GB | Novella chapters | ⭐⭐⭐⭐ |
-| **Llama-8B-AWQ @ 100k** | ~24GB | Full chapters | ⭐⭐⭐⭐ |
-| **Qwen2.5-7B-AWQ @ 100k** | ~22GB | Complete arcs | ⭐⭐⭐⭐⭐ |
-| **Qwen2.5-14B-AWQ @ 64k** | ~28GB | Professional prose | ⭐⭐⭐⭐⭐ |
+| Model + Context           | VRAM Usage  | Max Story Length    | Quality        |
+|----------------           |------------ |------------------   |---------       |
+| **Llama-3.1-8B @ 64k**    | ~30GB       | Novella chapters    | ⭐⭐⭐⭐     |
+| **Llama-8B-AWQ @ 100k**   | ~24GB       | Full chapters       | ⭐⭐⭐⭐     |
+| **Qwen2.5-7B-AWQ @ 100k** | ~22GB       | Complete arcs       | ⭐⭐⭐⭐⭐  |
+| **Qwen2.5-14B-AWQ @ 64k** | ~28GB       | Professional prose  | ⭐⭐⭐⭐⭐  |
 
 ### Recommended Starting Points:
 
