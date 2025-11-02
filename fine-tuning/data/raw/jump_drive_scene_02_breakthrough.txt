@@ -1,0 +1,179 @@
+The jump chamber maintenance was routine. Dr. Yamamoto watched technicians calibrate the Alcubierre field generators, checking alignment precision down to nanometer tolerances.
+
+"Field geometry looks stable," Lead Technician Park reported. "Quantum flux within acceptable variance."
+
+Yamamoto studied the readings. The drive was ready. The question was whether Lieutenant Chen was ready.
+
+She'd made sixty-two jumps in eight months. The cumulative cellular aging was approaching critical levels—biological age increased by nine weeks while chronological time advanced by eight months.
+
+The math was getting worse.
+
+"Where's Chen?" Yamamoto asked.
+
+"Medical. Dr. Mbara is running pre-jump clearance."
+
+Yamamoto found them in the medical bay. Mbara was frowning at scan results while Chen sat on the examination table, visibly impatient.
+
+"Tell me I'm cleared," Chen said.
+
+"Your telomere degradation is accelerating. Each jump costs more than the last." Mbara pulled up the cellular analysis. "At current rates, you've got maybe twenty more jumps before we're looking at serious age-related health impacts."
+
+"Twenty jumps is four months of testing. We'll have optimized protocols by then."
+
+"Or you'll have aged a year in the process."
+
+Chen slid off the table. "We're pushing boundaries. That comes with costs."
+
+"Costs you're paying alone. We should be rotating pilots, distributing the biological load."
+
+"We tried that. Every new pilot shows worse drift than I do. Experience matters." Chen pulled on her flight suit. "Clear me or don't, but I'm running today's test either way."
+
+Mbara looked at Yamamoto. "Can you talk sense into her?"
+
+"I've been trying for six months." Yamamoto gestured to the scan results. "But she's not wrong. Chen's neural adaptation to jump space is unique. We can't replicate her performance."
+
+"Then we're building a technology that only one person can use. That's not sustainable."
+
+"It's not final either. We're learning with every jump." Yamamoto pulled up the modified field equations. "Today's test uses reduced power settings. Should cut the temporal distortion by thirty percent."
+
+"Should. That word keeps appearing in your reports."
+
+"Because we're doing things no one's ever done before. Certainty is a luxury." Yamamoto met Mbara's eyes. "I wouldn't ask Chen to do this if I didn't believe the research was worth it."
+
+"The question is whether she believes her life is worth it."
+
+Chen appeared at the doorway. "I do. And I'm cleared for today's jump regardless of Dr. Mbara's objections."
+
+Mbara sighed. "You're cleared. Against my better judgment."
+
+The jump chamber sealed at 1400. Chen settled into the pilot interface, the neural connection syncing smoothly. She'd done this so many times the pre-jump sequence felt automatic.
+
+"Drive status?" she asked.
+
+"Optimal," Park reported. "Quantum containment at ninety-eight percent. Field geometry stable."
+
+"Reduced power settings confirmed," Yamamoto added. "Target: five light-years, zero drift, minimal biological impact."
+
+Chen initiated the sequence. The drive hummed to life, that familiar reality-tearing bass note that resonated in her bones.
+
+Thirty seconds to jump.
+
+Her vision doubled. Temporal distortion beginning.
+
+Twenty seconds. The universe fractured into probability states.
+
+Ten seconds. Past and future bleeding together.
+
+Zero.
+
+The jump felt different. Softer. Instead of being torn across light-years, Chen felt herself... sliding. The temporal distortion was present but muted. The sensation of existing everywhere and nowhere was brief.
+
+Reality resolved.
+
+Chen gasped. No nausea. No immediate disorientation.
+
+"Jump complete," she reported, her voice steady. "That was smoother than anything we've achieved."
+
+"Confirming position." Pause. "Drift: zero point zero three light-years. Within margin of error."
+
+Chen felt something close to hope. "Biological readings?"
+
+Mbara's voice came through tense. "Cellular aging: sixteen hours. That's half the normal impact."
+
+The chamber erupted in subdued celebration. Sixteen hours instead of forty-eight. Almost negligible drift. The modified protocols were working.
+
+Chen disconnected from the interface and stood without staggering. No jump sickness. No temporal disorientation.
+
+This was what breakthrough felt like.
+
+Yamamoto met her outside the chamber. "We did it. Viable FTL with manageable biological cost."
+
+"One successful jump doesn't prove viability. We need consistency."
+
+"Then we test again. Tomorrow."
+
+"Dr. Mbara won't clear me for consecutive jumps."
+
+"Today's results will change her mind." Yamamoto pulled up the data. "Sixteen hours of aging for five light-years of travel. That's sustainable. That's deployable."
+
+Admiral Kowalski arrived an hour later, reviewing the test results with an expression Chen couldn't read.
+
+"This is significant progress," Kowalski said. "But I want redundancy. We need more pilots achieving these results."
+
+"Chen's neural adaptation is unique," Yamamoto protested. "We can't simply train replacements."
+
+"Then we find out what makes her unique and replicate it." Kowalski turned to Chen. "Lieutenant, I'm authorizing comprehensive neural mapping. Full cognitive analysis. If there's something about your brain structure that enables jump navigation, we need to identify it."
+
+Chen had known this request was coming eventually. Still made her uncomfortable—the idea of being studied, her brain architecture analyzed and potentially replicated.
+
+But if it meant more pilots could share the load...
+
+"Understood, sir. When do we start?"
+
+"Tomorrow. Dr. Mbara will coordinate with neurology."
+
+The neural mapping took three days. Scans so detailed Chen could watch her own thought processes rendered in real-time. Cognitive tests that probed every aspect of perception and processing.
+
+The results were unexpected.
+
+"Your visual cortex shows unusual connectivity to your temporal processing centers," the neurologist explained. "Most people process time linearly. You seem to perceive it more... spatially. Like a landscape you can navigate."
+
+"I've always been good at pattern recognition," Chen said. "Seeing connections others miss."
+
+"It's more than that. Your brain literally structures temporal information differently. That might be why you can handle jump space—you're not fighting the temporal distortion, you're processing it as navigable space."
+
+Yamamoto read the analysis three times. "Can we train this? Develop exercises that promote similar neural connectivity?"
+
+"Maybe. But neural architecture is partly genetic, partly developmental. We can't recreate Lieutenant Chen's brain, but we might be able to help other pilots adapt their existing structures."
+
+They designed a training program. Exercises that encouraged spatial-temporal thinking. Simulations that required navigating non-linear timespace.
+
+Four candidates went through the program. Two washed out. Two showed promise.
+
+Ensign Kioko made her first jump at reduced power settings. Drift: point-five light-years. Cellular aging: thirty hours.
+
+Not as good as Chen's performance. But better than untrained pilots had achieved.
+
+"It's working," Yamamoto reported to Kowalski. "We're developing a reproducible training methodology."
+
+"How long until we have a deployable pilot corps?"
+
+"Six months for basic certification. A year for advanced navigation."
+
+"Make it happen. Fleet Command wants FTL capability operational within eighteen months."
+
+Chen continued testing. The modified protocols became standard. Her cellular aging stabilized—cumulative impact plateaued instead of accelerating.
+
+The jumps got easier. Not easy. But manageable.
+
+Ensign Kioko made her tenth jump with zero drift and twenty-four-hour cellular impact.
+
+Lieutenant Zhao completed training and achieved similar results.
+
+The technology was maturing. The biological costs were becoming understood, measurable, manageable.
+
+Chen made her hundredth jump nine months later. The jump that would've killed her using original protocols barely fazed her with the optimized systems.
+
+"We've achieved it," Yamamoto said afterward. "Viable faster-than-light travel. Sustainable biological impact. Reproducible pilot training."
+
+"We've achieved the first iteration," Chen corrected. "There's still optimization to do. Ways to reduce the aging impact further. Methods to improve navigation precision."
+
+"You're never satisfied, are you?"
+
+"I'm a test pilot. Satisfaction means we've stopped improving." Chen smiled. "Besides, we've proven humans can break light-speed and survive. Now we prove we can thrive doing it."
+
+Kowalski authorized expansion of the program. More pilots. More jump-capable ships. More missions pushing deeper into unexplored space.
+
+The age of FTL exploration had begun.
+
+And it was only possible because one pilot had been willing to pay the price for breakthrough.
+
+Chen's biological age was forty-three. Her chronological age was thirty-eight.
+
+Five years lost to temporal distortion and cellular stress.
+
+She considered it a bargain.
+
+The stars were closer now. Humanity's future brighter.
+
+That was worth any cost.

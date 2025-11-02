@@ -1,0 +1,171 @@
+The Rock Hopper's sensors picked up the anomaly at 0630. Kayla studied the readings, frowning.
+
+"Captain, we've got a ship on intercept course. No transponder signal."
+
+Torres was at the tactical console immediately. "Distance?"
+
+"Four hundred kilometers and closing. They're not broadcasting ID."
+
+No transponder meant either equipment failure or deliberate concealment. In the belt, that usually meant trouble.
+
+"Wrench, I want the defensive grid online. Non-lethal protocols." Torres pulled up the ship's profile on sensors. "Sofia, any idea what we're looking at?"
+
+"Industrial hauler. Modified for speed—they've stripped cargo capacity for additional thrust." Sofia enhanced the image. "And they've got weapon hardpoints. Corporate security or claim jumpers."
+
+"Hail them," Torres ordered.
+
+Kayla sent the signal. Standard mining vessel identification request. No response.
+
+The hauler kept closing.
+
+"Three hundred kilometers," Kayla reported. "Still no comm."
+
+Torres made the decision. "Charge weapons. Target their drive section. If they don't respond to the next hail, we disable them."
+
+"Captain, that could start a shooting war," Sofia said.
+
+"So could letting them close without knowing their intentions." Torres opened the comm. "Unidentified vessel, this is the independent mining ship Rock Hopper. Identify yourself or break off approach. You have sixty seconds to comply."
+
+Still no response.
+
+The hauler entered two-hundred-kilometer range. Weapon ports were opening.
+
+"They're going hot," Kayla said. "Targeting solutions acquired on us."
+
+Torres didn't hesitate. "Fire. Disable their drive."
+
+The Rock Hopper's railgun spat a burst of kinetic projectiles. The hauler's drive section erupted in sparks and venting atmosphere. The ship tumbled, momentum carrying it forward but thrust gone.
+
+"Direct hit," Sofia confirmed. "Their drive is offline."
+
+The comm finally crackled to life. "Rock Hopper, cease fire! This is corporate security vessel Nighthawk. We're conducting routine belt patrol."
+
+"Routine patrols announce themselves," Torres replied. "You approached with weapons hot and no identification. That's aggression, not law enforcement."
+
+"Our comm system malfunctioned. We were trying to signal when you opened fire."
+
+Torres studied the tactical display. The Nighthawk was drifting, venting reaction mass from the damaged drive. Disabled but not destroyed.
+
+"Wrench, damage assessment on their ship?" Torres asked.
+
+"Drive's toast but life support looks intact. They'll survive, but they're not maneuvering anytime soon."
+
+"Who do they work for?"
+
+Sofia was already running corporate registry checks. "Nighthawk is registered to Consolidated Extraction Corp. They handle claim enforcement for Earth-based mining interests."
+
+Claim enforcement. Corporate euphemism for intimidation and seizure. Torres knew the type—legal muscle that pushed independent miners off profitable sites.
+
+"Why are they interested in us?" he asked aloud.
+
+Sofia pulled up their claim beacon data. "Our modified report for the asteroid. We listed it as higher-yield than the initial survey."
+
+"That shouldn't trigger corporate attention. Upgraded claims happen all the time."
+
+"Unless someone noticed the discrepancy. We sold three hundred kilograms of element 126 but our claim report doesn't reflect that kind of value."
+
+Torres felt ice in his gut. Someone had put the pieces together. The claim report. The sale to Takeshi. The profit that didn't match the recorded extraction.
+
+They'd been too visible.
+
+"Kayla, get us moving. Maximum burn away from the Nighthawk."
+
+"If we run, we look guilty," Wrench warned.
+
+"If we stay, we give them time to call for backup." Torres opened a secure channel. "Takeshi, we have a situation. Corporate security just made a very aggressive approach to our position. They might be onto the element 126 transaction."
+
+Takeshi's response was immediate. "How certain?"
+
+"Their timing is suspicious. They approached with weapons hot. That's not standard procedure unless they expected resistance."
+
+"Can you contain the situation?"
+
+"We disabled their ship. They're not going anywhere. But they've almost certainly transmitted distress and tactical data."
+
+Pause. Then Takeshi said, "I'll handle this. But you need to disappear for a while. Change transponder codes. Work the far belt. Stay invisible."
+
+"For how long?"
+
+"Until I can obscure the transaction trail. Three months minimum."
+
+Torres made the calculation. Three months of hiding meant lost income, depleted supplies, constant risk of discovery.
+
+But getting caught by Consolidated Extraction Corp meant losing the Rock Hopper, facing criminal charges, and likely prison time.
+
+"Understood. We're going dark."
+
+The Rock Hopper accelerated away from the disabled Nighthawk. Torres plotted a course toward the belt's outer regions—sparse territories where claim jumpers and independents could operate beneath corporate attention.
+
+"How much does going dark cost us?" Kayla asked.
+
+"Everything we made from the element 126, eventually. We'll burn through reserves, miss opportunities, lose our claim positions." Torres studied the navigation chart. "But we'll be free. That's worth the cost."
+
+Sofia looked worried. "What if they already transmitted our transponder data? Every corporate ship in the belt could be looking for us."
+
+"Then we change our identity. Repaint the hull. Modify the drive signature. Become a different ship." Torres pulled up the modification protocols. "Wrench, how fast can you make us unrecognizable?"
+
+"Two days if we push it. Requires docking at a fabrication station."
+
+"There's a neutral station at marker eight-seven. Lawless territory. We can work there."
+
+They reached the fabrication station thirty-six hours later. A ramshackle collection of hab modules and construction bays operated by people who didn't ask questions.
+
+Torres paid in cryptocurrency. The station crew got to work immediately—stripping the Rock Hopper's hull markings, modifying drive baffles, installing a forged transponder.
+
+Forty-eight hours later, the ship that left the station was registered as the Prospector's Dream, independent mining vessel with a fabricated history.
+
+"Think it'll fool corporate scans?" Kayla asked.
+
+"For a while. Long enough to disappear." Torres reviewed their new identity documentation. "We stay in the outer belt. Work small claims. Nothing that draws attention."
+
+The next three months were brutal. They prospected in regions other miners avoided—asteroid fields with dangerous trajectories, claims with marginal yields, territories where only the desperate worked.
+
+The income was terrible. They burned through their element 126 profits just surviving.
+
+But they stayed free.
+
+Wrench kept the ship running with increasingly creative repairs. Sofia found deposits others missed. Kayla piloted through navigation hazards that would've destroyed most vessels.
+
+Torres managed the constant stress of hiding, wondering if every sensor contact was corporate security closing in.
+
+On day eighty-seven, Takeshi sent a coded message. "Trail is cold. Transaction records scattered through shell accounts. You're clear to resurface."
+
+Torres read it three times before believing it.
+
+"We're safe," he told the crew. "Takeshi obscured the transaction. Consolidated Extraction Corp lost the trail."
+
+"So we can go back to normal operations?" Sofia asked.
+
+"Define normal. We're still using false identity. Our original claim stakes are forfeit. We're starting from zero."
+
+"But we're starting free," Wrench said. "Not in corporate custody."
+
+Torres nodded. "Yeah. There's that."
+
+They moved back to the primary belt. Resumed standard prospecting. Filed new claims under their Prospector's Dream identity.
+
+The profits were modest. No element 126 windfalls. Just steady, hard work extracting value from rocks.
+
+But it was honest. Independent. Theirs.
+
+Six months after the Nighthawk encounter, Torres stood at the viewport watching the asteroid belt stretch to infinity.
+
+"Regrets?" Kayla asked, joining him.
+
+"About the element 126? No. It was worth trying." Torres gestured at the void. "But this is better. Working for ourselves. No corporate oversight. No one dictating terms."
+
+"We're also broke."
+
+"Broke but free. I'll take it."
+
+Kayla smiled. "You're a terrible capitalist."
+
+"I'm an excellent spacer. There's a difference."
+
+The Rock Hopper—now the Prospector's Dream—sailed on. Hunting fortune in the void. Never finding the big score.
+
+But finding something more valuable.
+
+Independence.
+
+And in the belt, that was the real treasure.

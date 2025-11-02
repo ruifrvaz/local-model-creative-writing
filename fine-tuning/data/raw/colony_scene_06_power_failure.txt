@@ -1,0 +1,185 @@
+The generator failed during third shift. Alexis woke to emergency lighting and the particular silence that meant primary power was offline.
+
+She was in the engineering bay within ninety seconds.
+
+"Status," she called to Yuki, who was already pulling diagnostic panels.
+
+"Primary generator seized. Bearings fused. Complete mechanical failure." Yuki's face was grim. "We're on battery backup. Eight hours at current consumption."
+
+"Cause?"
+
+"Regolith infiltration into the cooling system. The seals we replaced last week? Didn't hold."
+
+Alexis swore. Eight hours of battery. No way to repair the primary generator in that time—they'd need parts they didn't have and skills they hadn't mastered.
+
+Secondary generator was their only option. And it hadn't been fired up in four months.
+
+"Get the secondary online," Alexis ordered. "I'll optimize power consumption, buy us more time."
+
+She pulled up the colony-wide power management. Started shutting down non-essential systems. Science labs, half the lights, anything that didn't directly support life.
+
+Temperature controls to minimum safe levels. Heating only the occupied modules.
+
+Communications reduced to emergency bandwidth. Entertainment systems offline entirely.
+
+Every optimization bought them minutes. Not hours.
+
+Hassan appeared in the doorway. "What can I do?"
+
+"The secondary generator hasn't run in months. It might not start. We need contingencies."
+
+"What kind of contingencies?"
+
+"Worst case? Evacuation to the orbital station. But that takes time we might not have." Alexis pulled up the evacuation protocols. "Start prepping the shuttles. Just in case."
+
+Hassan left immediately. Alexis returned to power optimization.
+
+Six hours of battery remaining.
+
+Yuki was in the generator bay, running startup sequences on the secondary unit. The generator was temperamental—designed as backup, rarely used, critical when needed.
+
+It didn't start on the first attempt.
+
+Or the second.
+
+"Come on," Yuki muttered, adjusting fuel mixture ratios. "Work for me."
+
+Third attempt. The generator coughed, sputtered, died.
+
+Fourth attempt. It caught. Ran for thirty seconds. Then seized with a grinding screech.
+
+Yuki pulled the diagnostic readout. "Fuel line contamination. Particulates blocking the injectors."
+
+"Can you flush it?"
+
+"Not fast enough. We'd need to disassemble the entire fuel delivery system."
+
+Five hours of battery.
+
+Alexis made the call. "Rivera, we need to start evacuation procedures. We can't guarantee power restoration in time."
+
+Rivera's response was immediate. "How long do we have?"
+
+"Five hours. Maybe less if battery degradation accelerates."
+
+"Understood. Initiating evacuation protocol."
+
+The colony-wide announcement went out at 0400. All personnel to prepare for emergency evacuation. Priority to essential equipment and research data.
+
+Three hundred people began the practiced routine—packing emergency supplies, securing critical systems, gathering at designated shuttle assembly points.
+
+Alexis watched from the command center. Organized chaos. Everyone knew their roles. But the fear was visible.
+
+This was the nightmare scenario every colonist had drilled for but hoped would never come.
+
+Yuki continued working the secondary generator. Determined. Desperate.
+
+"If I bypass the fuel filtration entirely," she said over the comm, "I might get it running. Won't last long, but could buy us hours."
+
+"Do it," Alexis said.
+
+The bypass took forty minutes. Precious battery time bleeding away.
+
+Four hours remaining.
+
+Yuki fired the generator. It caught. Ran rough, coughing and sputtering. But it ran.
+
+"I've got power!" Yuki's voice was triumphant. "It's unstable and it won't last more than twelve hours, but we have power."
+
+Alexis felt relief flood through her. "Rivera, hold the evacuation. We have temporary power restoration."
+
+"How temporary?"
+
+"Twelve hours if we're lucky. But that's time to implement permanent repairs."
+
+The colonists returned to their habs. Relieved. Exhausted.
+
+Alexis didn't share their relief. Twelve hours to fix a generator with parts they didn't have and expertise that was marginal at best.
+
+She pulled up the technical manuals. The primary generator's bearing failure required replacement components. They had some in inventory—general-purpose bearings that might work with modification.
+
+"Wrench," she called to Chen Liu over the comm. "I need your best engineering kludge. We're rebuilding a generator with parts that weren't designed for it."
+
+Chen appeared with a toolkit and a grin. "My specialty."
+
+They worked through the night. Disassembling the primary generator. Measuring tolerances. Modifying inventory bearings to fit specifications they were never designed for.
+
+Chen jury-rigged mounting brackets from scrap metal. Alexis recalculated load distributions for the non-standard components. Yuki kept the secondary generator running through sheer determination and constant adjustment.
+
+By dawn, they had a Frankenstein generator—parts from three different systems, held together by creative engineering and desperate improvisation.
+
+"Think it'll work?" Chen asked.
+
+"Only one way to find out." Alexis initiated the startup sequence.
+
+The generator turned over. Bearings engaged. Power output ramped up.
+
+Held steady at seventy percent of rated capacity.
+
+Not perfect. But functional.
+
+Alexis brought it online. The secondary generator sputtered in relief as the load transferred to primary.
+
+Colony power stabilized.
+
+"We did it," Yuki said, slumping against the wall. "Actually did it."
+
+"For now." Alexis studied the readouts. "That generator is held together by prayers and recycled hope. It needs proper bearings. From Earth."
+
+"Which means three months minimum."
+
+"Which means we keep this thing running for three months on parts it wasn't designed to use." Alexis smiled grimly. "Just another day on Mars."
+
+Rivera convened a colony meeting that evening. Three hundred tired colonists gathered in the main common area.
+
+"Last night showed us our vulnerability," Rivera said. "One generator failure almost forced evacuation. We can't operate on such thin margins."
+
+"Then we need more redundancy," Hassan said from the back. "More backup systems. Better maintenance schedules."
+
+"We need resources we don't have," someone else countered. "Earth Corp won't send more equipment unless we prove profitability."
+
+"Then we make ourselves unprofitable to lose." Alexis stood. "We survived last night because this crew can build solutions from spare parts and determination. That's valuable. That's the kind of adaptability Earth Corp can't manufacture back home."
+
+Murmurs of agreement rippled through the group.
+
+"Earth Corp thinks of us as an expense," Alexis continued. "We make them see us as an investment. Every problem we solve is proof that humanity can survive on Mars. That's worth more than quarterly profits."
+
+Rivera nodded. "Agreed. I'll file a revised assessment emphasizing operational resilience. Make the case for increased support based on demonstrated capability."
+
+The meeting dispersed. Colonists returning to their routines. Still tired. Still stressed. Still here.
+
+Alexis returned to engineering. The jury-rigged generator hummed steadily—a sound of imperfect success.
+
+Yuki joined her, carrying two ration packs. "Figured you forgot to eat."
+
+"Probably." Alexis accepted the food. "Thanks."
+
+They ate in silence, watching the power displays. Green across the board. Fragile stability.
+
+"How long do you think the colony will last?" Yuki asked.
+
+"Honestly? No idea. We're one critical failure away from evacuation at any given moment."
+
+"But we keep preventing those failures."
+
+"So far." Alexis gestured at the generator. "But eventually our luck runs out. Eventually we face something we can't jury-rig our way past."
+
+"Maybe. Or maybe we just keep getting better at survival."
+
+Alexis smiled. "Optimism. From you. The apocalypse really is coming."
+
+"Shut up and eat your ration pack."
+
+They sat together, two engineers on the edge of human civilization, held together by determination and makeshift solutions.
+
+The colony would survive.
+
+Not because it was easy.
+
+Not because it was well-resourced.
+
+But because giving up wasn't an option.
+
+Mars demanded too much effort to abandon.
+
+And the people who'd made it here were too stubborn to quit.
