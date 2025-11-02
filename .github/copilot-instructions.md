@@ -11,8 +11,15 @@
 
 **System Memory:**
 - Total RAM: 64GB DDR5
-- WSL2 allocation: 32GB (configurable in `.wslconfig`)
-- Recommended: 48GB for WSL2, leaves 16GB for Windows
+- WSL2 allocation: 48GB (REQUIRED for flash-attention compilation)
+- Configured in `C:\Users\<username>\.wslconfig`:
+  ```ini
+  [wsl2]
+  memory=48GB
+  processors=12
+  ```
+- Restart WSL after changes: `wsl --shutdown` (PowerShell)
+- See: `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
 **Software Environment:**
 - OS: Windows 11 + WSL2 (Ubuntu 22.04)
@@ -42,7 +49,7 @@
 
 ## Starting or resuming chats
 
-**When user starts new chat with "analyze" or "resume":**
+**When user starts new chat with "analyze" or "recap":**
 - **Always read the latest history file first** (`docs/history/` sorted by date)
 - Use it to understand recent architectural changes and decisions
 - **Always read the readme files of relevant components** (e.g., RAG/README.md, vllm/README.md)
@@ -63,9 +70,19 @@
 
 **Update core documentation to reflect current state:**
 - **Always update** markdown guides when making changes
-- Show how things work NOW (not historical evolution)
+- Show how things work NOW (not historical evolution except on history files)
 - Update file structure diagrams to include new folders
 - Update script docstrings for consistency
+
+**Documentation file placement rules:**
+- ✅ **All guide/reference documentation** → `docs/` directory only
+- ✅ **Component-specific setup guides** → `{component}/*_SETUP.md` (e.g., `RAG/RAG_SETUP.md`, `fine-tuning/FINE_TUNING_SETUP.md`)
+- ✅ **Component README files** → `{component}/README.md` (e.g., `RAG/README.md`, `vllm/README.md`)
+- ✅ **History/changelog files** → `docs/history/YYYY-MM-DD_description.md`
+- ❌ **DO NOT create** standalone `.md` files in component directories (use docs/ instead)
+- ❌ **DO NOT create** `WORKFLOW.md`, `GUIDE.md`, or similar in component folders (use docs/)
+
+**Exception:** Only `README.md` and `*_SETUP.md` files are allowed outside `docs/`. All other documentation goes in `docs/`.
 
 **Create history files for significant changes only:**
 - New architectural decisions (e.g., markdown parsing strategy)
@@ -101,6 +118,33 @@
 - Axolotl: main branch (installed with `--no-deps` to avoid torch pins)
 - DeepSpeed: Latest
 - Purpose: QLoRA/LoRA fine-tuning
+
+## WSL Configuration (CRITICAL for Fine-Tuning)
+
+**Flash-attention compilation requires significant memory allocation.**
+
+**Required configuration (`C:\Users\<username>\.wslconfig`):**
+```ini
+[wsl2]
+memory=48GB
+processors=12
+```
+
+**After editing, restart WSL:**
+```powershell
+# Windows PowerShell (run as administrator)
+wsl --shutdown
+wsl
+```
+
+**Why this is needed:**
+- Flash-attention compiles C++/CUDA kernels from source
+- Each compilation job uses ~2-4GB RAM
+- Default WSL allocation (50% of system RAM) insufficient
+- Without proper config, WSL crashes during `pip install flash-attn`
+- Script uses `MAX_JOBS=1` to prevent crashes even with 48GB
+
+**See:** `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
 ## Setup Script Organization
 
@@ -156,6 +200,29 @@ Other:   Descriptive names (benchmarks, servers, monitors)
 2. Use next available number in sequence
 3. Update ALL documentation to reflect new sequence
 4. Read complete workflow 0→n to verify order
+
+## Setup Script Troubleshooting Philosophy
+
+**When dependency or installation issues arise:**
+- ❌ **DO NOT** propose installing packages manually, such as via `pip install`
+- ❌ **DO NOT** suggest one-off fixes outside the setup workflow
+- ✅ **DO** identify the root cause in the setup script
+- ✅ **DO** fix the issue directly in the appropriate setup script
+- ✅ **DO** update script documentation to reflect the fix, no need to mention there was a fix
+- ✅ **DO** update documentation to reflect the latest fixed state
+- ✅ **DO** document the issue in docs if significant
+- ✅ **DO** verify the complete setup sequence still works (0→n)
+
+**Examples:**
+- Missing dependency `torchao`: Fix in `2_install_axolotl.sh`, NOT `pip install torchao`
+- Flash-attention error: Fix in `3_install_training_stack.sh`, NOT manual reinstall
+- Version mismatch: Update dependency list in setup script, NOT override
+
+**Rationale:**
+- Setup scripts are the source of truth
+- Manual fixes don't persist across environments
+- Future users hit the same issues
+- Reproducibility requires complete, working setup sequence
 
 ## History Documentation Guidelines
 
@@ -412,6 +479,7 @@ scifi-llm/
 ├── serve_vllm.sh, serve_rag_proxy.sh        # Server launchers
 ├── stop_vllm.sh, stop_rag_proxy.sh          # Graceful shutdown
 ├── monitor_vllm.sh, monitor_rag_proxy.sh    # Real-time monitoring
+├── monitor_training.sh                      # Fine-tuning progress monitor
 ├── QUICK_START.md                           # VS Code setup guide
 ├── RAG/                       # Science fiction writing RAG system
 │   ├── README.md, RAG_SETUP.md      # Documentation
@@ -443,6 +511,8 @@ scifi-llm/
 ├── docs/
 │   ├── CONCURRENCY_OPTIMIZATION_GUIDE.md
 │   ├── CONTEXT_COMPLETE_GUIDE.md
+│   ├── FINE_TUNING_GUIDE.md         # Complete fine-tuning guide
+│   ├── QLORA_TRAINING_GUIDE.md      # QLoRA training method guide
 │   ├── RAG_RETRIEVAL_GUIDE.md
 │   ├── SCIENCE_FICTION_WRITING_GUIDE.md
 │   ├── VENV_ISOLATION.md
