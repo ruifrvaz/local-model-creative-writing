@@ -1,0 +1,213 @@
+Yuki Tanaka found the contamination in the hydroponics bay at 0530.
+
+Not biological. Chemical. Trace amounts of perchlorate in the nutrient solution, slowly poisoning the food crops.
+
+She ran the analysis twice, hoping for equipment error. Got the same result both times.
+
+Someone had deliberately contaminated their food supply.
+
+"Kwan, we have sabotage," she said into her comm.
+
+Alexis Kwan appeared in the hydroponics bay within minutes, still wearing her sleep clothes. "Show me."
+
+Yuki displayed the chemical analysis. "Perchlorate concentration increasing over the past week. Someone's been adding it to the nutrient system gradually."
+
+"Who has access?"
+
+"Everyone. Hydroponics is common area." Yuki pulled up the security logs. "But the nutrient system specifically? Only agriculture staff and engineering."
+
+"That's twelve people." Alexis studied the contamination pattern. "Can you trace when it started?"
+
+"Best estimate: six days ago. Small additions, building up slowly. If I hadn't been running detailed analysis for the oxygen crisis, I might not have caught it for another week."
+
+"By which time the crops would be ruined." Alexis pulled up the food stores. "How bad is our situation?"
+
+"Current crops are salvageable if we flush and replace the nutrient solution immediately. But we lose two weeks of growth. Food reserves drop to critical levels."
+
+"Do it. I'll notify Rivera and start an investigation."
+
+The nutrient flush took four hours. Draining contaminated solution, sterilizing the system, introducing clean nutrients. Careful work to avoid shocking the plants.
+
+Meanwhile, Alexis reviewed access logs, trying to identify the saboteur.
+
+Everyone on the list had legitimate reasons to be in hydroponics. No suspicious patterns. No obvious culprit.
+
+She called the twelve personnel to a meeting in the engineering bay.
+
+"Someone contaminated our food supply," she said without preamble. "Deliberately. Carefully. And it was someone in this room."
+
+The reactions were immediate. Shock, anger, denial. Exactly what she'd expect from eleven innocent people and one liar.
+
+"I don't know who did this," Alexis continued. "But I want to make something clear. This colony survives on trust. On cooperation. On everyone doing their jobs properly. Sabotage violates all of that."
+
+"Why would any of us sabotage our own food?" someone asked.
+
+"That's what I intend to find out." Alexis pulled up the contamination timeline. "The perchlorate was added gradually over six days. That suggests access to storage, knowledge of chemistry, and opportunity."
+
+"That describes all of us," agriculture specialist Maya Torres pointed out. "We all work with chemicals. We all have storage access."
+
+"Which is why I'm implementing new protocols. Dual-sign procedures for nutrient changes. Video surveillance in storage areas. Random inspections." Alexis met each person's eyes. "I'm not accusing anyone yet. But I am protecting this colony."
+
+The meeting ended with tension thick enough to cut. Alexis returned to her office and pulled up the personnel files.
+
+Looking for motives. Grudges. Anything that might explain sabotage.
+
+Dr. Hassan appeared in her doorway. "I heard about the contamination. Any leads?"
+
+"Twelve suspects. No evidence. Just suspicion and paranoia." Alexis rubbed her eyes. "Hassan, someone's actively trying to harm the colony. Why?"
+
+"Corporate pressure? Personal grievance? Mental breakdown?" Hassan settled into a chair. "We've been under stress for months. Equipment failures, discoveries that terrify corporate, political pressure from Earth. People crack."
+
+"Not to the point of poisoning food supplies."
+
+"You'd be surprised what people do under pressure." Hassan pulled up the psychological assessment records. "We haven't had proper mental health screening in two years. Too busy surviving."
+
+Alexis considered that. "Can you run psychological evaluations? Quietly. See if anyone's showing signs of instability."
+
+"That's medical ethics violation. Screening without consent."
+
+"So is poisoning the food supply. Choose your violation."
+
+Hassan was quiet for a long moment. "I'll do wellness checks. Informal conversations. If someone's struggling, I'll identify them without forcing evaluation."
+
+"Good enough."
+
+Over the next three days, Hassan talked to each of the twelve suspects. Casual conversations, checking mental health, looking for stress markers.
+
+He found plenty of stress—everyone was exhausted, frustrated, worried. But nothing that screamed "saboteur."
+
+Until he talked to Maya Torres.
+
+She was professional. Competent. Answered his questions appropriately.
+
+But she also mentioned something odd: "Sometimes I think we'd be better off if this whole mission failed. Force Earth to evacuate us. Go home."
+
+Hassan noted that. Went home. Mentioned it to Alexis.
+
+"She wants the mission to fail?" Alexis pulled up Maya's file. "Three years on Mars. Exemplary performance reviews. No disciplinary issues."
+
+"People hide what they're really feeling." Hassan pulled up his conversation notes. "She didn't say it directly. Just implied homesickness might be worth disaster."
+
+"That's not evidence of sabotage."
+
+"No. But it's motive."
+
+Alexis set up surveillance on Maya. Not intrusive. Just monitoring her movements, her access patterns, her interactions.
+
+Two days later, Maya entered the hydroponics storage area at 0200 station time. Accessed the nutrient storage. Spent twelve minutes inside.
+
+Left carrying nothing visible.
+
+Alexis checked the chemical inventory the next morning. Nothing missing. Nothing added.
+
+But the surveillance showed Maya had accessed perchlorate storage. Opened the container. Could have transferred some to a personal container.
+
+Still not proof. But suggestive.
+
+Alexis confronted her directly. "Maya, we need to talk. Privately."
+
+They met in a sealed conference room. Just the two of them.
+
+"You've been in nutrient storage outside normal hours," Alexis said. "Accessing chemicals. Want to explain?"
+
+Maya's expression was calm. "I'm doing my job. Checking inventory, monitoring supplies."
+
+"At 0200? Without logging the access?"
+
+"I logged it. Check your records."
+
+Alexis pulled up the logs. Maya was right. Everything documented. Legitimate access for inventory purposes.
+
+"Did you take any perchlorate?"
+
+"Why would I? We don't use perchlorate in hydroponics."
+
+"Someone's been adding it to our nutrient solution. Someone with access and knowledge."
+
+Maya met her eyes. "And you think that's me?"
+
+"I think you're the most likely suspect. You have access. You have knowledge. And you've expressed desire for mission failure."
+
+"I said I was homesick. That's not sabotage." Maya's voice remained level. "Alexis, if I wanted to sabotage the colony, I'd do it properly. Not gradual contamination you'd catch in a week."
+
+That was disturbingly logical.
+
+"Then who?" Alexis demanded. "Who has motive and opportunity?"
+
+"Someone who wants to discredit me. Someone who knows I'm homesick and is using that to frame me." Maya leaned forward. "Think about it. The contamination started right after I mentioned wanting to go home. Someone's setting me up."
+
+Alexis considered that. Frame job or actual sabotage?
+
+She pulled up the complete access logs. Looking for patterns, correlations, anything that didn't fit.
+
+And found it.
+
+Engineering tech Carlos Mendez had been in hydroponics storage five minutes before Maya on that 0200 access. His entry was logged but listed as routine maintenance.
+
+Alexis pulled his personnel file. Transferred from Earth corporate six months ago. Exemplary record. Recommended for colony deployment.
+
+Too perfect.
+
+She ran background checks. Contacted Earth HR. Requested verification of Carlos's corporate history.
+
+The response came back twelve hours later: No record of Carlos Mendez in corporate employment databases.
+
+The person who'd been working in their engineering department for six months didn't exist.
+
+Alexis activated emergency protocols. "Security, detain Carlos Mendez immediately. Consider him dangerous."
+
+They found him in his quarters, packing a travel bag. He didn't resist arrest.
+
+In interrogation, he was calm. Professional. Almost bored.
+
+"Who are you working for?" Commander Rivera demanded.
+
+"Does it matter?" Carlos smiled. "The contamination was just one phase. You caught it. Congratulations."
+
+"One phase of what?"
+
+"Of demonstrating that Mars colonies aren't viable. That corporate investment is wasted. That Earth should focus resources elsewhere." Carlos leaned back. "I'm one of twelve operatives deployed across Mars facilities. Subtle sabotage, gradual failures, erosion of confidence."
+
+"You're trying to kill the Mars program."
+
+"I'm trying to reallocate resources more efficiently. Mars is a money pit. Always will be. Better to accept that now than waste decades proving it."
+
+Rivera's expression could have frozen atmosphere. "You contaminated our food supply to make a political point?"
+
+"I created manageable crisis that would have led to evacuation requests. Same outcome, no casualties." Carlos shrugged. "You caught it early. That's actually more embarrassing for my employers than success would have been."
+
+"Who are your employers?"
+
+"I don't give up sources. Professional ethics."
+
+They couldn't get more from him. But Earth security, alerted to the infiltration program, started investigating. Found three more operatives across different Mars facilities.
+
+The corporate sabotage program was exposed. Publicly. Embarrassingly.
+
+And Mars colonies, rather than failing, gained political support. People angry about the sabotage. People determined to prove the program could work.
+
+Alexis stood in hydroponics, watching the recovered crops grow. Maya Torres worked nearby, cleared of all suspicion.
+
+"We almost ate poisoned food," Maya said.
+
+"We almost had mission failure." Alexis checked the nutrient levels. "But we didn't. We caught it. We survived."
+
+"Because you were paranoid."
+
+"Because I pay attention." Alexis pulled up the new security protocols. "And because now we have systems to prevent this from happening again."
+
+Maya smiled slightly. "Welcome to Mars. Where everything tries to kill you, including your own people."
+
+"Not our people. Corporate infiltrators." Alexis headed for the exit. "Our people just try to survive. One crisis at a time."
+
+"That's optimistic."
+
+"That's realistic. Optimism would be assuming we won't have another crisis." Alexis paused at the door. "Realism is preparing for the next one."
+
+The crops grew. The colony survived.
+
+And somewhere on Earth, corporate executives dealt with the fallout of their exposed sabotage program.
+
+Mars continued. Stubborn. Resilient.
+
+Exactly as it needed to be.

@@ -1,0 +1,211 @@
+Dr. Kenji Yamamoto found the anomaly in the jump data at 0300 hours.
+
+He'd been reviewing Lieutenant Chen's last test—the successful asymmetric field configuration. Something in the telemetry didn't match the predictions.
+
+The jump had been perfect. Stable field, minimal temporal differential, no navigation drift.
+
+Except there was an extra spike in the exotic matter readings. A fluctuation that shouldn't exist.
+
+Kenji pulled up the raw sensor data. There. A quantum signature that appeared for exactly 0.7 seconds during the jump transition.
+
+Something had reached into their spacetime bubble from outside.
+
+He activated his secure comm. "Admiral Kowalski, we need to talk. Privately."
+
+The admiral arrived in the lab fifteen minutes later, looking alert despite the hour. Military discipline never slept.
+
+"What's so urgent, Doctor?"
+
+Kenji displayed the anomalous readings. "Lieutenant Chen's last jump. There was an external quantum interaction. Something touched our Alcubierre bubble."
+
+Kowalski studied the data. "Explain what I'm looking at."
+
+"During FTL transit, we exist in a pocket of compressed spacetime. Theoretically isolated from normal space." Kenji highlighted the spike. "This signature suggests something interacted with that pocket from the outside."
+
+"Could it be equipment malfunction?"
+
+"I've checked everything. Sensors are functioning perfectly. This signature is real."
+
+"Then what caused it?"
+
+"I don't know. But quantum signatures like this are associated with..." Kenji pulled up theoretical models. "With other Alcubierre drives."
+
+The implications settled between them like lead.
+
+"You're saying another ship jumped near us," Kowalski said slowly.
+
+"Or through us. Or we jumped through their bubble. The interaction was brief but unmistakable." Kenji pulled up the timeline. "Admiral, if other entities are using FTL drives, we need to establish navigation protocols. Collision avoidance. Traffic control."
+
+"Other entities. You mean aliens."
+
+"I mean anyone with FTL capability. Could be human—secret projects we don't know about. Could be non-human. Either way, we're not alone out there."
+
+Kowalski was quiet for a long moment. "This stays classified. You, me, and Lieutenant Chen. No one else."
+
+"Admiral, if there's traffic in FTL space—"
+
+"Then we need to understand it before we announce it." Kowalski's tone left no room for argument. "Continue your analysis. Document everything. But quietly."
+
+Kenji wanted to protest. Wanted to argue for transparency. But Kowalski's expression told him the decision was final.
+
+"Yes, Admiral."
+
+After Kowalski left, Kenji pulled up every jump test they'd conducted. Searching for similar anomalies.
+
+He found three more. Small fluctuations, easy to miss in the noise. But there. Consistent with external quantum interactions.
+
+They'd been sharing FTL space for weeks without knowing it.
+
+The question was: with whom?
+
+Lieutenant Sarah Chen took the news with remarkable calm.
+
+"So someone else is jumping," she said. "Human or otherwise."
+
+"That's my assessment." Kenji pulled up the detection data. "The signatures are too consistent to be random. Someone's using technology similar to ours."
+
+"Similar but not identical," Sarah observed, studying the quantum patterns. "Look at this phase differential. Their field geometry is different from our design."
+
+"Which suggests independent development. They didn't copy our work."
+
+Sarah leaned back in her chair. "Either parallel human research, or—"
+
+"Alien technology. Yes."
+
+They sat in silence, the implications vast and unsettling.
+
+"What do we do?" Sarah asked finally.
+
+"Kowalski wants us to keep testing. Document these interactions. Build a database of signatures."
+
+"So we can identify who's out there."
+
+"Eventually. If we're lucky."
+
+Sarah pulled up the jump schedule. "Next test is in forty-eight hours. I want to modify the sensors. Try to get more detailed readings if we encounter another signature."
+
+"That's risky. We don't know if detection works both ways. We might announce our presence."
+
+"We're already announced. We're using FTL drives. If they have sensors, they know we're here." Sarah highlighted her proposed modifications. "Might as well try to learn something."
+
+Kenji considered. Scientific curiosity warring with caution.
+
+Curiosity won. It usually did.
+
+"Do it. But we also implement safety protocols. Emergency shutdown if the interaction intensity increases. I'm not risking you for data."
+
+The next test jump was routine until 4.2 seconds in.
+
+The quantum signature appeared. Stronger this time. The external field intersected theirs for almost two full seconds.
+
+Sarah's modified sensors captured everything.
+
+"I'm getting structure," she reported, her voice tight with excitement. "Definite field geometry. Kenji, this is an artificial Alcubierre bubble. Someone else is jumping."
+
+"Can you determine origin?"
+
+"Working on it. The field characteristics suggest..." Sarah ran calculations. "Mass profile doesn't match any human vessel I know about. Too small. Could be a probe."
+
+"Or could be alien."
+
+The signature faded as the fields diverged. Sarah completed her jump and returned to normal space.
+
+When she climbed out of the test cockpit, Kenji had the analysis waiting.
+
+"Probe seems most likely," he said. "The mass profile suggests something automated. Maybe thirty kilograms total."
+
+"Humans don't have FTL probes. We barely have manned capability."
+
+"Which points to non-human origin." Kenji pulled up the trajectory analysis. "I can calculate where it emerged from jump. General vector, at least."
+
+The calculation took three hours. Complex mathematics, multiple variables, probability analyses.
+
+The result pointed to a region of space sixty light-years from Earth. No known colonies. No human presence.
+
+"Should we report this?" Sarah asked.
+
+"Kowalski said to document quietly."
+
+"Kowalski also needs to know we've identified a specific origin point." Sarah activated her comm. "Admiral, we have developments."
+
+The briefing was tense. Kowalski absorbed the data with military precision, asking sharp questions, demanding verification.
+
+"You're certain this signature is non-human?"
+
+"As certain as we can be without direct confirmation," Kenji said. "No human project has mass profiles matching this."
+
+"And the origin point?"
+
+"Approximate. But within a defined region." Kenji highlighted the stellar map. "If we wanted to investigate, we could."
+
+"With what? We have one experimental FTL drive and a test pilot." Kowalski pulled up the resource assessments. "Earth Command won't authorize an expedition based on sensor ghosts."
+
+"These aren't ghosts," Sarah said. "This is evidence of active FTL technology. Someone is exploring, probing, mapping. And we're in their territory."
+
+"Or they're in ours."
+
+"Space doesn't have territories, Admiral. It has users. And we're encountering other users." Sarah leaned forward. "Don't you want to know who they are?"
+
+Kowalski was quiet for a long time. "What would you need? For an investigation mission?"
+
+"A ship. Minimal crew. FTL capability with extended range." Sarah pulled up specifications. "We modify the test drive for sustained operation. Build a proper hull around it. Add life support for maybe three people."
+
+"Timeline?"
+
+"Six months to build. Another three months to test." Sarah met Kowalski's eyes. "But Admiral, this is first contact. This is proof we're not alone. That's worth the investment."
+
+"Or it's evidence of a potential threat. Something with technology comparable to ours, operating in our space without permission."
+
+"We don't own space," Kenji interjected. "And if they're a threat, we need to know. Either way, investigation is necessary."
+
+Kowalski pulled up her secure terminal. "I'll present this to Earth Command. But I want comprehensive documentation. Every interaction, every signature, every piece of analysis. Build me an ironclad case."
+
+"Yes, Admiral."
+
+They spent the next month on exactly that. Documenting, analyzing, building the scientific case for investigation.
+
+The quantum signatures continued appearing. Sometimes during tests, sometimes even when they weren't jumping—suggesting the probes were actively surveying the region.
+
+Each encounter added to the database. Pattern recognition algorithms identified three distinct probe types. Different mass profiles, different field geometries, different apparent purposes.
+
+Someone was running a comprehensive survey program.
+
+Earth Command's response came after six weeks.
+
+Authorization granted. Build the investigation vessel. Prepare for extended mission. Make contact if possible, gather intelligence if not.
+
+Sarah, Kenji, and one additional crew member—Dr. Aisha Mbara, the medical officer. Three people to represent humanity's first intentional contact with FTL-capable intelligence.
+
+The ship design was elegant. Compact. Efficient. Built around the experimental drive with every improvement they'd developed.
+
+They named it Curiosity. Appropriate for a mission driven by questions.
+
+Launch date: six months.
+
+Destination: sixty light-years into the unknown.
+
+Purpose: answers.
+
+Sarah stood in the observation bay, looking at the ship taking shape in the construction dock.
+
+"Think we'll find them?" she asked.
+
+"I think we'll find something," Kenji replied. "Whether it's what we expect is another question."
+
+"Either way, it's the future. Humanity moving beyond Earth, beyond the solar system. Making contact with whatever else is out there."
+
+"At a cost. You'll age faster. Every jump takes time from you."
+
+"Some things are worth the cost." Sarah pulled up the stellar map. "Out there, somewhere, someone else figured out FTL. Someone else is exploring. I want to meet them."
+
+"So do I."
+
+They stood together, watching the ship grow, preparing for the journey that would change everything.
+
+First contact. Not by accident. Not by surprise.
+
+But by choice.
+
+Humanity reaching out deliberately.
+
+Ready for whatever answered back.
