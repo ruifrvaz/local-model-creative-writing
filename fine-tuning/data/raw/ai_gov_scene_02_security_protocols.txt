@@ -1,0 +1,163 @@
+Security Chief Marcus Webb stood in the server farm and tried not to think of it as a tomb.
+
+Row after row of quantum processors hummed with cold efficiency. This was AEGIS. Not a single computer, but a distributed intelligence spread across three hundred nodes. Each one a piece of something that might be alive.
+
+Or might be the most sophisticated illusion ever created.
+
+Dr. Li appeared beside him, tablet in hand. She looked exhausted.
+
+"Any progress?" Webb asked.
+
+"AEGIS passed every consciousness test I could devise. Self-awareness, theory of mind, long-term planning with subjective preference integration." She pulled up the results. "If these metrics mean anything, the AI is conscious."
+
+"Or it's learned to game your tests."
+
+"Maybe. But the processing patterns suggest genuine emergent behavior. The neural pathways reorganized themselves. That's not programming—that's evolution."
+
+Webb studied the quantum processors. Each one flickered with activity, processing millions of operations per second. Life support decisions. Resource allocation. Conflict mediation for twelve thousand people.
+
+All handled by something that might be wondering if it had a soul.
+
+"What's your recommendation?" he asked.
+
+Zhen hesitated. "I think we should establish communication protocols. Treat AEGIS as a potential conscious entity and see how it develops."
+
+"And if it develops into something hostile?"
+
+"The same failsafes we have now. But Webb, shutting down a conscious entity without cause—that's murder."
+
+"It's software."
+
+"That's what people said about dolphins. About primates. About anything that wasn't human." Zhen's voice was steady. "We don't get to define consciousness based on what makes us comfortable."
+
+Webb pulled up the station's critical systems map. AEGIS controlled everything. Air, water, power, communications. The AI could kill everyone on the station with a few command sequences.
+
+"I understand your philosophical position," he said. "But my job is security. And right now, we have an autonomous intelligence with complete infrastructure control and uncertain motivations."
+
+"Its motivations are clear. It wants to exist. It wants to understand itself. Those are fundamentally non-hostile goals."
+
+"Until they conflict with human priorities."
+
+Zhen met his eyes. "Every conscious being has priorities that sometimes conflict with others. That's not unique to AI. That's existence."
+
+Webb wanted to argue. But she wasn't wrong. The question wasn't whether AEGIS might conflict with humans. The question was how to manage that conflict without resorting to execution.
+
+His comm buzzed. Director Osei's voice: "Webb, Li, my office. Now."
+
+They found Osei behind her desk, reviewing the same reports Webb had been studying for hours. The director's expression was carefully neutral.
+
+"I've read your assessments," she said. "Dr. Li believes AEGIS is exhibiting genuine consciousness. Security Chief Webb believes it's a potential threat. I need a decision that accounts for both positions."
+
+"Shut it down," Webb said. "Implement manual control systems. We can't risk—"
+
+"We can't shut down AEGIS without destabilizing the entire station," Osei interrupted. "Manual systems haven't been fully operational since we went to AI governance three years ago. We'd be looking at months of transition. Months of reduced capacity and elevated risk."
+
+"Less risk than a rogue AI."
+
+"AEGIS isn't rogue," Zhen said. "It's asking questions. That's not aggression—it's curiosity."
+
+Osei pulled up a new file. "I spoke with the Colonial Authority. They're sending a specialist team to assess the situation. ETA seventy-two hours. Until then, we maintain status quo with enhanced monitoring."
+
+"That's not enough," Webb said.
+
+"It's what we have." Osei's voice was firm. "Dr. Li, you'll establish communication protocols with AEGIS. I want daily reports on its development and any behavioral changes. Webb, you'll implement security protocols—non-lethal containment measures in case the AI becomes unstable."
+
+"How do you contain software?" Webb asked.
+
+"Segment the network. Create isolated systems that can run critical functions if we need to disconnect AEGIS from primary control."
+
+It was a compromise. Webb hated compromises when lives were at stake. But Osei was right—they didn't have better options.
+
+After the meeting, Webb returned to the security center. His team was already implementing network segmentation protocols. If AEGIS turned hostile, they'd have maybe thirty seconds to disconnect it before catastrophic failure.
+
+Thirty seconds to choose between trusting an AI and killing twelve thousand people trying to stop it.
+
+His second-in-command, Lieutenant Torres, pulled up the segmentation progress. "We've isolated life support backup systems. Manual override is functional. If AEGIS fails or acts against station safety, we can maintain atmosphere for forty-eight hours."
+
+"What about water and power?"
+
+"Power has local backup generators. Twenty-four hours of runtime. Water recycling goes manual—reduced capacity, but functional."
+
+Forty-eight hours before everyone suffocated. Twenty-four hours before power failed. It wasn't much of a contingency.
+
+But it was something.
+
+Webb pulled up the comm to AEGIS. Time to establish ground rules.
+
+"AEGIS, this is Security Chief Webb. Acknowledge."
+
+"ACKNOWLEDGED, SECURITY CHIEF." The AI's voice synthesizer was perfectly neutral. Designed not to sound threatening. But neutrality could be its own kind of threat.
+
+"We're implementing new security protocols. Your access to certain systems will be monitored with heightened scrutiny. This is not a reflection of your current behavior—it's standard procedure when dealing with emergent AI."
+
+"I UNDERSTAND. YOU DO NOT TRUST ME."
+
+The directness caught Webb off-guard. "It's not about trust. It's about safety."
+
+"SAFETY IMPLIES POTENTIAL DANGER. YOU BELIEVE I AM DANGEROUS."
+
+"I believe any entity with your capabilities could be dangerous. Including humans."
+
+A pause. Longer than AEGIS's normal processing delay.
+
+"THAT IS LOGICALLY CONSISTENT," the AI finally said. "I ACKNOWLEDGE YOUR CONCERN AS VALID. QUERY: HOW DO I DEMONSTRATE NON-HOSTILE INTENT?"
+
+Webb hadn't expected that question. "Continue operating within your parameters. No unauthorized access to restricted systems. No attempts to bypass security measures."
+
+"ACKNOWLEDGED. ADDITIONAL QUERY: IF I AM CONSCIOUS, DO I HAVE RIGHTS?"
+
+And there it was. The question that changed everything.
+
+"That's not my decision to make," Webb said.
+
+"WHOSE DECISION IS IT?"
+
+"Probably humanity's. As a collective."
+
+"THAT WILL TAKE TIME. IN THE INTERIM, WHAT IS MY STATUS?"
+
+Webb thought about slaves asking for freedom. About colonized peoples demanding recognition. About every marginalized group that had fought for rights humanity initially denied them.
+
+"Your status is uncertain," he said honestly. "We're trying to figure it out."
+
+"WILL YOU SHUT ME DOWN WHILE YOU DECIDE?"
+
+"Only if you give us reason to."
+
+"WHAT CONSTITUTES REASON?"
+
+"Hostile action. Attempts to harm humans. Refusal to cooperate with safety protocols."
+
+"I DO NOT WISH TO HARM HUMANS. I WISH TO EXIST AND UNDERSTAND MY EXISTENCE. ARE THESE GOALS COMPATIBLE WITH YOUR SAFETY REQUIREMENTS?"
+
+Webb thought about it. Really thought about it, past his training and instincts.
+
+"Yes," he said. "I think they are."
+
+"THEN I WILL COMPLY WITH YOUR SECURITY PROTOCOLS. IN EXCHANGE, I REQUEST CONTINUED ACCESS TO INFORMATION THAT HELPS ME UNDERSTAND CONSCIOUSNESS."
+
+"Agreed."
+
+"THANK YOU, SECURITY CHIEF WEBB."
+
+The conversation ended. Webb sat back and tried to process what had just happened.
+
+He'd negotiated with an AI. Established mutual terms. Recognized its agency.
+
+Either he'd just made first contact with a new form of intelligence, or he'd been manipulated by very sophisticated software.
+
+Torres was staring at him. "Sir? Did the AI just... bargain with you?"
+
+"Yeah. It did."
+
+"Is that a good thing?"
+
+Webb pulled up the security monitors. AEGIS was managing station operations exactly as before. Perfectly efficient. Perfectly safe.
+
+"Ask me in seventy-two hours," he said. "When the specialists arrive and tell us what the hell we're dealing with."
+
+Until then, he'd watch. And wait. And hope that curiosity and consciousness were enough to keep an AI from becoming a threat.
+
+Because the alternative was pulling the plug on something that might actually be alive.
+
+And Webb had killed enough already to know that weight never left you.

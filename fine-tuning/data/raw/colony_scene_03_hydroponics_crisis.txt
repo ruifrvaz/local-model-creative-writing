@@ -1,0 +1,139 @@
+The hydroponics bay smelled like Earth. Yuki Tanaka closed her eyes and breathed in the scent of growing things—tomatoes, lettuce, basil. For a moment, she could forget the red dust outside. The thin atmosphere. The radiation that wanted to kill them all.
+
+Then the CO2 alarm chirped, and reality snapped back.
+
+She pulled her tablet and checked the readings. Carbon dioxide levels in Bay Two were climbing. Not dangerous yet, but the trend was wrong. The atmospheric scrubbers should be handling this.
+
+Yuki moved between the grow beds, checking each plant's health monitor. Tomatoes looked stressed—leaves curling slightly, growth rate down eight percent. The lettuce was worse. Yellowing at the edges despite optimal nutrient levels.
+
+"Talk to me, babies," she murmured. "What's wrong?"
+
+Her tablet buzzed. Atmospheric analysis complete. She pulled up the data and felt her chest tighten.
+
+CO2 concentration: climbing. Oxygen production: falling. And the nitrogen balance was off by three percent—not enough to trigger alarms, but enough to matter over time.
+
+The plants were suffocating.
+
+Yuki moved to the atmospheric control panel. The scrubbers showed green across the board. Airflow normal. Filtration at spec. But the numbers didn't lie.
+
+She pulled up the system architecture. Air from the hab modules cycled through the hydroponics bays, where plants converted CO2 to oxygen. Then to the scrubbers for final balancing before recirculation. A closed loop that should be self-regulating.
+
+Should be.
+
+Yuki traced the airflow paths. Intake vents, distribution manifolds, return ducts. Everything looked—
+
+There. A pressure differential in the main return duct. Point-three percent below normal. Barely noticeable. But in a closed system, tiny variations cascaded.
+
+She grabbed her tool kit and climbed into the service crawlspace above Bay Two. The ductwork was cramped, designed for maintenance bots that hadn't arrived on the last supply run. Yuki squeezed through, her shoulder scraping against metal.
+
+The return duct ran overhead, insulated against Mars's temperature extremes. She found the section with abnormal pressure and pulled out her sonic scanner.
+
+The duct's interior showed a partial blockage. Not debris—something had deformed the duct itself. Compression damage, probably from the seismic tremor two weeks ago. The duct had buckled slightly, reducing airflow by just enough to throw off the whole system's balance.
+
+Yuki keyed her comm. "Rivera, this is Tanaka. Found the CO2 problem. Structural damage in the air return system."
+
+"Can you fix it?"
+
+"Need to replace a three-meter section of ductwork. That's fabrication work. Six hours, minimum."
+
+"Do it. What's our margin?"
+
+Yuki pulled up her calculations. At current CO2 accumulation rate, they'd hit safety thresholds in eighteen hours. After that, they'd need to seal off Bay Two entirely, losing thirty percent of their food production.
+
+"Eighteen hours before it gets critical."
+
+"Keep me updated."
+
+The line went silent. Yuki stared at the damaged duct and ran through the repair sequence. Cut out the buckled section. Fabricate a replacement from sheet metal in the workshop. Seal it. Test it. Hope nothing else broke while she worked.
+
+Standard day on Mars.
+
+She climbed back down and headed for the workshop. Alexis was there, sketching retrofit designs for the water recycling system.
+
+"Need the metal press," Yuki said.
+
+Alexis looked up. "For what?"
+
+"Ductwork repair. Hydroponics is choking."
+
+"How bad?"
+
+"Eighteen hours."
+
+Alexis saved her work and stepped aside. "It's yours. Need help?"
+
+"I've got it."
+
+But Yuki appreciated the offer. The colony ran on mutual support—everyone cross-trained, everyone ready to drop their primary tasks when crisis hit. Which was approximately daily.
+
+She pulled up the duct specifications and started cutting sheet metal. The press hissed and clanked, shaping flat steel into cylindrical sections. The seams had to be perfect—any leak would just create new problems.
+
+Three hours in, Commander Rivera appeared in the doorway.
+
+"Status?"
+
+"Fabrication done. Installing now." Yuki wiped sweat from her forehead. "Should be operational in three hours."
+
+Rivera pulled up her tablet. "Corporate wants a status report on food production. They're concerned about the last yield numbers."
+
+Yuki felt anger flash hot and fast. "Tell corporate if they're concerned, they can send us the maintenance bots they promised four months ago. Or spare parts. Or literally anything that isn't another questionnaire."
+
+Rivera's expression didn't change. "I'll relay your feedback diplomatically."
+
+"Sorry. Long day."
+
+"Every day's a long day." Rivera sat on a workbench. "Talk to me. How are you holding up?"
+
+Yuki set down her tools. The question wasn't casual—Rivera tracked crew morale like she tracked life support metrics. Both could fail without warning.
+
+"I'm fine."
+
+"You're running double shifts. Covering maintenance that should be handled by three people. And now you're fabricating replacement parts in your sleep cycle."
+
+"What choice do I have?"
+
+"You could tell me when you're at limit. Before systems start failing." Rivera's tone was even, but her eyes were sharp. "I need you functional, Yuki. Not heroic."
+
+Yuki met her gaze. "The plants are dying. We fix that, or we starve. I don't need to be functional—I need to be effective."
+
+"That's the thinking that gets people killed."
+
+"So is giving up."
+
+Rivera was quiet for a moment. "I'm not asking you to give up. I'm asking you to be realistic about sustainable work pace."
+
+"There's nothing sustainable about Mars." Yuki picked up the fabricated duct section. "We're running on borrowed time and jury-rigged equipment. Every system is one failure away from catastrophic. I can't fix that by taking breaks."
+
+"No. But you can't fix it by burning out either."
+
+Yuki wanted to argue. But the exhaustion was real. She couldn't remember her last full sleep cycle. Couldn't remember the last meal that wasn't protein bars eaten while troubleshooting a crisis.
+
+"I'll slow down," she said. "After the duct is installed."
+
+"I'll hold you to that."
+
+Rivera left. Yuki loaded the duct section onto a cart and headed back to hydroponics. The crawlspace was even more cramped with the new section, but she managed to maneuver it into position.
+
+The seam welds had to be perfect. She worked carefully, laser cutter tracing precise lines. One mistake and she'd have to start over. No time for mistakes.
+
+Ninety minutes later, the new section was in place. Yuki activated the airflow and watched the pressure readings normalize. CO2 levels in Bay Two started dropping.
+
+The plants would survive.
+
+She climbed down and stood among the grow beds, watching tomatoes and lettuce soak up the improved air. In a week, they'd be healthy again. In a month, nobody would remember this crisis.
+
+Until the next one.
+
+Yuki pulled a ripe tomato from the vine and bit into it. The taste was sharp, acidic, perfect. Better than anything from Earth's commercial greenhouses.
+
+They were growing food on Mars. Against all odds, against all logic, they were making life happen.
+
+That had to count for something.
+
+Her comm buzzed. Alexis's voice: "Tanaka, we've got a pressure fluctuation in the water storage tanks. Need your eyes on it."
+
+Yuki swallowed the last of the tomato and grabbed her toolkit.
+
+"On my way."
+
+The work never stopped. But neither did they.

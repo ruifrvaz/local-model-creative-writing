@@ -1,0 +1,167 @@
+The dust storm hit at 0400 hours. Chen was asleep when the alarms screamed him awake.
+
+He rolled out of his bunk, pulled on his pressure suit, and ran for the solar array control room. Through the viewport, Mars's sky had turned ochre—a wall of dust moving at a hundred klicks per hour.
+
+The arrays were already taking damage. Panel efficiency dropping. Wind loading exceeding design spec. And they had maybe ten minutes before the storm's full force hit.
+
+Chen pulled up the emergency protocols and started shutting down exposed systems. The arrays could survive if he retracted them in time. If not, they'd lose power generation for weeks while they cleared and repaired panels.
+
+Assuming the panels survived at all.
+
+His hands moved through the sequence—lockdown commands, structural reinforcement, emergency battery protocols. The hab modules could run on stored power for seventy-two hours. After that, they'd need to start making hard choices about what stayed online.
+
+The first array section retracted with a screech of tortured metal. Chen watched the strain gauges spike. The motors weren't designed for this much wind resistance.
+
+"Come on," he muttered. "Just a little more."
+
+The array locked into its protective housing with seconds to spare. Chen moved to section two. The retraction motors were slower here—older, more worn from six months of daily cycling.
+
+The wind hit like a hammer. The entire hab shuddered. Through the viewport, Chen watched the storm engulf the colony. Visibility dropped to zero. The world became red chaos.
+
+Section two's motors strained. The array was halfway retracted when the first warning chimed. Structural stress. The support frame was bending.
+
+Chen killed the retraction sequence and locked the array at half-extension. Not ideal, but better than snapping the whole mechanism trying to force it.
+
+His comm crackled. Rivera's voice, steady despite the storm howling in the background. "Chen, status?"
+
+"Section one secure. Section two locked at partial retraction. Three and four are still exposed."
+
+"Can you get them in?"
+
+Chen pulled up the structural models. Sections three and four were newer, but they were also the farthest from the hab—fully exposed to the storm's main force.
+
+"Trying now."
+
+He initiated section three's retraction. The motors fought the wind, dragging the panel array millimeter by millimeter. The strain readings climbed into the red. Any second, something would fail.
+
+The array locked home with a metallic clang that Chen felt through the floor. One more to go.
+
+Section four was different. The motors engaged, but the array didn't move. Chen ran diagnostics. The drive mechanism showed green. Power flow was nominal. But the array wouldn't budge.
+
+"Section four is jammed," he reported.
+
+"Can you fix it?"
+
+Chen looked at the storm raging outside. Going out there meant exposure to winds that could tear a pressure suit. Dust that would abrade his helmet. Near-zero visibility.
+
+"Negative. Not until the storm passes."
+
+"Then we lose section four."
+
+"Better than losing an engineer."
+
+Rivera was quiet for a moment. "Agreed. Seal the hab and ride it out."
+
+Chen shut down the compromised section and rerouted power from the remaining arrays. They'd lost twenty-five percent of their generation capacity. Not critical yet, but it limited their options.
+
+He pulled up the weather tracking. The storm was massive—bigger than the models had predicted. It would rage for at least thirty-six hours, maybe longer.
+
+Thirty-six hours of reduced power. Reduced life support capacity. Every system running in conservation mode.
+
+Chen activated the emergency protocols and started allocating power. Essential systems first—life support, water recycling, thermal regulation. Then communication and lighting. Everything else went dark.
+
+The hydroponics bay lights dimmed to minimal. The workshop powered down. Even the conference room lost its displays.
+
+They were in survival mode.
+
+Chen made his way to the common area. Most of the crew was already there—huddled around portable lights, watching power consumption graphs on their tablets.
+
+Yuki looked up as he entered. "How bad?"
+
+"Section four is lost. Maybe permanent damage, won't know until we can inspect." Chen dropped onto a bench. "We're at seventy-five percent power generation. Should be enough, but it'll be tight."
+
+"Define tight," Alexis said.
+
+"If we lose another section, we start shutting down life support in unused modules."
+
+The crew absorbed that silently. Losing modules meant losing space. Losing space meant cramming thirty-seven people into an area designed for twenty.
+
+Possible. But miserable.
+
+Dr. Patel pulled up a medical protocol. "I'm suspending all non-critical procedures. We'll save whatever power we can."
+
+Others echoed the sentiment. Research projects on hold. Maintenance deferred. Everything non-essential stopped.
+
+Rivera appeared in the doorway. Dust clung to her pressure suit—she'd been outside, doing damage assessment.
+
+"Solar array four has three panels ripped off," she said. "The rest are buried under half a meter of dust. Even after the storm passes, we're looking at days of cleanup before we can restore it."
+
+"What about the backup generators?" someone asked.
+
+"We have one fuel cell generator. It'll give us maybe forty-eight hours at reduced load." Rivera pulled up the colony map. "We're relocating everyone to modules A and B. C and D go into minimal life support. That'll cut our power consumption by thirty percent."
+
+The crew started moving immediately. Grab essentials, evacuate the outer modules, consolidate. They'd drilled for this, but practice was different from the real thing.
+
+Chen helped haul equipment—personal items, critical tools, food stores. The storm hammered the hull with steady percussion. Each gust made the structure groan.
+
+Six hours in, they'd relocated everyone to the core modules. Cramped, but functional. Chen set up monitoring stations to watch the outer modules' status. Temperature. Pressure. Structural integrity.
+
+All holding. For now.
+
+Rivera gathered them in the common area. "We ride this out. Minimal power consumption. No unnecessary activity. And nobody goes outside until I give the all-clear."
+
+"How long?" Alexis asked.
+
+"Weather models say thirty to forty hours. But Mars doesn't always cooperate with models."
+
+Chen pulled up the power projections. At current consumption, they could survive three days on remaining solar plus the fuel cell backup. After that, they'd need to start making harder choices.
+
+Like which systems to sacrifice.
+
+The storm's fury intensified through the day. Chen watched the outer hull cameras until dust obscured them completely. Then he watched the structural sensors, tracking stress points as wind pounded the habitat.
+
+Module C's north wall showed micro-fractures. Not critical, but Chen flagged it for post-storm inspection. Module D's seal pressure dropped point-two percent—probably dust infiltration in the airlock mechanisms.
+
+Everything else held.
+
+Nightfall brought no relief. Mars storms didn't care about human sleep cycles. Chen took first watch, monitoring systems while the crew tried to rest in shifts.
+
+Yuki joined him at 0200, unable to sleep.
+
+"How's it looking?" she asked.
+
+"We're holding. Power consumption is actually below projections." Chen pulled up the graphs. "Your hydroponics shutdown saved us about twelve percent."
+
+"Those plants better survive." Yuki's voice was tight. "We can't afford to lose food production."
+
+"They're hardy. They'll make it."
+
+"You don't know that."
+
+"I know we designed for this. Backup systems, redundancy, failsafes." Chen met her eyes. "We knew Mars would try to kill us. We planned for it."
+
+"Planning and surviving aren't the same thing."
+
+"No. But planning gives us a fighting chance."
+
+The storm raged through the second day. Chen rotated through the monitoring stations, checking each system, documenting failures, planning repairs for when they could finally go outside.
+
+The list was growing. Solar panels. Seals. Sensors. External antennas. Every piece of equipment exposed to the storm had taken damage.
+
+But the hull held. Life support continued. The crew stayed safe.
+
+On hour thirty-eight, the wind began to drop. Not suddenly—a gradual decrease from catastrophic to merely terrible. Chen watched the anemometer readings fall and felt tension ease from his shoulders.
+
+They'd survived.
+
+Rivera gathered the crew for damage assessment. The list was extensive but not catastrophic. Section four was definitely lost—panels shredded, frame bent beyond field repair. They'd need replacement parts from Earth.
+
+"Estimate two months before we're back to full solar capacity," Chen reported. "Until then, we're at seventy-five percent generation. That means reduced operations across the board."
+
+"What about the drill?" Omar asked.
+
+Chen pulled up the drill site telemetry. The equipment was buried under two meters of dust. Excavation would take days.
+
+"Drill is offline until we dig it out. Call it a week of work, minimum."
+
+Rivera nodded. "Then we've got our priorities. Chen, organize the cleanup crews. Alexis, I want structural assessments on all damaged modules. Everyone else, back to essential operations only until we've recovered our power margin."
+
+The crew dispersed. Chen suited up and headed outside for the first time in forty hours.
+
+The Martian landscape had changed. Dunes where there'd been flat ground. Equipment buried. The whole colony looked like it had been painted with fresh rust.
+
+Chen started digging out solar panel four. The work was slow, methodical, exhausting. But there was satisfaction in it—reclaiming their home from Mars's attempt to bury it.
+
+They'd survived the storm.
+
+They'd survive the next one too.

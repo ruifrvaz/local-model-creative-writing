@@ -1,0 +1,181 @@
+Chen lay under the mining ship's power distribution panel and contemplated the stupidity of duct tape in space.
+
+The conduit connection to the main drill assembly was held together with thermal tape, prayer, and what Chen privately thought of as spite toward entropy. It had failed three times in the past month. And they didn't have replacement parts.
+
+"How's it looking?" Jax's voice crackled through Chen's helmet comm.
+
+"Like I'm one spark away from electrocuting myself in a very permanent way."
+
+"Can you fix it?"
+
+"I can fix anything. Question is how long it stays fixed."
+
+Chen pulled out his improvised repair kit—salvaged wire, scavenged connectors, and rolls of thermal tape that probably violated six safety regulations. The original conduit had corroded from exposure to the asteroid's sulfur compounds. Standard shielding couldn't handle the chemistry out here.
+
+So Chen was building non-standard shielding from whatever he could scavenge.
+
+He wrapped the exposed wire in radiation-proof foil stripped from old supply containers. Then a layer of carbon fiber mesh cannibalized from a damaged solar panel. Finally, the thermal tape, wound so tight it would take a plasma cutter to remove.
+
+"Try it now," he said.
+
+The drill powered up. Energy readings stabilized. The connection held.
+
+For now.
+
+Chen crawled out from under the panel and surveyed his handiwork. The ship looked like a patchwork quilt—every surface covered in improvised repairs. Each one a monument to making do with nothing.
+
+"We need proper parts," he told Jax.
+
+"Put it on the list."
+
+The list was three pages long. Power couplings, hull patches, thruster nozzles, life support filters. Everything they needed and couldn't afford.
+
+Until Sofia found the glowing blue mineral.
+
+Now they could afford anything. If they lived long enough to spend it.
+
+Chen pulled up the defensive systems he'd been rigging. Nothing military-grade—that would violate a dozen treaties and paint them as pirates. But enough to make boarding the Salvage Rights very unpleasant for anyone who tried.
+
+He'd reprogrammed the mining charges to work as proximity mines. Rigged the airlock to explosive decompression on unauthorized access. Turned the external maintenance arms into kinetic weapons.
+
+Jax wouldn't like it. Too aggressive. Too visible.
+
+But Chen had watched claim jumpers steal ships before. Watched crews disappear into the black. Corporate interests didn't play nice when real money was involved.
+
+"Chen." Kayla's voice on the comm. "We've got a ship on approach. Transponder says commercial freight, but the trajectory's wrong."
+
+Chen felt his stomach drop. "How wrong?"
+
+"Intercept course. ETA ninety minutes."
+
+"Battle stations" wasn't really a thing on a mining ship. But Chen hit the equivalent—locking down non-essential systems, charging defensive batteries, arming the improvised weapons.
+
+Jax appeared in the engineering bay, suited up. "Talk to me."
+
+"We've got maybe an hour before that ship gets close enough to do something we won't like. The defensive systems are active, but Captain, they're improvised. Against a real assault, we'll last maybe five minutes."
+
+"What do we need to extend that?"
+
+"Actual weapons. A military drive system. Hull plating that doesn't have more patches than original material." Chen pulled up the ship diagnostics. "We're a mining vessel, boss. We're not built for combat."
+
+"Neither are we." Jax studied the approaching ship. "Options?"
+
+"Run. The nav points Kayla plotted give us maybe a fifty-fifty chance of losing them."
+
+"And if we can't lose them?"
+
+"Then we hope they're here to negotiate, not to take."
+
+Jax was quiet for a long moment. "Prep the emergency beacon. If this goes bad, I want someone to know what happened."
+
+Chen activated the beacon protocol. It would broadcast their position and a recorded message if the ship's life support failed. Not much of a contingency, but better than disappearing without trace.
+
+Sofia and Kayla joined them in the engineering bay. The crew of the Salvage Rights, gathered in the heart of their failing ship, watching an unknown vessel close in.
+
+"The sample's secured," Sofia said. "Encrypted documentation uploaded to three different backup locations. If we don't make it, at least the data survives."
+
+"We're making it," Jax said. But his voice lacked conviction.
+
+The approaching ship resolved on sensors. Commercial configuration, but with modifications. Enhanced thrust. Reinforced hull. The kind of upgrades that said this wasn't a regular freight hauler.
+
+"They're hailing us," Kayla said.
+
+Jax activated the comm. "This is Captain Jax Torres of the Salvage Rights. State your business."
+
+The response was immediate. A woman's voice, hard and confident. "Captain Torres. I'm Keiko Tanaka, representing the Independent Miners' Coalition. You asked for help. I'm here to provide it."
+
+Chen felt relief wash through him. Allies. Maybe.
+
+"How do we know you're who you claim to be?" Jax asked.
+
+"You don't. But I'm not corporate, and I'm not here to take your claim. I'm here to make sure you survive long enough to profit from it."
+
+Jax glanced at his crew. Sofia nodded. Kayla shrugged. Chen just wanted this to be over.
+
+"Permission to dock," Jax said.
+
+"Negative. I'm staying in my ship, you're staying in yours. But we're going to talk, and you're going to show me what you found."
+
+They established a visual link. Keiko appeared on the main screen—weathered face, calculating eyes, the look of someone who'd survived the belt through skill and ruthlessness.
+
+"Show me the sample," she said.
+
+Sofia held up the blue glowing core. Even through the video feed, its unusual properties were visible.
+
+Keiko's expression didn't change, but Chen caught the slight tightening around her eyes. Recognition. And something like fear.
+
+"Where did you find that?" Keiko asked.
+
+"Asteroid 2847-Gamma. Why?"
+
+"Because you're not the first." Keiko pulled up a star map. "Three other independent operations have reported similar finds in the past six months. All of them are now corporate-controlled."
+
+"What happened to the crews?" Jax asked.
+
+"One sold out. Good deal, actually. They're living comfortable on Mars. The other two..." Keiko's expression hardened. "Accidents. Very unfortunate. Very convenient for the corporations that claimed the asteroids afterward."
+
+The crew exchanged looks. Chen felt cold calculation running through his mind. They were already on the radar. The threatening call proved it. The only question was how long before "accidents" started happening.
+
+"What do you recommend?" Jax asked.
+
+"Depends on what you want. Money? Safety? Or actual justice for how independents get treated?"
+
+"Ideally, all three."
+
+"Can't have all three. Best you can hope for is two out of three."
+
+Jax pulled up a seat. "Break it down."
+
+Keiko counted on her fingers. "Option one: Sell to corporate. Take their money, sign their non-disclosure, live comfortable. You'll be safe, you'll be rich, but you'll never talk about what you found."
+
+"Pass," Jax said.
+
+"Option two: File claim through proper channels. Fight the legal battle. Coalition provides lawyers and protection. Maybe you win, maybe you lose, but at least it's public record."
+
+"How long does that take?"
+
+"Years. And corporate has better lawyers."
+
+"Option three?"
+
+Keiko smiled. It wasn't a nice smile. "We form a consortium. Six independent operations that have found similar deposits. We pool resources, establish joint claims, and go public with the discovery. Make it too big for corporate to bury quietly."
+
+"That puts targets on all our backs," Chen said.
+
+"Targets are already there. Question is whether you face them alone or with allies."
+
+Jax looked at his crew. "Thoughts?"
+
+"I don't want to run," Sofia said. "I want to study this material properly. Understand what it is. That won't happen if corporate buries it."
+
+"I have a family," Kayla said. "I take risks, but not stupid ones."
+
+"Keiko's right about the target," Chen said. "We're already marked. Might as well make ourselves harder to kill."
+
+Jax nodded slowly. "Keiko, what kind of protection does the consortium offer?"
+
+"Coordinated defense. Shared resources. Legal teams. And publicity—we make this discovery public, corporate can't disappear us without questions."
+
+"Can't, or won't?"
+
+"Won't. Corporate tolerates a lot, but mass casualties of independent miners makes for bad press. They'll negotiate before they escalate."
+
+It was a gamble. But Chen had spent enough years in the belt to know that everything was a gamble. At least this way they had allies.
+
+"We're in," Jax said. "What do you need from us?"
+
+"Sample data. Full survey information. And trust that I'm not setting you up to get robbed."
+
+"You'll forgive me if that trust comes slowly."
+
+"I'd worry if it didn't." Keiko transmitted a data packet. "Coordinates for the consortium meeting point. Three days from here. Bring everything you've got. We're going to make some noise."
+
+The connection ended. The crew sat in silence, processing.
+
+"We just signed up for a war," Kayla said.
+
+"We were already in a war," Jax said. "We just picked a side."
+
+Chen pulled up the defensive systems. "Then I'd better make sure we survive long enough to fight."
+
+And got back to work.

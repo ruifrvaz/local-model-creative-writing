@@ -1,0 +1,101 @@
+The dust was everywhere.
+
+Dr. Omar Hassan pulled his helmet off and felt grit on his teeth. Outside the airlock, Mars wind howled against the hab module. Three days into the storm, and the solar arrays were down to twelve percent efficiency.
+
+He dumped his sample cases on the lab bench and started the decontamination sequence. Red dust swirled in the containment field—ancient Martian regolith that shouldn't have been where he found it.
+
+"Interesting trip?" Commander Rivera stood in the doorway, tablet in hand.
+
+"Found something." Omar pulled up his scan data. "Twenty meters below the planned drill site. Subsurface cavity, about five meters across."
+
+Rivera moved closer. "Natural formation?"
+
+"That's the thing. It doesn't look natural." Omar highlighted the seismic profile. "Too regular. Too symmetrical. And the electromagnetic readings are off."
+
+"Off how?"
+
+"Magnetic field about eight times stronger than ambient. Heat signature two degrees above expected." He pulled up the spectroscopy results. "And there's water vapor. Not ice. Actual liquid water."
+
+Rivera was quiet for a long moment. "That's impossible. Atmospheric pressure doesn't support liquid water at that depth."
+
+"I know."
+
+They both stared at the data. Omar had run the analysis three times, recalibrated his instruments, checked for equipment malfunction. The readings stayed consistent.
+
+"Show me the core samples," Rivera said.
+
+Omar unsealed the first case. Six cylinders of Martian rock, extracted from progressively deeper boreholes. The first four were standard—oxidized iron compounds, basaltic minerals, the usual desert chemistry.
+
+The fifth one was different.
+
+The rock had a faint sheen, almost metallic. Under the microscope, the crystal structure was wrong. Not Martian geology. Not anything in his database.
+
+"What am I looking at?" Rivera asked.
+
+"I don't know. Silicon-based matrix with trace metals I can't identify. It doesn't match any known Martian formation."
+
+Omar loaded the sample into the spectrometer. The analysis took thirty seconds. When the results populated, he felt his stomach drop.
+
+"The isotope ratios are wrong," he said. "Carbon-fourteen is present. That shouldn't be here—Mars lost its magnetic field billions of years ago. Cosmic rays should have stripped all the C-14."
+
+"Unless it's recent."
+
+"Unless it's recent," Omar echoed.
+
+Rivera pulled up the colony's master map. "How close is this cavity to the drilling operation?"
+
+"Forty meters. We'll hit it in maybe six days at current rate."
+
+"And if we do?"
+
+"If there's actually liquid water in a pressurized cavity, drilling into it could be catastrophic. Best case, we lose pressure containment and flood the drill site. Worst case—"
+
+"Worst case, we compromise whatever's keeping that water liquid." Rivera closed the map. "We need to halt the operation."
+
+"Corporate won't like that."
+
+"Corporate can file a complaint from Earth." Rivera keyed her comm. "Chen, this is Rivera. Halt drilling operations immediately."
+
+The engineer's voice crackled back. "Commander? We're on schedule. Corporate wants—"
+
+"I'm aware of what corporate wants. Halt the operation. New protocols in effect as of now."
+
+A pause. "Acknowledged. Powering down."
+
+Rivera turned back to Omar. "I want a full geological survey of that cavity. Seismic imaging, ground-penetrating radar, magnetic resonance—everything we have. And I want to know what's in those rock samples."
+
+"That'll take time. Resources."
+
+"Find them. If we're drilling into something we don't understand, I need to know before we punch through."
+
+Omar nodded. His mind was already racing through the possibilities. Natural cavity filled with geothermal activity? Maybe. But the symmetry bothered him. And the magnetic signature. And the isotope ratios that suggested recent biological activity.
+
+On Mars. Where nothing lived.
+
+"One more thing," Rivera said. "This stays between us and senior staff until we have answers. I don't want the crew spooked by speculation."
+
+"Understood."
+
+After she left, Omar pulled up the seismic data again. The cavity's walls were smooth. Almost machined. And at the center, something with a different density than surrounding rock. Something hollow.
+
+He zoomed in on the spectral analysis from his surface scan. There—a faint electromagnetic pulse, rhythmic and consistent. Point-eight-seven hertz. Too regular to be natural.
+
+Almost like a heartbeat.
+
+Omar sat back and stared at the Martian dust on his hands. Billions of years old, oxidized to rust-red by a dead atmosphere. But forty meters below where he stood, something was generating heat and magnetic fields and keeping water liquid against all thermodynamic probability.
+
+He thought about the colony's mission. Establish permanent presence. Extract resources. Prove Mars was viable for human settlement.
+
+Nobody had briefed them on what to do if Mars was already occupied.
+
+Omar pulled the fifth core sample from its case and placed it under the electron microscope. At maximum magnification, the crystal lattice revealed intricate patterns. Not random geological formation.
+
+Structured. Intentional. Built.
+
+His hand trembled as he saved the image to encrypted storage.
+
+"What are you?" he whispered.
+
+The sample didn't answer. But somewhere below, in a cavity that shouldn't exist, something pulsed at point-eight-seven hertz.
+
+Waiting.

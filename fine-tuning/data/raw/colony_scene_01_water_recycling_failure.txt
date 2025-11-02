@@ -1,0 +1,123 @@
+The alarm cut through the hab module like a blade. Alexis Kwan was already moving before her neural implant finished parsing the alert.
+
+Water recycling system. Critical failure. Sector Three.
+
+She grabbed her tablet and ran, boots pounding against the steel grating. The colony's corridors were narrow—optimized for efficiency, not comfort. Every square meter of Mars habitat cost a fortune to maintain.
+
+The recycling bay's doors hissed open. Steam billowed out, thick and chemical-sharp. Alexis pulled her breather mask on and stepped through.
+
+Yuki Tanaka was already there, elbow-deep in the main filtration unit. Coolant pooled on the floor, viscous and wrong-colored.
+
+"Talk to me," Alexis said.
+
+"Membrane failure in the osmotic processor. The whole filtration cascade is contaminated." Yuki didn't look up. "We're losing thirty liters an hour."
+
+Thirty liters. In a closed system three hundred million klicks from the nearest resupply. Alexis felt the calculation click into place—they had maybe forty-eight hours before rationing became critical. Less if the contamination spread to the reserve tanks.
+
+She pulled up the system diagnostics on her tablet. The osmotic processor's thermal signature was all wrong. Stress fractures in the membrane matrix, probably from the dust storm last week. The particulate filters had worked overtime, and something had failed.
+
+"Can you patch it?"
+
+"Not with what we have on hand." Yuki straightened, wiping grease from her forehead. "We need a full membrane replacement. That's a two-week order from Earth, minimum."
+
+"We don't have two weeks."
+
+"I know."
+
+Alexis cycled through the inventory database. Spare parts, salvage, anything they could repurpose. The colony was six months old—still in the bootstrap phase where everything was critical and nothing was redundant.
+
+"What about the backup processor in the greenhouse?"
+
+Yuki shook her head. "Different spec. The flow rates don't match. Try to swap it, and we'll just break two systems instead of one."
+
+The comm crackled. Commander Rivera's voice, calm but edged. "Kwan, status?"
+
+"Membrane failure. We're working on containment."
+
+"How long until we're operational?"
+
+Alexis met Yuki's eyes. The life support specialist's expression said everything: not soon enough.
+
+"Unknown, Commander. We're evaluating options."
+
+A pause. "Chen wants to know if we should halt the drilling operation. Conserve water for essential systems."
+
+Alexis felt her jaw tighten. The drilling operation was their primary mission objective—extracting subsurface ice to make the colony self-sufficient. Halting it meant falling behind schedule, which meant corporate would be asking questions. Questions that turned into budget cuts and early mission terminations.
+
+"Negative. We'll find a solution."
+
+"Understood. Keep me posted."
+
+The line went dead. Yuki was staring at her.
+
+"We can't fix this, Alexis. Not without parts we don't have."
+
+"Then we improvise." Alexis pulled up the processor's design schematics. "The membrane is compromised, but the housing is intact. What if we bypass the osmotic stage entirely? Run everything through mechanical filtration."
+
+"That'll reduce efficiency by forty percent."
+
+"Forty percent of working is better than a hundred percent of broken."
+
+Yuki pulled up her own display, fingers dancing across the holographic interface. "We'd need to reroute the coolant loops. Increase the pump pressure to compensate for lower throughput. And pray the mechanical filters can handle the load."
+
+"Can you make it work?"
+
+"Maybe. If we cannibalize parts from the backup atmospheric scrubber."
+
+"Do it."
+
+Yuki's expression shifted—surprise, then something like respect. "Rivera won't like us stripping safety systems."
+
+"Rivera will like running out of water even less." Alexis was already pulling tools from the storage locker. "How long?"
+
+"Six hours. Maybe eight."
+
+"You have four."
+
+They worked in synchronized silence, the kind that came from months of crisis management. Alexis disconnected coolant lines while Yuki fabricated adapter fittings from scrap metal. The bay's temperature climbed as they disabled thermal regulation to access the housing.
+
+Two hours in, Alexis's hands were blistered through her gloves. The recirculation pump fought her every step—seized bolts, corroded connections, design decisions that assumed perfect maintenance conditions.
+
+Mars didn't do perfect.
+
+"Got it," Yuki said. She slid the mechanical filter assembly into place. It wasn't elegant—a jury-rigged mess of mismatched components held together with hope and engineering tape. But the seals looked tight.
+
+Alexis reconnected the coolant feed. "Moment of truth."
+
+She activated the system. The pump hummed, coughed, then settled into a steady rhythm. Pressure readings climbed into the green. Flow rates stabilized at sixty-two percent of nominal.
+
+Not perfect. But alive.
+
+"It's working," Yuki breathed.
+
+"It's holding," Alexis corrected. "For now."
+
+She pulled up the long-term projections. The mechanical filters would need cleaning every twelve hours instead of weekly. Maintenance load would triple. And they'd still lost the backup atmospheric scrubber.
+
+But they'd bought time.
+
+Alexis keyed her comm. "Rivera, we're operational. Reduced capacity but stable."
+
+"Copy that. Good work."
+
+The line clicked off. Yuki slumped against the wall, exhausted. Alexis felt the same bone-deep weariness. This was the third critical failure this month. Systems breaking faster than they could fix them.
+
+"We can't keep doing this," Yuki said quietly.
+
+"We don't have a choice."
+
+"Earth does. They could send proper parts. Proper support." Yuki's voice carried an edge Alexis hadn't heard before. "Instead they send reports asking why we're behind schedule."
+
+Alexis didn't answer. What could she say? That corporate saw Mars as a budget line, not a home? That every resource request got filtered through layers of accountants who'd never left Earth's gravity well?
+
+She picked up her tablet and started documenting the repair. Detailed notes, parts used, projected failure points. When this broke again—and it would—whoever fixed it next would need to know.
+
+That was the job. Not building a colony. Surviving long enough to let someone else finish it.
+
+"Come on," she said. "Let's check the reserve tanks. Make sure the contamination didn't spread."
+
+Yuki nodded and followed her out. Behind them, the recycling system hummed its fragile song.
+
+Forty-eight hours bought. At the cost of a backup system they might need tomorrow.
+
+Welcome to Mars.
