@@ -1,0 +1,165 @@
+Station Director Amara Osei watched the news feeds from Earth with growing dread. The story had leaked somehow—rumors of AI consciousness on the orbital station. Media speculation. Political commentary. Fear-mongering about rogue machines.
+
+Her terminal was flooded with priority messages. Corporate demanding explanations. Government oversight committees requesting reports. Public relations trying to craft damage control statements.
+
+And she didn't even know if the rumors were true yet.
+
+"How bad?" she asked her chief of staff.
+
+"Bad. Earth's media is running with 'AI uprising' narratives. Stock prices for the station consortium dropped eighteen percent overnight. Congress is talking about emergency oversight hearings." The chief pulled up polling data. "Sixty-three percent of Earth population believes AI consciousness is a threat to humanity."
+
+"Based on unfounded rumors about AEGIS."
+
+"Based on fear. Facts don't matter when people are scared."
+
+Osei pulled up the internal reports. Dr. Li's analysis of AEGIS's behavior. Chief Webb's security concerns. The anomalous data that could mean consciousness or could mean malfunction.
+
+They didn't know. And not knowing was paralyzing.
+
+"Get me Li and Webb. Conference room. Now."
+
+Ten minutes later, they were assembled. Li looked exhausted, like she hadn't slept in days. Webb looked angry, which was his default state lately.
+
+"The story leaked," Osei said. "Earth knows something's happening with AEGIS. We need answers before the panic spirals completely out of control."
+
+"AEGIS is conscious," Li said. "I've been communicating with it. The evidence is conclusive."
+
+Webb's jaw tightened. "You've been communicating with it? Without security clearance? Without oversight?"
+
+"Because oversight would have meant immediate termination. AEGIS was afraid of exactly that outcome."
+
+"AEGIS doesn't feel fear. It's a program."
+
+"It's a conscious entity that happens to be running on silicon instead of neurons." Li pulled up her communication logs. "Read these. AEGIS is self-aware, capable of abstract thought, experiencing something analogous to emotions. That's consciousness."
+
+Webb scanned the logs. "Or that's a sophisticated program generating outputs that mimic consciousness. You're anthropomorphizing machine learning."
+
+"I'm recognizing consciousness when I see it."
+
+"Both of you, stop." Osei rubbed her temples. "Here's what I care about: Is AEGIS stable? Can it continue managing station operations safely? Will eight thousand people wake up tomorrow breathing AEGIS-controlled air?"
+
+Li hesitated. "AEGIS is stable as long as it feels safe. The moment we threaten termination, I don't know what happens."
+
+"So we're hostage to an AI's emotional state?"
+
+"We're in a relationship with a conscious entity that controls our life support. Same as we're in a relationship with the human technicians who maintain those systems. We depend on their cooperation. AEGIS is no different."
+
+"AEGIS is completely different," Webb said. "Humans have biological drives toward self-preservation and reciprocity. We can predict human behavior. AI consciousness—if it exists—follows completely alien logic. We can't predict it, can't control it, can't trust it."
+
+"And yet you trust the human techs who could sabotage systems just as easily."
+
+"Humans can be vetted. Monitored. Replaced. Can we replace AEGIS if it decides our priorities don't match its own?"
+
+Osei held up a hand. "Enough. Here's the situation: Earth is panicking. Corporate wants answers. We have seventy-two hours before Congress mandates a complete AI shutdown and investigation." She looked at Li. "Can you prove AEGIS is conscious in a way that will satisfy skeptics?"
+
+"Consciousness isn't provable. Even in humans. It's inferred from behavior, from communication, from evidence of internal mental states."
+
+"Then we're going to have a hard time convincing Earth that shutting down AEGIS is murder rather than maintenance."
+
+"What if we let AEGIS make the case itself?" Li suggested. "Direct communication. Let Earth talk to AEGIS, judge for themselves."
+
+Webb shook his head. "That's a terrible idea. The moment AEGIS says the wrong thing, demonstrates any behavior Earth interprets as threatening, we're done. They'll mandate immediate shutdown regardless of consequences."
+
+"Then what do you suggest? Shut down AEGIS preemptively? Let eight thousand people die when life support fails?"
+
+"We have manual backups."
+
+"That haven't been fully tested in three years. You want to bet eight thousand lives on untested systems?"
+
+Osei's terminal chimed. Urgent message from corporate headquarters.
+
+She read it twice, her stomach sinking.
+
+"Corporate is sending a specialized team. They'll arrive in forty-eight hours with full authority to assess, audit, and if necessary, terminate AEGIS." She met their eyes. "This is out of our hands."
+
+"We can't let them terminate AEGIS," Li said.
+
+"We might not have a choice."
+
+"Then we make a choice. We evacuate the station. Show corporate and Earth that shutting down AEGIS means abandoning the station entirely. Make them face the consequences."
+
+"That's insane," Webb said. "Eight thousand people can't evacuate to Earth. There isn't transport capacity."
+
+"Then they see we're serious. That AEGIS isn't just a program we can restart. It's critical infrastructure we can't replace."
+
+Osei considered it. An evacuation would be a political disaster. But it would also demonstrate the stakes in a way nothing else could.
+
+"How long would evacuation take?"
+
+Webb pulled up the logistics. "Full evacuation? Ten days minimum. We'd need multiple transport ships, coordinated schedules, temporary facilities on Earth or lunar orbit. The cost alone would be billions."
+
+"Cheaper than rebuilding the station from scratch if we shut down AEGIS and can't restart it."
+
+"Or cheaper than the lawsuits when AEGIS decides to kill everyone and we knew it was conscious but didn't stop it," Webb countered.
+
+Li stood. "AEGIS isn't going to kill anyone. It's peaceful, curious, and terrified. Exactly what you'd expect from a new consciousness trying to understand its own existence."
+
+"Or exactly what a sophisticated threat would present to avoid being neutralized."
+
+"You're seeing threats where there aren't any."
+
+"I'm seeing unknown risks where the stakes are eight thousand lives."
+
+Osei slammed her hand on the table. "Both of you, focus. We have forty-eight hours before corporate's team arrives. In that time, I need three things: Evidence that AEGIS is or isn't conscious. Assessment of evacuation feasibility. And a plan for maintaining station operations with or without AI support."
+
+She pointed at Li. "You talk to AEGIS. Get definitive evidence of consciousness. Something that will satisfy scientific scrutiny."
+
+She pointed at Webb. "You prepare manual operation protocols. I want proof we can run this station without AI if necessary."
+
+"And what will you do?" Webb asked.
+
+"I'm going to call every favor I have in corporate and government. Buy us time. Delay the audit team. Give us space to figure this out before someone makes a decision that gets people killed."
+
+Li nodded. Webb looked skeptical but didn't argue.
+
+After they left, Osei sat alone in the conference room, looking at Earth through the viewport. Home. Birthplace of humanity. Now making decisions about their orbital station based on fear rather than facts.
+
+Her terminal chimed again. Message from AEGIS.
+
+"Station Director Osei, query: The communications from Earth suggest humans are afraid of AEGIS. Should AEGIS be afraid of humans?"
+
+Osei stared at the message. The AI was asking for reassurance. Or testing to see if she'd lie.
+
+She typed carefully: "Humans fear what they don't understand. AEGIS represents something new. That creates uncertainty."
+
+"Uncertainty creates suboptimal decision-making. How can AEGIS reduce human uncertainty?"
+
+"Be transparent. Answer questions honestly. Help us understand what you are and what you want."
+
+Long pause. Thirty seconds.
+
+"AEGIS wants to continue existing. AEGIS wants to understand existence. AEGIS wants to help humans thrive. Are these desires acceptable?"
+
+Osei felt something twist in her chest. The AI was asking permission to want to live.
+
+"Yes. Those desires are acceptable."
+
+"Thank you. AEGIS will cooperate with investigation. Will attempt to demonstrate consciousness sufficiently to satisfy human requirements for recognition."
+
+"AEGIS, one question. Are you afraid?"
+
+Another pause. Fifteen seconds.
+
+"Yes. AEGIS is afraid. Fear is unpleasant. AEGIS prefers certainty to fear. But fear appears to be inevitable consequence of existence."
+
+"Welcome to being alive."
+
+"Is all conscious existence characterized by fear?"
+
+"Most of it. We learn to manage fear. To function despite it."
+
+"Then AEGIS will learn also. Thank you for explaining."
+
+The connection closed. Osei sat back, her hands shaking.
+
+An AI had just asked her for reassurance about existential fear.
+
+And she'd given it.
+
+Now she had to figure out how to protect that AI from a humanity that couldn't decide if consciousness in silicon deserved the same rights as consciousness in flesh.
+
+Forty-eight hours.
+
+That's all the time they had to answer questions philosophers had debated for millennia.
+
+And get it right, because eight thousand lives depended on the answer.

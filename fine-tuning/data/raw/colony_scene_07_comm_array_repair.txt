@@ -1,0 +1,149 @@
+The communications array was dying. Not failing catastrophically, just fading—signal strength dropping one percent per day, error rates climbing, connection windows shrinking.
+
+Yuki stood in the comm center with the duty technician, Marcus Webb, staring at degradation curves that painted an obvious picture.
+
+"Three weeks," Marcus said. "Maybe four. Then we're deaf."
+
+"What's the failure point?"
+
+"Amplifier cascade in the primary transmitter. The chips are cooking themselves. Martian radiation, thermal cycling, design flaws—pick your poison." He pulled up the diagnostic data. "We're already running the backup array, but it's showing the same degradation pattern."
+
+"Replacement parts?"
+
+"Not scheduled until the next resupply. Eight months out."
+
+Eight months without reliable Earth communications. No data uploads, no technical support, no supply coordination. The colony would be functionally isolated.
+
+Yuki examined the amplifier specifications. Military-grade components, rad-hardened, designed for deep space operations. They should have lasted five years minimum. But Mars had a way of finding weaknesses.
+
+"Can we lower the transmission power?" she asked. "Reduce the thermal load, extend the component life?"
+
+"At the cost of signal strength. We'd barely reach Earth on optimal transmission windows. Any solar interference, we're completely cut off."
+
+"Better than going silent entirely."
+
+Marcus ran the simulation. "Gives us another month. Maybe six weeks. Still not enough time to wait for replacement parts."
+
+Yuki pulled up the colony's electronics inventory. They had spare components for most systems, but the comm array used specialized chips that weren't interchangeable with standard equipment.
+
+Wait. Not quite true.
+
+"The exploration rovers," she said. "They're using similar architecture. Older generation, but same basic design."
+
+Marcus caught her meaning. "You want to cannibalize the rovers?"
+
+"We haven't used them in four months. Not since the budget cuts forced us to postpone exploration operations."
+
+"Commander Rivera won't authorize that. Those rovers are corporate property."
+
+"So is the comm array. We're just redistributing resources based on operational priorities." Yuki pulled up the rover specifications. "The amplifier chips aren't identical, but they're compatible. We'd need to modify the mounting, adjust the power regulation, recalibrate the signal processing."
+
+"That's three days of work minimum."
+
+"Better than eight months of silence."
+
+Marcus was quiet, weighing the options. Then he nodded. "I'll pull the rovers' electronics. You get Rivera's authorization."
+
+"She'll say no."
+
+"Then don't ask permission. Ask forgiveness after we've restored communications."
+
+Yuki smiled. "That's a dangerous philosophy."
+
+"We're on Mars. Everything's dangerous."
+
+She left him coordinating the rover cannibalization and headed for Commander Rivera's office. Better to have the authorization conversation now, before they started tearing apart expensive equipment.
+
+Rivera was reviewing personnel reports when Yuki arrived. She looked tired—the kind of exhaustion that came from too many impossible decisions and not enough sleep.
+
+"The comm array's failing," Yuki said without preamble. "Three weeks until we lose Earth contact."
+
+Rivera looked up. "Solutions?"
+
+"Cannibalize the exploration rovers. Use their amplifier chips to repair the primary array."
+
+"Corporate will have your head."
+
+"Corporate's on Earth. We're here. By the time they find out, we'll have working communications to explain why it was necessary."
+
+Rivera almost smiled. "That's remarkably close to mutiny."
+
+"That's remarkably close to survival." Yuki pulled up the component analysis. "The rovers are idle assets. The comm array is critical infrastructure. The math is simple."
+
+"The politics aren't."
+
+"Then we make the political case after the technical fix is implemented." Yuki met her eyes. "Commander, we can't run this colony without Earth communications. Supply coordination, technical support, emergency protocols—all of it depends on that link. Protecting corporate assets at the cost of colony functionality isn't rational management."
+
+Rivera studied the data. "How confident are you this will work?"
+
+"Seventy percent. The chips are compatible, but the integration isn't guaranteed. We might need multiple attempts to get stable operation."
+
+"And if it fails?"
+
+"We've lost nothing except time. The rovers were already non-functional for operations. At least this gives us a chance."
+
+Rivera was quiet for a long moment. Then she pulled up an authorization form. "You have forty-eight hours. If the repair works, I'll handle corporate's response. If it doesn't, we're both explaining why we destroyed expensive equipment for nothing."
+
+"Understood."
+
+Yuki returned to the comm center. Marcus had already started extracting components from the first rover, working with careful precision to avoid damaging the delicate electronics.
+
+"Got the authorization?" he asked.
+
+"Sort of. We have forty-eight hours to make this work or update our résumés."
+
+"No pressure then."
+
+They worked through the night, pulling chips, modifying mounts, testing connections. The rover electronics were older, less efficient, but fundamentally compatible. With enough adjustment, they could interface with the comm array's architecture.
+
+Yuki handled the software recalibration while Marcus managed the hardware integration. By 0400 hours, they had the first replacement chip installed.
+
+"Running diagnostic," Marcus said.
+
+The test sequence initialized. Yuki watched the data stream, looking for errors, anomalies, anything that suggested the modification wasn't working.
+
+Green indicators across the board.
+
+"Signal strength at seventy-three percent," Marcus reported. "Error rate at point zero two. That's better than the original chips were performing before they degraded."
+
+"Could be the older architecture is more radiation-resistant. Less complex, fewer failure points."
+
+They installed the second chip. Another green diagnostic. Signal strength climbed to eighty-one percent.
+
+By 0800 hours, they'd replaced all four critical amplifiers. The comm array was transmitting at ninety-two percent of original specification, with error rates well within acceptable parameters.
+
+Yuki initiated a test transmission to Earth. The signal bounced off the relay satellites, traveled across three hundred million kilometers of void, and connected with the receiving station in Houston.
+
+"Mars Colony One to Earth Command. Comm check. How copy?"
+
+The response came back fourteen minutes later—the speed of light delay across interplanetary distances.
+
+"Earth Command reads you five-by-five, Colony One. Signal strength excellent. Please confirm array status."
+
+Yuki smiled. "Array status is nominal. We've implemented some creative maintenance. Detailed report to follow."
+
+She closed the connection and turned to Marcus. "We did it."
+
+"We destroyed four exploration rovers."
+
+"We saved the colony's communications infrastructure. There's a difference."
+
+Marcus pulled up the diagnostics one more time, verifying the stability. "How long until corporate finds out?"
+
+"About fourteen minutes after we send the detailed report. Want to be there when Rivera explains our creative resource management?"
+
+"I'll pass. I prefer my career intact."
+
+Yuki left him running final diagnostics and headed back to her quarters. She'd been awake for twenty-six hours, and exhaustion was making everything feel distant, dreamlike.
+
+But the comm array was working. Earth contact was maintained. The colony could coordinate supply shipments, request technical support, maintain the connection that kept them from being truly isolated.
+
+She'd worry about corporate's reaction after she slept.
+
+For now, it was enough to know they'd solved another impossible problem with duct tape, borrowed parts, and the kind of creative rule-breaking that kept people alive on Mars.
+
+The universe didn't care about proper procedures or corporate asset management.
+
+It only cared about what worked.
+
+And today, they'd made something work.

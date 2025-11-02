@@ -1,0 +1,121 @@
+Commander Rivera stood in the conference room, looking at faces that showed varying degrees of exhaustion, frustration, and barely controlled anger.
+
+"Let me make sure I understand," Alexis Kwan said. "Corporate wants us to prioritize agricultural production over life support maintenance?"
+
+"According to the directive, yes." Rivera pulled up the message. "They've revised our operational priorities to emphasize revenue-generating activities. Food production is now classified as priority one. Infrastructure maintenance is priority three."
+
+Dr. Chen laughed, but there was no humor in it. "They want us to grow lettuce while our air recycling fails?"
+
+"That's the short version."
+
+"That's insane."
+
+"That's quarterly thinking." Rivera highlighted a section of the directive. "They're projecting return on investment based on agricultural exports. The math only works if we hit one hundred twenty percent of current production targets."
+
+Yuki pulled up the power distribution charts. "We're already running hydroponics at maximum capacity. To increase production, we'd need to expand the grow beds, add more lighting, increase water and nutrient cycling. That's more power, more resources, more maintenance overhead."
+
+"All of which comes from where?" Alexis asked. "We don't have spare capacity. We're already cannibalizing systems just to keep critical infrastructure running."
+
+Omar Hassan spoke up from the back of the room. "What happens if we refuse?"
+
+"They replace me with someone who won't." Rivera met his eyes. "And they audit our entire operation looking for evidence of mismanagement to justify the replacement."
+
+"So we comply and watch the colony fall apart, or we refuse and get replaced by someone who complies and watches the colony fall apart." Omar shook his head. "Great options."
+
+Rivera pulled up her counter-proposal. "I'm not accepting their directive as written. But I need data to make the case for revision. I need each of you to provide detailed analysis showing why their priorities are unsustainable."
+
+"How detailed?" Yuki asked.
+
+"Failure modes, timeline projections, resource allocation models. I want numbers they can't ignore. Show me exactly what breaks and when if we follow their directive."
+
+Alexis was already pulling up engineering projections. "Life support degradation accelerates if we defer maintenance. Give it six months, we start seeing critical failures. Oxygen generation, water recycling, thermal control—all of it depends on regular upkeep."
+
+"Quantify it. I need hard numbers."
+
+"Done. I'll have the analysis ready by tomorrow."
+
+Chen pulled up medical protocols. "If life support starts failing, we see increased respiratory illness, dehydration, thermal stress. I can project casualty rates based on system degradation."
+
+"Do it. Make it graphic. Corporate needs to understand the human cost."
+
+Yuki was running power consumption models. "Expanding agriculture means reducing power allocation somewhere else. Either we dim the lights, reduce heating, or shut down non-essential systems. I'll map out the trade-offs."
+
+"Good. Omar, what about geological stability? Any issues with expanding infrastructure on our current foundation?"
+
+Omar thought about the artificial structures thirty-seven meters beneath the colony. The billion-year-old chambers that nobody knew about except him and Jennifer.
+
+"I'll run structural analysis," he said. "Determine if the bedrock can support additional load from expanded facilities."
+
+Which was true, even if his real concern was what might happen if they built more habitat mass over unknown underground chambers.
+
+Rivera nodded. "I want preliminary reports in twenty-four hours. Final analysis in forty-eight. We'll compile everything into a comprehensive counter-proposal showing why their directive is technically and operationally unsustainable."
+
+"And if they reject it?" Chen asked.
+
+"Then we document everything, make sure there's a clear record of why the colony failed, and hope someone on Earth cares enough to override corporate management."
+
+The room was quiet. They all knew the odds of Earth caring were approximately zero. Mars Colony One was an experiment, a public relations exercise, a line item on corporate balance sheets. If it failed, they'd write it off as a learning experience and move on.
+
+Three hundred people would die, but Earth would barely notice.
+
+"There's another option," Alexis said.
+
+Rivera looked at her. "I'm listening."
+
+"We make the colony self-sufficient. Stop depending on corporate for supplies, for authorization, for permission to keep ourselves alive. We extract our own water, grow our own food, manufacture our own parts. We become independent."
+
+"That's a nice dream. How do we get there?"
+
+"The regolith processing tech we've developed for water extraction could be adapted for raw material production. We've got a machine shop. We've got engineers who are damn good at improvising. Give us time and authorization, we could start fabricating basic components locally."
+
+Yuki was nodding. "The 3D printers could handle simple parts. We'd need better feedstock, but if we can refine regolith into usable metals—"
+
+"That's years of development," Chen interrupted. "We don't have years. We have months before systems start failing."
+
+"Then we start now," Alexis said. "Small scale. Proof of concept. Show corporate that independence is achievable, that their investment could pay off long-term if they just give us the resources to build infrastructure."
+
+Rivera considered it. Local manufacturing capability would change everything. No more waiting eight months for spare parts. No more cannibalizing rovers to fix comm arrays. Real self-sufficiency.
+
+But it would take resources they didn't have, time they couldn't spare, and corporate authorization they'd never get.
+
+Unless they didn't ask for authorization.
+
+"Run the numbers," Rivera said. "Figure out what we'd need to start local manufacturing. Equipment, power, personnel. Keep it modest—I want proof of concept, not a complete industrial base. If we can demonstrate viability, maybe we have leverage to negotiate better terms."
+
+"And if corporate says no?" Omar asked.
+
+"Then we do it anyway and deal with the consequences." Rivera met their eyes. "I'm not letting this colony die because some accountant on Earth decided we're not profitable enough. We're here. We're alive. We're staying that way."
+
+Alexis smiled. "That sounds remarkably like mutiny."
+
+"That sounds like survival." Rivera pulled up a project planning template. "Yuki, you're on power allocation. Figure out how much surplus we can divert to manufacturing without compromising critical systems. Alexis, you handle equipment needs and material processing. Omar, determine what minerals we can extract and refine locally. Chen, you keep people healthy enough to work. I'll handle the political maneuvering."
+
+"What's our timeline?" Yuki asked.
+
+"Fast. I want to see working prototypes before corporate's quarterly review in three months. Give them something concrete to evaluate, not just proposals and projections."
+
+"Three months?" Alexis whistled. "That's aggressive."
+
+"That's necessary. Either we prove we can be self-sufficient, or we prove we can't. Either way, we know where we stand."
+
+The meeting broke up, each person heading off to run calculations, build models, figure out if independence was achievable or just a fantasy they were using to avoid accepting the inevitable.
+
+Rivera stayed in the conference room, staring at the directive that told her to prioritize lettuce over life support.
+
+Corporate didn't understand Mars. Didn't understand that every day here was a negotiation with entropy, that survival depended on constant vigilance and careful resource management. They saw numbers on spreadsheets and made decisions that looked rational from three hundred million kilometers away.
+
+But numbers didn't account for Martian reality. Didn't account for the corrosive dust, the equipment failures, the endless attrition that wore down everything humans built.
+
+Rivera pulled up her personal log and started recording.
+
+"Day four hundred eighteen. Corporate has issued new operational directives that prioritize revenue generation over colony sustainability. I'm rejecting their directive and pursuing alternative strategies for long-term survival. This may constitute insubordination. I'm documenting my reasoning in case future analysis is required."
+
+She paused, choosing her words carefully.
+
+"Mars doesn't care about quarterly profits. Mars doesn't care about return on investment. Mars cares about physics, chemistry, and the brutal efficiency of entropy. Our job is to survive despite that reality, not to generate revenue for distant shareholders. If that makes me a bad commander by corporate standards, so be it. I'll be a good commander by the standards that actually matter. I'll keep my people alive."
+
+She saved the log and encrypted it. Then she started composing the counter-proposal that would either save the colony or end her career.
+
+Maybe both.
+
+But at least they'd go down fighting.

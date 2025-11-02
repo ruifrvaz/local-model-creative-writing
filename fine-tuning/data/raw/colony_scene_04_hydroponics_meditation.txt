@@ -1,0 +1,127 @@
+Yuki Tanaka found the hydroponics bay at 0300 hours, when the rest of the colony was sleeping. The grow lights cast everything in green and amber, row after row of lettuce, tomatoes, beans stretching toward artificial suns.
+
+She'd come here because her quarters felt too small. Because the air recycling system's hum was louder than usual, or maybe she was just more aware of it. Because after fourteen months on Mars, she needed to see something growing.
+
+"Couldn't sleep either?"
+
+Yuki turned. Dr. Hassan stood near the irrigation controls, his tablet reflecting blue light on his face.
+
+"Just needed a change of scenery," she said.
+
+"At three in the morning?"
+
+"Best time for it. Quiet."
+
+Omar smiled. "You sound like you're running from something."
+
+"Maybe just running toward something different." Yuki moved along the grow beds, checking moisture levels out of habit. "Everything dies here if we're not constantly fixing it. Nice to see things that want to live."
+
+"Plants are optimists. Give them light and water, they'll grow anywhere."
+
+Yuki touched a tomato leaf, felt the slight fuzz of the surface. Real. Alive. Proof that life could persist even here, in one-sixth gravity under a carbon dioxide sky.
+
+"How's the water extraction going?" Omar asked.
+
+"We're meeting targets. Barely." She pulled up the usage reports on her tablet. "Every liter we pull from the regolith takes twice the power they estimated. The ice is dirtier than expected, needs more processing."
+
+"Corporate know?"
+
+"They know we're spending more energy. Don't think they care about the why." Yuki highlighted the efficiency curves. "We're wearing out the heating elements faster than the maintenance schedule accounts for. Give it another six months, we'll start seeing failures."
+
+"And the replacement parts?"
+
+"On a ship that won't arrive for eight months."
+
+Omar was quiet. They both knew the math. Equipment failing, parts delayed, margins shrinking. Every system on Mars operated in the gap between what they had and what they needed.
+
+"I got the deep drilling authorization," Omar said. "Rivera approved it. Two weeks of equipment time to investigate the subsurface anomaly."
+
+"That's good, right?"
+
+"Good if I find something that explains the data. Bad if I don't." He pulled up his geological scans. "Either way, I'm taking drilling capacity away from water extraction when we can least afford it."
+
+Yuki studied the scan. The geometric patterns beneath the colony looked wrong—too regular, too purposeful. "You really think something's down there?"
+
+"I think the data says there is. Whether that's actual structures or just a geological quirk I don't understand yet, I won't know until I drill."
+
+"And if it is structures?"
+
+"Then we've got bigger questions than water extraction efficiency."
+
+They stood in the green light, surrounded by growing things that didn't care about impossible geology or equipment failures or the constant grinding pressure of survival margins.
+
+"You ever think about going back?" Yuki asked.
+
+"To Earth? Sometimes. Usually when the coffee runs low." Omar smiled. "You?"
+
+"Every day. Then I think about what I'd be doing there. Lab work. Grant applications. Publishing papers nobody reads." She gestured at the hydroponics bay. "Here, if I don't do my job right, people die. There's a clarity to that."
+
+"Morbid clarity."
+
+"But clarity." Yuki pulled up her system diagnostics. "Every liter of clean water, every breath of recycled oxygen. It matters. Immediately. Viscerally."
+
+"And when the equipment fails?"
+
+"We fix it. We improvise. We make do." She looked at the plants. "Same as them. We adapt or we don't survive."
+
+Omar followed her gaze. "Think we will? Survive, I mean. Long term."
+
+"We've made it fourteen months. That's thirteen months longer than some people bet on." Yuki checked her tablet. "Current life support efficiency is holding at eighty-seven percent. Water reserves at forty-three days. Food stores at sixty days. Oxygen generation stable."
+
+"You know all those numbers by heart?"
+
+"Have to. They're what keep us alive."
+
+The grow lights cycled through their programmed sequence, simulating a day-night rhythm the plants didn't need but the humans tending them did. Yuki watched the light shift from growth spectrum to rest mode, the greens dimming to match Martian night.
+
+"What happens if you find something?" she asked. "Down in those structures."
+
+"Depends on what it is. Archaeological significance, we document and report to Earth. Geological hazard, we evaluate risks and adjust accordingly. Active threat—" Omar shrugged. "We figure it out."
+
+"That's not much of a plan."
+
+"Welcome to Mars. We've been figuring it out since we landed."
+
+Yuki couldn't argue with that. Every day was a series of problems solved with insufficient resources and inadequate time. They were all getting very good at figuring things out.
+
+She pulled up the colony's power distribution. The hydroponics bay ran on surplus energy, the excess capacity from the solar arrays when all critical systems were satisfied. But there wasn't much surplus anymore. The water extraction was eating into the margins, and every storm buried the panels under dust that took days to clean.
+
+"We need to talk about reducing the grow cycles," she said.
+
+Omar looked up sharply. "Cutting food production?"
+
+"Just adjusting the timing. Run the growth lights during peak solar generation, shut them down at night instead of keeping them on reduced power." Yuki ran the simulation. "Saves eight percent on overall energy consumption. Plants won't notice the difference."
+
+"But the yields—"
+
+"Drop by maybe five percent. I've run the models." She showed him the data. "Five percent reduction in food production to gain eight percent in power efficiency. The math works."
+
+Omar studied the numbers. "Corporate's going to push back. We're already behind on agricultural quotas."
+
+"Then they can send us better solar panels. Or a bigger reactor. Or accept that Mars doesn't care about their quotas."
+
+"You should run this by Rivera."
+
+"Already did. She's thinking about it." Yuki closed the tablet. "Every decision here is a trade-off. Food for power. Water for drilling time. Safety for progress. We're constantly negotiating with entropy."
+
+"And losing, slowly."
+
+"Or winning, slowly. Depends how you measure it." Yuki touched another tomato plant. "We're still here. Still growing food. Still breathing. That's a win."
+
+The bay's environmental systems clicked through their maintenance cycle. Irrigation, nutrient distribution, humidity control. All automated, all monitored, all dependent on equipment that wore down a little more each day.
+
+"You should sleep," Omar said. "0600 comes early."
+
+"0600 always comes early." But Yuki headed for the door. "See you at the morning briefing."
+
+"Try to rest. Even optimists need sleep."
+
+Yuki smiled. "Plants are the optimists. I'm just the mechanic keeping them alive."
+
+She left him there among the grow beds, walked back through corridors that hummed with the sound of machines fighting to keep three hundred humans alive in a place that wanted them gone.
+
+And thought about tomatoes growing in Martian regolith, reaching toward artificial light, thriving despite the odds.
+
+Maybe Omar was right. Maybe they were all optimists, whether they admitted it or not.
+
+You'd have to be, to choose Mars.

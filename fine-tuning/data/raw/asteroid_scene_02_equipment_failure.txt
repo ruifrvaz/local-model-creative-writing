@@ -1,0 +1,199 @@
+Chen "Wrench" Liu floated in the equipment bay surrounded by disassembled mining drones, spare parts, and jury-rigged components that would make any certified engineer weep.
+
+The main extraction drill had failed catastrophically three hours into their current operation. Bearing seizure, metal fatigue, design flaw—pick your failure mode. Result was the same: no drill, no mining, no income.
+
+And replacement parts were eight weeks away by supply ship. Eight weeks they couldn't afford to wait.
+
+"Talk to me, Wrench," Jax's voice through the comm. "Can we fix it?"
+
+Wrench examined the seized bearing assembly. Metallurgy showed stress fractures from operating in temperature extremes no Earth manufacturer anticipated. The Belt was hard on equipment.
+
+"Bearing's shot. But I might be able to fabricate a replacement."
+
+"From what? We don't have bearing-grade steel stock."
+
+"No, but we have that damaged maneuvering thruster from three months ago. Different alloy, but I can adapt the specs."
+
+"A thruster component as a drill bearing? That'll never work."
+
+"Won't work optimally. But optimally isn't what we need. We need functional enough to complete current mining contract."
+
+Wrench pulled the thruster component and started calculating modifications. The alloy was harder than necessary for bearing applications, which meant increased friction. But increased friction could be managed with better lubrication and reduced operational speeds.
+
+Six hours later, he'd fabricated a functional bearing. Not elegant. Not certified. But installed and tested, it held under load.
+
+"Boss, we're operational. Drill's running at seventy percent normal speed to compensate for bearing limitations. Completion time increases by forty percent, but we'll finish the contract."
+
+"Will it last?"
+
+"Maybe two weeks. Maybe a month. Impossible to predict with improvised components."
+
+"Good enough. Fire it up."
+
+The drill chewed through asteroid regolith at the reduced speed, extracting nickel-iron ore that would barely cover their operational costs. This was independent mining—constant improvisation, perpetual equipment failures, margins so thin you could see through them.
+
+Kayla's voice joined the channel. "Wrench, while you're fixing things, the life support recycler is making weird noises again."
+
+"What kind of weird?"
+
+"Grinding sound. Intermittent. Started about six hours ago."
+
+Wrench sighed. Equipment failed in cascades. One problem led to another, stress patterns propagating through interconnected systems.
+
+"On my way."
+
+The life support bay smelled like ozone and recycled air that had been recycled too many times. The atmospheric processor was operating, but Kayla was right—something was grinding.
+
+Wrench pulled the access panel and found the problem immediately. The compressor bearings. Of course. Same failure mode as the drill, different system.
+
+"We're running equipment past design life," he told Jax. "Everything's wearing out faster than replacement cycle."
+
+"Can you fix it?"
+
+"Can improvise temporary solution. Long-term, we need complete system overhaul. New bearings, fresh seals, probably replace half the mechanical components."
+
+"Cost?"
+
+Wrench ran numbers. "Sixty thousand credits for parts alone. Labor we can do ourselves."
+
+"We don't have sixty thousand. Current contract pays thirty-five after fuel and consumables."
+
+"Then we keep improvising until something fails catastrophically enough to kill us."
+
+"Cheerful thought."
+
+Wrench fabricated another bearing from salvaged parts. This time from the backup water pump they'd never replaced after the primary failed eight months ago. Robbing Peter to pay Paul, shifting failures around rather than solving them.
+
+The compressor ran quieter. For now.
+
+Dr. Sofia Ruiz found him in the workshop at 0300 hours. "You've been working for eighteen hours straight."
+
+"Ship's falling apart. Someone has to keep it together."
+
+"The ship was falling apart when we bought it. We knew this was the deal."
+
+"Deal was profitable mining to afford proper repairs. We're mining at cost, improvising fixes, slowly dying."
+
+Sofia pulled up a diagnostic screen. "You've kept us operational for three years with duct tape and genius. That's impressive."
+
+"That's survival, not success. Every system on this ship is running on improvised repairs. I've got a list of eighty-three critical components that need replacement. We can afford maybe five."
+
+"So which five do we prioritize?"
+
+Wrench highlighted the most critical. "Life support, propulsion, power generation. The things that kill us fastest if they fail completely."
+
+"And the drill? The mining equipment we need to earn money?"
+
+"Fourth priority. Have to stay alive to mine."
+
+Sofia was quiet. "We're stuck in failure loop. Mining to survive, but can't mine profitably enough to repair equipment, which makes mining less efficient, which reduces profit further."
+
+"Welcome to independent mining. It's a race to see what fails first—the ship or the business model."
+
+"The exotic matter could change that."
+
+"If we can extract it before equipment fails completely. If Helios doesn't find it. If we don't get caught smuggling consortium-controlled materials." Wrench set down his tools. "Big ifs."
+
+"You got a better option?"
+
+"Sell the ship. Cut losses. Find work on a consortium operation where equipment maintenance is someone else's problem."
+
+"You really want that? Working for the companies that set up this whole system to keep independents desperate?"
+
+Wrench didn't answer. He didn't want it. But he also didn't want to die when life support failed because they couldn't afford a sixty-thousand-credit repair.
+
+"Exotic matter extraction equipment," he said finally. "I've been designing it. Shielded extractors, low-signature processing, the works. But every component I design reveals another system that needs upgrading to support it."
+
+"Show me."
+
+He pulled up the schematics. Sofia scanned them, her expression shifting from interested to concerned.
+
+"This requires complete power system overhaul."
+
+"Exotic matter processing is energy-intensive. Our current reactor can't handle it."
+
+"So we need new reactor, new extractor, probably new storage and processing facilities. That's—"
+
+"Half a million credits in equipment and modifications. Plus months of downtime for installation."
+
+"We definitely don't have that."
+
+"No. We have improvisation and hope. Same as always."
+
+Sofia pulled up the exotic matter analysis. "What if we extracted just enough to power our own reactor? Use the exotic matter to upgrade our capability to extract more exotic matter?"
+
+"Bootstrap approach. Risky. If first extraction fails, we've spent our remaining resources on nothing."
+
+"And if it works?"
+
+"We might actually escape the failure loop. Have resources to do proper repairs. Maybe even expand operations."
+
+Wrench considered. It was desperate. Dangerous. Exactly the kind of high-risk play that got independent miners killed.
+
+It was also their only realistic shot at changing their trajectory.
+
+"I'll design a minimal extraction system. Something I can build from salvaged components and improvised modifications. No guarantees it'll work."
+
+"When have we ever had guarantees?"
+
+"Point."
+
+Wrench pulled up his design software and started sketching. Shielded extractor built from modified mining drone components. Processor adapted from the water recycling system they weren't using anymore. Power distribution jerry-rigged from three different incompatible systems.
+
+It was ugly. It violated so many engineering principles he'd lost count.
+
+It might work.
+
+Maybe.
+
+If they were lucky.
+
+And if their improvised ship held together just a little longer.
+
+"Two weeks to build this," he told Sofia. "Assuming no new equipment failures that need attention."
+
+"Optimistic timeline."
+
+"I'm an optimistic guy."
+
+"You literally just said we're in a death spiral of equipment failure."
+
+"Can be realistic about problems and optimistic about solutions. It's called compartmentalization."
+
+Sofia laughed. "Build your extractor. I'll keep the rest of the ship running while you're focused."
+
+"You know how to repair compressor bearings?"
+
+"I'm a fast learner."
+
+After she left, Wrench looked at his workbench. Piles of salvaged parts, improvised tools, components that had been jury-rigged so many times he could barely remember their original purpose.
+
+This was independent mining. Surviving on ingenuity when resources failed. Building solutions from scraps. Betting everything on improvisation and hope.
+
+The consortiums had proper equipment. Certified components. Engineers who didn't have to fabricate bearings from thruster parts.
+
+But the consortiums didn't have Wrench.
+
+Didn't have a crew desperate enough to try impossible things.
+
+Didn't have the will to improvise their way through obstacles that should have been insurmountable.
+
+That had to count for something.
+
+Had to be worth something.
+
+Even if all he had to show for it was a ship held together by genius and duct tape.
+
+Time to add exotic matter extraction to the list of things he'd built from nothing.
+
+Just another impossible problem.
+
+Just another day in the Belt.
+
+Just another chance to prove improvisation could triumph over properly funded operations.
+
+Probably.
+
+Maybe.
+
+If the ship didn't fall apart first.

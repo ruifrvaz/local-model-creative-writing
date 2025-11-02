@@ -1,0 +1,125 @@
+The transmission from corporate headquarters came through at 1147 hours local time. Commander Rivera read it twice before her jaw tightened.
+
+She forwarded the message to Alexis Kwan with a single word: "Conference."
+
+Alexis arrived six minutes later, her coveralls still dusty from an airlock seal repair. "What did they do now?"
+
+Rivera turned her terminal so Alexis could read. The message was brief, bureaucratic, and devastating.
+
+"They're cutting our budget," Alexis said.
+
+"By forty percent."
+
+"That's suicide."
+
+"They call it 'resource reallocation based on revised cost-benefit analysis.'" Rivera pulled up the financial breakdown. "They want us to reduce personnel, defer maintenance, and push back the Phase Two expansion by eighteen months."
+
+Alexis stared at the numbers. Forty percent meant no spare parts. No equipment upgrades. No margin for emergencies. They were already running on minimal reserves—this would push them into structural deficit.
+
+"They don't understand what they're asking," Alexis said.
+
+"They understand perfectly. They just don't care." Rivera highlighted a section of the memo. "Read the justification. 'Mars Colony One has not met agricultural production targets for three consecutive quarters. Return on investment does not justify current expenditure levels.'"
+
+"We're behind on food production because we're spending all our energy extracting water to stay alive. They want us to prioritize growing lettuce for Earth markets over not dying?"
+
+"According to this, yes."
+
+Alexis felt her pulse climb. Fourteen months on Mars, fourteen months of bleeding herself dry keeping systems functional with duct tape and improvisation, and corporate wanted to cut support because the quarterly reports didn't look good.
+
+"What are our options?" she asked.
+
+"Comply, negotiate, or refuse." Rivera pulled up the colony charter. "If we comply, we lose thirty percent of our staff, which means the remaining people work double shifts just to maintain current operations. If we negotiate, we spend months in back-and-forth while nothing gets resolved. If we refuse—"
+
+"They cut us off completely."
+
+"Eventually. Or send someone to replace me with a commander who will comply."
+
+Alexis pulled up the engineering budget. Forty percent cuts meant no replacement parts for the water extraction system. No backup components for life support. No margin for equipment failures that were inevitable in Mars's corrosive environment.
+
+"How long until we start losing critical systems?" Rivera asked.
+
+"Depends on what fails first. Best case, six months. Worst case—" Alexis ran the simulation. "Two months. Maybe three."
+
+"And they know this?"
+
+"They're looking at spreadsheets on Earth. They don't know anything except numbers that don't add up the way they want."
+
+Rivera was quiet for a long moment. Then she pulled up her personnel roster. "If we reduce staff, who goes home?"
+
+"The geologists. The agricultural specialists. Anyone who's not directly maintaining life support or structural systems." Alexis felt sick saying it. "Dr. Hassan's subsurface research, the expanded hydroponics project, the atmospheric processing experiment—all of it gets scrapped."
+
+"And the people?"
+
+"We put them on the next transport. Three months from now."
+
+Rivera highlighted the names. Thirty-seven people. Scientists who'd committed years of their lives to Mars, technicians who'd helped build this colony from bare regolith, support staff who kept everyone fed and functional.
+
+"I need your honest assessment," Rivera said. "Can we maintain the colony with seventy percent of current resources?"
+
+Alexis wanted to say yes. Wanted to promise they could make it work through sheer determination and creative engineering. But lying to the commander wouldn't help anyone survive.
+
+"No," she said. "We're already operating at the edge. Cutting support means we fall off."
+
+"How fast?"
+
+"Equipment degradation will accelerate. We won't be able to maintain preventive maintenance schedules. Systems will fail, and we won't have parts to fix them. Water extraction efficiency drops, food production drops, life support margins shrink." Alexis pulled up the cascading failure model. "Give it a year, maybe less, and we're looking at emergency evacuation."
+
+"Which costs more than maintaining current operations."
+
+"But that cost hits next fiscal year's budget, not this one."
+
+Rivera's expression was bleak. "They're thinking quarterly. We're thinking survival."
+
+"Welcome to corporate management."
+
+Rivera stood, walked to her window. Outside, the Martian landscape stretched red and dead under a butterscotch sky. Three hundred kilometers of wasteland between the colony and the nearest human presence.
+
+"I'm not sacrificing this colony to make quarterly numbers look better," she said.
+
+"Then what do we do?"
+
+"We negotiate. We present data showing that budget cuts create higher long-term costs. We make the business case for maintaining support."
+
+"And when they ignore it?"
+
+"Then we get creative." Rivera turned back to Alexis. "How much can we reduce consumption without compromising safety?"
+
+"We're already at minimums."
+
+"There's always more to cut. Luxuries, comfort items, discretionary systems. What can we shut down that won't kill anyone?"
+
+Alexis pulled up the power distribution. "The rec room. Personal quarters heating above minimum survival temperature. Hot water for non-medical use. Supplementary lighting in non-critical areas."
+
+"Do it. Quietly. I don't want corporate knowing we're tightening belts before they've made their final decision."
+
+"People are going to notice."
+
+"Tell them it's preventive conservation. Preparing for potential supply chain disruptions." Rivera pulled up a message draft. "I'll compose our response to corporate. You work on the consumption reduction plan. We'll give them options that look like compliance but buy us time."
+
+"How much time?"
+
+"Long enough to show them the budget cuts are suicide. Long enough to maybe get media attention if we need to go public."
+
+"That's a career-ender."
+
+"So is presiding over a colony's collapse." Rivera met her eyes. "I didn't come to Mars to watch bean counters kill the first permanent human settlement on another planet."
+
+Alexis understood. She'd made the same decision fourteen months ago when she'd signed on for this mission. Mars or nothing. Success or death. There was no middle ground, no matter what the spreadsheets said.
+
+"I'll have the consumption plan ready in two hours," she said.
+
+"Good. And Alexis? Keep this quiet. I don't want panic spreading through the colony."
+
+"Understood."
+
+Alexis left the commander's office and headed for engineering. The corridors were busy with the mid-day shift change, people moving between stations, talking, laughing. Normal life, unaware that corporate had just put a deadline on their survival.
+
+She pulled up the engineering systems. Forty percent budget cuts. Thirty percent staff reductions. Accelerated equipment failure and no resources to fix it.
+
+The math was brutal. The outcome was inevitable.
+
+Unless they found a way to change the equation.
+
+Alexis started compiling the consumption reduction plan, looking for every watt, every liter, every gram they could save without compromising safety.
+
+And wondered how long you could keep people alive on austerity and hope.

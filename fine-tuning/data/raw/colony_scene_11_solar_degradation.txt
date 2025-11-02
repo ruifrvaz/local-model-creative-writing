@@ -1,0 +1,201 @@
+The solar array's efficiency had dropped to sixty-two percent. Alexis stood in the monitoring station, watching the power generation curves decline in real-time.
+
+"Dust accumulation?" she asked.
+
+Marcus Webb shook his head. "We cleaned the panels three days ago. This is something else."
+
+Alexis pulled up the panel diagnostics. Individual cell performance was degrading across the entire array. Not uniformly—some cells were still operating at ninety percent efficiency, others had dropped to forty.
+
+"Pull the maintenance records."
+
+Marcus brought up the installation data. The panels had been deployed sixteen months ago, rated for ten years of operation in Martian conditions. They should have been at ninety-five percent efficiency minimum.
+
+"Radiation damage?" Alexis suggested.
+
+"Possible. Mars doesn't have a magnetic field to deflect cosmic rays. The panels are taking a beating every day."
+
+Alexis ran a degradation projection. At current rates, they'd be below fifty percent efficiency in six months. Below operational minimums in a year.
+
+"We can't replace them. The spare panels are allocated for Phase Two expansion."
+
+"Which corporate just delayed by eighteen months."
+
+"Right. So we work with what we have." Alexis examined the cell-level data. "The degradation is concentrated in the upper quadrants. Higher radiation exposure, more thermal cycling. What if we rotate the panels? Move the less-degraded sections to the high-exposure positions?"
+
+"That's twelve hours of EVA work minimum."
+
+"Less than the twelve months it buys us before total failure." Alexis pulled up the EVA schedule. "We've got a weather window tomorrow. Clear skies, minimal wind. Perfect for exterior work."
+
+"After what happened to you last week? Your hand's barely healed."
+
+"Which is why you're doing the EVA. I'll coordinate from inside."
+
+Marcus looked skeptical. "You trust me with panel rotation?"
+
+"I trust you more than I trust dying in the dark when the power fails." Alexis started drafting the work plan. "We'll do it in stages. Four hours per section, three sections total. Spread it over a week so we're not exhausting the EVA equipment."
+
+"Commander Rivera needs to authorize this."
+
+"Already on my list."
+
+Alexis found Rivera in the hydroponics bay, conferring with the agricultural supervisor about the impossible production targets corporate had mandated.
+
+"I need to rotate the solar panels," Alexis said without preamble.
+
+Rivera looked up. "Why?"
+
+"Radiation degradation. We're losing efficiency faster than predicted. Rotation buys us time before we need replacements we don't have."
+
+"How much time?"
+
+"A year. Maybe more if we're lucky."
+
+Rivera checked her tablet. "That's three EVAs. Significant risk."
+
+"Less risk than operating at fifty percent power capacity. We start losing critical systems, people die. At least EVA failures are localized."
+
+Rivera was quiet for a moment. "Do it. But I want safety protocols doubled. No solo EVAs, constant comm monitoring, and if weather turns bad, we scrub immediately."
+
+"Understood."
+
+The next morning, Marcus suited up for the first rotation. Alexis watched from the monitoring station, tracking his vitals, his position, the panel status as he worked.
+
+"Removing panel A-seven," Marcus reported.
+
+Alexis watched the power generation dip as the panel disconnected. "Copy that. Forty-five seconds to install the replacement."
+
+Marcus was efficient, methodical. He'd done this in training a hundred times. The panel locked into place, connections verified, power restored.
+
+"A-seven installed. Efficiency at eighty-four percent."
+
+"That's nineteen percent improvement. Good work."
+
+They continued for three hours, rotating twelve panels. The array's overall efficiency climbed to seventy-one percent. Not ideal, but better than the sixty-two they'd started with.
+
+"That's enough for today," Alexis said. "Return to airlock."
+
+"One more panel. I'm already out here."
+
+"Marcus, you've been in that suit for three hours. Fatigue causes mistakes. Come back."
+
+"Copy." Marcus started back, then paused. "Alexis, you seeing this?"
+
+She pulled up his camera feed. One of the panels they hadn't rotated yet was showing odd discoloration. Not dust, not standard degradation. Something else.
+
+"Get closer. Let me see."
+
+Marcus approached the panel. The camera showed what looked like microfractures spreading across the photovoltaic surface. Fine lines radiating from a central point.
+
+"Impact damage?" Marcus suggested.
+
+"Maybe. But from what?" Alexis ran analysis on the fracture pattern. "That looks like thermal stress. Extreme temperature differential."
+
+"We're on Mars. Temperature swings are standard."
+
+"Not like this. This is localized, concentrated. Like something super-heated one spot and let it cool rapidly." Alexis pulled up the environmental logs. "No meteor impacts recorded. No unusual thermal events."
+
+"Should I swap this panel out?"
+
+"Mark it for priority replacement, but leave it for now. We need to understand what caused the damage before we start pulling panels randomly." Alexis saved the images. "Come back inside. We'll analyze this properly."
+
+Marcus returned to the airlock. When he'd cycled through and removed his helmet, his expression was troubled.
+
+"I saw more fractures on other panels. Didn't want to say it over the comm."
+
+"How many?"
+
+"At least six. All showing the same pattern."
+
+Alexis felt cold. "That's not random degradation. That's systematic damage."
+
+They pulled up the complete array monitoring. Marcus was right—multiple panels showed microfractures, all with similar patterns. Thermal stress damage, concentrated at specific points on the photovoltaic surface.
+
+"Someone's sabotaging the panels," Marcus said.
+
+"Or something's causing localized heating we don't understand." Alexis ran spectral analysis on the damage points. "I'm not seeing evidence of directed energy weapons or deliberate sabotage. This looks more like... I don't know. Like the panels are being cooked from specific angles."
+
+"Reflected solar radiation?"
+
+"Mars doesn't have enough atmospheric scatter to create that kind of concentration." Alexis pulled up the panel orientations. "Wait. Look at the damage locations. They all correspond to panels facing south-southeast."
+
+"That's weird. That's not the sun angle."
+
+"No. That's the direction of the subsurface structures Dr. Hassan found."
+
+They looked at each other.
+
+"You think there's a connection?" Marcus asked.
+
+"I think we have unexplained thermal damage pointing at unexplained underground chambers, and I don't believe in coincidences." Alexis pulled up the timeline. "When did the efficiency drops start?"
+
+Marcus checked the logs. "About three weeks ago. Right after Hassan started his deep drilling."
+
+"He penetrated the roof of the underground complex three weeks ago."
+
+"You're saying drilling into buried alien structures is causing our solar panels to fail?"
+
+"I'm saying we have two anomalies with suspicious timing and directional correlation." Alexis saved all the data. "I need to talk to Hassan. And Rivera. If there's something down there affecting our surface systems, we need to know before we lose more capability."
+
+She found Dr. Hassan in his lab, running stress analysis on the metal core sample.
+
+"Your underground structure is cooking my solar panels," she said.
+
+Omar looked up. "What?"
+
+Alexis showed him the damage patterns, the directional correlation, the timing. "Three weeks ago, you drilled into the roof. Three weeks ago, my panels started showing thermal damage. All facing your chamber."
+
+Omar pulled up his own data. "I haven't detected any unusual emissions. No radiation, no heat signatures, nothing that should affect surface equipment."
+
+"Then we're missing something. Because forty-two panels are developing microfractures from concentrated heat sources, and they're all pointing at your discovery."
+
+Omar overlaid the data sets. The damaged panels formed a pattern—a rough circle, all oriented toward the underground complex.
+
+"That's not random," he said quietly.
+
+"No. That's targeting." Alexis felt her pulse climb. "Whatever's down there, it knows we're here. And it's reaching out."
+
+"Or defending itself."
+
+"Either way, we need to know more before it cooks our entire power grid."
+
+Omar was already pulling up the drilling plans. "I was going to wait for better equipment. But if time's a factor—"
+
+"Time's always a factor. The question is whether we breach that chamber or seal it and hope the damage stops."
+
+"Sealing it doesn't give us answers."
+
+"Neither does destroying our solar arrays." Alexis studied the chamber scans. "How confident are you that breaching is safe?"
+
+"Confident enough to recommend it. The structure's been stable for a billion years. Drilling a small access hole shouldn't collapse it."
+
+"That's not the confidence level I was hoping for."
+
+"It's the only one I've got."
+
+Alexis made a decision. "Drill. But slowly. Monitor everything. If we see any changes in the thermal emissions, any indication that breaching makes things worse, we stop immediately."
+
+"Agreed."
+
+She left him preparing the equipment and went to brief Rivera.
+
+The commander listened to the analysis, studied the data, and arrived at the same conclusion.
+
+"We need to know what's down there," Rivera said. "Before it decides our solar panels make good target practice."
+
+"That's what I thought."
+
+"Keep this quiet. Last thing we need is colony-wide panic about alien structures defending themselves."
+
+"Already encrypted the files."
+
+Rivera nodded. "Do the breach. Carefully. And Alexis? If that chamber contains something hostile, I want to know immediately."
+
+"Yes, ma'am."
+
+Alexis returned to the monitoring station. Outside, the solar panels absorbed sunlight and converted it to power, their efficiency degrading a little more each day.
+
+And thirty-seven meters beneath the colony, something waited that could cook metal from a distance.
+
+They were about to find out if it wanted to communicate.
+
+Or if it wanted them gone.

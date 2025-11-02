@@ -1,0 +1,155 @@
+The evacuation alarm was the worst sound Alexis Kwan had ever heard. Not loud, just persistent—a rhythmic pulse that meant everything had gone wrong and time was running out.
+
+"Hull breach, sector nine. Multiple casualties. Emergency protocols active."
+
+Alexis was in the machine shop when the alarm hit. She dropped her tools and ran, grabbing an emergency kit from the wall mount.
+
+Sector nine. That was residential quarters. Sixty people lived there.
+
+She reached the sealed bulkhead in under a minute. Commander Rivera was already there, coordinating the response.
+
+"Situation?" Alexis asked.
+
+"Micrometeor impact. Punched through the outer hull and depressurized three residential modules. We've sealed the breach but we've got injured trapped in the damaged sections." Rivera pulled up the schematic. "Emergency pressure barriers activated automatically, but the modules are at thirty percent atmosphere. Anyone still in there has maybe ten minutes."
+
+"How many people?"
+
+"Seven confirmed. Could be more."
+
+Alexis examined the hull breach indicators. The impact had been small—maybe five centimeters—but it had hit at the worst possible angle, penetrating through the reinforced outer shell into the habitat pressure vessel.
+
+Mars had been throwing rocks at them for eighteen months. This was the first one that got through.
+
+"I need to access sector nine," Alexis said. "Patch the hull, stabilize the pressure, get people out."
+
+"You'll be working in near-vacuum conditions."
+
+"I've done it before."
+
+"Not with a timer counting down to people dying." Rivera pulled up the environmental data. "Pressure's still dropping. There's a secondary leak we haven't located."
+
+"Then I find it and fix it." Alexis pulled on an EVA suit. "Get medical ready to receive casualties. This is going to be messy."
+
+She cycled through the emergency airlock into sector nine. The pressure differential made her ears pop even through the suit. The corridor was a disaster—debris floating in the low pressure, emergency lights flickering, the sound of escaping atmosphere hissing through unseen cracks.
+
+"Kwan to command. I'm in sector nine. Assessing damage."
+
+She followed the pressure loss indicators to the impact site. The meteorite had punched through the hull near a structural join, creating a five-centimeter hole that was bleeding atmosphere into Mars's thin air.
+
+Alexis pulled out emergency sealant and slapped it over the breach. The polymer expanded, hardening into an airtight seal. The hissing stopped.
+
+"Primary breach sealed. Checking for secondary damage."
+
+She moved through the damaged modules, scanning for pressure loss. There—a stress fracture radiating from the impact point. Not a hole, just a crack, but enough to leak atmosphere at dangerous rates.
+
+She applied reinforcement strips along the fracture, sealing it incrementally. The pressure gauges stabilized.
+
+"Sector nine is sealed. Pressure at twenty-eight percent and rising. Where are the trapped personnel?"
+
+"Module nine-C. Three confirmed, possibly more."
+
+Alexis pushed through debris-choked corridors to module nine-C. The door was jammed, buckled from the pressure differential. She forced it open manually, metal screaming as it yielded.
+
+Inside, three people lay unconscious. Hypoxia, probably. They'd passed out when the oxygen levels dropped too low.
+
+"I've got casualties. Sending them through now."
+
+She dragged them one by one to the emergency airlock, shoved them through into the pressurized section where medical teams were waiting. Dr. Chen's voice crackled over the comm, confirming receipt and starting treatment.
+
+"Any more?" Alexis asked.
+
+"Two unaccounted for. Module nine-E."
+
+Alexis checked her suit oxygen. Thirty minutes remaining. She pushed deeper into sector nine, following the schematic to module nine-E.
+
+The module was worse than nine-C. The impact had damaged structural supports, and the walls were bowed inward from stress. Everything creaked ominously, metal fatigued past its design limits.
+
+Two people inside. Both conscious, both looking terrified.
+
+"I'm getting you out," Alexis said.
+
+"The floor's unstable," one of them said. "It's going to collapse."
+
+Alexis examined the structural damage. He was right. The supports were failing. Give it another few minutes and the entire module would fold in on itself.
+
+"Move slowly. Stay near the walls where there's still support."
+
+They edged toward the exit, every step causing the floor to flex and groan. Alexis could see stress fractures spreading in real-time, metal fatigue accelerating under the reduced atmospheric pressure and structural load.
+
+Ten meters to the door.
+
+The floor buckled. One of the occupants stumbled, his weight concentrating on a weak point. The metal gave way with a shriek, and he dropped through the hole into the support structure beneath.
+
+"I've got you!" Alexis lunged, caught his wrist, braced herself against the doorframe.
+
+The module was collapsing. Supports failing in cascade, the walls beginning to fold inward.
+
+"Get out!" Alexis yelled to the other person. "Move!"
+
+He ran, clearing the doorway as the module started to cave. Alexis pulled the trapped man up through the floor breach, hauled him toward the exit.
+
+The ceiling came down. She shoved him through the door and dove after, the module collapsing behind her with a sound like the world ending.
+
+They lay in the corridor, breathing hard. The module was gone—just a compacted mass of metal where there'd been living space seconds before.
+
+"Everyone accounted for?" Rivera's voice.
+
+"All casualties evacuated. Sector nine is sealed but heavily damaged. Module nine-E is a total loss."
+
+"Copy. Return to safe zone."
+
+Alexis helped the rescued man to the medical bay, then cycled out of her EVA suit. Her hands were shaking from adrenaline crash.
+
+Dr. Chen pulled her aside. "The hypoxia cases will recover. You got them out in time."
+
+"And the module?"
+
+"Gone. But the people aren't. That's what matters."
+
+Alexis found Rivera in the operations center, reviewing damage reports.
+
+"Structural assessment?" the commander asked.
+
+"Sector nine is compromised. We can repair the hull breach, but the internal damage is extensive. I'd recommend sealing it off entirely until we can do proper reconstruction." Alexis pulled up the analysis. "We lost one residential module, damaged two others. That's housing for twenty people."
+
+"Add it to the list of things we don't have resources to fix properly." Rivera looked tired. "Casualties?"
+
+"Minor. Hypoxia, some bruising from debris. Everyone survived." Alexis paused. "We were lucky. If that meteorite had hit five meters to the left, it would have breached the primary life support junction."
+
+"Luck runs out eventually."
+
+"Then we need better defenses. Meteorite shielding, early warning systems, reinforced hull sections." Alexis pulled up design proposals. "All of which costs money and time we don't have."
+
+"Write it up anyway. Maybe corporate will care about protecting their investment."
+
+Alexis doubted that, but she'd write the report. Add it to the pile of necessary improvements that would never be funded, necessary equipment that would never be shipped, necessary protections that they'd have to improvise with insufficient resources.
+
+She returned to the machine shop and looked at her interrupted work. The locally manufactured components that were supposed to prove they could be self-sufficient.
+
+One meteorite had nearly killed seven people. Had destroyed housing, damaged structure, reminded everyone how fragile their bubble of civilization really was.
+
+And they were supposed to prove they could survive here permanently.
+
+Alexis picked up her tools and went back to work. The parts wouldn't manufacture themselves. The colony wouldn't defend itself. Mars wouldn't suddenly become less hostile.
+
+So they'd keep building, keep repairing, keep fighting for every day of survival.
+
+Because the alternative was giving up.
+
+And giving up meant dying.
+
+Outside, Mars continued its orbit, indifferent to human struggle. Meteorites traced paths through the thin atmosphere. Dust storms gathered on distant horizons. The red planet turned, patient and deadly, waiting for the next failure.
+
+Inside, three hundred humans worked, adapted, survived.
+
+For now.
+
+Always for now.
+
+One day at a time, until time ran out or they found a way to make it permanent.
+
+Alexis manufactured another bracket, checked its quality, added it to the growing inventory.
+
+Small victories. Small defiances against entropy and odds.
+
+Small proof that they were still here, still fighting, still refusing to accept that Mars had already won.

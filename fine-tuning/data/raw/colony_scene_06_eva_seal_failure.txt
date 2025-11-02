@@ -1,0 +1,121 @@
+The airlock seal failed at the worst possible moment. Alexis was fifty meters from the habitat, conducting an EVA inspection of the solar array, when her suit alarms started screaming.
+
+Pressure drop. Rapid decompression.
+
+She glanced down. The seal around her left glove joint was venting atmosphere—a thin stream of frozen moisture crystallizing in the near-vacuum. Twenty seconds of air, maybe thirty if she was lucky.
+
+"Kwan to habitat. I have a seal breach. Glove joint. Need immediate assistance."
+
+Yuki's voice crackled through. "On it. Get to emergency station three. Emergency patch kit is in the external locker."
+
+Alexis was already moving. Fifty meters felt like fifty kilometers in the bulky EVA suit. Each step was a slow bounce in Martian gravity, her suit compensating for the lost pressure by tightening around her torso.
+
+The glove joint was deteriorating fast. What started as a thin leak was spreading—the seal polymer cracking under stress, Martian cold making it brittle.
+
+Thirty meters to the emergency station.
+
+Her vision was starting to narrow. Hypoxia. The suit's oxygen reserve was depleting as atmosphere vented through the breach. She could hear the hiss even through her helmet.
+
+"Alexis, status?" Yuki's voice.
+
+"Twenty meters out. Vision going gray."
+
+"Understood. Dr. Hassan is suiting up. He'll be out in ninety seconds."
+
+Ninety seconds she might not have.
+
+Alexis reached the emergency station. Her fingers were clumsy, slow. The cold was getting through the failing seal, numbing her left hand. She grabbed the patch kit with her right hand, pulled out the emergency sealant.
+
+The instructions said to clean the surface first. Make sure the area was dry and debris-free for optimal adhesion.
+
+Alexis skipped the instructions and slapped the patch directly over the breach.
+
+The sealant activated on contact, hardening into a flexible polymer that bonded with her suit material. The venting stopped. Her suit pressure stabilized.
+
+She stood there, breathing hard, watching the suit diagnostics climb back to nominal. Oxygen at forty-three percent. Enough to get back inside if she moved now.
+
+"Seal patched," she reported. "Pressure stable. Returning to habitat."
+
+"Negative," Rivera's voice cut in. "Hold position. Dr. Hassan will escort you back. Do not move until he arrives."
+
+Alexis wanted to argue. Wanted to say she was fine, the patch was holding, she could make it back alone. But protocol existed for a reason, and nearly dying in the Martian wasteland was exactly the kind of situation where protocol mattered.
+
+"Understood. Holding position."
+
+Thirty seconds later, Omar emerged from the airlock. He moved to her side, checked her suit seals with practiced efficiency.
+
+"You scared everyone," he said.
+
+"Scared myself."
+
+"Patch looks good. But let's get you inside before anything else decides to fail."
+
+They moved together, Omar keeping pace with her slower movements. Alexis's left hand was still numb, the cold having penetrated deep enough to affect circulation even through the suit's thermal layers.
+
+Back in the airlock, they waited for the pressure cycle. Alexis watched the gauge climb, each increment feeling like victory.
+
+The inner door opened. Yuki and Commander Rivera were waiting.
+
+"Medical bay," Rivera said. "Now."
+
+Alexis wanted to protest, but her hand looked wrong—mottled purple and white, the fingers stiff. Frostbite, probably. She'd been exposed to Mars's negative seventy degrees through a failing seal for longer than the suit was designed to handle.
+
+Dr. Chen took one look and started running scans. "Superficial frostbite. Could have been worse. You'll keep the fingers, but they're going to hurt like hell when the feeling comes back."
+
+"How long until I can work?"
+
+"Forty-eight hours minimum. Seventy-two if you want full dexterity back."
+
+"I don't have seventy-two hours. We're behind on maintenance as it is."
+
+Chen met her eyes. "You also don't have replacement fingers if these go necrotic. Forty-eight hours. Rest. Let the tissue recover."
+
+Rivera pulled Alexis aside after Chen finished the treatment. "What happened?"
+
+"Seal failed. The polymer's degrading faster than the maintenance schedule accounts for."
+
+"That's the third suit failure this month."
+
+"Fourth. Chen had a helmet seal crack last week. Caught it before it failed completely." Alexis looked at her bandaged hand. "The suits aren't rated for this much use. We're exceeding the design parameters."
+
+"How bad is it?"
+
+"We have twelve EVA suits. All of them are showing stress. Seals, joints, thermal layers—everything's deteriorating. Give it another six months, we'll start seeing catastrophic failures."
+
+"Can we repair them?"
+
+"We're already doing field repairs. But we need replacement seals, new polymer compounds. The patch jobs buy time, but they're not permanent fixes."
+
+Rivera was quiet. "Add it to the list of things corporate doesn't want to pay for."
+
+"Put it at the top. Suit failures kill people fast."
+
+"Noted." Rivera checked her tablet. "You're off duty until Chen clears you. That's an order."
+
+"Commander—"
+
+"Alexis. You almost died. Take the time. We'll survive forty-eight hours without you."
+
+Alexis wanted to argue, but exhaustion was hitting hard. The adrenaline crash, the cold, the hypoxia—all of it draining her faster than she wanted to admit.
+
+"Yes, ma'am."
+
+Back in her quarters, Alexis lay on her bunk and stared at the ceiling. Her hand throbbed with returning circulation. Chen had been right—it hurt like hell.
+
+She pulled up the suit maintenance logs on her tablet. Every EVA suit in the colony was past its recommended service life. They were designed for fifty excursions, maybe seventy-five with proper maintenance. Most of their suits had passed two hundred.
+
+The polymer seals were the weak point. Mars's combination of extreme cold, low pressure, and corrosive regolith destroyed them faster than Earth testing had predicted. What should have lasted years was failing in months.
+
+She composed a report for Rivera. Detailed analysis, failure rates, projected timelines. The conclusion was unavoidable: they needed new suits, or they needed to dramatically reduce EVA operations.
+
+Neither option was good. New suits meant budget allocations corporate had already denied. Reducing EVAs meant they couldn't maintain exterior systems, couldn't repair damage, couldn't conduct the work necessary to keep the colony functional.
+
+Another impossible trade-off. Another negotiation with entropy that they were slowly losing.
+
+Alexis saved the report and closed her eyes. Her hand throbbed. The suit seals were failing. Corporate wanted budget cuts. Mars wanted them dead.
+
+Just another day on the red planet.
+
+She wondered how long they could keep winning these negotiations before the universe stopped accepting their terms.
+
+And suspected the answer was measured in months, not years.
