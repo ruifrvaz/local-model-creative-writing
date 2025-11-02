@@ -1,0 +1,203 @@
+The jump sickness hit Lieutenant Sarah Chen forty-seven seconds after transition. Her stomach lurched, vision blurred, and for a moment she couldn't remember which way was up.
+
+Standard reaction. She'd experienced it thirty-two times before.
+
+This time felt different.
+
+"Pilot, status report," Admiral Kowalski's voice crackled through her earpiece.
+
+Sarah checked her instruments through the nausea. "Transition successful. We're in the target zone. Nav computer shows... wait."
+
+The numbers didn't match. They'd jumped three light-years to the test coordinates. But her chronometer showed only six minutes had elapsed, when the jump should have been instantaneous from her reference frame.
+
+"Nav anomaly," she reported. "Experiencing temporal desynchronization."
+
+"Magnitude?"
+
+"Six minutes experienced subjective time during jump. That's unprecedented." Sarah pulled up the medical monitors. Her heart rate was elevated. Cellular aging markers showed... she read the display twice to be sure. "Admiral, I'm reading increased cellular breakdown. Equivalent to approximately twelve hours of normal aging."
+
+The med bay frequency opened. Dr. Aisha Mbara's calm voice: "Confirmed, Admiral. Lieutenant Chen's telemetry shows accelerated metabolic processes during transition. Her body experienced time differently than the ship."
+
+"Dr. Yamamoto," Kowalski said. "Explain."
+
+The theoretical physicist's excited voice filled the channel. "It's the Alcubierre metric! The jump drive creates a spacetime bubble, but Lieutenant Chen's neural activity maintained a reference frame outside that bubble. From her perspective, she experienced the transition duration. Her body aged while the ship didn't."
+
+Sarah felt cold despite the cockpit's regulated temperature. "How much aging are we talking about per jump?"
+
+"Based on these readings... twelve hours equivalent per three light-year jump. That's a four-to-one time dilation ratio."
+
+The math settled over her. Thirty-two previous jumps. Sixteen days of accelerated aging. No wonder she'd been feeling tired lately.
+
+"Why didn't we see this before?" Kowalski demanded.
+
+"The effect's been cumulative," Mbara said. "Small enough to attribute to normal stress until now. But Lieutenant Chen's cellular markers are unmistakable. Every jump is aging her faster than normal time."
+
+Sarah stared at her hands on the controls. The same hands that had guided test flights through impossible physics. Were they older than they should be? Would she see the difference in a mirror?
+
+"Continue the test protocol," Kowalski ordered. "But I want full medical monitoring. Dr. Mbara, prepare comprehensive cellular analysis on Lieutenant Chen's return."
+
+"Acknowledged."
+
+Sarah ran through the post-jump checklist, trying to ignore the implications. Jump drive testing was her job. Her calling. She'd volunteered knowing the risks.
+
+But nobody had mentioned aging as a side effect.
+
+The return jump was worse. Nausea hit harder, and she blacked out for three seconds during transition. When awareness returned, her chronometer showed eight minutes elapsed.
+
+Another sixteen hours of aging. A full day lost to physics.
+
+Dr. Mbara met her in medical, scanner already in hand. "How are you feeling?"
+
+"Like I got hit by a truck, then aged a year." Sarah sat on the examination table, exhaustion pulling at her.
+
+The scan results appeared on the display. Mbara's expression tightened.
+
+"Your telomeres have shortened measurably. Cellular aging markers are up across the board. Neural pathway formation shows stress patterns consistent with extended wakefulness." Mbara met her eyes. "Sarah, two jumps aged you approximately thirty-two hours. If we continue this test regime..."
+
+"I'll be old before my time."
+
+"Or dead from accumulated cellular damage. We don't know the long-term effects."
+
+Sarah pulled up her jump schedule. Fifteen more test runs planned over the next three months. At thirty-two hours per round trip, that was twenty days of accelerated aging.
+
+"Has anyone told the Admiral?"
+
+"I'm compiling the report now. But Sarah, you need to consider stepping down from the test program."
+
+"And let someone else take the damage?"
+
+"No. We need to pause the program entirely until we understand this effect." Mbara's hand was gentle on her shoulder. "You can't science your way through cellular breakdown."
+
+The Admiral's office was spartan—a desk, chairs, and a window showing the test facility in orbit around Jupiter. Kowalski read Mbara's report without expression.
+
+"Dr. Yamamoto, can we mitigate this effect?"
+
+The physicist shook his head. "The time dilation is inherent to the Alcubierre metric. To create the spacetime bubble, we generate extreme gravitational gradients. Human neural activity exists partially outside those gradients due to quantum effects we don't fully understand. The result is temporal desynchronization."
+
+"Can we shield the pilot?"
+
+"Shield them from time itself? No." Yamamoto pulled up equations that Sarah only half-understood. "We could potentially reduce the effect by altering the bubble geometry, but that would decrease jump efficiency. Possibly make FTL travel impractical."
+
+"Or we could use AI pilots," Kowalski said quietly.
+
+Sarah felt her chest tighten. "Sir—"
+
+"Let me finish, Lieutenant. An AI wouldn't experience the temporal effects. No neural activity to desynchronize. No cellular aging. Just pure navigation through the bubble."
+
+"AIs can't handle the kind of intuitive piloting FTL requires," Sarah argued. "The mathematics are too complex, the variables too numerous. You need human judgment."
+
+"We need pilots who survive their own missions." Kowalski's voice was firm but not unkind. "Sarah, you're one of the best pilots I've ever commanded. But I won't let you age yourself to death testing experimental drives."
+
+"With respect, sir, that should be my choice."
+
+"And it would be, if you were the only one affected. But this program is bigger than one pilot. We need to solve this before we field FTL drives across the fleet." Kowalski stood. "I'm suspending jump tests indefinitely. Dr. Yamamoto, you have full resources to research mitigation strategies. Dr. Mbara, I want long-term health monitoring for Lieutenant Chen. If there are lasting effects, we need to document them."
+
+"What about the FTL program?" Sarah asked.
+
+"On hold until we solve the human cost problem. We won't build a transportation system that kills its operators."
+
+The meeting ended. Sarah walked back to her quarters feeling hollow. Three years of training. Thirty-two test jumps. All leading to a dead end because her body couldn't handle the physics.
+
+Dr. Yamamoto caught up with her in the corridor. "Lieutenant, I'm sorry. If I'd realized the temporal effects sooner—"
+
+"You couldn't have known. The effects were too subtle until they accumulated."
+
+"Still. This was my drive design. My physics. I should have modeled biological impacts more thoroughly." Yamamoto fell into step beside her. "For what it's worth, your contribution to FTL research is invaluable. The data we gathered will help us solve this."
+
+"Will it? Or did I just prove that humans can't handle faster-than-light travel?"
+
+"You proved we need better understanding. That's different." Yamamoto pulled up his tablet. "I've been analyzing your jump telemetry. The temporal desynchronization varies based on neural activity levels. When you were focused on navigation, the effect was stronger. When you were in passive monitoring mode, it decreased."
+
+"So the more I think, the more I age?"
+
+"Essentially. Your consciousness maintains a reference frame outside the bubble. The more active your mind, the more you experience the transit time."
+
+Sarah considered that. "Could we induce unconsciousness during jumps? Put pilots in medical comas?"
+
+"Theoretically. But then you lose the human judgment you mentioned. The ability to react to unexpected conditions."
+
+"It's a trade-off problem. Every solution creates new complications."
+
+"That's physics." Yamamoto smiled slightly. "But trade-offs can be optimized. We just need to find the right balance."
+
+In her quarters, Sarah pulled up her medical scans. The cellular aging was real. Measurable. Thirty-two hours compressed into her biology like extra days she'd never lived.
+
+She thought about her family on Earth. Her mother had been proud when she'd volunteered for the FTL program. Her brother had joked about her becoming a time traveler.
+
+Neither of them had imagined this.
+
+Sarah opened a message to her mother, then closed it without writing. What would she say? "I'm aging faster than normal because I'm testing faster-than-light drives"? It sounded absurd.
+
+But it was true.
+
+Her comm buzzed. Dr. Mbara's voice: "Sarah, could you come to medical? I want to run some additional cognitive tests."
+
+"On my way."
+
+The tests took two hours. Reaction time, spatial reasoning, memory formation. Sarah performed them mechanically, her mind elsewhere.
+
+When they finished, Mbara reviewed the results with a puzzled expression.
+
+"Your cognitive function is actually improved," she said. "Reaction time up by eight percent. Spatial reasoning shows enhanced pattern recognition. It's like the temporal desynchronization enhanced your neural processing."
+
+"I aged myself smarter?"
+
+"Possibly. Or the quantum effects that cause the temporal desynchronization also enhance certain neural pathways." Mbara flagged several data points. "This needs more research, but Sarah—you might have developed enhanced cognitive abilities from jump exposure."
+
+"At the cost of cellular aging."
+
+"Yes. It's still a net negative. But it's an interesting data point."
+
+Sarah thought about trade-offs. Her body aging faster. Her mind working better. Neither was acceptable alone, but together...
+
+"Dr. Mbara, what if we could separate the effects? Find a way to get the cognitive enhancement without the cellular damage?"
+
+"That's beyond my expertise. You'd need to talk to Yamamoto."
+
+Sarah found the physicist in his lab, surrounded by displays showing Alcubierre metric calculations.
+
+"Dr. Yamamoto, I have a question. Could we induce the quantum effects that enhance cognition without actually performing a jump?"
+
+Yamamoto looked up, interested. "Explain your thinking."
+
+"The jump causes temporal desynchronization through quantum interactions with my neural activity. That causes both aging and cognitive enhancement. Could we create a localized quantum field that only affected neural tissue? Get the benefits without the costs?"
+
+"That's..." Yamamoto's fingers flew across his tablet. "That's actually brilliant. We'd need to map the exact quantum interactions, isolate the beneficial pathways, and find a way to generate them without the full spacetime distortion."
+
+"Is it possible?"
+
+"I have no idea. But it's worth researching." Yamamoto's excitement was building. "Sarah, you might have just opened a whole new field of study. Quantum cognitive enhancement without FTL travel."
+
+"And if it works, maybe we can use it to help pilots handle jump stress better."
+
+"Exactly. Turn the side effect into a feature."
+
+Sarah felt something like hope stirring. Maybe her accelerated aging hadn't been wasted. Maybe the data would lead somewhere useful.
+
+"Keep me updated on your research," she said.
+
+Back in her quarters, Sarah looked at herself in the mirror. Same face. Same eyes. But somewhere in her cells, she was older than she should be.
+
+The price of pushing boundaries. Of testing the limits of physics and human capability.
+
+She'd do it again. That's what bothered her most. Given the choice, knowing the costs, she'd still strap into that cockpit and punch through spacetime.
+
+Because someone had to. Because the future of human space travel depended on understanding these effects. Because the alternative was staying trapped in one corner of the galaxy forever.
+
+Sarah opened the message to her mother and started typing.
+
+"Mom, I need to tell you about my work. It's complicated, and I'm not supposed to share details, but you deserve to know..."
+
+She wrote for an hour, explaining FTL drives and temporal effects and the price of progress.
+
+When she finished, she felt lighter.
+
+The message wouldn't send for three hours due to communication lag. But her mother would understand. She always had.
+
+Sarah pulled up her research notes and began documenting everything she'd experienced during the jumps. Every sensation, every cognitive change, every detail that might help solve the problem.
+
+If she couldn't fly, she could at least contribute to the solution.
+
+That had to be enough.
+
+For now.

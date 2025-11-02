@@ -1,0 +1,253 @@
+Captain Jax Torres reviewed the cargo manifest for the third time. The numbers didn't add up.
+
+"Chen, you're sure about these readings?" he called to the ship's mechanic.
+
+Chen "Wrench" Liu looked up from the engine bay, grease smeared across one cheek. "Spectrometer doesn't lie, Cap. That ore composition is unlike anything in the database."
+
+Jax pulled up the sample analysis. The asteroid they'd been mining for three months had yielded standard nickel-iron ore until yesterday. Then Sofia Ruiz's deep drill had punched into a vein of something else entirely.
+
+Something that produced energy signatures strong enough to read from orbit.
+
+"Dr. Ruiz, I need you on the bridge."
+
+The xenomineralogist appeared moments later, her eyes bright with excitement. Sofia had that look—the one that meant she'd discovered something either brilliant or catastrophic.
+
+"Tell me this isn't going to kill us," Jax said.
+
+"Can't promise that. But Cap, look at this." Sofia pulled up her analysis. "This material—I'm calling it xenonite until we have a better name—it's exhibiting quantum tunneling effects at room temperature. The energy output is forty times anything we've seen in conventional power sources."
+
+"And that's good?"
+
+"That's revolutionary. If we can harness it, we're talking about power generation that makes fusion look like a campfire." Sofia's hands moved rapidly across the display. "This could change everything. Energy crisis, solved. Deep space exploration, economically viable. This one asteroid could fund humanity's expansion across the solar system."
+
+Jax felt his stomach tighten. "Who else knows about this?"
+
+"Just us. The automated mining drones flagged the anomaly, but I isolated the data before it transmitted to Earth." Sofia met his eyes. "I know what you're thinking. If the big corps find out, they'll seize this claim. Legal or not."
+
+"More than seize it. They'll eliminate us and claim we never existed." Jax had seen it happen before—small operators making big discoveries, then mysteriously vanishing. Corporate space law was written by those who could afford lawyers and enforcement fleets.
+
+Chen joined them on the bridge, wiping his hands on a rag. "So what's the play, Cap? We sitting on a fortune or a death sentence?"
+
+"Both," Jax said. "Wrench, how fast can we extract the rest of this vein?"
+
+"With our current equipment? Two weeks minimum. And that's running the drones past safety limits."
+
+"We don't have two weeks. The automated beacon just transmitted our ore composition to the mining registry. Every corp within five AU will have seen those energy signatures."
+
+"How long until they get here?"
+
+Jax ran the calculations. "Nearest corporate fleet is stationed at Ceres. Six days burn time at standard thrust. Maybe four if they push hard."
+
+"Four days to mine two weeks worth of material." Chen shook his head. "We need a miracle."
+
+"We need a plan." Jax pulled up their ship's specs. The Falcon was an aging mining vessel, barely holding together through Chen's mechanical wizardry. No weapons beyond a mining laser. No armor beyond standard hull plating. Against a corporate enforcement fleet, they'd last maybe ten seconds.
+
+"Could we negotiate?" Sofia asked. "Offer a percentage in exchange for protection?"
+
+"Corps don't negotiate. They dictate." Jax had tried that route before, back when he'd worked for Helios Mining. The memory still burned. "We hand them a sample, they'll take everything and call it salvage."
+
+"Then we hide it." Chen gestured at the display. "Park a debris field over the vein, make it look played out. Come back later when the heat dies down."
+
+"And how do we survive without income until then? We're three months behind on our loan payments." Jax felt the weight of command pressing down. Every decision affected three lives besides his own. "We need to extract enough to pay off our debts and fund the next year. Anything less, we lose the ship."
+
+Pilot Kayla Okonkwo's voice crackled over the comm from the cockpit. "Cap, we've got company. Fast-moving contact, decelerating hard. They'll be here in ninety minutes."
+
+"Transponder?"
+
+"Helios Mining Corporation. Enforcement division."
+
+Jax felt ice form in his chest. Helios. His former employer. The company that had stolen his last claim and blacklisted him across the inner system.
+
+They knew. And they were coming.
+
+"All hands, this is the captain. We're evacuating the mining site. Chen, retrieve all drones immediately. Sofia, grab whatever samples you can carry. Kayla, prep for emergency burn."
+
+"Where are we running to?" Kayla asked.
+
+"Still calculating. Just get us ready to move fast."
+
+The crew sprang into action. Jax watched the timer count down. Ninety minutes. Then eighty-five.
+
+His comm buzzed. Private channel, encrypted. The ID made him pause: Director Morrison, Helios Mining.
+
+"Captain Torres," Morrison's oily voice filled his earpiece. "Imagine my surprise seeing your name on a mining claim with interesting energy signatures. I thought we had an understanding about your operations in this sector."
+
+"My claim is registered and legal. You have no authority here."
+
+"Authority is such a flexible concept in deep space, Captain. I'm offering you a deal. Transfer your claim to Helios, and we'll write off your outstanding debts. Clean slate."
+
+"And the xenonite deposit?"
+
+"Becomes corporate property. But you walk away free and clear. That's generous, considering your history."
+
+Jax wanted to refuse on principle. But he ran the numbers. Without the claim, they had no income. With the debt, they had no future. Morrison was offering survival in exchange for the discovery that could change everything.
+
+"I need time to consider."
+
+"You have thirty minutes. After that, my enforcement team boards your vessel and conducts a safety inspection. You know how thorough those can be. Equipment failures happen. Accidents."
+
+The threat was clear. Accept or disappear.
+
+Jax cut the connection and gathered his crew.
+
+"They're offering a buyout. Clear our debts in exchange for the claim."
+
+"Screw that," Chen said immediately. "This is our find."
+
+"Our find that we can't defend." Jax pulled up the tactical display. "The Helios ship is a Titan-class enforcer. Military-grade weapons, full armor. We're outgunned in every category."
+
+"So we run," Kayla said. "Plot a course out of the belt, find somewhere to hide."
+
+"With what fuel? We're already running on fumes. One hard burn and we're coasting on emergency reserves."
+
+Sofia was quiet, studying her sample data. Then she looked up, her expression determined.
+
+"What if we can't mine it all, but we can destroy it?"
+
+The crew stared at her.
+
+"Explain," Jax said.
+
+"The xenonite is stable under normal conditions. But if we introduce enough energy—say, overload our mining laser directly into the vein—we could trigger a quantum cascade. The entire deposit goes critical."
+
+"How critical?"
+
+"Conservative estimate? Explosive yield equivalent to a small nuke. Nothing left but dust and radiation."
+
+Chen whistled. "Scorched earth. Or scorched asteroid."
+
+"If Helios can't have it, nobody can," Sofia said. "We deny them the prize and maintain leverage. They'd need us to find another deposit. Our knowledge becomes valuable again."
+
+Jax considered it. Destroy potentially the most important energy source humanity had ever discovered, just to spite a corporation. It was insane.
+
+It was also their only play.
+
+"What's the blast radius?"
+
+"Two hundred kilometers, minimum. We'd need to be well clear before detonation."
+
+"Time to set it up?"
+
+"Twenty minutes. Most of it's just reprogramming the mining laser's safety protocols."
+
+Jax looked at his crew. Chen nodded immediately. Kayla's expression was harder to read, but she didn't object. Sofia waited for his decision.
+
+"Do it," Jax said. "Kayla, plot an escape vector. Maximum burn as soon as Sofia triggers the laser. We'll be cutting it close on fuel, but we'll be alive."
+
+The crew scattered. Jax opened a channel to the Helios ship.
+
+"Director Morrison. We accept your offer. Transmitting claim transfer documents now."
+
+"A wise decision, Captain. My team will board in sixty minutes to verify the deposit and finalize the transfer."
+
+"Looking forward to it."
+
+Jax cut the line and switched to internal comm. "Sofia, status?"
+
+"Laser's reprogrammed. Trigger set for remote detonation. We'll have a five-minute countdown once I activate it."
+
+"Chen, drones?"
+
+"All recovered and stowed. We're losing some equipment, but nothing we can't replace."
+
+"Kayla, engine status?"
+
+"Preheated and ready. We'll be flying on vapor by the time we're clear, but we'll make it."
+
+Jax watched the Helios ship approach. Fifty minutes. Forty.
+
+"Sofia, activate the trigger. All hands, prepare for emergency burn."
+
+"Trigger active. Five minutes to detonation."
+
+The Falcon's engines flared. Acceleration pressed Jax into his seat as Kayla pushed the aging ship to its limits. The asteroid fell away behind them, the Helios enforcer closing fast.
+
+"They're hailing us," Kayla reported.
+
+"Ignore it. How long until we're clear of the blast radius?"
+
+"Three minutes. We're cutting it close, Cap."
+
+Morrison's voice crackled over the emergency channel. "Captain Torres, you are in violation of your transfer agreement. Return to the mining site immediately."
+
+Jax counted down silently. Two minutes. Ninety seconds.
+
+"Captain, they're powering weapons," Kayla said, her voice tight.
+
+"Stay on course. They won't fire until they know what's happening."
+
+Sixty seconds.
+
+The Helios ship matched their acceleration, closing the gap. Jax could see it on the display—a predator running down its prey.
+
+Thirty seconds.
+
+"They're preparing to fire," Kayla said.
+
+"Hold course."
+
+Fifteen seconds.
+
+The mining laser activated, pumping terawatts of energy directly into the xenonite vein. Jax held his breath.
+
+The asteroid exploded.
+
+The blast wave hit the Helios ship first, still too close to the detonation point. Their shields flared, then failed. The enforcer tumbled, crippled but intact.
+
+The Falcon rode the edge of the expanding debris field, hull groaning under the stress. Alarms screamed. Kayla fought the controls, keeping them steady through the chaos.
+
+Then they were through. Clear. Alive.
+
+Behind them, the asteroid was gone. Just expanding gases and radiation signatures marking where humanity's energy future had been.
+
+"Damage report," Jax said when his voice worked again.
+
+"Hull integrity at seventy percent. Engines stable but fuel reserves critical. We've got maybe three days of maneuvering thrust left." Chen sounded shaken but functional.
+
+"The Helios ship?"
+
+"Dead in space. Life support active, but they're not going anywhere without a tow."
+
+Jax opened a channel. "Director Morrison. This is Captain Torres. As you can see, the mining claim is no longer viable. Consider our business concluded."
+
+"You'll pay for this, Torres. Helios doesn't forget."
+
+"Neither do I." Jax closed the channel and turned to his crew. "Kayla, set course for the outer belt. Somewhere we can lay low and regroup."
+
+"What about fuel?"
+
+"We'll figure it out. We always do."
+
+Sofia was staring at her empty sample containers. "We just destroyed the most significant energy discovery in human history."
+
+"We denied it to people who would have used it to enslave half the solar system," Jax corrected. "That's close enough to doing the right thing."
+
+"Is it? We could have changed everything."
+
+"We're still alive. Our ship isn't impounded. Our crew isn't floating in the debris field." Jax met her eyes. "That's the best we could have hoped for."
+
+The Falcon limped into the darkness between asteroids. Behind them, Helios would be calling for reinforcements, filing complaints, adding Jax's name to a very permanent blacklist.
+
+But they were alive. And free. And in the lawless reaches of the asteroid belt, that was worth more than all the xenonite in the solar system.
+
+Chen appeared on the bridge, wiping his hands. "Cap, the good news is we didn't lose any critical systems. The bad news is we're going to be fixing stress fractures for the next month."
+
+"Can we mine while we fix?"
+
+"If we're careful. And lucky."
+
+"Then we do that. Find some nice, boring nickel-iron asteroids. No exotic energy sources. No corporate interest. Just honest work."
+
+"Boring never felt so good," Kayla said.
+
+Jax pulled up the star charts. Thousands of asteroids, millions of tons of ore, infinite possibilities. They'd lost the big score. But they'd kept their freedom.
+
+In the end, that was what mattered.
+
+"Crew meeting in six hours," he said. "We need to plan our next move. For now, get some rest. You earned it."
+
+The bridge cleared. Jax stayed, watching the stars and thinking about the fortune they'd destroyed.
+
+No regrets. They'd made the right call.
+
+Even if it hurt like hell.

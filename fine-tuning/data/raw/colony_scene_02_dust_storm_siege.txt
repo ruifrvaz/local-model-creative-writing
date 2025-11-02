@@ -1,0 +1,171 @@
+The dust storm hit at 1800 hours. Alexis watched from the observation dome as the horizon turned rust-orange, then brown, then vanished entirely behind a wall of particulates moving at two hundred kilometers per hour.
+
+"All personnel to shelter modules," Commander Rivera's voice echoed through the colony. "This is not a drill. Storm duration estimated at six to eight days."
+
+Six to eight days of darkness. The solar arrays would be useless, buried under meters of fine Martian dust. They'd be running on batteries alone.
+
+Alexis pulled up the power consumption reports. The numbers weren't encouraging.
+
+"We have a problem," she said into her comm.
+
+Rivera appeared in the dome three minutes later. The commander looked calm, but Alexis had learned to read the tension in her shoulders.
+
+"How bad?"
+
+"Battery reserves will last four days at current consumption. Maybe five if we start rationing power immediately." Alexis showed her the projections. "After that, we start shutting down life support."
+
+"Define immediately."
+
+"Lights, personal devices, non-essential heating. We keep medical, food prep, and critical research online. Everything else goes dark."
+
+Rivera studied the numbers. "The greenhouses?"
+
+"Will have to run on minimal lighting. We'll lose some crops, but the plants can survive in low-light conditions for a few days." Alexis switched to the environmental systems. "Bigger problem is thermal regulation. Without active heating, the outer modules will drop below freezing."
+
+"How long until we have to evacuate them?"
+
+"Twelve hours, maybe less. We'll need to consolidate everyone into the central habitat modules." Alexis pulled up the colony layout. "It's going to be crowded."
+
+Rivera nodded slowly. "Do it. I'll make the announcement. How fast can you implement the power rationing?"
+
+"I can start now. Automated shutdown of non-critical systems, then manual verification." Alexis's fingers were already moving across her tablet. "Give me thirty minutes."
+
+"You have twenty." Rivera headed for the door. "I need to brief Earth corporate before they see the power consumption drop and panic."
+
+Alone in the dome, Alexis initiated the shutdown sequence. Lights flickered throughout the colony as sections went dark. Personal terminals died. Recreation facilities powered down. The colony that had felt almost human moments ago was rapidly becoming a machine stripped to its essential functions.
+
+Survive. Nothing else mattered.
+
+Her comm chimed. Yuki Tanaka's voice, anxious. "Alexis, the greenhouses are dropping temperature faster than expected. I'm reading ten degrees below normal in module G-4."
+
+Alexis checked the sensors. The greenhouse module was on the colony's eastern edge, most exposed to the storm. The dust was already piling up against the external walls, thermal blankets struggling to compensate.
+
+"Increase heating to the greenhouses," she said. "We can't afford to lose the crops."
+
+"That'll cut into our power reserves."
+
+"I know. But we can survive four days without lights. We can't survive long-term without food production."
+
+Yuki acknowledged and adjusted the systems. Alexis watched the power consumption tick upward, eating into their precious battery reserves. Every decision was a trade-off. Every choice had consequences.
+
+Her wrist display showed movement outside—autonomous drones attempting to clear dust from the solar arrays. It was futile. The storm was too strong. The drones would be buried within hours.
+
+But they tried anyway. That was the thing about machines. They followed their programming, relentless and uncomplaining.
+
+Unlike humans.
+
+"Kwan, this is Martinez in medical." A new voice on the comm. "We've got three people showing anxiety responses to the power shutdown. Nothing critical, but I'm recommending sedatives for one of them."
+
+"Approved. Keep me posted if anyone else shows stress responses." Alexis made a note. The psychological toll of Mars was as real as the engineering challenges. Maybe more dangerous, because you couldn't see it coming until someone broke.
+
+The storm intensified outside. Wind-driven dust scoured the colony's exterior, a constant hiss through the walls. Alexis had lived through four major storms since arriving on Mars. This one felt worse. Meaner.
+
+Or maybe she was just tired.
+
+"All personnel, this is Rivera." The commander's voice carried across the colony-wide channel. "We're implementing power conservation protocols. Non-essential modules will be evacuated within the hour. I need everyone to gather personal items and report to central habitation by 1930 hours. Take only what you can carry. We'll retrieve everything else once the storm passes."
+
+Alexis listened to the announcements, the questions, the barely concealed fear in people's voices. Mars attracted a certain type—risk-takers, pioneers, people who thought they could handle anything. But a six-day storm tested everyone.
+
+She began her rounds, checking systems manually. Structural integrity sensors showed the outer modules holding steady despite the wind stress. Good. The regolith-filled walls were doing their job, absorbing the storm's fury.
+
+In the greenhouses, Yuki was moving among the plants, checking growth levels, adjusting nutrient feeds. The young engineer's face was pinched with worry.
+
+"How are they looking?" Alexis asked.
+
+"Stressed. The reduced light is already affecting photosynthesis rates." Yuki gestured at a row of tomato plants. "I've increased the LED output where I can, but we're still at sixty percent of normal illumination."
+
+"They'll survive?"
+
+"Most of them. We'll lose the more sensitive varieties." Yuki touched a leaf gently. "The wheat should be fine. Potatoes too. But the fresh vegetables..."
+
+"We'll make do." Alexis studied the plants. Green life in a world of rust. Fragile and precious. "Do what you can. I'll allocate extra power if the batteries hold out."
+
+Back in the central hub, the colony was transforming. People moved through corridors with bags and equipment, relocating to the inner modules. The mood was tense but controlled. Everyone had drilled for this scenario.
+
+Hassan found her near the water recycling plant. The geologist looked energized rather than worried—storms meant fresh regolith deposits, new samples to analyze.
+
+"This is going to bury the western excavation site," he said, showing her topographic projections. "Could be a silver lining. We'll have access to deeper strata once we dig out."
+
+"Always the optimist," Alexis said.
+
+"Someone has to be." Hassan grinned. "Besides, I've been wanting to check the subsurface composition in that area. Storm might save me three weeks of manual excavation."
+
+The lights flickered. Alexis's heart jumped before she checked her display—planned fluctuation, battery switchover. Everything nominal.
+
+But the flicker was a reminder. Four days of reserves. Maybe five.
+
+After that, darkness.
+
+"Hassan, I need you to calculate something for me." Alexis pulled up the storm projections. "If this runs longer than eight days, what's our contingency?"
+
+Hassan's smile faded. "You mean survival calculations?"
+
+"I mean how long can we keep people alive if the batteries die before the storm clears."
+
+He worked the numbers silently, his fingers moving across his tablet. When he looked up, his expression was grim.
+
+"Seventy-two hours in the insulated modules without power. Maybe ninety-six if we use emergency thermal blankets and keep everyone in a single space." He paused. "But that's survival, not comfort. Carbon dioxide would build up, oxygen would deplete. We'd be looking at hypoxia risks within forty-eight hours."
+
+"Chemical scrubbers?"
+
+"We have enough for five days. After that..." Hassan shrugged. "We'd need to choose. Breathable air or warmth."
+
+Alexis nodded slowly. The math was brutal but clear. If the storm exceeded their reserves, they'd face impossible choices.
+
+"Let's hope it doesn't come to that."
+
+"Hope's not a plan," Hassan said. "What's the backup?"
+
+Alexis appreciated his directness. "There isn't one. If the storm runs past our reserves, we're in survival mode. All research stops, all non-essential activities cease. We huddle together and wait."
+
+"And if it runs even longer?"
+
+She didn't answer. They both knew the reality. Mars was unforgiving. Sooner or later, every colony faced a crisis that exceeded their reserves. The ones that survived were lucky.
+
+The ones that didn't became cautionary tales.
+
+Rivera's voice cut through her thoughts. "Kwan, I need you in the command center."
+
+Alexis found the commander surrounded by displays showing system status, weather projections, resource calculations. Rivera looked exhausted.
+
+"Earth corporate wants a detailed report," Rivera said. "They're concerned about the power situation."
+
+"Concerned enough to send a relief shipment?"
+
+"They're 'evaluating options.'" Rivera's tone made it clear what she thought of that. "Translation: they're calculating whether it's cheaper to support us or write off the investment."
+
+Alexis felt anger rise. "We have sixty-three people here. Sixty-three lives."
+
+"And they have shareholders." Rivera rubbed her eyes. "I'm fighting for an emergency power delivery, but the earliest it could arrive is four months. Even if they approve it today."
+
+Four months. Might as well be forever.
+
+"So we're on our own."
+
+"We're always on our own." Rivera pulled up a personnel roster. "I'm drafting a storm protocol. Mandatory rest periods, group activities to maintain morale, rationed communications with Earth to save bandwidth. We need to keep people together, psychologically."
+
+"I'll help however I can."
+
+"I need you to lead the engineering teams. Daily briefings on power status, transparent communication about our reserves." Rivera met her eyes. "No sugarcoating. People need to know the truth so they can handle it."
+
+Alexis nodded. Transparency. It was the only currency that mattered in a crisis.
+
+The storm raged outside, invisible but omnipresent. Dust piled against the walls, centimeter by centimeter. Solar arrays disappeared under Martian soil. The colony became an island in a sea of particulates.
+
+Four days of reserves.
+
+Six to eight days of storm.
+
+The math didn't add up.
+
+But Alexis had learned that Mars didn't care about math. It cared about will. About the ability to keep going when the numbers said you should quit.
+
+She returned to her station and began drafting the engineering protocol. Every system, every backup, every last-resort option. They'd need all of it.
+
+And maybe, just maybe, it would be enough.
+
+Outside, the storm screamed.
+
+Inside, the colony endured.
+
+It was all they could do.

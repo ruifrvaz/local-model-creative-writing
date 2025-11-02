@@ -1,0 +1,167 @@
+The alarm woke Alexis at 0430. Not the pleasant chime of her personal terminal, but the harsh blare that meant critical system failure.
+
+She was moving before her eyes were fully open. Boots on, jumpsuit sealed, hands already pulling up diagnostics on her wrist display. The numbers made her stomach drop.
+
+Water recycling plant. Cascade failure in the microbial filtration system. Estimated time to complete shutdown: fourteen hours.
+
+Fourteen hours until the colony's water supply became a closed loop with no purification. Two days after that, toxin buildup would reach dangerous levels. Four days, and people would start dying.
+
+"Kwan here," she said into her comm. "I'm on my way. Wake Hassan and Tanaka. We need all hands."
+
+The corridors were quiet. Most of the colony was still asleep, unaware that their fragile foothold on Mars was unraveling. Alexis jogged through the interconnected modules, her breath fogging in the cool air. They kept the hab temperature low to conserve power. Every watt mattered.
+
+The recycling plant occupied an entire module near the edge of the settlement. When Alexis arrived, the smell hit her first—the sour, organic stink of microbial cultures dying en masse.
+
+Not good.
+
+Yuki Tanaka was already there, shoulder-deep in an access panel. Her face was grim.
+
+"Tell me something I want to hear," Alexis said.
+
+"The primary culture tanks are contaminated. Unknown organism, possibly from the regolith we processed last week." Yuki pulled out a sample vial. The liquid inside was cloudy, wrong. "It's outcompeting our engineered bacteria."
+
+"Can we flush and restart?"
+
+"Not without sacrificing three weeks of water reserves. And we'd need fresh cultures from Earth." Yuki's voice was flat. "Sixteen-month delivery time."
+
+Alexis felt the math settle like a weight. They had four months of reserve water. Rationing could stretch it to six. Not even close.
+
+"Options?"
+
+"I'm working on isolating the contaminant. If I can identify it, maybe we can engineer a counter-agent." Yuki gestured at her portable lab setup. "But that's theoretical. I've never done field genetic engineering on this scale."
+
+"Time estimate?"
+
+"Best case? Ten hours to ID the organism, another twenty to design and culture a solution." Yuki met her eyes. "Worst case, we're looking at complete system redesign."
+
+"Which we can't afford." Alexis pulled up the colony's resource inventory. Every component was precious, shipped from Earth at enormous cost. They didn't have spare filtration systems. They didn't have spare anything.
+
+The door hissed open. Dr. Omar Hassan entered, still pulling on his jacket. The geologist looked alert despite the hour—a skill learned from years of field work in harsh environments.
+
+"Heard we have a problem," he said.
+
+"Contaminated water recycling. Unknown organism, possibly from the regolith."
+
+Hassan's expression sharpened. "Show me the sample."
+
+Yuki handed him the vial. He held it up to the light, studying the murky liquid with the intensity of someone who'd spent his life reading stories in rocks.
+
+"This isn't random," he said after a moment. "I've seen this pattern before. In the subsurface samples from sector seven."
+
+Alexis felt something click. "The anomalous readings you flagged last month?"
+
+"Yeah. I thought it was just unusual mineral content, but if there's biological activity..." Hassan set down the vial carefully. "We might have just discovered Martian microbes."
+
+The implications hung in the air. First life discovered on Mars. A scientific triumph. Also, potentially, the thing that would kill them all.
+
+"Can we use that?" Alexis asked. "If it's native, maybe it's adapted to Martian conditions. Could we incorporate it into our recycling system?"
+
+"Or it could produce toxins our bodies can't handle." Hassan pulled out his tablet. "I'll need to run a full analysis. Metabolic pathways, waste products, growth rate."
+
+"How long?"
+
+"Six hours for a preliminary assessment."
+
+Alexis did the math again. Six hours for Hassan's analysis, ten hours for Yuki to work out a solution. Sixteen hours total. Two hours past their shutdown deadline.
+
+"We're cutting it close," she said.
+
+"Story of our lives," Yuki muttered.
+
+Alexis's comm chirped. Commander Rivera's voice, tight with concern. "Kwan, I'm getting alerts. What's our status?"
+
+"Water recycling failure. We're working on it."
+
+"How bad?"
+
+"Bad enough that I need Earth corporate to stay out of my way for the next sixteen hours. Can you run interference?"
+
+A pause. Rivera knew what that meant—she'd have to deal with the bean counters who'd funded this colony, who expected daily reports and justifications for every resource expenditure.
+
+"I'll handle it," Rivera said. "Keep me updated."
+
+The line went dead. Alexis turned back to her team. Hassan was already setting up his analysis equipment. Yuki had returned to the culture tanks, collecting more samples.
+
+Competent people, working a problem. It should have been reassuring.
+
+But Alexis had seen what Mars did to the competent. She'd seen three resupply missions fail in two years. She'd watched good engineers jury-rig solutions that held together with prayers and epoxy. She'd signed condolence messages to families on Earth when those solutions failed.
+
+Mars didn't care about competence. It cared about luck, and theirs was running thin.
+
+"Alexis." Yuki's voice pulled her back. "I need a decision. Do I try to salvage the existing cultures, or do we start fresh?"
+
+The engineering problem. Always a choice between bad and worse.
+
+"Start fresh," Alexis said. "If the contamination is spreading, salvaging might just delay the inevitable. We need a clean baseline."
+
+Yuki nodded and began the shutdown sequence. Three weeks of carefully nurtured bacterial cultures, about to be flushed into the waste reclamation system. Months of work, gone.
+
+But it was the right call. Alexis knew it in her gut, the same way she knew load-bearing calculations and stress tolerances. Some things you couldn't save. You cut your losses and rebuilt.
+
+"Hassan, what's the concentration of the native microbes in the regolith?"
+
+"Sparse. Maybe ten to the fifth cells per gram in the richest samples." Hassan looked up from his microscope. "Why?"
+
+"Because if we're going to build a new system, we need to filter them out at the source. Add another processing step before the regolith enters our water extraction system."
+
+"That'll slow production."
+
+"I know." Alexis pulled up the engineering schematics. "But it's better than another contamination event."
+
+The work settled into a rhythm. Hassan analyzing samples, Yuki designing filtration protocols, Alexis modeling system modifications. The hours blurred together, marked only by the steady countdown on her wrist display.
+
+Eight hours remaining. Then six. Then four.
+
+Rivera checked in every hour. Alexis could hear the stress in her commander's voice, the pressure from Earth mounting. The corporate sponsors wanted assurances. They wanted guarantees. They wanted to know their investment was safe.
+
+Alexis wanted to tell them the truth: nothing on Mars was safe. Every day was a calculated risk, every system one failure away from catastrophe.
+
+But she kept working instead.
+
+At hour fifteen, Hassan had results. "The microbes are anaerobic methanogens. They produce methane and water as metabolic byproducts."
+
+"Useful?" Alexis asked.
+
+"Potentially. If we can culture them in controlled conditions, they might actually enhance our water production." Hassan showed her the projections. "But we'd need to completely redesign the recycling plant."
+
+"Which we don't have time for now." Alexis made the call. "Add it to the long-term development queue. Right now, I need filtration specs to keep them out of our existing system."
+
+Hassan nodded and went back to work.
+
+At hour sixteen, Yuki had new cultures growing. Modified bacteria, engineered to outcompete any potential contamination. The cultures were fragile, untested in real-world conditions. But they were their best shot.
+
+"Seeding now," Yuki said. Her hands were steady as she introduced the new cultures into the cleaned tanks. "We'll know in two hours if it's working."
+
+Two hours past their deadline. Alexis watched the monitoring systems, looking for any sign of growth, any indication that they'd solved the problem.
+
+The numbers began to shift. Slowly at first, then faster. Culture density increasing. Filtration efficiency climbing. System pressure stabilizing.
+
+"It's working," Yuki said, and the relief in her voice was palpable.
+
+Alexis allowed herself one deep breath. Then she opened a channel to Rivera.
+
+"Water recycling is back online. We're stable."
+
+"Good work, Kwan." Rivera sounded as tired as Alexis felt. "Get some rest. I'll brief Earth corporate."
+
+Alexis closed the channel and looked at her team. Hassan was still at his microscope, documenting the native microbes for the scientific record. Yuki was monitoring the new cultures with the intensity of a parent watching a sick child.
+
+They'd done it. Sixteen hours to solve a problem that should have killed them.
+
+Just another day on Mars.
+
+"Thank you," Alexis said quietly.
+
+Yuki glanced up, surprised. Hassan looked over from his work.
+
+"We're not done yet," Yuki said. "The cultures need to stabilize. We should monitor them for at least—"
+
+"I know. But thank you anyway." Alexis headed for the door. "I'll be in my quarters if anything changes. Don't hesitate to wake me."
+
+The walk back felt longer than the frantic run to the plant. Exhaustion was setting in, the adrenaline crash making her limbs heavy. But under the fatigue was something else: pride.
+
+They'd saved the colony. Not with Earth's help, not with corporate resources. Just three people and the knowledge in their heads.
+
+Maybe that was enough.
+
+Maybe they'd make it after all.
