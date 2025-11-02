@@ -1,0 +1,163 @@
+Engineer Malik Torres stood in the Endurance's engine bay, calculating deceleration burns.
+
+Six months to orbit. Six months of carefully timed thrust to slow from point-three lightspeed to orbital velocity.
+
+Every calculation had to be perfect. Too much thrust and they'd waste fuel. Too little and they'd overshoot the planet entirely.
+
+"The margins are tight," he told Captain Reyes.
+
+"Tight is our specialty. What do you need?"
+
+"Continuous monitoring. Real-time corrections. And prayer that nothing breaks during the burn sequence."
+
+"I can provide the first two. The third is your department."
+
+Malik pulled up the burn schedule. Twelve major thrust events. Hundreds of minor corrections. All coordinated across fusion reactors designed for steady cruise, not aggressive maneuvering.
+
+They'd pushed the Endurance beyond every design specification. Now they were asking it to perform like a racing ship instead of a generational ark.
+
+The first burn initiated on schedule. Smooth. Controlled. Exactly as planned.
+
+The ship shuddered slightly as thrust built. Malik monitored structural stress indicators. All within acceptable ranges.
+
+Six hours of continuous burn. Then shutdown. Assess. Prepare for the next sequence.
+
+"Burn one complete," he reported. "Velocity reduced by point-zero-three lightspeed. On target."
+
+"Eleven more to go," Reyes said. "How's the hull holding?"
+
+Malik checked stress measurements. Elevated. But not critical. "She's handling it. Designed for micrometeorite impact. Turns out that makes her sturdy enough for aggressive maneuvering."
+
+"Lucky us."
+
+Luck. Malik wasn't sure that word applied to a ship held together by improvisation and determination. But they'd take what they could get.
+
+The second burn happened a week later. Longer. More intense. Pushing the reactors to eighty percent capacity.
+
+Halfway through, one of the plasma injectors started vibrating. Excessive oscillation. Approaching dangerous resonance.
+
+"We have a problem," Malik reported. "Injector three showing harmonic instability."
+
+"Can we continue the burn?"
+
+"For maybe another hour. Then we risk injector failure."
+
+"Which would mean?"
+
+"Loss of thrust on one reactor. Unbalanced acceleration. Possible structural damage."
+
+Reyes made the call. "Abort burn. Shut down reactor two. We'll compensate with extended burns on the other reactors."
+
+Malik shut down the failing system. The deceleration curve immediately shifted. They were burning less. Slowing more gradually.
+
+"Recalculating trajectory," navigation reported. "With reduced thrust, we'll need an additional three weeks to reach orbit."
+
+"Three weeks we don't have," Reyes said. "Supplies are calculated for six-month arrival."
+
+"Then we ration. Again." Malik pulled up resource projections. "Food, water, air—we can stretch it. Barely."
+
+"Do it. And Malik, fix that injector. We need every reactor operational."
+
+Malik spent two days diagnosing the problem. Harmonic resonance in the plasma containment coils. Age-related degradation. The coils were designed for steady-state operation, not the variable thrust required for deceleration.
+
+He could replace them. If they had spares. Which they didn't.
+
+Or he could tune them. Adjust the resonance frequency. Make the oscillation work with the coils instead of against them.
+
+Risky. Potentially catastrophic. But possible.
+
+He implemented the tuning carefully. Micro-adjustments to magnetic field strength. Careful monitoring of plasma stability.
+
+The resonance shifted. Still present. But now within acceptable ranges.
+
+"Reactor two back online," he reported. "But we need to monitor continuously. This is a patch, not a fix."
+
+"Story of this mission," Reyes said. "Continue deceleration on all reactors. We'll watch the vibration."
+
+The burn sequence continued. Week by week. Thrust event by thrust event.
+
+On burn seven, another injector developed problems. Different reactor. Same resonance issue.
+
+Malik tuned it the same way. Shifting frequency. Making harmonics work instead of destroy.
+
+They were running out of margins. Every system pushed to limits. Every component stressed beyond design specifications.
+
+"How many more burns can we survive?" Reyes asked.
+
+"Unknown. We're in uncharted territory. The Endurance was never designed for this kind of maneuvering."
+
+"But she's handling it."
+
+"She's surviving it. There's a difference."
+
+Burn ten completed successfully. Burn eleven showed excessive vibration in three separate systems. Malik tuned each one. Buying time with improvisation.
+
+Burn twelve was the final major thrust event. Six hours of maximum sustainable acceleration. The last hard push before orbital insertion.
+
+"All systems online," Malik reported. "Reactors at seventy-five percent. Injectors tuned and stable."
+
+"Initiate burn."
+
+The Endurance shuddered as thrust built. Malik watched every indicator. Every sensor. Every stress measurement.
+
+Three hours in, structural alerts started appearing. Hull stress exceeding design limits. Not critical yet. But approaching.
+
+"We're flexing," he reported. "The hull is bending under thrust."
+
+"How much can she bend?"
+
+"More than this. I hope."
+
+Four hours. The stress continued. Metal groaning. Supports creaking. The sound of a ship pushed beyond reason.
+
+Five hours. One injector started oscillating again. Malik adjusted tuning in real-time. Fighting resonance. Preventing failure.
+
+Six hours. The burn completed. Thrust ceased. The Endurance groaned as stress released.
+
+Malik ran structural diagnostics. Micro-fractures in twelve support beams. Deformation in three hull sections. Nothing catastrophic. But damage that would accumulate.
+
+"We're in orbit," navigation reported. "Velocity matched. Position stable."
+
+The crew erupted in celebration. Cheering. Hugging. Relief washing over eight thousand people.
+
+They'd made it. Six months of desperate deceleration. Countless repairs. Improvisation stacked on improvisation.
+
+And they'd arrived.
+
+Malik slumped against a console. Exhausted. Running on stimulants and determination.
+
+Reyes found him in the engine bay. "You did it. Got us here in one piece."
+
+"Barely. This ship is held together by hope and engineering creativity."
+
+"That's all it's ever been. We just pushed it further than anyone expected."
+
+Malik looked at the stress indicators. The damage reports. The systems running on patches and prayer.
+
+"Landing is going to be even harder. We're converting an interstellar ark into atmospheric descent vehicles. Using components never designed for planetary entry."
+
+"Can it be done?"
+
+"Ask me in six months after we've tried and hopefully survived."
+
+Reyes smiled. "Six months. You're an optimist."
+
+"I'm an engineer. Optimism is all we have when physics says no and we do it anyway."
+
+They stood together, looking at damage assessments and planning the next impossible task.
+
+The Endurance had survived interstellar travel. Survived desperate deceleration. Survived two centuries of constant operation.
+
+Now it would survive one final transformation. From starship to landing fleet.
+
+Or it wouldn't. And eight thousand people would die in the attempt.
+
+But that was tomorrow's crisis. Today, they celebrated reaching orbit.
+
+One impossible milestone at a time. The only way to survive against odds that should have killed them decades ago.
+
+Malik started drafting the landing conversion plans. Knowing they were impossible. Knowing he'd do them anyway.
+
+Because impossible was just another word for difficult.
+
+And difficult was the Endurance's specialty.
