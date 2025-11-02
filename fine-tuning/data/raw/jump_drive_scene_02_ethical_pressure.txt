@@ -1,0 +1,193 @@
+Dr. Kenji Yamamoto stared at the equations until they blurred. The mathematics were beautiful—elegant proofs of spacetime manipulation that would make faster-than-light travel practical.
+
+They were also killing his test pilots.
+
+Lieutenant Chen's latest medical report sat beside the equations. Cellular aging equivalent to six months compressed into three weeks of jump testing. Her telomeres were shortening. DNA repair mechanisms were overwhelmed. If they continued current test schedules, she'd be biologically fifty by the time she turned thirty-five.
+
+Admiral Kowalski entered the lab without knocking. "Dr. Yamamoto, we need solutions."
+
+"I'm working on them."
+
+"Work faster. I just got a memo from Fleet Command. They want operational FTL drives within eighteen months. Full deployment across the fleet."
+
+Yamamoto looked up from his equations. "That's impossible. We haven't solved the biological cost problem."
+
+"Then solve it. Or find pilots who accept the costs." Kowalski sat heavily. "Fleet thinks FTL capability is worth the sacrifice."
+
+"Easy to say when you're not the one aging prematurely."
+
+"I agree. But I'm not making the decision. I'm delivering it." Kowalski pulled up deployment projections. "Fleet Command sees FTL as strategic necessity. China and the European Union are developing their own drives. We need to field ours first or risk falling behind."
+
+"So we sacrifice pilots for strategic advantage?"
+
+"We sacrifice nothing. We ask for volunteers who understand the risks. Some will accept. Enough will accept."
+
+Yamamoto felt sick. "That's not science. That's exploitation."
+
+"That's war, Dr. Yamamoto. Cold war, maybe, but war nonetheless. The first power to control FTL travel controls the solar system." Kowalski stood. "I need you to finish the drive design. Make it as safe as you can. But finish it. Eighteen months."
+
+After Kowalski left, Yamamoto pulled up Lieutenant Chen's medical data again. The aging was accelerating. Early jumps showed minimal effects. Recent jumps showed exponential damage accumulation.
+
+The drive wasn't getting safer. It was getting more dangerous as pilots accumulated exposure.
+
+He needed a solution. Not an incremental improvement, but a fundamental redesign.
+
+Dr. Mbara appeared in his lab doorway. "Kenji, do you have a minute?"
+
+"For you, always." Yamamoto gestured at a chair. "What's wrong?"
+
+"Everything. Fleet Command is pushing for deployment without proper safety validation. Sarah's health is deteriorating. And I just got test results from the other pilots." Mbara pulled up medical scans. "Every pilot shows accelerated aging. Proportional to jump exposure. It's not unique to Sarah—it's systemic."
+
+"How bad?"
+
+"Worst case? Captain Martinez has aged nine months in six weeks of testing. His cardiovascular system is showing stress patterns consistent with someone fifteen years older." Mbara's hands shook slightly. "We're destroying these people, Kenji."
+
+"I know. I'm trying to fix it."
+
+"Try harder. Or we need to shut down the program entirely."
+
+Yamamoto looked at his equations. The Alcubierre metric was theoretically sound. The drive mechanics worked. But the biological interface—human consciousness interacting with warped spacetime—created effects they couldn't control.
+
+Unless they removed the human element entirely.
+
+"What if we don't use human pilots?" Yamamoto said slowly.
+
+"AI navigation? We've been over this. The complexity—"
+
+"Not AI. Remote operation. Pilots stay in normal spacetime, control the ship through quantum-entangled interfaces." Yamamoto pulled up schematics. "The ship jumps, but the pilot doesn't. No biological exposure to the temporal effects."
+
+Mbara considered it. "Quantum entanglement across light-years? That's theoretical."
+
+"So was FTL travel a year ago." Yamamoto began sketching designs. "We'd need to solve the decoherence problem, establish stable entanglement across interstellar distances, develop control systems that work with near-zero latency."
+
+"That's three separate technological breakthroughs."
+
+"I'm aware. But it's better than asking pilots to age themselves to death."
+
+Mbara studied the sketches. "How long to develop this?"
+
+"Years. Maybe decades."
+
+"We have eighteen months."
+
+"Then we tell Fleet Command their timeline is unrealistic. Some problems can't be rushed."
+
+"They'll find someone else to build the drives. Someone who doesn't care about biological costs."
+
+Yamamoto slumped in his chair. Mbara was right. If he refused, Fleet would hire someone with lower ethical standards. The drives would get built either way. At least if he stayed involved, he could try to minimize the damage.
+
+"I hate this," he said quietly.
+
+"Me too. But we keep working. Try to find solutions that don't destroy people." Mbara touched his shoulder. "You're a good scientist, Kenji. Don't let them turn you into something else."
+
+After she left, Yamamoto returned to his equations. But now he was seeing them differently. Not as pure mathematics, but as weapons. Tools that would enable war, expansion, exploitation.
+
+The same pattern humanity had followed for millennia. New technology, new frontiers, new excuses for violence.
+
+FTL travel wouldn't change that. It would just expand the battlefield.
+
+His comm buzzed. Lieutenant Chen, requesting a meeting.
+
+She arrived looking exhausted. The aging was visible now—fine lines around her eyes, slight graying in her hair. She was twenty-eight but could pass for thirty-five.
+
+"Dr. Yamamoto, I need to know. Is there any way to reverse the aging effects?"
+
+He wanted to lie. Tell her they'd find a cure, fix the damage, restore her lost time.
+
+But she deserved truth.
+
+"Not with current medical technology. Maybe in the future, if we develop advanced cellular regeneration techniques. But right now? No."
+
+Chen nodded slowly. "I thought so. I just wanted confirmation."
+
+"I'm sorry, Lieutenant. If I'd realized the effects sooner—"
+
+"You couldn't have known. Nobody could." She met his eyes. "I'm going to keep flying. Admiral Kowalski asked if I'd continue testing. I said yes."
+
+"Sarah, you don't have to do that. You've already given more than anyone should ask."
+
+"I know. But someone has to test the improvements you're making. Better me, who understands the risks, than some rookie who doesn't know what they're signing up for."
+
+"That's admirable. Also potentially suicidal."
+
+"Maybe. But it's my choice." Chen pulled up her flight schedule. "I'm limiting myself to one jump per week. Longer recovery between tests. Dr. Mbara thinks that might slow the aging accumulation."
+
+"Might. We don't have enough data to be sure."
+
+"Then we'll get data. That's what test pilots do." She stood. "Keep working on solutions, Dr. Yamamoto. I'll buy you time by keeping the program running. Deal?"
+
+Yamamoto shook her hand. "Deal. And Sarah? Thank you. For your service. Your sacrifice."
+
+"Save the thanks for when you actually fix this thing. Until then, we're both just doing our jobs."
+
+After she left, Yamamoto pulled up the remote operation designs. Quantum entanglement. Decoherence prevention. Interstellar control systems.
+
+Three impossible problems. But he'd solved impossible problems before.
+
+He'd do it again. For Sarah. For all the pilots putting their bodies on the line while politicians demanded results.
+
+The mathematics flowed. Not elegantly this time, but functionally. Rough sketches of quantum communication protocols. Error correction algorithms. Entanglement stabilization techniques.
+
+It would take years to develop. Years they didn't have.
+
+Unless he could accelerate the research. Pull in additional expertise. Get Fleet Command to extend their deadline.
+
+Yamamoto opened a channel to Admiral Kowalski.
+
+"Admiral, I have a proposal. A way to eliminate biological costs from FTL travel. But I need resources and time."
+
+"How much time?"
+
+"Three years minimum. Maybe five."
+
+"Fleet wants deployment in eighteen months."
+
+"Then Fleet can build drives that kill their pilots. I'm offering an alternative that actually works long-term." Yamamoto sent over the preliminary designs. "Remote operation via quantum entanglement. No human exposure to temporal effects. No aging. No cellular damage."
+
+Kowalski reviewed the files. "This is theoretical."
+
+"So was everything else until we proved it. I can make this work, but not under an impossible deadline."
+
+"I'll take it to Fleet Command. But don't expect miracles. They want results, not research projects."
+
+"Research is how you get results that don't kill people, Admiral."
+
+The channel closed. Yamamoto returned to his equations, knowing the answer would probably be no. Fleet wanted shortcuts. Quick deployment. Strategic advantage.
+
+They didn't care about pilots aging prematurely or cellular damage accumulating in brave volunteers.
+
+But he cared. Dr. Mbara cared. Lieutenant Chen and the other pilots cared.
+
+And sometimes caring was enough to change outcomes.
+
+Not often. Not quickly.
+
+But eventually.
+
+Yamamoto worked through the night, sketching quantum systems and entanglement protocols. Building the foundation for a future where FTL travel didn't cost years of life.
+
+Outside his window, Jupiter hung massive and impassive. Humanity's testing ground for technologies that would reach the stars.
+
+Or destroy the people trying to get there.
+
+Yamamoto would make damn sure it was the former.
+
+Even if Fleet Command didn't want to wait.
+
+Even if they built the deadly version first.
+
+Someone had to plan for the long term.
+
+Might as well be him.
+
+The equations flowed. Quantum mechanics dancing with general relativity. Mathematics that could save lives.
+
+If he could just solve the impossible fast enough.
+
+Always the challenge. Always the pressure.
+
+But that's what made it science.
+
+The search for solutions to problems that shouldn't have answers.
+
+Until they did.

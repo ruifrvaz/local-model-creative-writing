@@ -1,0 +1,211 @@
+The oxygen generator in module G-7 died at 0630. Yuki Tanaka was having coffee when the alert came through—not the gentle chime of a minor issue, but the urgent pulse that meant life support failure.
+
+She was in the module twelve minutes later, tool kit in hand.
+
+The damage was worse than the diagnostic suggested. The electrolysis membrane had fractured, probably from thermal stress during the dust storm three weeks ago. Small cracks had propagated through the matrix until the entire assembly failed.
+
+Without this generator, G-7 would be uninhabitable in six hours. Sixteen people lived in that module. Sixteen people who needed to breathe.
+
+"How bad?" Alexis Kwan's voice came through on the comm.
+
+"Complete membrane failure. I'll need to fabricate a replacement." Yuki was already pulling measurements. "Estimated time, fourteen hours."
+
+"We don't have fourteen hours."
+
+"I know. I'm working on alternatives." Yuki examined the broken membrane under magnification. The fracture patterns showed classic fatigue failure—stress cycling that had weakened the material over months.
+
+They should have caught this during maintenance. But maintenance had been deferred during the storm. Resources allocated elsewhere. The kind of cost-cutting that saved money until it killed people.
+
+Alexis appeared at the hatch, her cybernetic arm already reaching for tools. "What do you need?"
+
+"A miracle. Or spare parts we don't have. Or eighteen hours I can't give you."
+
+"Not helpful, Tanaka."
+
+"Fine. Helpful answer: we can cannibalize the backup generator from the greenhouse extension. It's undersized, but it'll keep G-7 breathable while I fabricate a proper replacement."
+
+"The greenhouse extension is scheduled for activation next month. We need that generator."
+
+"We need people alive more. We can delay the extension."
+
+Alexis nodded. "Do it. I'll handle the logistics."
+
+Yuki sprinted to the greenhouse extension, a half-finished module that smelled of fresh construction and Martian regolith. The backup generator sat in its housing, pristine and unused.
+
+She felt a pang of guilt removing it. The extension represented months of work, future food production, expanded capacity. Taking this generator meant delaying all of that.
+
+But sixteen people needed air now.
+
+The generator came free with minimal disassembly. Yuki loaded it onto a cart and wheeled it back through the colony, ignoring the curious looks from early morning workers.
+
+Back in G-7, she worked with controlled urgency. The installation required adapting the mounting hardware—the backup generator's footprint didn't quite match the primary's specifications.
+
+Improvisation. The story of Mars in one word.
+
+Alexis returned with Hassan, the geologist carrying welding equipment.
+
+"Heard you needed structural modifications," Hassan said.
+
+"Mounting brackets. The backup doesn't fit the primary's housing."
+
+"Show me."
+
+They worked together, Hassan welding custom brackets while Yuki prepared the generator's connections. Alexis monitored oxygen levels in G-7, watching the slow decline as the atmosphere depleted.
+
+"We're at eighteen percent," she reported. "We need to evacuate soon or people start experiencing hypoxia."
+
+"Ten more minutes," Yuki said.
+
+"You have seven."
+
+Yuki's hands moved faster. Electrical connections, cooling lines, sensor integration. Every connection had to be perfect or they'd risk another failure.
+
+Hassan finished welding and stepped back. "Brackets are secure. Won't win any beauty awards, but they'll hold."
+
+"Good enough." Yuki lifted the generator into place. It settled onto the custom brackets with a satisfying click.
+
+The final connections went quickly. Power, data, coolant flow. Yuki ran through the startup sequence, her heart racing.
+
+The generator hummed to life. Electrolysis began, splitting water into hydrogen and oxygen. Flow meters showed oxygen entering G-7's atmosphere.
+
+"We have oxygen production," Yuki announced. "Levels should stabilize in twenty minutes."
+
+Alexis checked her readings. "Confirmed. Good work, Tanaka."
+
+Yuki slumped against the wall, exhaustion hitting. "We need to talk about deferred maintenance."
+
+"I know."
+
+"No, I mean really talk. This is the third life support failure in two months. We're running everything past recommended service intervals. Something's going to kill people."
+
+"The budget—"
+
+"Screw the budget. You can't cut costs on systems that keep us alive." Yuki gestured at the jury-rigged generator. "Look at this. We're cannibalizing planned expansions to fix critical failures. That's not sustainable."
+
+Alexis was quiet for a moment. "You're right. I'll talk to Rivera. Request emergency funding for a full maintenance cycle."
+
+"Earth corporate won't approve it."
+
+"Then we do it anyway and beg forgiveness later." Alexis met her eyes. "You're right, Yuki. We can't keep deferring safety. I'll make it happen."
+
+Hassan had been listening quietly. "While you're requesting impossible things, can I get funding for a backup power system? Geothermal taps into the subsurface heat near the aquifer. Could provide continuous baseline power independent of solar."
+
+"How much would that cost?"
+
+"Less than replacing the entire colony when a dust storm kills us all." Hassan pulled up his designs. "The heat's there. We just need to drill down and tap it. Three months of work, maybe six given our resource constraints."
+
+"I'll add it to the list." Alexis pulled out her tablet, making notes. "Anything else? Now's the time to ask for miracles."
+
+"Better genetic diversity," Yuki said. "But that's Medical's problem, not Engineering's."
+
+"Actually, it's everyone's problem." Alexis showed them population projections. "Rivera's been sharing genetic models with senior staff. We need more people or we're looking at serious issues within a generation."
+
+"Earth won't send more colonists. Not with the budget cuts."
+
+"So we figure out how to grow our own population. Improve fertility rates, reduce infant mortality, maybe look into genetic therapies." Alexis scrolled through medical reports. "Dr. Martinez has proposals, but they require equipment and research time we can't spare."
+
+"Can't spare, or won't allocate?" Yuki challenged.
+
+"Fair point. Maybe it's time to reallocate priorities. Focus less on expansion, more on sustainability."
+
+Hassan nodded. "I've been saying that for months. We don't need more modules. We need the ones we have to work better."
+
+"Agreed. I'll present a revised development plan to Rivera. Focus on infrastructure hardening, life support redundancy, sustainable resource extraction." Alexis looked at the improvised oxygen generator. "No more cannibalization. No more deferred maintenance. We build things right or we don't build them at all."
+
+"That's going to make us unpopular with corporate," Hassan said.
+
+"Corporate is sixteen light-minutes away. They can be mad all they want. We're the ones who have to live with the consequences of our choices."
+
+Yuki felt something shift. Not hope, exactly. But determination. "So we're actually doing this? Prioritizing safety over expansion?"
+
+"Unless someone has a better idea." Alexis stood. "I'm calling a senior staff meeting for this afternoon. Engineering, Medical, Agriculture, Research. We need everyone aligned on this."
+
+The meeting was contentious. Expansion advocates argued that growth was essential for long-term viability. Research teams pushed for continued scientific programs. Agriculture demanded resources for the greenhouse extension.
+
+But Alexis held firm. "We're failing at the basics. Life support, power generation, structural integrity. Until we fix those problems, we don't expand. We consolidate."
+
+"That's giving up," someone objected.
+
+"That's survival." Alexis pulled up failure logs. "Three life support incidents in two months. Five power failures. Two structural stress alerts. We're one major failure away from catastrophic loss of life."
+
+The room went quiet.
+
+"How do we fix it?" Rivera asked.
+
+"Six-month infrastructure review. Every critical system inspected, maintained, or replaced. No exceptions. No deferrals." Alexis showed resource requirements. "It'll consume most of our available materials and labor. Everything else gets postponed."
+
+"For six months?"
+
+"For however long it takes to make this colony safe."
+
+Rivera studied the proposal. "Earth corporate will hate this."
+
+"Let them. They're not the ones who'll die if we cut corners." Alexis met the commander's eyes. "This is the right call, Rivera. You know it is."
+
+Rivera nodded slowly. "Approved. Engineering gets priority resource allocation for infrastructure review. Yuki, you're project lead. Coordinate with all departments."
+
+Yuki blinked. "Ma'am, I'm not qualified—"
+
+"You just saved sixteen lives with spare parts and determination. You're qualified." Rivera stood. "Alexis will support you. Hassan will handle geological assessments for the geothermal project. Everyone else, prepare your systems for comprehensive review."
+
+The meeting dissolved. Yuki found herself surrounded by department heads, all wanting to discuss their systems first.
+
+She looked at Alexis helplessly.
+
+"Welcome to project management," Alexis said with a slight smile. "You wanted better maintenance protocols. Now you get to implement them."
+
+"I hate you."
+
+"You'll thank me later. Probably." Alexis headed for the door. "I'll send you the resource allocation spreadsheets. Start with life support—those are highest priority."
+
+Yuki spent the next three days buried in maintenance schedules, resource inventories, and system diagnostics. Every department had issues. Every system needed work.
+
+The scope was overwhelming.
+
+But it was necessary. She could see that in the failure logs, in the near-misses, in the accumulating stress on systems pushed past their design limits.
+
+Mars was hard enough without fighting their own equipment.
+
+Hassan checked in regularly, offering geological insights and terrible coffee. "You're doing good work, Tanaka. The colony will be safer because of this."
+
+"The colony will hate me for the disruptions."
+
+"Better hated and alive than loved and dead." Hassan showed her preliminary geothermal surveys. "I've identified three viable drill sites. We could have baseline power within four months."
+
+"Can we afford four months of drilling resources?"
+
+"Can we afford not to? Next dust storm, we're in the same power crisis. Geothermal gives us independence from solar."
+
+Yuki added it to the project timeline. The six-month review was growing into an eight-month rebuild. But if it worked, they'd have a colony that could actually survive Martian conditions.
+
+The oxygen generator incident became a turning point. Not just for infrastructure, but for colony philosophy. They stopped chasing expansion and started building foundations.
+
+It was slower. Less exciting. Not the kind of progress that made good press releases for Earth corporate.
+
+But it was real. Sustainable. The difference between surviving and thriving.
+
+Yuki stood in G-7 three months later, watching the new primary oxygen generator running smoothly. Proper installation. Quality components. Maintenance schedule that would actually be followed.
+
+The backup generator had been returned to the greenhouse extension. The extension itself was delayed but not canceled—just waiting for the right time, when they had resources to do it properly.
+
+"Looks good," Alexis said, joining her at the viewing panel.
+
+"It should last twenty years with proper maintenance."
+
+"Which we'll actually do now."
+
+"Which we'll actually do." Yuki smiled. "Think corporate has forgiven us yet?"
+
+"Don't know, don't care. They sent angry messages for three weeks, then stopped. Probably realized we weren't going to change course."
+
+"Best decision we ever made."
+
+"Second best," Alexis corrected. "Best decision was landing on Mars in the first place."
+
+Yuki laughed. "Fair point."
+
+Outside the window, Mars stretched red and hostile and beautiful. They were building something here. Not quickly. Not perfectly.
+
+But they were building it to last.
+
+And that made all the difference.

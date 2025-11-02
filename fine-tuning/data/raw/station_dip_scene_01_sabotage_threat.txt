@@ -1,0 +1,219 @@
+Ambassador Chen Wu reviewed the security footage for the seventh time. Someone had accessed the environmental controls in the conference wing at 0340 hours. Not to tamper—just to look. To study the systems.
+
+Reconnaissance. The kind that came before sabotage.
+
+"Lena, I need you to see this," Chen said into his comm.
+
+Security Officer Lena Volkov arrived three minutes later, her expression already focused. The former Federal Security operative didn't waste time with pleasantries.
+
+"Show me."
+
+Chen played the footage. A figure in maintenance coveralls, face obscured by a hood, accessing a control panel. Fingers moving across the interface for ninety seconds. Then leaving without making changes.
+
+"No forced entry," Lena noted. "They had legitimate access codes."
+
+"Which means someone inside gave them access. Or they're part of the station staff."
+
+"Who was scheduled for maintenance in that sector?"
+
+Chen pulled up work logs. "Nobody. The conference wing was locked down for the Earth Coalition negotiations. No maintenance authorized until after the talks conclude."
+
+"Then we have a saboteur. Or a spy preparing sabotage." Lena enhanced the footage, trying to get a clear view of the figure's face. The hood and low lighting defeated facial recognition. "Can you identify them from body language? Gait analysis?"
+
+"Station AI is running that now. But we have three thousand personnel. If they're deliberately obscuring identifying characteristics, it'll take time to narrow down."
+
+"Time we don't have. The Earth Coalition and the Martian Independence Front delegates arrive in six hours." Lena pulled up the environmental controls schematic. "If someone compromises life support during negotiations, we're looking at a diplomatic catastrophe. Or worse."
+
+Chen felt the weight of his responsibility. The station's neutrality depended on keeping all parties safe. Any incident, any perception of bias or security failure, would destroy decades of careful diplomatic positioning.
+
+"Can you secure the conference wing completely?"
+
+"I can lock it down, post guards, sweep for explosives and tampering. But that's treating symptoms, not causes. We need to identify the saboteur before they strike." Lena was already issuing security alerts. "I'm pulling surveillance from the past week. Looking for patterns, repeated access to sensitive areas, anything unusual."
+
+"I'll brief Director Nkrumah. He needs to know we have a potential threat."
+
+Station Director Kwame Nkrumah took the news with his characteristic calm. The former African Union diplomat had spent forty years navigating political minefields. A sabotage threat was just another problem to solve.
+
+"Can we delay the negotiations?" Nkrumah asked.
+
+"Not without explaining why. And any explanation reveals our security concerns, which could be used as diplomatic leverage." Chen pulled up the negotiation schedule. "The Earth Coalition is already suspicious that we favor Martian independence. Delaying would confirm those suspicions."
+
+"And the Martian Independence Front thinks we're too cozy with Earth. We can't win." Nkrumah studied the security footage. "Lena, what are the saboteur's most likely targets?"
+
+"Life support, obviously. Also power distribution, communications, emergency evacuation systems. Anything that would create chaos during the negotiations."
+
+"Could they be targeting the delegates directly? Assassination?"
+
+"Possible. But less likely. This station has the best medical facilities in the outer system. An assassination attempt would probably fail, and the perpetrator would face immediate arrest. Sabotage has better chances of success and easier escape."
+
+Chen thought through the diplomatic implications. "If life support fails during Earth Coalition's presentation, they blame Mars supporters. If it fails during Martian Independence's presentation, they blame Earth loyalists. Either way, the station loses credibility as neutral ground."
+
+"Which might be the real goal," Nkrumah said. "Destroy the station's diplomatic status, force negotiations to happen elsewhere, under different conditions."
+
+"Who benefits from that?"
+
+"Whoever controls the alternative venue. Could be hardliners on either side. Or a third party that wants the talks to fail entirely." Nkrumah pulled up delegate backgrounds. "Do any of them have connections to extremist groups?"
+
+"Most of them. That's why they're at the negotiating table instead of shooting at each other." Chen highlighted several names. "Ambassador Torres from Earth Coalition has military intelligence ties. He's been vocal about crushing Martian independence movements. Commissioner Zhao from Mars Independence has connections to the Red Rebellion—they've committed terrorist acts against Earth corporate assets."
+
+"So we have multiple suspects with motive and capability." Lena was working through surveillance data. "I'm seeing seventeen instances of unusual access patterns over the past week. Different areas, different times, but all involving secure systems."
+
+"Seventeen potential saboteurs?"
+
+"Or one saboteur conducting thorough reconnaissance. I'm running correlation analysis now."
+
+Dr. Sarah Okonkwo's voice came through on Chen's comm. "Ambassador, I'm at medical bay. You need to see this."
+
+Chen found the doctor examining a patient's blood work, her expression troubled.
+
+"What is it?"
+
+"I just treated a maintenance worker for chemical exposure. Minor skin irritation, nothing serious. But the chemical composition is interesting." Sarah showed him the analysis. "It's a corrosive agent. Not standard maintenance chemicals. More like something used for sabotaging metal components."
+
+"Where was the exposure?"
+
+"Environmental systems maintenance tunnel. Same wing as your security incident." Sarah pulled up the patient file. "The worker claims he just found the chemical residue, didn't know what it was. But I'm not sure I believe him."
+
+"Is he still here?"
+
+"In the waiting area. I told him to stay for observation."
+
+Chen opened a channel to Lena. "I have a potential suspect in medical. Maintenance worker with chemical exposure consistent with sabotage materials."
+
+"On my way."
+
+The maintenance worker tried to run when Lena appeared. He made it ten meters before security tackled him. Chemical analysis of his clothing revealed trace explosives and corrosive agents.
+
+In interrogation, he broke quickly. Not a hardened operative, just a technician who'd been paid to gather intelligence on the station's vulnerable points. He'd been planning to sell the information, not commit sabotage himself.
+
+"Who hired you?" Lena demanded.
+
+"I don't know. Anonymous contact, cryptocurrency payment. They wanted schematics of environmental controls, power distribution, emergency systems. I never asked why."
+
+"When were you supposed to deliver?"
+
+"Tomorrow morning. Before the negotiations start."
+
+Lena looked at Chen through the interrogation room window. "He's telling the truth. But he's not our main problem. He's a hired asset. The real saboteur is still out there."
+
+Chen agreed. "Can we trace the cryptocurrency payment?"
+
+"Maybe. Give me twelve hours and cooperation from Earth financial networks."
+
+"We have six hours until the delegates arrive."
+
+"Then we proceed under the assumption that someone will attempt sabotage. Lock down all critical systems, post guards, sweep every vulnerable point." Lena pulled up security protocols. "And we prepare to evacuate the conference wing on thirty seconds notice."
+
+"That will make delegates nervous."
+
+"Better nervous than dead."
+
+Director Nkrumah approved the security measures. The conference wing became a fortress—armed guards, biometric scanners, redundant monitoring systems. Every environmental control was placed under manual override, requiring two authorized personnel to make changes.
+
+The Earth Coalition delegates arrived at 1400, led by Ambassador Torres. The severe diplomat surveyed the security measures with obvious displeasure.
+
+"Director Nkrumah, this level of security suggests concerns. Should we be worried about our safety?"
+
+"We take all precautions seriously, Ambassador. Your security is our highest priority."
+
+"Yet someone clearly threatened it, or you wouldn't need these measures."
+
+Nkrumah's expression didn't change. "We maintain consistent security protocols for all diplomatic proceedings. No special measures have been implemented for this negotiation."
+
+It was technically true. Chen had reviewed the protocols himself—they'd simply enforced existing rules that were usually applied loosely.
+
+Torres didn't look convinced, but he didn't push further.
+
+The Martian Independence Front delegates arrived thirty minutes later. Commissioner Zhao immediately noticed the security presence.
+
+"Director Nkrumah, are we prisoners or negotiators?"
+
+"Guests, Commissioner. Protected guests."
+
+"Protected from what?"
+
+"From anything that might disrupt productive dialogue." Nkrumah gestured toward the conference room. "Shall we begin?"
+
+The first session was tense. Both sides made opening statements, establishing positions that were miles apart. Earth demanded Martian submission to central authority. Mars demanded complete independence and control of orbital resources.
+
+Chen took notes, watching for common ground. There was none. Not yet.
+
+During a break, Lena pulled him aside. "I found something. The maintenance worker's cryptocurrency payment was routed through seventeen different exchanges, but I traced it back to its origin. Want to guess where the money came from?"
+
+"Tell me."
+
+"A shell corporation registered in the neutral trade zones. Owned by a larger conglomerate that has contracts with both Earth and Mars."
+
+"Someone who profits from continued conflict."
+
+"Exactly. They don't want peace. They want the status quo—two sides competing for resources, driving up prices, creating opportunities for profit."
+
+Chen felt anger building. "Do we have proof?"
+
+"Circumstantial. Not enough for prosecution. But enough to know we're dealing with economic sabotage, not political terrorism."
+
+"Tell Nkrumah. He needs to know the real stakes."
+
+The second session began with Director Nkrumah making an unusual announcement.
+
+"Before we continue negotiations, I want both delegations to understand something. This station exists as neutral ground because it benefits everyone. Earth gets a place to conduct diplomacy without appearing weak. Mars gets recognition as a legitimate negotiating party. And the solar system gets a mechanism for resolving conflicts without warfare."
+
+"Your point?" Torres asked.
+
+"My point is that some parties profit from continued conflict. They would prefer these negotiations fail, these talks collapse, this station lose its credibility as neutral ground." Nkrumah's gaze swept both delegations. "I'm telling you this because attempted sabotage was prevented this morning. Someone tried to compromise our environmental systems, likely intending to disrupt these proceedings."
+
+The room erupted in accusations. Earth blamed Mars supporters. Mars blamed Earth intelligence. Nkrumah let them argue for three minutes, then raised his hand for silence.
+
+"The saboteur has been identified and detained. They were hired by a corporate entity that profits from solar system instability. Not Earth. Not Mars. A third party that wants you to fail."
+
+That changed the dynamic. Both sides began asking questions about the saboteur, the corporate connection, the evidence. Chen provided carefully edited information—enough to establish credibility, not enough to compromise security.
+
+"So we're being manipulated," Commissioner Zhao said slowly. "Economic interests are trying to prevent political resolution."
+
+"That's my assessment," Nkrumah confirmed. "Which means the real question is whether you'll let them succeed. Will you allow corporate profit motives to dictate your diplomatic outcomes?"
+
+Torres and Zhao looked at each other across the conference table. Not with hostility this time. With something closer to recognition.
+
+"They think we're too stupid to see past our own rhetoric," Torres said.
+
+"They think they can keep us fighting while they extract value from the chaos," Zhao agreed.
+
+For the first time since the negotiations began, both sides seemed to agree on something.
+
+It wasn't peace. Not yet.
+
+But it was a shared enemy. And that was something to build on.
+
+Chen watched the dynamic shift. Nkrumah had turned a security threat into a diplomatic opportunity. The master diplomat at work.
+
+The negotiations continued into the evening. Positions didn't change dramatically, but tone did. Less accusation, more problem-solving. Both sides still wanted different outcomes, but they were starting to recognize that maybe the outcomes didn't have to be mutually exclusive.
+
+Maybe there was a middle ground.
+
+Maybe the corporations counting on conflict would be disappointed.
+
+Later, Chen found Lena in the security center, reviewing footage from the day's sessions.
+
+"Think they'll reach an agreement?" she asked.
+
+"Maybe. Nkrumah gave them a reason to cooperate. Whether they take it depends on how much they hate being manipulated."
+
+"Most people hate being manipulated. Even diplomats."
+
+"Especially diplomats. Their entire careers are built on manipulating others. When someone does it to them, they take it personally."
+
+Lena smiled slightly. "Then maybe we'll get peace out of spite. I'll take it."
+
+Chen looked at the conference wing on the monitors. Earth and Mars delegates, still talking, still searching for common ground.
+
+The station rotated through space, neutral and patient.
+
+A place between worlds. Between conflicts. Between possible futures.
+
+And for now, at least, it was safe.
+
+Chen would make sure it stayed that way.
+
+Because some places were worth protecting.
+
+Even when the entire solar system wanted to tear itself apart.
