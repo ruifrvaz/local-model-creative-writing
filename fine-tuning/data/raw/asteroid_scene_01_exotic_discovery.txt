@@ -1,0 +1,157 @@
+The ore sample glowed blue in the analyzer's display. Captain Jax Torres stared at it, not quite believing what the spectrometer was telling him.
+
+"Run it again."
+
+Chen "Wrench" Liu pulled the sample and reinitiated the scan. Same result. The blue glow intensified as exotic particles decayed into readable energy signatures.
+
+"That's what I thought. Boss, this isn't just valuable. This is change-your-life valuable."
+
+Jax pulled up the composition analysis. Exotic matter, the theoretical power source that physics papers promised but nobody had ever found in usable quantities. Except they'd just pulled fifty kilograms of it from asteroid 2847-Delta.
+
+"How much is this worth?"
+
+Wrench ran calculations. "Conservative estimate? Enough to buy our own station. Maybe two stations. This stuff powers jump drives, quantum computers, gravity manipulation. It's the holy grail of industrial materials."
+
+Dr. Sofia Ruiz burst into the lab, her tablet showing the same analysis. "Please tell me you've kept this quiet."
+
+"Just us three so far. Why?"
+
+"Because if the mining consortiums find out we have exotic matter, they'll take it. Patent claim, salvage rights, eminent domain—they'll find a legal excuse."
+
+Jax felt his stomach tighten. Sofia was right. Independent miners like them operated on margins thin enough that corporate lawyers could crush them without effort. One well-placed claim, one legal challenge, and they'd lose everything.
+
+"How do we extract it without anyone noticing?"
+
+Wrench pulled up the mining equipment specs. "Normal extraction creates distinct energy signatures. Every consortium monitors for exotic matter signatures. The moment we start pulling this stuff, everyone within ten AU will know what we found."
+
+"So we can't mine it without revealing its location. And revealing the location means losing it to whoever has bigger lawyers."
+
+Sofia was shaking her head. "We can't lose this. Do you know what exotic matter could do for independent operations? Real power sources instead of solar arrays. Actual FTL capability for small ships. We'd level the playing field between independents and consortiums."
+
+"Assuming we survive long enough to use it," Jax said.
+
+Kayla Okonkwo's voice crackled through the ship comm. "Guys, we have company. Two ships on approach vector. Transponders identify them as Helios Consortium survey vessels."
+
+Jax felt ice in his veins. "They can't know about the exotic matter. We just found it."
+
+"Maybe they're here for different reasons?"
+
+"Or maybe they've been monitoring our mining patterns and got suspicious when we lingered at 2847-Delta for three days."
+
+Wrench was already pulling up defensive options. Their ship, the independent miner Lucky Strike, had minimal armaments. Two fusion torches for propulsion, some defensive countermeasures, nothing that would stop a determined corporate seizure.
+
+"What's the play, boss?"
+
+Jax thought fast. "We act normal. We're mining nickel-iron asteroids, just routine operations. The exotic matter sample stays locked in the lab, and we don't give them any reason to board us."
+
+The Helios ships arrived six hours later. Their comm officer was professional but with undertones of threat.
+
+"Independent vessel Lucky Strike, this is Helios Survey Ship Prometheus. We're conducting resource assessment in this sector. What's your current mining operation?"
+
+Jax kept his voice steady. "Nickel-iron extraction from asteroid 2847-Delta. Standard commercial operation. All claims filed with Belt Authority."
+
+"We're showing unusual energy signatures from your location. Request permission to inspect your cargo hold."
+
+There it was. They suspected something.
+
+"Negative, Prometheus. Our cargo is registered commercial minerals. Corporate inspection without probable cause violates Belt Authority regulations."
+
+"We have sensors indicating exotic particle decay. That creates probable cause under Section Twelve of mining consortium agreements."
+
+Jax pulled up Section Twelve. Sofia was right—the consortiums had written the laws to favor their own operations. Exotic materials triggered mandatory inspection protocols.
+
+"Stand by, Prometheus."
+
+He muted the channel and looked at his crew. "They know. We let them inspect, they'll find the exotic matter and claim salvage rights. We refuse, they'll use force and take it anyway."
+
+"Third option," Sofia said. "We jettison the sample. Let it drift with asteroid debris. They can't claim what they can't find."
+
+"That's destroying a fortune."
+
+"Better than losing it to Helios. We can come back later, after they've moved on, and recover the sample."
+
+Wrench was nodding. "I can rig a stealth beacon. Plant it with the sample, gives us a way to find it again without broadcasting location."
+
+"Do it. Fast."
+
+Ten minutes later, the exotic matter sample was secured in a shielded container with Wrench's beacon, drifting among the asteroid field's debris. Indistinguishable from a thousand other chunks of rock.
+
+Jax reopened the channel. "Prometheus, we're transmitting cargo manifest now. You'll see everything is standard commercial minerals. The energy signature you detected was probably our fusion drive cycling. We've been maneuvering extensively around the asteroid."
+
+Long pause. The Helios officer clearly didn't believe them, but without the exotic matter visible on sensors, he couldn't justify forced boarding.
+
+"Lucky Strike, maintain current position. We're conducting our own survey of asteroid 2847-Delta."
+
+"Copy that, Prometheus. We'll hold station."
+
+The Helios ships spent two days surveying the asteroid. Their scans passed over the jettisoned sample twice without detecting it. Wrench's shielding was holding.
+
+Finally, they departed. The comm officer's voice was frustrated but controlled.
+
+"Lucky Strike, we've completed our survey. No exotic materials detected. You're clear to resume operations."
+
+After the Helios ships cleared sensor range, Jax allowed himself to breathe.
+
+"That was too close."
+
+Sofia pulled up the stealth beacon's signal. "The sample's intact. Still drifting right where we left it."
+
+"How do we extract it without repeating this scenario?"
+
+Wrench was already designing solutions. "We need shielded mining equipment. Something that can extract exotic matter without creating detectable signatures. And we need to do it slowly, over months, small amounts at a time."
+
+"That's custom fabrication. Expensive."
+
+"Less expensive than losing the find entirely."
+
+Jax pulled up their finances. They had enough for maybe three months of operations if they stretched. Building custom mining equipment would take most of that.
+
+"We're betting everything on this."
+
+"We've already bet everything," Sofia said. "The moment we found exotic matter and decided to keep it. Now we're just committed to winning the bet."
+
+Jax looked at his crew. Wrench, genius engineer who could build anything from spare parts. Sofia, brilliant but reckless scientist who'd gamble on long odds. Kayla, steady pilot who kept them alive when chaos erupted.
+
+They'd been mining the Belt together for three years. Scraping by, taking jobs the consortiums didn't want, surviving on thin margins and thinner luck.
+
+This was their chance to change everything. To escape the cycle of barely profitable operations. To have real resources, real capability, real power to determine their own future.
+
+If they could pull it off without getting crushed.
+
+"All right. We build the custom equipment. Extract slowly. Keep quiet. And hope no one else stumbles across 2847-Delta before we're done."
+
+"And if they do?" Kayla asked.
+
+"Then we improvise. Same as always."
+
+Wrench was already pulling up fabrication specs. "I'll need three weeks minimum to build shielded extractors. Longer if we want them reliable."
+
+"Make them reliable. We only get one shot at this."
+
+Sofia pulled up the exotic matter research. "I'll analyze the sample we already have. Figure out optimal extraction parameters, how to process it without degradation."
+
+"And I'll keep us invisible," Kayla said. "Minimal comm traffic, irregular patrol routes, nothing that makes us look interesting to corporate surveillance."
+
+Jax pulled up the star charts. Asteroid 2847-Delta floated in the Belt, unassuming, unremarkable, hiding a fortune that could change independent mining forever.
+
+If they could just keep it secret long enough to extract it.
+
+If the consortiums didn't find it first.
+
+If their luck held just a little longer.
+
+Big ifs. Dangerous ifs.
+
+But they'd survived this long on improvisation and determination.
+
+Time to see if that was enough to pull off the heist of their lives.
+
+Against the most powerful corporations in the solar system.
+
+With nothing but a clever engineer, a reckless scientist, a steady pilot, and a captain who'd bet everything on his crew.
+
+The odds were terrible.
+
+The payoff was worth it.
+
+Time to get to work.
