@@ -1,0 +1,165 @@
+The atmospheric processor failed during night shift. Malik was deep in maintenance tunnel C when the alarm sounded—not the gentle warning chime, but the sharp blare that meant immediate danger.
+
+He pulled up his datapad. Air quality dropping in Residential Section 4. CO2 accumulation. Oxygen percentage decreasing.
+
+Three hundred people sleeping in that section.
+
+Malik ran. The maintenance tunnels connected all sections, but navigation required expertise. He'd spent twenty years learning these passages.
+
+Left at junction seven. Straight through the power conduit corridor. Down the ladder to sub-level three.
+
+The processor room was already crowded. Engineer Nguyen worked the main panel while two technicians pulled diagnostic panels.
+
+"Status," Malik called.
+
+"Primary scrubber offline. Catalyst bed collapsed. We're on backup but it can't handle full sectional load." Nguyen didn't look up from the panel. "CO2 is at four percent and climbing. We've got maybe thirty minutes before people start showing symptoms."
+
+Four percent was approaching dangerous territory. Six percent meant impaired cognition. Eight percent meant loss of consciousness.
+
+"Can we route through adjacent sections?" Malik asked.
+
+"Already doing it. But the backup scrubber is undersized. We're delaying the problem, not solving it."
+
+Malik pulled up the catalyst bed schematics. The scrubber used chemical absorption to remove CO2 from the air. The catalyst bed should've lasted another two years.
+
+But this was a generation ship. Systems failed on unpredictable timelines.
+
+"Spare catalyst beds?"
+
+"Used the last one six months ago on Section 2. We've got fabrication capacity but that takes twelve hours minimum."
+
+"We don't have twelve hours."
+
+"I know."
+
+Malik studied the problem. Three hundred people. Failing life support. No immediate replacement parts. The math didn't work.
+
+Unless they changed the math.
+
+"Can we evacuate Section 4?" he asked.
+
+"To where? Other sections are at capacity. We'd be overcrowding, creating new life support stress."
+
+"Better than CO2 poisoning."
+
+Nguyen considered. "We'd need to distribute three hundred people across four sections. Seventy-five each. That's tight but manageable."
+
+"Make it happen. I'll work on repairing the primary scrubber."
+
+The evacuation began immediately. Three hundred sleepy, confused colonists roused from their quarters and directed to temporary accommodations. Makeshift sleeping arrangements in common areas and corridors.
+
+Not comfortable. But alive.
+
+Malik entered the scrubber chamber. The catalyst bed was a chemical matrix—porous substrate saturated with CO2-absorbing compounds. The collapse meant the substrate had degraded, losing structural integrity.
+
+He couldn't rebuild it in thirty minutes. But maybe he could stabilize it long enough to matter.
+
+He pulled emergency repair materials. Chemical reinforcement agents. Structural supports. Improvised solutions that wouldn't appear in any manual.
+
+The collapsed section of catalyst bed was accessible through a maintenance hatch. Malik climbed inside, breathing recycled air from his emergency mask.
+
+The damage was worse than expected. The entire lower quarter of the bed had disintegrated into chemical sludge. No way to restore it.
+
+But the upper three-quarters were intact. Stressed but functional.
+
+Malik injected reinforcement compound into the damaged interface. Chemical stabilizer that would harden the remaining bed, prevent further collapse.
+
+It was a temporary fix. Maybe bought them six hours. Maybe less.
+
+But six hours was time to fabricate proper replacement.
+
+He emerged from the chamber at 0400. The emergency reinforcement was holding. CO2 levels in Section 4 had stabilized at four point two percent.
+
+Still high. But not climbing.
+
+"I bought us time," Malik reported to Nguyen. "But we need that replacement catalyst bed."
+
+"Fabrication is running. Eight hours minimum."
+
+"Then we maintain current configuration for eight hours. Keep monitoring CO2 levels. If they spike above five percent, we implement full evacuation."
+
+The next eight hours were tense. Malik monitored from the engineering station, watching the atmospheric readouts like a hawk.
+
+The reinforcement held. Barely. CO2 fluctuated between four and four point five percent. Not comfortable. But survivable.
+
+At 1200, the replacement catalyst bed completed fabrication. Installation took three hours.
+
+By 1500, Section 4's primary scrubber was back online. CO2 levels dropped to normal. The evacuated colonists returned to their quarters.
+
+Crisis resolved.
+
+Captain Reyes convened a review that evening. Malik, Nguyen, and the maintenance team gathered in the command center.
+
+"This was too close," Reyes said. "We almost lost three hundred people to CO2 poisoning."
+
+"We identified the problem early and implemented solution," Nguyen countered. "System worked as designed."
+
+"System failed. We compensated for the failure. That's not the same thing." Reyes pulled up long-term life support projections. "How many other critical systems are approaching failure threshold?"
+
+Malik had run those numbers. The answer was uncomfortable.
+
+"Seventeen systems are past seventy percent of projected lifespan. Thirty-two are past eighty percent. We're in the degradation phase where failures accelerate."
+
+"Can we maintain this ship for another hundred years?" Reyes asked.
+
+Honest answer: "Maybe. With aggressive maintenance and some luck. But we're accumulating technical debt faster than we can address it."
+
+"Define technical debt."
+
+"Systems we've jury-rigged instead of properly repaired. Components operating past design parameters. Infrastructure we're nursing along because we don't have replacement capacity." Malik gestured at the ship around them. "We're holding this vessel together through determination and improvisation. Eventually, that's not enough."
+
+"What's the alternative?"
+
+"Reach destination before cascading failures overwhelm our ability to compensate. Or accept that some systems will fail and we'll lose population."
+
+Silence. No one wanted to articulate that second option.
+
+Reyes made the decision. "We accelerate toward Kepler-442c. No more velocity reductions for hull stress management. We get there as fast as possible."
+
+"That increases risk of structural failure," Nguyen warned.
+
+"Versus certainty of life support failure if we maintain current timeline." Reyes pulled up navigation projections. "We're ninety years from destination at current velocity. If we increase speed by fifteen percent, we cut that to seventy-eight years."
+
+"Twelve years difference."
+
+"Twelve years fewer maintenance crises. Twelve years less degradation." Reyes looked at Malik. "Can the ship survive acceleration stress?"
+
+"Probably. Maybe. I honestly don't know. We've never stressed the hull this way."
+
+"Then we find out. Because the alternative is watching our population suffocate gradually as life support systems fail."
+
+The velocity increase was implemented over six months. Gradual acceleration to prevent sudden hull stress. Every component monitored obsessively.
+
+The ship held together. Stressed but intact.
+
+Travel time to Kepler-442c: seventy-eight years.
+
+Malik wouldn't live to see it. Neither would most of the current generation. But their children might. Their grandchildren almost certainly.
+
+If the ship survived.
+
+If maintenance kept pace with degradation.
+
+If luck favored them just a little longer.
+
+Too many ifs. But it was the best option available.
+
+Malik returned to his maintenance rounds. Checking systems. Patching failures. Keeping eight thousand souls alive through expertise and improvisation.
+
+The Covenant sailed toward its destination. Racing against its own mortality.
+
+It was going to be close.
+
+But they were committed.
+
+One way or another, this journey would end.
+
+In seventy-eight years.
+
+Give or take catastrophic failure.
+
+Malik smiled despite himself.
+
+Engineering optimism.
+
+It would have to be enough.
