@@ -1,0 +1,91 @@
+The recycler's alarm cut through the hab module like a knife. Alexis Kwan dropped her wrench and ran.
+
+Three strides brought her to the main console. Red indicators painted her face in harsh light. Water pressure dropping. Filtration membranes failing. The colony had maybe six hours before the drinking supply ran dry.
+
+"Hassan, get up here." She keyed the comm, fingers already flying across diagnostic screens. "We have a cascade failure in Recycler Three."
+
+The geologist's voice crackled back. "On my way. How bad?"
+
+"Bad enough." Alexis pulled up the system schematic. The membranes should've lasted another eight months. Instead, they were clogged with particulate matter that shouldn't exist in a closed system. "Something's contaminating the input stream."
+
+Hassan arrived breathless, dust from the drilling site still coating his pressure suit. "Show me."
+
+She pointed at the spectral analysis. "Silicate compounds. High concentration. We're processing Martian dust somehow."
+
+"That's impossible. The intake filters—"
+
+"Failed. Or bypassed." Alexis zoomed in on the filter housing. The seals looked intact on sensors, but the contamination told a different story. "I need to go EVA. Check the external connections."
+
+"That's a four-hour procedure. We don't have four hours."
+
+"Then I'll do it in two." She turned to the equipment locker. "Get Tanaka. Tell her to prep emergency water ration protocols. And find out where this dust is coming from."
+
+Hassan caught her arm. "Alexis, if you rush this—"
+
+"If I don't rush this, we're drinking recycled urine by tomorrow. And in three days, we're dead." She pulled free. "I've done emergency EVAs before."
+
+"Not on Mars. Not in these conditions."
+
+"Then I'll be careful." She grabbed her suit from the rack. The colony-grade gear was heavier than standard, reinforced against the abrasive dust that ate through everything. "Just find that leak."
+
+Hassan nodded and headed for the monitoring station. Alexis suited up methodically, despite the urgency. Boots first, then the lower torso assembly. The pressure seals needed perfect contact. One failure out there, and the Martian atmosphere would kill her before anyone could reach the airlock.
+
+The suit's diagnostic ran green. Life support nominal. Comm check clear. She grabbed the emergency repair kit and cycled through the airlock.
+
+Outside, Mars greeted her with its usual hostility. The wind carried dust at seventy kilometers per hour, visibility reduced to twenty meters. Solar panels loomed like ghosts in the ochre haze.
+
+"Hassan, I'm at the recycler intake manifold." She clipped her safety tether to the hab's exterior rail. "Running visual inspection."
+
+"Copy. Dust readings are off the charts. Be quick."
+
+The manifold jutted from the hab's side, a cluster of pipes and valves that should've been pristine. Instead, rust-colored dust coated everything. Alexis ran her gloved hand along the main intake. The seal looked solid, but when she activated her suit light, she saw it.
+
+A hairline crack. Maybe two millimeters wide. In Earth's atmosphere, it would've been nothing. On Mars, it was a catastrophe.
+
+"Found it. Structural fracture in the intake housing." She pulled a sealant gun from her kit. "Applying emergency patch."
+
+"Will it hold?"
+
+"Long enough." She injected the compound into the crack, watching it expand and harden. The material was designed for Martian conditions—it would cure in seconds, even in the thin atmosphere. "Patch applied. Give me sixty seconds, then cycle the system."
+
+She held her breath. The sealant turned from gray to black as it cured. Through her glove, she could feel the vibration as Hassan restarted the intake pumps.
+
+The patch held.
+
+"Pressure stabilizing," Hassan reported. "Contamination dropping. Good work."
+
+Alexis allowed herself a moment of relief. Then she looked at the fracture more carefully. The crack wasn't random—it followed the weld line of the housing. A structural weakness that shouldn't have existed. The colony specifications called for titanium alloy, rated for Martian thermal expansion.
+
+This wasn't titanium. It was aluminum. Cheaper. Lighter. Completely inadequate.
+
+"Hassan, we have a bigger problem." She took a sample of the housing material. "This isn't the right alloy. Someone used substandard parts."
+
+The comm went silent for a long moment. When Hassan spoke again, his voice was tight. "Are you saying this was sabotage?"
+
+"I'm saying this was cost-cutting. And it nearly killed us." Alexis secured the sample in her suit pocket. "How many other components did they cheap out on?"
+
+"We need to tell Rivera."
+
+"We need to check everything. Every seal, every weld, every pressure fitting." She looked at the hab complex, suddenly seeing it differently. A structure built by the lowest bidder, held together by corners cut and safety margins ignored. "Get Tanaka. And pull the construction manifests. I want to know exactly what we're living in."
+
+She made her way back to the airlock, each step careful on the icy regolith. Inside, the hab felt smaller somehow. More fragile. They were forty million kilometers from Earth, living in a glorified tin can assembled by contractors more interested in profit than survival.
+
+The thought was terrifying. And infuriating.
+
+Commander Rivera met her in the equipment bay. The colony administrator's face was carefully neutral—the expression of someone who already knew what Alexis was going to say.
+
+"The recycler's patched," Alexis said, unsealing her helmet. "But we need to talk about specifications."
+
+"I'll schedule a meeting with the engineering team."
+
+"No." Alexis pulled the sample from her pocket. "We need to talk now. About who authorized substandard materials and why we're finding out the hard way."
+
+Rivera's neutrality cracked. Just for a second, Alexis saw anger underneath. Then it was gone, replaced by bureaucratic calm.
+
+"My office. Ten minutes." Rivera turned away. "And Alexis? Bring proof."
+
+The administrator left. Alexis stood in the equipment bay, still holding the sample that could save the colony or tear it apart.
+
+She had proof. The question was whether anyone would listen before the next component failed.
+
+And whether they'd all survive long enough to file a complaint with Earth.
