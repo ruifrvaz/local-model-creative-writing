@@ -26,12 +26,15 @@ lora_target_modules:
   - up_proj
   - down_proj
 lora_fan_in_fan_out: false
+lora_modules_to_save:         # Required when using custom special tokens
+  - embed_tokens
+  - lm_head
 
 # Training Data
 datasets:
   - path: data/processed/training.jsonl
-    type: completion
-    field: messages
+    type: chat_template  # Using chat format with messages
+    field: messages      # Field name in JSONL
 val_set_size: 0.1            # 10% validation split
 dataset_prepared_path: data/processed/
 
@@ -42,11 +45,11 @@ pad_to_sequence_len: true
 
 learning_rate: 0.0001        # 1e-4 lower LR for small dataset (avoid overfitting)
 num_epochs: 5                # More epochs needed with only 14 examples
+micro_batch_size: 2          # Per-device batch size
 per_device_train_batch_size: 2  # Smaller batch for small dataset
 per_device_eval_batch_size: 2
 gradient_accumulation_steps: 4  # Effective batch size = 8
 warmup_steps: 20             # Reduced warmup for small dataset
-warmup_ratio: 0.1
 
 # Optimizer
 optimizer: paged_adamw_8bit  # Memory-efficient AdamW
@@ -65,7 +68,6 @@ flash_attention: true        # FlashAttention-2 support
 # Evaluation
 eval_steps: 10               # Evaluate frequently with small dataset
 eval_sample_packing: false
-evals_per_epoch: 2           # Less frequent epoch evals
 
 # Logging & Checkpointing
 output_dir: checkpoints/qlora-style-pipeline-test
@@ -74,11 +76,11 @@ save_total_limit: 5          # Keep all checkpoints for comparison
 logging_steps: 5             # Log frequently
 logging_first_step: true
 
-# Weights & Biases (optional)
-wandb_project: scifi-style-transfer
-wandb_watch: false
-wandb_log_model: false
-wandb_run_id:                # Leave empty for auto-generation
+# Weights & Biases (disabled for now)
+# wandb_project: scifi-style-transfer
+# wandb_watch:                 # Leave empty to disable
+# wandb_log_model:             # Leave empty to disable
+# wandb_run_id:                # Leave empty for auto-generation
 
 # Special Tokens (Llama 3.1 format)
 special_tokens:
