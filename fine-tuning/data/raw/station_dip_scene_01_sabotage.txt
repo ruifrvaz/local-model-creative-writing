@@ -1,0 +1,185 @@
+The explosion killed six people in the diplomatic quarter. Ambassador Chen Wu watched the smoke rise from his office viewport, already calculating the political fallout.
+
+Three Coalition delegates. Two Alliance members. One neutral station worker caught in the wrong place.
+
+The fragile peace was shattering.
+
+"Security has the area locked down," Director Kwame Nkrumah reported over the comm. "No suspects yet."
+
+"There will be accusations regardless of evidence," Chen said. "Each side will blame the other."
+
+"Then we need evidence fast. Volkov is already investigating."
+
+Security Officer Lena Volkov arrived at the blast site twelve minutes after the explosion. The diplomatic quarter was chaos—injured personnel, damaged infrastructure, everyone either panicking or pointing fingers.
+
+She ignored the noise and focused on the facts.
+
+The blast originated in a maintenance corridor between the Coalition and Alliance embassy sections. Explosive residue suggested military-grade composition. Detonation mechanism required technical knowledge and access to restricted areas.
+
+This wasn't random terrorism. This was professional sabotage.
+
+Volkov pulled security footage. The maintenance corridor had three access points. At 0847, someone in station maintenance uniform entered from the public corridor. Face obscured by equipment hood. Seventeen minutes later, same person exited.
+
+Four minutes after that, the explosion.
+
+She enhanced the footage, looking for identifying features. Height: approximately 170 centimeters. Build: average. Gait: confident, familiar with station layout.
+
+Someone who belonged here. Someone who knew exactly how to move without triggering suspicion.
+
+Volkov expanded her search. Maintenance personnel records, access logs, work schedules. Twelve people had legitimate access to that corridor during the relevant time window.
+
+She began interviewing them individually.
+
+Chen convened an emergency diplomatic session at 1400. Coalition and Alliance representatives sat on opposite sides of the chamber, tension visible in every posture.
+
+"We have six dead," Chen said without preamble. "Coalition and Alliance members both. This was an attack on the peace process itself. Whoever is responsible wants us divided."
+
+"The Coalition has the most to gain from disruption," Alliance Representative Kowalski said. "Your current trade agreements favor planetary blocs over orbital interests."
+
+"The Alliance has military assets that would benefit from renewed conflict," Coalition Representative Sato countered. "Your defense contractors lose money during peacetime."
+
+"Enough." Nkrumah's voice cut through. "This station is neutral territory. We will not allow finger-pointing to derail the investigation. Security Officer Volkov has full authority to pursue evidence wherever it leads."
+
+"Including into embassy spaces?" Kowalski asked pointedly.
+
+"If evidence warrants, yes. The immunity agreements include provisions for criminal investigation."
+
+The representatives didn't like it, but they accepted. They had no choice—refusing cooperation would imply guilt.
+
+Volkov continued her investigation. The explosive composition matched military specifications used by both Coalition and Alliance forces. Deliberately ambiguous.
+
+The access logs showed legitimate maintenance schedules. No unauthorized entries. Whoever planted the bomb had clearance.
+
+She ran background checks on the twelve potential suspects. Eleven came back clean. One showed an anomaly.
+
+Marcus Webb. Station maintenance supervisor. Fifteen-year service record. Exemplary performance reviews.
+
+And a brother who died in the Coalition-Alliance border conflict three years ago.
+
+Volkov pulled Webb's financial records. Standard salary, standard expenses. Nothing unusual.
+
+Except a single large payment two months ago. Fifty thousand credits from an untraced account.
+
+She brought him in for questioning.
+
+"I don't know anything about the explosion," Webb said, his voice steady. "I was in the hydroponics bay when it happened. Dozen witnesses."
+
+"I'm not accusing you of planting the bomb. I'm asking about the fifty-thousand-credit payment." Volkov pulled up the transaction log. "It's a lot of money for a maintenance supervisor."
+
+"Inheritance. My mother passed away six months ago."
+
+"Your mother was a teacher on Earth. Her estate totaled eighteen thousand credits. Public record."
+
+Webb's expression didn't change. "Then I can't explain it."
+
+"Try."
+
+They stared at each other. Volkov saw the calculation in his eyes. He was deciding whether to maintain the lie or shift strategy.
+
+"I want legal representation," he said finally.
+
+Volkov granted the request. Webb was detained pending investigation.
+
+But the evidence was circumstantial. Large payment of unknown origin. Access to the blast site. Motive through his brother's death.
+
+Not enough to prove anything. Just enough to cast suspicion.
+
+Chen received Volkov's preliminary report at 1900. The investigation was stalling—Webb wasn't talking, and without concrete evidence, they couldn't pursue charges.
+
+Meanwhile, the diplomatic session was fracturing. Coalition delegates demanded Alliance accountability. Alliance representatives insisted on Coalition transparency. Nkrumah mediated desperately, trying to prevent complete breakdown.
+
+Dr. Sarah Okonkwo watched from the medical bay, treating the wounded from the explosion. Three still critical. Two likely to survive. One case she wasn't sure about.
+
+A Coalition delegate named Yuki Tanaka. Severe internal injuries, multiple organ damage. Sarah had her stabilized but the prognosis wasn't good.
+
+"Doctor." Yuki's voice was weak. "The explosion. It wasn't random."
+
+"I know. Security is investigating."
+
+"No. You don't understand." Yuki tried to sit up, gasped in pain. "I saw something. Before the blast. Someone in maintenance uniform. They looked wrong."
+
+"Wrong how?"
+
+"Too clean. Maintenance workers have equipment stains, wear patterns. This uniform was pristine." Yuki closed her eyes. "I thought about reporting it. Didn't want to seem paranoid."
+
+Sarah recorded the statement and forwarded it to Volkov immediately.
+
+Pristine uniform. Someone impersonating maintenance rather than actual station personnel.
+
+Volkov pulled uniform distribution records. Maintenance issued gear monthly, strict inventory control. Every uniform accounted for except—
+
+One. Reported lost three weeks ago by a worker who claimed it was stolen from the laundry facility.
+
+Volkov reviewed the theft report. Filed but not investigated thoroughly. Treated as minor pilferage.
+
+Now it was evidence.
+
+She traced the uniform's RFID tag. Last pinged near the diplomatic quarter at 0852.
+
+The exact time of the blast.
+
+Volkov expanded her search beyond station personnel. Visitor logs, temporary worker permits, contractors with access to restricted areas.
+
+And found it.
+
+A contractor hired two months ago. Electrical systems maintenance. Access to every section of the station including the diplomatic quarter.
+
+Name: David Chen. Background check showed clean record. But the details were too perfect. Work history with companies that existed but had minimal online presence. References that checked out but felt scripted.
+
+Volkov dug deeper. The contractor's biometric data showed minor inconsistencies with passport records. Same person, but the facial structure suggested cosmetic modification.
+
+Someone hiding their identity.
+
+She pulled DNA from the contractor's workspace. Ran it against criminal databases.
+
+Match. David Chen was actually Marcus Reeves. Former Alliance military, court-martialed for unauthorized weapons sales. Disappeared three years ago.
+
+Volkov issued an arrest warrant.
+
+Station security found Reeves in a cargo bay, prepping a shuttle for departure. He resisted. Brief firefight. Reeves took a round to the shoulder and surrendered.
+
+In his quarters, they found evidence. Plans of the station's critical infrastructure. Explosive materials. And communication logs showing payments from an anonymous source.
+
+Volkov presented the evidence to Chen and Nkrumah.
+
+"Reeves was hired to disrupt the peace talks," she reported. "The sponsor's identity is encrypted, but the payment pattern suggests deep pockets. Corporate or state-level funding."
+
+"Which side?" Chen asked.
+
+"Unknown. Possibly neither. Could be outside interests who profit from Coalition-Alliance conflict."
+
+Chen looked at Nkrumah. "We need to present this to both delegations. Show them they're being manipulated."
+
+The joint briefing happened at 2200. Coalition and Alliance representatives listened as Volkov laid out the evidence. Professional saboteur. External funding. Deliberate provocation.
+
+"Someone wants us to fail," Chen said. "They profit from our conflict. By fighting each other, we play into their hands."
+
+Silence. Then Sato spoke. "This doesn't absolve either side of legitimate grievances."
+
+"No," Chen agreed. "But it means those grievances don't justify abandoning the peace process. We can negotiate our differences. Or we can let whoever hired Reeves dictate our future."
+
+Kowalski studied the evidence. "What do you propose?"
+
+"Continued negotiations. Joint investigation into Reeves's sponsor. Unified response to external manipulation." Chen looked at both delegations. "We prove that peace is stronger than sabotage."
+
+The vote was close. But it passed.
+
+The peace talks continued.
+
+Reeves was tried and convicted. The investigation into his sponsor remained ongoing—following money trails through shell companies and encrypted accounts.
+
+Dr. Okonkwo kept Yuki Tanaka alive long enough for proper trauma surgery. She survived. Returned to the negotiations.
+
+And voted for the final peace accord three months later.
+
+Chen watched the signing ceremony from the observation deck. Fragile, imperfect peace. But peace nonetheless.
+
+Nkrumah joined him at the viewport. "Think it'll last?"
+
+"It has to," Chen said. "Because the alternative is being pawns in someone else's game."
+
+Outside, the station orbited serenely. Neutral ground where enemies could become negotiators.
+
+Where peace was possible.
+
+If people chose to build it.

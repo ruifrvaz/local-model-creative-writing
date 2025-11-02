@@ -1,0 +1,105 @@
+The alarm woke Alexis at 0400. Not the gentle chime reserved for shift changes—the sharp, insistent blare that meant something critical had failed.
+
+She rolled out of her bunk, already reaching for her tablet. The display showed red across the water reclamation system. Main filtration offline. Backup filters at ninety percent capacity and dropping.
+
+"Shit." She pulled on her jumpsuit, fingers working the seals automatically. Three hundred colonists. Seventy-two hours of reserve water. Less if the backup failed.
+
+The corridor was empty. Most of the colony still asleep, unaware that their water supply was circling the drain. Alexis's boots echoed on the metal grating as she ran.
+
+The reclamation facility occupied Hab-3's lower level. Yuki was already there, elbow-deep in the main filtration unit.
+
+"Talk to me," Alexis said.
+
+"Regolith contamination." Yuki didn't look up. "Seal failed on the intake manifold. Martian dust in the membrane assembly."
+
+Alexis pulled up the diagnostic overlay on her tablet. The membrane was shot—microabrasions across seventy percent of the surface. Martian regolith was insidious. Sharp as glass, fine as talc, it ate through seals and filters like acid.
+
+"How long on backup?"
+
+"Sixty hours. Maybe less." Yuki finally pulled her arm free, holding a dust-coated filter cartridge. "We need replacement membranes. The ones from Earth."
+
+The ones that were sitting in a cargo container at Olympus Mons, three hundred kilometers away. Along with half their critical supplies, waiting for the transport that had been delayed two weeks.
+
+Alexis accessed the colony inventory. "We've got the old-spec membranes. The ones rated for lunar regolith."
+
+"Those won't hold up. Martian dust is completely different mineral composition."
+
+"I know." Alexis was already calculating. "But if we double-layer them and run at sixty percent capacity, we might stretch them long enough."
+
+Yuki's expression said what she didn't vocalize—might wasn't good enough. Not when failure meant dehydration, rationing, and potentially evacuating the colony back to the orbital station. Admitting failure to Earth Corp after six months of operations.
+
+"Get started on the membrane swap," Alexis said. "I'll talk to Rivera."
+
+She found the colony director in the command center, staring at the same red indicators that had woken Alexis.
+
+"Options?" Rivera didn't waste time on pleasantries.
+
+"We cannibalize the backup system, double-layer the old membranes, and pray." Alexis pulled up her calculations. "Sixty percent capacity gives us forty-eight hours per cycle. We'll need to implement water rationing immediately."
+
+"Earth Corp is breathing down our neck about productivity. Water rationing means reduced work shifts."
+
+"Water rationing means we survive until the cargo transport arrives."
+
+Rivera's jaw tightened. The political pressure from Earth was constant—prove the colony viable or lose funding. But Alexis wasn't interested in corporate politics. She was interested in keeping her people alive.
+
+"How much rationing?"
+
+"Thirty percent reduction. Suspension of non-essential water use. That means no showers, minimal hygiene, recycled condensate for agriculture."
+
+"The crew won't like it."
+
+"The crew will hate it." Alexis met Rivera's eyes. "But they'll be alive to complain."
+
+Rivera studied the displays for a long moment. Outside the viewport, the Martian dawn painted Valles Marineris in shades of rust and shadow. Beautiful. Hostile. Unforgiving.
+
+"Do it," Rivera said finally. "And get me a transport ETA. I want those replacement parts here yesterday."
+
+Alexis returned to the reclamation facility. Yuki had the backup system partially disassembled, membrane cartridges lined up on the workbench.
+
+"We're doing this?" Yuki asked.
+
+"We're doing this."
+
+They worked in silence, hands moving through the familiar routine of system maintenance. The double-layered membranes were a kludge—engineering held together by determination and recycled prayers. But Alexis had built half the colony infrastructure from improvisation and spare parts.
+
+She could keep a water system running for forty-eight hours.
+
+She had to.
+
+By 0800, the modified system was online. Flow rate at fifty-eight percent—close enough to target. The filtration indicators showed green. Unstable green, but green.
+
+Alexis pulled off her gloves. Her hands were covered in regolith dust, the fine red powder staining her skin. It would be days before she could wash it off properly.
+
+"System's holding," Yuki reported. "For now."
+
+"For now is all we need." Alexis pulled up the colony comm. "This is Chief Engineer Kwan. Effective immediately, we're implementing water conservation protocol Alpha. That's thirty percent rationing, duration forty-eight to ninety-six hours pending supply delivery."
+
+The responses came immediately—confusion, frustration, a few choice profanities. Alexis ignored them all.
+
+She pulled up the transport tracking. Still two weeks out. The membranes would last. They had to.
+
+Rivera's voice came through on the private channel. "Earth Corp wants a status report."
+
+"Tell them the colony is operational and the crew is adapting to Martian conditions."
+
+"They want to know about the water system."
+
+"Then tell them we're conducting routine maintenance." Alexis wiped regolith dust from her tablet screen. "What they don't know won't hurt quarterly projections."
+
+"That's withholding critical information."
+
+"That's giving ourselves time to fix the problem before it becomes their problem." Alexis watched the filtration indicators. Still green. Still unstable. "We've got this under control, Commander. Let me do my job."
+
+Rivera disconnected without answering. Probably filing a report that would omit the crisis entirely. Corporate politics—the one thing more toxic than Martian regolith.
+
+Alexis turned back to the filtration display. Sixty hours of operation before the double-layered membranes degraded. Fourteen days until replacement parts arrived.
+
+The math didn't work. But engineering wasn't about perfect math. It was about making impossible things function long enough to matter.
+
+She'd find a way.
+
+She always did.
+
+The red dust of Mars stained everything. But it wouldn't stop them.
+
+Not today.

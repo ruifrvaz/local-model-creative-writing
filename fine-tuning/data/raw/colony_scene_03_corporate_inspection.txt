@@ -1,0 +1,127 @@
+The corporate liaison arrived on the supply transport with perfect teeth and a tablet full of metrics. Miranda Chen from Earth Corp Colonization Division, sent to evaluate the colony's viability.
+
+Alexis hated her on sight.
+
+"Chief Engineer Kwan." Miranda extended a hand. "I'm here to conduct the quarterly efficiency review."
+
+Alexis shook it briefly. The woman's grip was firm but her palms were soft—hands that had never worked a wrench or sealed a pressure suit in an emergency.
+
+"We weren't expecting the review for another three weeks."
+
+"Earth Corp moved up the timeline. Board wants preliminary data before the next funding cycle." Miranda's smile never wavered. "I'm sure you understand."
+
+Alexis understood perfectly. The board wanted ammunition to either increase investment or cut their losses. And Miranda was here to provide it.
+
+"I'll need access to all operational logs," Miranda said. "Power consumption, resource utilization, productivity metrics, crew efficiency ratings."
+
+"Some of that data is classified under colony security protocols."
+
+"I have clearance." Miranda produced a credential chip. "Director Rivera authorized full access."
+
+Of course he had. Rivera lived in fear of the quarterly reports, terrified that Earth Corp would declare the colony a failure and abandon them. Alexis had no such fear. She was too busy keeping the place running to worry about spreadsheets.
+
+"I'll have the logs compiled by 1400," Alexis said. "Anything else?"
+
+"I'd like a tour. See the infrastructure firsthand."
+
+Alexis showed her the water reclamation facility first. The makeshift double-membrane system hummed quietly, processing recycled water at fifty-eight percent capacity.
+
+"This is below specification," Miranda noted, tapping her tablet. "Design capacity was eighty-five percent."
+
+"Design specifications didn't account for Martian regolith contamination. We're running adapted protocols."
+
+"Adapted meaning substandard?"
+
+"Adapted meaning functional." Alexis kept her voice level. "We process enough water to sustain the colony. That's what matters."
+
+Miranda made a notation. Alexis imagined it said something like "infrastructure inadequate" or "failure to meet targets."
+
+The power plant was next. Solar arrays stretched across the ridge, supplemented by the nuclear reactor that provided baseline load.
+
+"Reactor output is below projected levels," Miranda observed.
+
+"Dust accumulation on the cooling radiators. We clear them weekly, but accumulation is constant."
+
+"Why not increase maintenance frequency?"
+
+"Because our maintenance crews are already working twelve-hour shifts keeping critical systems operational." Alexis gestured at the colony spread across the valley. "We've got three hundred people maintaining infrastructure designed for a thousand. Everything's understaffed."
+
+"Then perhaps the colony was established prematurely."
+
+Alexis stopped walking. "The colony was established because Earth Corp wanted Martian resources. The understaffing is because Earth Corp keeps cutting the personnel budget. Don't blame the failure on the people trying to make your numbers work."
+
+Miranda's smile finally slipped. "I'm not your enemy, Chief Kwan. I'm here to ensure the colony succeeds."
+
+"You're here to decide if we're profitable enough to keep funding. That's not the same thing."
+
+They continued the tour in tense silence. The hydroponics bay, where Yuki had coaxed sixty percent more yield from the growth beds than projections. The machine shop, where Hassan's team fabricated replacement parts because shipping from Earth took six months. The residential modules, cramped and efficient and home to three hundred people who'd left everything behind to build something new.
+
+Miranda documented every shortfall, every deviation from the original specifications. Her tablet filled with inadequacies.
+
+Alexis wanted to throw the damn tablet into the regolith processor.
+
+They finished in the command center. Rivera was waiting, tension visible in his shoulders.
+
+"Initial impressions?" he asked Miranda.
+
+"The colony is operational but running significant deficits across multiple categories. Power generation, water processing, residential capacity—all below projected efficiency."
+
+"We're adapting to Martian conditions," Alexis said. "Original projections were based on Earth-normal assumptions."
+
+"Projections that Earth Corp based their investment on." Miranda pulled up a chart. "Current productivity is seventy-two percent of target. That's not adaptation. That's failure."
+
+"That's survival." Alexis moved to the viewport. Outside, the colony sprawled across the rust-red landscape—habs and solar arrays and equipment yards carved from an alien world. "We're building human civilization on a planet that killed every probe we sent here for fifty years. Seventy-two percent efficiency is a miracle."
+
+"It's not enough." Miranda's voice was quiet but final. "The board needs to see profit potential or they'll reallocate resources."
+
+"Reallocate meaning abandon the colony?"
+
+"Meaning reduce personnel to essential crew and transition to automated operations."
+
+Rivera's face went pale. "That would mean sending two-thirds of our people back to Earth."
+
+"It would mean optimizing resource allocation." Miranda closed her tablet. "I'll file my report next week. Director Rivera, I recommend you consider operational improvements in the interim."
+
+She left. Rivera slumped into his chair.
+
+"This is it," he said. "They're pulling the plug."
+
+"Not yet they're not." Alexis pulled up the productivity metrics. "We've got a week. We show them numbers they can't ignore."
+
+"How? We're already at maximum output."
+
+"Then we change what we're measuring." Alexis highlighted the colony's achievements—geological surveys completed ahead of schedule, resource extraction exceeding quota, crew retention at ninety-eight percent despite brutal conditions. "Earth Corp wants profit? We show them what we've actually accomplished."
+
+Rivera studied the data. "Think it'll work?"
+
+"No idea." Alexis smiled grimly. "But I didn't come to Mars to give up because some accountant doesn't like our spreadsheet."
+
+They worked through the night, recompiling reports and reformatting data. Making the colony's achievements visible to people who'd never set foot on another planet.
+
+When Miranda returned for her final interview, Alexis handed her a revised assessment.
+
+"This is the colony's actual performance," Alexis said. "Not compared to Earth-based projections. Compared to what's actually possible on Mars."
+
+Miranda reviewed the data. Her expression remained neutral, but she made notes. Lots of notes.
+
+"I'll include this in my report," she said finally. "But I can't promise it'll change the board's decision."
+
+"All I'm asking for is an honest evaluation."
+
+Miranda looked at Alexis for a long moment. "You really believe in this, don't you? The colony."
+
+"I believe in the people keeping it running. That's enough."
+
+A week later, the board's decision came through. Continued funding for another fiscal year. Reduced personnel targets and revised efficiency metrics based on Martian operational data.
+
+Rivera read the message three times, unable to believe it.
+
+"We did it," he said.
+
+"We survived," Alexis corrected. "There's a difference."
+
+But she smiled when she said it.
+
+Because survival was the first step to success.
+
+And on Mars, that was enough.

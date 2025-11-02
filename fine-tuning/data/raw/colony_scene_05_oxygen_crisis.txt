@@ -1,0 +1,151 @@
+The oxygen alarm started as a low chirp. Within thirty seconds it became a full blare.
+
+Yuki was in Hab-3 when the readings dropped. Twenty-one percent. Twenty. Nineteen point five.
+
+"Command, we have atmospheric loss in Hab-3." She pulled up the environmental controls. "Pressure holding but O2 concentration dropping fast."
+
+Rivera's voice came back tense. "Source?"
+
+"Unknown. Running diagnostics now." Yuki's fingers flew across the interface. The hab's life support was a closed system—oxygen generated from water electrolysis, CO2 scrubbed and recycled. A drop this rapid meant catastrophic failure somewhere in the chain.
+
+Eighteen percent. The threshold where people started getting dizzy.
+
+"Found it." Yuki pulled up the electrolysis unit schematics. "Primary oxygen generator is offline. Backup should've engaged automatically but—"
+
+"But it didn't," Alexis said, appearing in the doorway. "How long on emergency reserves?"
+
+"Twenty minutes. Maybe less with fifteen people in the module."
+
+Alexis moved to the generator bay. The primary unit showed red across every indicator. Complete failure. The backup unit should've kicked in, but the relay was fused—a single point of failure that everyone had known about and no one had found time to fix.
+
+"Get everyone into Hab-2," Alexis said. "Seal the interconnect. We'll pressurize from the working systems."
+
+Yuki initiated the evacuation. Fifteen colonists, some recently woken from sleep, filed through the airlock junction into the adjacent habitat. Confused but disciplined.
+
+Alexis stayed behind, already pulling panels off the generator. Seventeen percent oxygen. Her head was starting to feel light.
+
+"Alexis, get out of there," Rivera ordered.
+
+"Not until I know why this failed." She found the problem immediately—corroded wiring in the ignition sequence. The Martian atmosphere was supposedly inert, but regolith dust carried trace oxidizers that ate through protective coatings. "It's corrosion. The environmental seals didn't hold."
+
+"You can fix it later. Evacuate now."
+
+Sixteen percent. Yuki's voice joined the chorus. "Alexis, please. We'll repair it from Hab-2."
+
+Alexis pulled the corroded wiring harness. She could replace it—forty minutes of work, maybe less. Or she could abandon Hab-3 and force fifteen people to crowd into already-cramped quarters while they ordered replacement parts from Earth.
+
+Six months for delivery.
+
+Fifteen percent. Her vision started to tunnel.
+
+"Alexis!" Yuki's voice was sharp. "You're hypoxic. Get out!"
+
+Alexis grabbed a replacement harness from the emergency locker. Her hands felt slow, clumsy. The connector pins looked like they were moving.
+
+She forced them together. Locked the housing. Sealed the panel.
+
+The generator hummed to life.
+
+Oxygen percentage stabilized at fourteen point eight. Then began climbing. Fifteen. Sixteen. Seventeen.
+
+Alexis collapsed against the wall, gasping. Her heart hammered. The tunnel vision slowly receded.
+
+"Generator online," she reported, her voice ragged. "Hab-3 is viable."
+
+"You could've died." Rivera's anger cut through the comm.
+
+"But I didn't. And now we don't have to abandon the habitat." Alexis pushed herself upright. Her legs felt like water. "Someone needs to audit every environmental seal in every habitat. This should never have happened."
+
+"Agreed. After you report to medical."
+
+Yuki met her at the airlock with a portable oxygen concentrator. "Breathe."
+
+Alexis took the mask gratefully. Pure O2 flooded her lungs, pushing back the lingering hypoxia. Her head cleared.
+
+"That was stupid," Yuki said.
+
+"That was necessary."
+
+"Those aren't mutually exclusive." Yuki checked her vitals. "Your blood oxygen is coming back up. You'll live."
+
+"Good. Because we have work to do." Alexis pulled off the mask. "Every environmental system in every habitat. Complete audit. I want to know every seal that's degrading before it fails."
+
+They started immediately. Hab-1 showed three seals with micro-cracks. Hab-2 had corroded wiring in the backup scrubber system. Hab-4's pressure sensors were miscalibrated.
+
+The colony was falling apart around them.
+
+Not catastrophically. Not all at once. But slowly, steadily, death by a thousand small failures.
+
+Alexis compiled the findings into a report. Two hundred and forty-seven components showing degradation. Eighty-six requiring immediate replacement. Maintenance backlog estimated at six hundred person-hours.
+
+She presented it to Rivera in the command center.
+
+"We don't have six hundred hours," he said.
+
+"Then we prioritize. Critical systems first, everything else as we can manage." Alexis highlighted the most urgent items. "But we need to face facts, Commander. This colony was designed for a support staff we don't have. We're understaffed by sixty percent and the infrastructure is showing it."
+
+"Earth Corp won't approve additional personnel until we prove operational viability."
+
+"We can't prove viability without the personnel to maintain the systems." Alexis leaned back. "It's a catch-22."
+
+Rivera studied the report. Outside the viewport, the Martian afternoon painted the landscape in shades of rust. Beautiful and indifferent.
+
+"What if we train cross-functional crews?" he said. "Engineers learn life support, scientists learn basic maintenance. Distribute the load."
+
+"That's already happening. Hassan's team fabricates half our replacement parts. Yuki runs environmental systems that should have a staff of ten. Everyone's working double duty."
+
+"Then we work triple." Rivera's jaw set. "Earth Corp wants metrics? We show them impossible productivity. We prove this colony works despite the limitations."
+
+"Or we burn out the crew and have nothing to show but casualties."
+
+"You have a better option?"
+
+Alexis didn't. That was the problem. They were trapped between impossible demands and insufficient resources. The only way forward was to work harder, faster, better than anyone had a right to expect.
+
+"I'll draw up a cross-training schedule," she said. "But Rivera, we need to be realistic. People will break. Systems will fail. We can't prevent every emergency."
+
+"No. But we can be ready for them." Rivera pulled up the colony roster. "Who's our best systems generalist?"
+
+"Me. But I can't be everywhere at once."
+
+"Then we make two more of you. Three. However many it takes." He smiled grimly. "Welcome to Mars, where impossibility is just the starting point."
+
+Alexis left the meeting with a new project—training program for emergency response. Every colonist would learn life support basics, pressure suit protocols, emergency repair procedures.
+
+Because the next oxygen alarm might not be in a habitat with an engineer present.
+
+The next failure might not be survivable through luck and determination.
+
+They needed redundancy. Expertise distributed across the crew.
+
+Yuki found her in the workshop that evening, assembling training kits.
+
+"Heard about the new program," Yuki said. "Think it'll work?"
+
+"Has to." Alexis fitted O2 canisters into the emergency locker. "We can't keep reacting to crises. We need prevention."
+
+"Prevention requires time we don't have."
+
+"Then we make time." Alexis looked at Yuki. "What happened today in Hab-3—that can't happen again. Next time, someone might not make the stupid heroic play."
+
+"The stupid heroic play that saved fifteen people from being displaced."
+
+"The stupid heroic play that almost killed me." Alexis sealed the training kit. "I got lucky. But we can't run a colony on luck."
+
+Yuki helped her assemble three more kits. They worked in silence, the familiar rhythm of repetitive tasks.
+
+"You ever wonder if we're fighting a losing battle?" Yuki asked finally.
+
+"Every day."
+
+"And you keep fighting anyway."
+
+"Because the alternative is giving up." Alexis started on the next kit. "And I didn't come forty million kilometers to quit."
+
+Outside, the Martian night descended. Cold and dark and hostile.
+
+But inside, the habitats glowed with light and life and stubborn human determination.
+
+The colony would survive.
+
+One emergency at a time.

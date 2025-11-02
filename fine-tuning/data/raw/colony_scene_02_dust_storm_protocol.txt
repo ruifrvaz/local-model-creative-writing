@@ -1,0 +1,107 @@
+The atmospheric sensor readings spiked at 1130. Dr. Hassan looked up from his core samples, frowning at the display.
+
+Wind velocity: ninety kilometers per hour and climbing. Particulate density: critical.
+
+"Kwan," he said into his comm. "We've got a dust storm building. Big one."
+
+The response was immediate. "How big?"
+
+Hassan pulled up the satellite overlay. The storm stretched across two hundred kilometers of terrain, a churning wall of red that was heading straight for the colony.
+
+"Regional scale. Maybe planetary if it hooks into the northern jet stream." He tagged the data and transmitted it to the command center. "ETA four hours."
+
+"Copy that. Initiating storm protocol."
+
+Hassan saved his work and began securing the geology lab. Equipment strapped down, sensitive instruments powered off and covered, air filtration switched to recirculation mode. He'd been through three dust storms since landing. Each one worse than the last.
+
+Mars didn't like visitors.
+
+The colony-wide alert chimed thirty minutes later. Commander Rivera's voice carried the practiced calm of someone delivering bad news.
+
+"All personnel, storm protocol is now in effect. Secure your stations and return to primary habitats. External operations suspended until all-clear is given."
+
+Hassan finished buttoning up the lab and headed for the residential module. The corridor viewports showed the horizon already darkening—a brown-orange haze that consumed the landscape.
+
+Yuki caught up with him at the airlock junction. "Your equipment secured?"
+
+"Locked down tight. You?"
+
+"Hydroponics is on automated cycle. As long as the power holds, the plants should be fine." She glanced at the viewport. "How bad?"
+
+"Bad enough to scrub the solar arrays. We'll be on battery power by nightfall."
+
+They reached Hab-2 as the first wall of dust hit. The habitat shuddered, a low groan of metal and composite under pressure. Hassan had studied Martian meteorology for years before the mission. He knew the storms were more sound than fury—the thin atmosphere meant even hundred-kilometer winds carried less force than a stiff breeze on Earth.
+
+But they could last for weeks.
+
+The common area was filling with colonists. Alexis stood at the main display, tracking power consumption.
+
+"We've got seventy-two hours of battery reserve," she said. "Storm clears before then, we're fine. If it doesn't, we start shutting down non-essential systems."
+
+"Define non-essential," someone called out.
+
+"Anything that doesn't keep us breathing, warm, and fed." Alexis pulled up the power allocation chart. "Entertainment, communications with Earth, half the lights, temperature above eighteen Celsius."
+
+Groans rippled through the group. Hassan didn't blame them. The colony was cramped enough when you could move freely between modules. Being confined to the residential hab for days with minimal power was a special kind of torture.
+
+The storm intensified. Wind screamed across the habitat's exterior, a constant howl that made conversation difficult. Dust scoured the viewports, reducing visibility to zero. Hassan watched the seismometer readings—vibrations from the storm, but nothing structural. The habitat was holding.
+
+Hour three, the solar arrays went dark. Battery indicator dropped to ninety-six percent.
+
+Hour six, external temperature dropped twelve degrees. The heating system kicked into high gear, pulling more power. Eighty-eight percent battery.
+
+Hour twelve, communication with Earth went silent. The relay satellite lost in the dust.
+
+Alexis began shutting down systems. First the science labs. Then the workshop. Then half the residential module lights. The common area took on a dim, emergency-lit appearance. People huddled in small groups, conserving body heat, talking in quiet voices.
+
+Hassan found Yuki in the hydroponics bay, checking on her plants by flashlight.
+
+"How are they holding up?" he asked.
+
+"Better than us. They don't care about the storm as long as the lights stay on and the water keeps flowing." She adjusted a grow lamp. "We could learn from them."
+
+"Resilience through simplicity?"
+
+"Something like that." Yuki sat down on the floor, back against the planter bed. "You study this planet for years. Does it get easier?"
+
+Hassan considered. Outside, the storm raged. Inside, they huddled in artificial warmth and recycled air, clinging to a hostile world that had no interest in their survival.
+
+"No," he said finally. "But you get better at accepting it."
+
+The storm lasted forty-one hours. When it finally passed, the colony emerged to a transformed landscape. Drifts of red dust covered everything—solar panels, equipment, the main airlock. The horizon was hazy with suspended particulates that would take days to settle.
+
+Alexis organized the cleanup crews immediately. Every colonist who could hold a brush was assigned a section of solar array to clear.
+
+Hassan worked alongside Yuki, sweeping dust from the photovoltaic cells. The regolith was everywhere—in his suit seams, coating his gloves, filming his visor. Patient and pervasive.
+
+"Batteries at forty-two percent," Alexis reported over the comm. "We need these arrays operational within six hours."
+
+The work was tedious. Brush, vacuum, wipe, move to the next panel. Repeat a thousand times. Hassan's shoulders ached. His suit's cooling system struggled to keep up with his exertion.
+
+But slowly, the arrays came back online. One by one, solar panels began converting weak Martian sunlight into power. The battery indicator crept upward.
+
+By nightfall, they'd restored seventy percent of generating capacity. Enough to run the colony. Enough to survive until the next storm.
+
+Hassan stood at the viewport in the residential module, watching the sunset paint the dust-heavy sky in shades of pink and violet. Beautiful and deadly.
+
+"Makes you wonder why we bother," Rivera said, appearing beside him.
+
+"Because it's here." Hassan gestured at the landscape. "Because humanity needs to be more than one planet. Because someone has to take the first steps."
+
+"Pretty words for a geologist."
+
+"I study rocks. Rocks that remember when this planet had oceans and atmosphere. When it was alive." Hassan watched the last light fade from the sky. "We're trying to bring that back. One habitat at a time."
+
+Rivera nodded slowly. "Think we'll make it?"
+
+Hassan thought about the storm. The dust. The failing equipment and corporate pressure and thousand daily challenges of surviving on Mars.
+
+"Ask me after the next storm," he said.
+
+But he smiled when he said it.
+
+Because they'd survived this one.
+
+And they'd survive the next.
+
+That's what pioneers did.
