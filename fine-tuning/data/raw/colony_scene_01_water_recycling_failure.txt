@@ -1,0 +1,109 @@
+The recycler's warning lights painted Alexis Kwan's face in amber. She dropped her coffee—barely touched, already cold—and ran.
+
+Three minutes to containment breach. Maybe less if the seals failed early.
+
+The corridor was empty at 0500 hours. Most of the colony still slept, unaware that their water supply was about to dump into the Martian regolith. Alexis's boots hammered against metal decking, her breath sharp in her chest.
+
+The recycling plant occupied the colony's lowest level, buried under fifteen meters of compacted dirt and ice. The door hissed open, and heat slapped her face. Steam billowed from ruptured pipes.
+
+"Status!" she shouted over the alarm.
+
+Yuki Tanaka looked up from the main console, her face pale. "Pressure spike in tank three. The regulator's stuck open. I can't get it to respond."
+
+Alexis crossed to the emergency panel. The schematic showed tank three's pressure climbing—red numbers ticking higher with each second. Two hundred PSI. Two-fifty. Three hundred.
+
+Rated for two-twenty, maximum.
+
+"Manual override," Alexis said, pulling on heat-resistant gloves.
+
+"The valve's on the hot side. You can't—"
+
+"Watch me."
+
+She grabbed the emergency toolkit and headed for the catwalk. Below her, the recycling tanks churned and bubbled, processing the colony's wastewater through filtration, distillation, and UV treatment. Forty thousand liters of drinkable water, recycled endlessly because Mars had no rain, no rivers, no easy sources.
+
+Just ice locked in the soil and what they could reclaim from human waste.
+
+Tank three loomed ahead, its surface beading with condensation. The pressure gauge read three-fifty. The metal groaned—a sound Alexis felt in her bones.
+
+She found the manual valve. The wheel was hot enough to glow faintly in the dim light.
+
+"Yuki, kill steam to section four!"
+
+"Already done! Alexis, that valve's been exposed to superheated vapor for ten minutes. The metal's compromised."
+
+"Then I'll work fast."
+
+She positioned herself, braced her feet, and grabbed the wheel. Heat seared through the gloves instantly. She ignored it and pulled.
+
+The wheel didn't move.
+
+Alexis reset her grip and tried again. Her muscles screamed. The wheel gave a fraction of an inch, then stuck.
+
+"Four hundred PSI," Yuki called. "Alexis, get out of there!"
+
+"Not yet." Alexis braced her shoulder against the valve assembly and pulled with everything she had. The metal creaked. Her gloves began to smoke.
+
+The wheel turned. Slow. Grudging. But it moved.
+
+Steam vented with a shriek that drowned out the alarms. Alexis kept turning, hand over hand, feeling blisters rise even through the protective material. The pressure gauge's needle swung downward.
+
+Three-fifty. Three hundred. Two-fifty.
+
+"It's working!" Yuki shouted.
+
+Alexis didn't stop until the gauge read one-eighty. Safe. Stable. She stepped back, her hands trembling, and sagged against the railing.
+
+"Shutdown complete," Yuki reported. "Pressure normalized. No breach."
+
+Alexis made her way back down the catwalk. Her hands hurt like hell. When she pulled off the gloves, the skin underneath was red and starting to blister.
+
+Yuki appeared with the first aid kit. "You're insane."
+
+"I'm thorough." Alexis let her treat the burns. The cool gel helped immediately. "What caused the spike?"
+
+"Regulator malfunction. Third one this month." Yuki wrapped Alexis's hands with careful precision. "The equipment's rated for twenty-year service life in controlled conditions. We're at year eighteen in a corrosive Martian environment. Things are breaking down faster than projected."
+
+"I'll file a replacement request."
+
+"They'll deny it. Again." Yuki finished bandaging and closed the kit. "Corporate says we're over budget. They want us to make the equipment last another five years."
+
+Alexis looked at the recycling plant. Pipes patched with sealant. Tanks showing stress fractures. Control systems running on backup processors because the primaries had fried months ago.
+
+They were building humanity's first permanent settlement on Mars with equipment held together by improvisation and prayer.
+
+"How long before the next failure?" she asked.
+
+"Could be tomorrow. Could be next month." Yuki met her eyes. "But it will fail. And eventually, we won't catch it in time."
+
+The alarm had stopped. The plant hummed with routine operation. Everything looked normal.
+
+Alexis knew better.
+
+"Double the inspection schedule. I want eyes on every critical system twice a day."
+
+"The crew's already stretched thin."
+
+"Then we'll stretch thinner. I'm not losing this colony because some accountant on Earth decided maintenance wasn't cost-effective."
+
+Yuki nodded slowly. "I'll update the rotation schedule."
+
+Alexis headed for the exit, her hands throbbing with each heartbeat. In the corridor, she passed a viewport. Mars stretched outside—red dust and ancient stone, a world that didn't care about human schedules or corporate budgets.
+
+A world that would kill them all if they made one wrong decision.
+
+She pulled out her tablet and started composing the incident report. Commander Rivera would read it. Corporate would ignore it. The cycle would continue.
+
+Somewhere above, the colony stirred to life. Two hundred souls who depended on systems that were quietly dying.
+
+Alexis's burned hands ached as she typed. Pain she could handle.
+
+Failure, she couldn't.
+
+The report sent, she headed for the infirmary. Dr. Hassan would lecture her about safety protocols. She'd nod and agree and do exactly the same thing next time.
+
+Because that's what kept people alive.
+
+Not caution. Not procedure.
+
+Stubborn refusal to accept the alternative.

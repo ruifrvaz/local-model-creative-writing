@@ -1,0 +1,171 @@
+Chen's fingers flew across the control panel, rerouting power from non-essential systems. The main transformer had failed thirty minutes ago, and now the entire colony ran on backup batteries.
+
+Six hours of reserve power. Maybe eight if they shut down everything non-critical.
+
+Not enough.
+
+"Transformer's completely fried," reported Martinez, emerging from the equipment bay covered in soot. "Overload cascade. The regulator should have tripped before damage occurred."
+
+"Should have," Chen agreed. "Didn't. Why?"
+
+Martinez pulled up diagnostic logs. "Regulator failed first. Micro-fracture in the controller board. By the time the secondary safety engaged, the transformer had already spiked."
+
+Chen studied the damage assessment. The main transformer was beyond repair. They had one spare, but installing it would take twelve hours minimum. The battery reserves wouldn't last that long.
+
+"Options," he said.
+
+"We can run critical systems only—life support, medical, minimal lighting. That extends battery life to maybe ten hours."
+
+"Still short."
+
+"Or we bring the emergency generator online."
+
+Chen grimaced. The emergency generator ran on hydrogen fuel cells—precious reserves meant for absolute worst-case scenarios. Once they burned through the hydrogen, there was no more. The fuel synthesis equipment had broken down eight months ago, and corporate had refused replacement authorization.
+
+"How much hydrogen do we have?"
+
+Martinez checked inventory. "Enough for forty-eight hours at full load. Longer if we ration."
+
+"And after that?"
+
+"We hope the transformer's installed and functional."
+
+Chen made the calculation. Risk immediate power failure and potential casualties, or burn through their emergency reserves and pray they could fix the transformer in time.
+
+Not really a choice.
+
+"Bring the generator online. Route power to essential systems only. I want a team on the transformer replacement immediately."
+
+"It's 0300 hours. Most of the crew's asleep."
+
+"Wake them. This is all-hands."
+
+While Martinez coordinated the crew, Chen headed for the transformer vault. The damaged unit sat in its housing, blackened and twisted by heat. The replacement was stored in the adjacent bay—pristine, untested, their only backup for critical infrastructure.
+
+What happened if they installed it and it also failed?
+
+Chen pushed the thought away. One crisis at a time.
+
+Alexis arrived first, followed by a team of engineers. They assessed the installation requirements while Chen pulled up the technical specifications.
+
+"Twelve hours is optimistic," Alexis said after reviewing the procedure. "We need to remove the damaged unit, recalibrate the mounting, install the replacement, run verification tests. Realistically, we're looking at sixteen hours."
+
+"We don't have sixteen hours."
+
+"Then we work faster and hope nothing goes wrong."
+
+They started immediately. The damaged transformer weighed seven hundred kilograms—manageable in Martian gravity but awkward in the confined space. They rigged a pulley system and began extraction.
+
+Two hours passed. The old transformer was out, the mounting points cleaned and inspected. Chen ran structural assessments while Alexis prepared the replacement.
+
+Everything checked out. So far.
+
+The new transformer slid into position smoothly. They secured the mounting bolts, connected the power feeds, double-checked every connection.
+
+Six hours elapsed. Battery reserves at four hours remaining.
+
+"Running initial power-on test," Chen announced.
+
+He activated the transformer's internal systems. Status lights flickered to life—green across the board. Power routing engaged. Load balancing algorithms initialized.
+
+"Primary systems nominal," Alexis reported. "Ready for integration with colony grid."
+
+Chen hesitated. Once they connected the transformer to the main grid, there was no turning back. If something failed, they could lose everything.
+
+But keeping it disconnected meant running on batteries until they failed. Same outcome, just delayed.
+
+"Connect it."
+
+Alexis threw the main breaker. The transformer hummed to life, accepting load from the colony grid. Chen watched the power flow indicators climb.
+
+Fifty percent capacity. Seventy-five percent. Ninety percent.
+
+"We're stable," Alexis said. "All systems transferring from battery to transformer power."
+
+Chen allowed himself a breath. The crisis wasn't over—they still needed to run full diagnostics and verify long-term stability. But immediate disaster had been averted.
+
+"Shut down the emergency generator," he ordered. "Preserve remaining hydrogen reserves."
+
+The generator spun down, its fuel cells returned to standby. Chen checked the inventory—they'd burned through eighteen hours of reserves. Thirty hours remaining.
+
+Not enough for comfort. But enough to survive the next crisis.
+
+If there was a next crisis. When there was a next crisis.
+
+Mars always had another crisis waiting.
+
+Chen found Rivera in the command center, monitoring the power restoration.
+
+"Status?" she asked.
+
+"Transformer online and stable. We're back to normal operation."
+
+"For now."
+
+"For now," Chen agreed. "Commander, we can't keep doing this. Every system is one failure away from catastrophe. We need proper spares, maintenance resources, and time to rebuild our reserves."
+
+"I know. But Earth's not sending supplies anymore, and we're not equipped for comprehensive manufacturing."
+
+"Then we need to change that." Chen pulled up schematics. "With the right equipment, we could fabricate our own spare parts. Basic components, at least. Stop being dependent on Earth for every replacement."
+
+"What do you need?"
+
+"3D printers capable of metal fabrication. Raw material stockpiles. Technical specifications for critical components. And about six months of uninterrupted work time to establish the manufacturing pipeline."
+
+Rivera studied his proposal. "This is long-term investment. Resources we could use for immediate needs."
+
+"Immediate needs keep us alive today. This keeps us alive tomorrow. And next year. And ten years from now."
+
+She was quiet for a long moment. Then: "Do it. Put together a detailed plan. I'll allocate resources and personnel."
+
+"Thank you, Commander."
+
+"Don't thank me. Just make it work."
+
+Chen returned to the engineering bay feeling cautiously optimistic. They'd survived another crisis. More importantly, they were planning to prevent the next one.
+
+That was progress. Small. Insufficient. But progress nonetheless.
+
+Martinez found him reviewing fabrication equipment specifications.
+
+"We did good today," Martinez said.
+
+"We survived. That's different from good."
+
+"On Mars, it's the same thing."
+
+Chen smiled despite his exhaustion. "Maybe you're right."
+
+They worked through the night, planning a manufacturing capability that would transform the colony from dependent outpost to self-sufficient settlement.
+
+Would it work? Probably not perfectly. Nothing on Mars worked perfectly.
+
+But it would work well enough. It had to.
+
+Because well enough was all Mars ever offered.
+
+And somehow, that was sufficient.
+
+Chen saved his work and headed for his quarters. Four hours until his next shift. He'd use them for sleep.
+
+Or lying in bed thinking about transformer failures and hydrogen reserves and all the ways Mars could kill them tomorrow.
+
+Probably the latter.
+
+But that was fine. Someone needed to worry.
+
+Might as well be him.
+
+The colony hummed around him, alive and fragile.
+
+One crisis down. Infinite more to come.
+
+Mars never changed.
+
+Neither did its engineers.
+
+Stubborn. Relentless. Refusing to quit.
+
+Good enough.
+
+Always good enough.

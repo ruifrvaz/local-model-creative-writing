@@ -1,0 +1,149 @@
+Alexis sat alone in her quarters, staring at the message on her tablet. Her brother's face smiled from the attached photo—him, his wife, their new daughter. Three months old now. Born on Earth while Alexis drilled through Martian regolith.
+
+"We named her Elena," the message said. "After Mom. Wish you could meet her."
+
+Alexis looked at the baby's face. Dark eyes. Tiny hands. A whole life ahead of her, lived under blue sky with rain and trees and air that didn't need to be manufactured.
+
+Things Mars would never have.
+
+She closed the message and set the tablet aside. Her quarters were small—three meters by four, barely enough space for a bed, desk, and storage locker. But they were private. Her space. The only place on Mars where she could stop being Chief Engineer and just be Alexis.
+
+The photo of her mother sat on the desk. Elena Kwan, smiling in her NASA flight suit. Taken three weeks before the accident that killed her and five other astronauts during a routine orbital transfer.
+
+Alexis had been thirteen. Old enough to understand what death meant. Young enough to think it wouldn't hurt forever.
+
+She'd been wrong about that.
+
+"You'd like it here," Alexis said to the photo. "It's hard. Brutal. Nothing works the way it should. But we're building something that matters."
+
+The photo didn't answer. It never did.
+
+Her comm chimed. Rivera's voice: "Senior staff meeting in ten minutes. Attendance mandatory."
+
+Alexis stood, stretched, and checked her reflection in the small mirror. Tired eyes. Hair pulled back in a practical bun. Hands callused from constant repair work.
+
+She looked like someone who'd forgotten what rest felt like.
+
+The meeting room held five people when she arrived. Rivera sat at the head of the table. Hassan reviewed data on his tablet. Yuki nursed a cup of something that smelled like coffee but wasn't. Chen tapped his fingers nervously.
+
+"Thank you for coming," Rivera began once Alexis sat. "We need to discuss the colony's long-term viability."
+
+Alexis felt her stomach tighten. Long-term viability was corporate speak for "we're in trouble."
+
+Rivera pulled up a chart. "Current resource consumption exceeds sustainable production by twelve percent. With the new personnel arriving next week, that gap increases to eighteen percent."
+
+"Can we reduce consumption?" Hassan asked.
+
+"We're already at minimum levels for health and safety." Rivera advanced the slide. "The problem isn't consumption. It's production. We're not generating enough water, food, or power to sustain our current population, let alone additional personnel."
+
+"Then we refuse the new arrivals," Chen said.
+
+"Corporate won't allow it. The mining operations are non-negotiable."
+
+"So what do we do?" Yuki asked quietly.
+
+Rivera looked at each of them. "We expand production. Hassan, you need to identify new water sources. Yuki, you need to increase hydroponics yield by twenty percent. Kwan, we need more power generation."
+
+Alexis did the math in her head. "Twenty percent more power means significant additional solar capacity. We'd need to expand the panel arrays by at least five hundred square meters."
+
+"Can you do it?"
+
+"With current resources? No. With equipment from the next supply shipment? Maybe. If nothing else breaks in the meantime."
+
+"That's not good enough."
+
+"It's reality, Commander." Alexis kept her voice level. "We're operating with equipment at end-of-life, systems held together with improvisation, and margins so thin a single failure cascades into catastrophe. You want more? Give me resources."
+
+"I'm giving you a directive. Figure it out."
+
+The room went silent. Alexis felt anger flash hot in her chest. She'd spent eighteen months keeping this colony alive through equipment failures, resource shortages, and decisions made by people who'd never set foot on Mars.
+
+And now Rivera wanted miracles.
+
+"Fine," Alexis said. "I'll figure it out. But I need something from you."
+
+"Go ahead."
+
+"When it fails—and it will fail—I need you to stand with me. When corporate demands answers, when people point fingers, when everything goes to hell. You back your people."
+
+Rivera met her eyes. "Always have. Always will."
+
+"Even if it means defying corporate?"
+
+"If necessary." Rivera's jaw set. "But let's make sure it doesn't come to that."
+
+The meeting adjourned. Alexis headed for the engineering bay, her mind already running calculations. Five hundred square meters of solar panels. She'd need materials, installation time, and crew hours they couldn't spare.
+
+She found Chen at his console, running stress simulations.
+
+"We're in over our heads," he said without preamble.
+
+"I know."
+
+"No, I mean the habitat structure. These expansion plans push us past design limits. Add enough stress and the domes could fail."
+
+Alexis looked at his models. Red zones highlighted critical stress points. The numbers were concerning but not catastrophic.
+
+Yet.
+
+"Show me the worst-case scenario," she said.
+
+Chen pulled up another simulation. "If we expand to accommodate the new personnel and a dust storm hits while we're mid-construction, the incomplete sections could tear loose. That creates a breach. Rapid depressurization. Loss of atmosphere in the affected modules."
+
+"Casualties?"
+
+"Depends on response time. But we'd be looking at structural damage that could take months to repair."
+
+Alexis studied the simulation. "Mitigation strategies?"
+
+"Phased construction. We don't expand all at once. We build one section, seal it, verify integrity, then move to the next."
+
+"That'll take three times as long."
+
+"But it won't kill anyone if things go wrong."
+
+Alexis made the decision. "Phased approach. I'll update Rivera. You start drafting the construction schedule."
+
+Chen nodded and turned back to his work. Alexis headed for her own station and pulled up the power generation specs.
+
+Five hundred square meters. Twenty percent increase. Impossible with current resources.
+
+Unless.
+
+She opened the old survey data from the colony's initial site selection. The maps showed several potential locations for expansion, rated by solar exposure and terrain stability.
+
+One site stood out. Three kilometers from the main habitat. Excellent solar exposure. Flat terrain. Minimal dust accumulation.
+
+It also sat near the subsurface anomaly Hassan had discovered.
+
+Alexis pulled up Hassan's preliminary report. The chamber showed no signs of current activity. Structurally stable. No radiation, no thermal signatures, nothing dangerous.
+
+Just an ancient mystery that probably had nothing to do with solar panel placement.
+
+Probably.
+
+She drafted a proposal. Remote solar array. Automated systems. Minimal crew exposure. If it worked, they'd have the power they needed without stressing the habitat's immediate vicinity.
+
+If it didn't, they'd have wasted resources they couldn't afford to lose.
+
+Alexis sent the proposal to Rivera and sat back. Her quarters beckoned—sleep, privacy, a few hours of peace.
+
+But the photo of her niece remained on her tablet. Little Elena, born into a world Alexis had left behind.
+
+She wondered if her mother had felt this way. Choosing dangerous work over safe comfort. Pursuing something meaningful even when it scared her.
+
+Probably.
+
+That's what Kwans did. They built things. Fixed things. Made the impossible work.
+
+Even on Mars. Especially on Mars.
+
+Alexis closed the proposal and allowed herself ten minutes of rest.
+
+Then it was back to work. Always back to work.
+
+Because the colony didn't survive on hope or dreams.
+
+It survived on engineering. And stubbornness. And people who refused to quit.
+
+Her mother would have approved.

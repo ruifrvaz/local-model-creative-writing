@@ -1,0 +1,159 @@
+The oxygen alarm started at 0200 hours. Not loud. Just persistent beeping that meant someone was about to have a very bad day.
+
+Chen rolled out of his bunk and checked the monitoring station. The numbers confirmed his worst fear.
+
+Dome three. Oxygen saturation dropping. One percent per hour. Not fast enough to kill immediately, but steady enough to mean a leak somewhere in the atmospheric processing system.
+
+He pulled on clothes and headed for the engineering bay. The colony slept around him, unaware that their air was slowly disappearing into the Martian atmosphere.
+
+Yuki met him at the control console. "I saw the alert."
+
+"Dome three's losing pressure. Slow leak, probably in the recycling manifold."
+
+"Can we isolate it?"
+
+Chen pulled up the schematic. Dome three housed thirty crew members, the secondary hydroponics bay, and critical equipment storage. "Not without evacuating everyone first. That'll take an hour minimum, and we'll lose the hydroponics."
+
+"Or we find the leak and patch it before the oxygen drops to critical levels."
+
+"In the dark. While people are sleeping. Without causing a panic."
+
+Yuki grabbed an equipment bag. "Better get started then."
+
+They suited up partially—respirators, emergency air supplies, tool belts. The dome's atmospheric pressure was still stable. Just the oxygen content that was dropping.
+
+Chen led them to the life support access tunnel. The recycling system ran through conduits beneath the dome floor, processing CO2 and generating O2 through chemical and biological methods.
+
+Complex. Fragile. And currently failing.
+
+"Start at the primary manifold," Chen said. "Work backward through the system."
+
+They crawled through the access space, checking seals and joints. The tunnel was barely a meter high, forcing them to move on hands and knees. Chen's respirator hissed with each breath.
+
+Nothing at the primary manifold. All seals intact.
+
+They moved to the secondary distribution network. Yuki scanned each connection with a leak detector while Chen checked the pressure readings.
+
+"Got something," Yuki called. "Junction seven. Micro-fracture in the sealant."
+
+Chen crawled over. The crack was hairline-thin, barely visible. But the detector showed escaping oxygen, a tiny stream venting into the access tunnel and eventually outside the dome.
+
+"How long to patch?"
+
+"Ten minutes if the sealant adheres properly. Thirty if it doesn't and we need to replace the entire junction."
+
+Chen checked the oxygen levels. Down to eighteen percent. Still breathable, but dropping. "Do it fast."
+
+Yuki pulled out the repair kit and began cleaning the surface. The process was delicate—remove old sealant, apply new compound, wait for it to cure. Rush it and the patch would fail. Take too long and the oxygen would drop to dangerous levels.
+
+Chen monitored the dome's atmosphere while she worked. Seventeen percent. Sixteen-point-five.
+
+"How long?" he asked.
+
+"Almost there. The compound needs another three minutes to set."
+
+Sixteen percent. Chen pulled up the emergency response protocols. Below fifteen percent, they'd need to evacuate. Below twelve, people would start losing consciousness.
+
+The compound cured slowly. Deliberately. Following chemical processes that couldn't be rushed.
+
+Fifteen-point-eight percent.
+
+"Yuki."
+
+"I know. Just... stay calm."
+
+Fifteen-point-five.
+
+Chen activated his comm. "Rivera, we have a situation in dome three. Oxygen dropping. We're patching the leak but you might need to prep for evacuation."
+
+"Status?"
+
+"Fifteen-point-four percent and falling. Patch needs two more minutes."
+
+"Standing by."
+
+Fifteen-point-two percent.
+
+Yuki pressed the sealant firmly into place. "Compound is setting. Should hold, but I can't guarantee—"
+
+The leak detector went silent. Oxygen stopped escaping.
+
+Chen watched the atmospheric readings. The drop slowed. Stabilized. Then began to climb as the recycling system caught up.
+
+Fifteen-point-three. Fifteen-point-five. Sixteen percent.
+
+"Patch is holding," Yuki said. Her voice shook slightly. "We're good."
+
+Chen sagged against the tunnel wall. "Rivera, crisis averted. Oxygen stabilizing."
+
+"Copy that. Good work. I want a full system diagnostic before anyone enters dome three."
+
+"Already planned."
+
+They crawled back through the access tunnel in silence. When they emerged, Yuki pulled off her respirator and sat heavily on a storage crate.
+
+"That was close."
+
+"Too close." Chen pulled up the maintenance logs. "This junction was inspected three weeks ago. Passed with no issues."
+
+"So the fracture developed since then."
+
+"Or the inspection missed it." Chen felt anger rise. "We're cutting corners because we don't have time or resources for thorough checks. Eventually something gets missed."
+
+"What do you want to do? We can't add more hours to the day."
+
+"No. But we can stop pretending everything's fine when it isn't." Chen pulled up his tablet. "I'm recommending we reduce operational capacity. Seal dome three except for essential functions. That gives us buffer room if another dome develops problems."
+
+"Rivera won't approve that. Corporate wants full expansion."
+
+"Corporate can kiss my—" Chen stopped himself. "We almost lost thirty people tonight because a seal failed. I'm not risking more lives to keep corporate happy."
+
+Yuki was quiet for a moment. "If you push this, Rivera will have to choose between supporting you and maintaining her position."
+
+"I know."
+
+"And you're okay with that?"
+
+Chen thought about the alarm. The dropping oxygen. The minutes counting down while he watched numbers fall.
+
+"I'm okay with people being alive," he said. "The politics can sort themselves out."
+
+He sent the recommendation to Rivera, copied to the senior staff. Then he headed back to the dome three access point and began the diagnostic.
+
+The system ran green across the board. Everything functional. Everything within parameters.
+
+Except for one microscopic fracture that had almost killed thirty people.
+
+Chen marked the junction for daily inspection and added redundancy protocols. If another leak developed, they'd have backup systems ready to engage.
+
+It wasn't enough. Not really. The colony's infrastructure was aging, the crew was stretched thin, and corporate kept demanding more with less.
+
+But it was what he could control. So he controlled it.
+
+The diagnostic completed. Chen reviewed every line of data, looking for potential problems. He found three minor issues—nothing critical, but worth watching.
+
+He flagged them. Scheduled repairs. Updated the maintenance logs.
+
+Dawn was an hour away. Most of the crew would wake never knowing how close they'd come to disaster.
+
+Chen preferred it that way. Let them sleep. Let them believe the systems were solid and the colony was safe.
+
+He'd carry the worry for all of them.
+
+That's what engineers did. They fixed problems before people noticed.
+
+And when the problems were too big to fix, they improvised, adapted, and bought time for better solutions.
+
+Chen closed the diagnostic report and headed for his quarters. Three hours until his shift started. He'd use them for sleep.
+
+Or lying in bed thinking about oxygen levels and failing seals.
+
+Probably the latter.
+
+But that was fine. Someone needed to worry. Might as well be him.
+
+The colony hummed around him, alive and fragile.
+
+He'd keep it that way. One patch at a time.
+
+For as long as the patches held.

@@ -1,0 +1,167 @@
+The dust storm hit at 1400 hours, ahead of schedule and twice as strong as predicted.
+
+Alexis watched the wall of red surge across the plains, obliterating the horizon. The atmospheric sensors screamed warnings—wind speeds exceeding two hundred kilometers per hour, visibility dropping to zero, static electricity building to dangerous levels.
+
+"All personnel inside," she called over the colony-wide comm. "Seal all external airlocks. This is not a drill."
+
+The colony had drilled for storms a dozen times. Everyone knew the procedure. But knowing and doing were different when the Martian atmosphere turned hostile.
+
+She pulled up the structural monitoring grid. The habitat domes flexed under the wind, their composite shells designed to handle pressure differentials and particle bombardment. Numbers scrolled past—stress readings, integrity percentages, real-time damage assessment.
+
+Everything held. So far.
+
+The storm hit like a physical blow. The lights flickered as dust engulfed the solar panels. Emergency power kicked in smoothly, battery banks taking the load.
+
+"Battery at ninety-two percent," reported Chen from engineering. "Estimate eight hours of reserve if the storm lasts that long."
+
+"Weather projection shows twelve hours minimum," Alexis replied. "Start power rationing. Non-essential systems offline."
+
+"Copy that."
+
+The habitat's interior lights dimmed to emergency levels. Climate control reduced to minimum settings. The colony settled into storm protocol—quiet, efficient, conserving every watt.
+
+Alexis moved to the observation deck despite knowing she'd see nothing but red darkness. The storm consumed everything, turning day into murky twilight. Lightning flickered in the distance—Martian lightning, born of static discharge rather than water vapor.
+
+Beautiful. Deadly. Indifferent to human presence.
+
+Her comm chimed. "Kwan, we have a problem." Rivera's voice, tense.
+
+"Go ahead."
+
+"Rover team three didn't make it back before the storm hit. They're fifteen klicks out, sheltering in their vehicle."
+
+Alexis pulled up the rover tracking system. The vehicle's beacon showed clearly, a blue dot alone in the red wasteland. "Status?"
+
+"Intact. Air supply good for another six hours. But they're taking a beating from wind and debris. Hull stress is climbing."
+
+"Can they move?"
+
+"Not in this visibility. They'd drive off a cliff or into a boulder field."
+
+Alexis ran calculations. The storm would peak in four hours, then gradually diminish. But gradually meant another eight hours before visibility improved enough for safe navigation.
+
+Twelve hours total. Six more than the rover's air supply.
+
+"Options?" Rivera asked.
+
+"We wait out the storm and hope their hull holds. Or we send a rescue team."
+
+"In this weather?"
+
+"The heavy transport could make it. Lower profile, better traction, stronger hull." Alexis pulled up the specs. "But it's a risk. If we lose the transport, we lose our primary cargo hauler."
+
+"And if we don't try, we lose three people."
+
+The math was simple. The decision wasn't.
+
+Alexis thought about the rover crew. Chen from engineering. Dr. Okonkwo from medical. And young Martinez, who'd arrived on Mars six weeks ago, still bright-eyed about building the future.
+
+Good people. Competent people. People who'd followed protocol and done everything right except account for Martian weather being unpredictable.
+
+"I'll take the transport," Alexis said.
+
+"Like hell you will." Rivera's voice hardened. "You're chief engineer. I need you here."
+
+"Then who goes? Because someone has to."
+
+Silence. Alexis knew what Rivera was thinking. Every person on the colony was essential. Losing anyone meant losing expertise they couldn't replace.
+
+But losing three people meant losing even more.
+
+"I'll go," Yuki's voice cut in. "I know the terrain. I've driven through storms before."
+
+"When?" Alexis demanded.
+
+"Training exercises on Earth. Simulated Martian conditions."
+
+"Simulated isn't real."
+
+"Close enough." Yuki's voice stayed calm. "I can do this, Kwan. Let me do this."
+
+Alexis looked at the storm. At the rover beacon. At the transport specs.
+
+"You'll need a copilot," she said. "I'm coming with you."
+
+"Kwan—" Rivera started.
+
+"Commander, with respect, you need both of us out there. Tanaka drives, I navigate. We bring them home."
+
+Rivera was quiet for a long moment. "Fine. But you follow emergency protocols. If conditions deteriorate beyond safety margins, you abort. No heroics."
+
+"Understood." Alexis was already moving. "Tanaka, meet me at the transport bay. We launch in ten minutes."
+
+The transport sat ready, battery charged, treads checked. Alexis ran through the preflight while Yuki suited up. The vehicle was built like a tank—six wheels, reinforced hull, enough battery power for forty hours of operation.
+
+They'd need maybe four. If everything went perfectly.
+
+"Nav system online," Alexis reported. "Beacon tracking locked. Course plotted."
+
+Yuki settled into the driver's seat. Her hands moved across the controls with practiced ease. "Ready when you are."
+
+"Bay depressurizing. Outer door opening in thirty seconds."
+
+The storm roared beyond the airlock. Alexis watched the pressure gauges drop, felt the transport rock slightly as wind found its way inside.
+
+"Door open. Proceeding."
+
+Yuki eased the transport forward. The moment they cleared the bay, visibility dropped to less than five meters. The headlights cut through dust and showed nothing but swirling red chaos.
+
+"Switching to ground-penetrating radar," Alexis said. "I'll call the terrain. You focus on not rolling us."
+
+"Cheerful."
+
+"Realistic."
+
+They drove into the storm at fifteen kilometers per hour—faster than safe, slower than needed. The transport's suspension absorbed impacts from rocks and debris. Wind hammered the hull with irregular gusts that pushed them sideways.
+
+Yuki corrected each drift smoothly, keeping them on course.
+
+"Boulder field ahead," Alexis warned. "Three meters to starboard."
+
+Yuki adjusted. The transport threaded between obstacles that appeared on radar as ghostly outlines.
+
+They drove for an hour. Then two. The storm showed no signs of weakening. Static electricity crackled along the hull, visible as faint blue sparks in the red darkness.
+
+"Distance to target?" Yuki asked.
+
+"Seven klicks. We're making good time."
+
+Another gust hit broadside, strong enough to lift two wheels off the ground. Yuki didn't panic, just compensated and brought them level.
+
+"You're good at this," Alexis said.
+
+"I'm terrified. But I'm good at not showing it."
+
+Honest. Alexis respected that.
+
+Six klicks. Five. The rover's beacon grew stronger. Alexis could see it on visual now—a faint light in the storm.
+
+"Contact," she called. "Rover dead ahead."
+
+Yuki brought the transport alongside. Through the swirling dust, Alexis could see the rover's hull, scarred by debris but intact.
+
+"Chen, we're here. Prepare to transfer."
+
+The rover's airlock opened. Three suited figures crossed the gap, moving carefully against the wind. Chen came first, then Okonkwo, then Martinez.
+
+The moment they were aboard, Yuki turned the transport for home.
+
+The return trip took ninety minutes. They drove in silence, focused on survival. When the habitat's lights appeared through the storm, Alexis felt tension drain from her shoulders.
+
+They'd made it. All of them.
+
+The bay doors sealed behind them. Pressure normalized. Alexis removed her helmet and found her hands shaking.
+
+Delayed reaction. Adrenaline crash. Normal.
+
+"Good driving," she told Yuki.
+
+"Good navigation." Yuki's hands shook too. "Let's not do that again."
+
+"Agreed."
+
+But they both knew they would. Mars demanded it.
+
+And they'd answer. Every time.
+
+Because that's what kept people alive.

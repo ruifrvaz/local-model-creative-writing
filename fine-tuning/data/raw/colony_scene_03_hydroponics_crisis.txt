@@ -1,0 +1,139 @@
+The hydroponics bay smelled like dirt and life—a sharp contrast to the recycled air that filled the rest of the colony. Yuki Tanaka moved between the grow beds, checking nutrient levels with practiced efficiency.
+
+The lettuce looked good. Tomatoes were flowering. The wheat stood tall and green, ready for harvest in another week.
+
+All of it dying.
+
+The readings didn't lie. Nitrogen levels dropping across all beds despite supplementation. PH drifting acidic. Root systems showing early signs of stress that would cascade into crop failure within days.
+
+Yuki pulled up the environmental controls. Atmospheric composition. Temperature. Humidity. Light cycles. Everything nominal. Everything perfect.
+
+Except the plants were dying anyway.
+
+"Talk to me," she said to the nearest tomato plant. It didn't answer, but its wilting leaves spoke volumes.
+
+She took soil samples from three beds, sealed them in sterile containers, and headed for the lab. The colony's biology suite occupied a corner of the medical bay—one microscope, one spectrometer, enough equipment to handle basic analysis and emergency diagnostics.
+
+Dr. Hassan looked up from his own work when she entered. "Problem?"
+
+"Maybe. Probably." Yuki loaded the first sample into the spectrometer. "The hydroponics are showing stress symptoms, but I can't find the cause."
+
+Hassan moved to look over her shoulder as the results populated. "Microbial balance?"
+
+"Within parameters. I thought maybe contamination, but the beneficial bacteria are present and active."
+
+The spectrometer beeped. Results displayed in crisp columns. Yuki stared at them, her stomach sinking.
+
+"That's not right," she said.
+
+Hassan leaned closer. "Trace element depletion. Selenium, molybdenum, boron. All critical for plant metabolism."
+
+"I supplement those. Weekly. The levels should be stable." Yuki pulled up her logs. "Look—last addition was three days ago. Full spectrum micronutrients according to protocol."
+
+"Then where did they go?"
+
+Yuki ran the second sample. Same results. The third showed even worse depletion.
+
+"Something's sequestering them," Hassan said. "Binding the nutrients so plants can't access them."
+
+"What could do that?" Yuki scrolled through possible causes. "Chemical contamination? But we'd see it in the spectrometry. Biological agent? But the bacterial cultures are healthy."
+
+Hassan was quiet for a moment. Then: "What if it's the water?"
+
+"We test the water. It's clean."
+
+"We test for pathogens and heavy metals. Not for everything." He pulled up the colony's water analysis logs. "When did you start noticing the plant stress?"
+
+"Four days ago. Subtle at first, but accelerating."
+
+Hassan scrolled back through the water quality reports. "Four days ago, we switched from well three to well four. Different aquifer, different mineral composition."
+
+Yuki felt pieces clicking into place. "The minerals in well four's water are binding with the micronutrients."
+
+"Making them insoluble. Unavailable to the plants." Hassan ran a quick calculation. "We need to analyze well four's composition against your nutrient profile."
+
+They worked in silence, pulling data, running models. Twenty minutes later, the answer stared back at them.
+
+"Iron," Yuki said. "Well four has elevated iron content. It's chelating the trace elements into compounds the plants can't absorb."
+
+"Can you compensate?"
+
+"If I increase supplementation by a factor of three, maybe. But that'll burn through our reserves in weeks instead of months."
+
+Hassan leaned back. "We can't switch back to well three. The pump failed yesterday."
+
+"I know." Yuki looked at her projections. "If I can't solve this, we'll lose the entire crop in ten days. After that, we're on emergency rations until the next supply ship."
+
+"Which arrives in eight weeks."
+
+They looked at each other. The math was simple. Ten days of crops plus thirty days of emergency rations meant they'd run out of food eighteen days before resupply.
+
+"Rivera needs to know," Hassan said.
+
+"She'll panic."
+
+"She'll make a decision. That's what commanders do."
+
+Yuki saved her findings and headed for Rivera's office. The walk gave her time to think. The colony operated on razor-thin margins—everything calculated, optimized, planned down to the last gram of food and liter of water.
+
+But plans assumed equipment didn't fail. Assumed water quality stayed consistent. Assumed the universe cooperated.
+
+Mars didn't cooperate. Mars tested every assumption and broke the ones that mattered most.
+
+Rivera listened to her report without interruption. When Yuki finished, the commander sat back in her chair.
+
+"Options?"
+
+"Triple the supplementation. We'll run out of nutrients in three weeks, but the plants should survive until then. That gives us one harvest before we're dependent on rations."
+
+"And after that harvest?"
+
+"We hope the next supply ship brings more supplements. Or we find another water source. Or—" Yuki stopped.
+
+"Or we start rationing now and hope it's enough," Rivera finished. "How severe?"
+
+"Twenty percent reduction across the board. Enough to extend our reserves but not enough to impact health significantly."
+
+Rivera pulled up the supply manifests. "The next shipment includes micronutrients?"
+
+"Standard resupply package. But if we use triple supplementation, it won't be enough to sustain us until the following shipment."
+
+"So we're trading short-term survival for long-term problems."
+
+"Unless we can fix well three or find a new water source."
+
+Rivera made a note on her tablet. "I'll have Kwan prioritize the well repair. In the meantime, implement the triple supplementation. I'll announce rationing at tomorrow's briefing."
+
+Yuki nodded and turned to leave.
+
+"Tanaka." Rivera's voice stopped her. "Good work catching this early. If you'd waited another day or two, we might not have had options."
+
+"I watch the plants. They tell me when something's wrong."
+
+"Keep watching. And Yuki? Don't tell the crew about the food timeline yet. Let me handle it."
+
+"Understood."
+
+Yuki returned to the hydroponics bay. The plants waited, patient and dying. She mixed a concentrated batch of supplements and began dosing each bed.
+
+The tomato plant she'd spoken to earlier looked slightly perkier. Or maybe she was imagining it.
+
+"You're going to make it," she told it. "All of you. I'm not letting you die."
+
+The plant didn't answer, but its leaves caught the grow lights with something that might have been determination.
+
+Or maybe just photosynthesis.
+
+Either way, Yuki would take it.
+
+She worked through the night, adjusting, measuring, coaxing life from systems that wanted to fail. By dawn, the beds showed improvement. Small. Fragile.
+
+But alive.
+
+That's all that mattered. Staying alive. One crisis at a time.
+
+Mars would test them again. It always did.
+
+But today, the plants survived.
+
+Tomorrow could wait.
