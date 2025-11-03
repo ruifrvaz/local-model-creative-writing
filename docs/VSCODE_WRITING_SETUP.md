@@ -398,20 +398,6 @@ def retrieve_context(query: str, top_k: int = 5) -> str:
     # ... existing code ...
 ```
 
-## Backup and Version Control
-
-```bash
-# Backup your RAG database
-cd ~/scifi-llm/RAG
-tar -czf rag_backup_$(date +%Y%m%d).tar.gz chroma_db/ chunks/
-
-# Version control your documents
-cd your-manuscript
-git init
-git add .
-git commit -m "Initial worldbuilding"
-```
-
 ## Summary
 
 Your setup:
@@ -419,5 +405,3 @@ Your setup:
 - ✅ RAG proxy (auto-retrieves your worldbuilding)
 - ✅ VS Code integration (seamless writing experience)
 - ✅ Maintains continuity (characters, plot, world)
-
-**You now have an AI co-author that knows your entire universe!** 🚀
