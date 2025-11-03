@@ -1,0 +1,115 @@
+Alexis sat alone in the rec area—or what used to be the rec area before they'd converted it to algae production. The tanks hummed softly, their LED arrays casting everything in blue-green light.
+
+She hadn't meant to come here. Her feet had just carried her while her mind was elsewhere.
+
+The message from Earth was still open on her tablet. Her daughter's graduation. Next month. Two months of travel time meant Alexis had missed the application deadline to request emergency leave.
+
+She'd be sixty million kilometers away while her daughter walked across that stage.
+
+"Chief?"
+
+Alexis looked up. Sofia Reyes stood in the doorway, work tablet in hand.
+
+"Sorry, I was just..." Alexis gestured vaguely at the algae tanks. "Checking the oxygen output."
+
+Sofia's expression said she didn't believe that for a second, but she played along. "Output looks good. We're actually running ahead of projections."
+
+"That's good. With the new crew arriving, we'll need the buffer."
+
+Sofia sat down on the bench beside her. Not close enough to intrude, but near enough to make it clear she wasn't leaving.
+
+"Your daughter, right? The graduation?"
+
+Alexis blinked. "How did you—"
+
+"Small colony. People talk." Sofia pulled up something on her tablet. "I might have a solution. Want to hear it?"
+
+Despite herself, Alexis was curious. "Go ahead."
+
+"The supply ship has a tight-beam communication system. High bandwidth, real-time relay with less than two minutes lag. They use it for emergency navigation updates." Sofia turned the tablet to show a technical schematic. "We could piggyback a video feed. You wouldn't be there physically, but you could watch. Maybe even send a message."
+
+"That's unauthorized use of corporate equipment."
+
+"Yep." Sofia grinned. "But the navigation crew owes me a favor. I fixed their air recycling system last month. They'll look the other way for thirty minutes."
+
+Alexis felt something tighten in her chest. Hope, maybe. Or gratitude.
+
+"I can't ask you to—"
+
+"You're not asking. I'm offering." Sofia stood. "Send me the details—time, location, contact info. I'll set it up."
+
+She left before Alexis could argue.
+
+Alexis sat in the blue-green glow of the algae tanks and allowed herself a moment of pure relief. She wouldn't miss it. Wouldn't miss seeing her daughter's face as she accepted that diploma.
+
+Small victories.
+
+Her comm chimed. Hassan, requesting her presence in the lab.
+
+Alexis sealed her tablet and headed through the corridors. The habitat was quiet in evening cycle, most of the crew already retired to their quarters.
+
+She found Hassan surrounded by displays showing the alien structure. He'd been analyzing the symbols, trying to find patterns.
+
+"Tell me you've got something," she said.
+
+"Maybe. Look at this." Hassan pulled up a sequence of symbols from the chamber wall. "These repeat. Not randomly—they follow a mathematical progression."
+
+Alexis studied the pattern. "Prime numbers?"
+
+"Close. Fibonacci sequence, but modified. Each symbol represents a value, and they're arranged in spirals following the golden ratio." Hassan zoomed in on a section. "Whatever this is, it's deliberately mathematical. Universal language, maybe."
+
+"Or a really complicated decoration."
+
+"Decoration that survived three billion years?" Hassan shook his head. "No. This means something. I just need to figure out what."
+
+Alexis pulled up the structural scans. "Have you modeled the tunnel network yet?"
+
+"Working on it. The two chambers we found are just the start. The imaging suggests there might be dozens more, all connected." Hassan overlaid the scan data on a map of the colony. "Actually, there's something I wanted to show you. Look at the orientation."
+
+He highlighted the tunnel alignment. Alexis felt her breath catch.
+
+"It's pointing at the original landing site."
+
+"Not just pointing. Aligned within point-zero-one degrees." Hassan pulled up historical data. "When the first colony ships arrived, they picked that location based on optimal solar exposure and subsurface ice deposits."
+
+"You think the structures influenced where we landed?"
+
+"I think the structures are why there's subsurface ice there at all. The thermal analysis suggests these chambers once generated significant heat. Enough to create a localized melting zone in the permafrost." Hassan looked at her. "What if we didn't choose this location? What if we were drawn here?"
+
+Alexis processed that. "By three-billion-year-old alien architecture."
+
+"By design. Intentional design." Hassan pulled up more data. "Think about it. If you wanted to leave a message for whoever came after, you'd make it accessible. Near resources they'd need. In a place they'd naturally settle."
+
+"That's a hell of a lot of assumptions."
+
+"So was drilling a hole in the ground based on radar anomalies. And we found a tunnel." Hassan's excitement was infectious. "Alexis, what if this whole site is one giant invitation? 'Welcome to Mars, here's where to find us.'"
+
+"Then the question becomes: why? Why leave an invitation?"
+
+"That," Hassan said, "is what we need to figure out."
+
+They worked for another hour, mapping correlations and testing hypotheses. By the time Alexis returned to her quarters, her mind was spinning with possibilities.
+
+She pulled up the message to her daughter and began composing a response.
+
+"Hi sweetie. I got your graduation announcement. I'm so proud of you. I know I can't be there in person, but I'll be watching. There's someone here who's helping me set up a video link. I'll see you walk across that stage, even if I'm sixty million kilometers away.
+
+I wish I could tell you about what we're doing here. About what we've found. But it's still classified, still being verified. Someday soon, though, you're going to read about the biggest discovery in human history. And you can tell your friends: my mom was there when it happened.
+
+I love you. Be brilliant. Make good choices. And know that every day I'm up here, I'm thinking about you.
+
+Mom."
+
+She sent the message and allowed herself a few moments of homesickness. Then she pulled up the engineering reports and got back to work.
+
+Mars didn't care about emotions or family or the pieces of yourself you left behind on Earth.
+
+It only cared about what you could contribute to survival.
+
+And Alexis had work to do.
+
+But tonight, just for a moment, she'd allowed herself to be a mother instead of an engineer.
+
+Small victories.
+
+They were what kept you human in the Martian dark.

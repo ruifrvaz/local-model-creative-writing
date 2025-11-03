@@ -1,0 +1,139 @@
+The alarm cut through Alexis Kwan's sleep at 0347. She was moving before her eyes fully opened, muscle memory pulling her into boots and jumpsuit.
+
+"Kwan here."
+
+"We have a cascade failure in Water Reclamation Three." Yuki Tanaka's voice was controlled, but Alexis heard the edge. "Pressure drop in the main filtration loop. I've isolated the module, but we're losing reserve capacity."
+
+Alexis was already running. The corridors of Habitat Seven were dim in night-cycle mode, emergency strips casting red shadows. Her breath fogged in the cold Martian air—life support conserving power again.
+
+She reached the reclamation facility in ninety seconds. Yuki stood at the main console, fingers dancing across haptic controls. The displays painted her face in amber and crimson.
+
+"Show me."
+
+Yuki pulled up the system schematic. Alexis felt her stomach drop. Not just one failure—three separate pumps offline, two filters clogged, and the backup UV sterilization showing degraded output.
+
+"How long?"
+
+"Six hours until we have to start rationing. Twelve until we're on emergency reserves only."
+
+Alexis checked the pump diagnostics. Seal failure on Pump One—expected, they'd been nursing it for weeks. But Two and Three going down simultaneously? That was wrong.
+
+"Bring up the maintenance logs."
+
+Yuki complied. The data told a story Alexis didn't want to read. All three pumps had been serviced last week by Chen's crew. Standard procedure, nothing unusual.
+
+Except Chen's crew had left two days ago on the supply run back to Earth.
+
+"The regolith seals," Alexis said. "Check them."
+
+Yuki's fingers flew. Her face went pale. "Martian dust in the system. Contamination level is off the charts."
+
+"Someone used local seals instead of Earth imports." Alexis felt anger rise, hot and sharp. "Corporate cost-cutting bullshit."
+
+The math was simple and terrible. Local-manufactured seals were seventy percent cheaper. They also degraded in contact with Martian perchlorates—a fact clearly stated in the engineering specifications that someone in procurement had ignored.
+
+"Can we replace them?"
+
+"Not fast enough. We'd need to fabricate new seals, and the 3D printer queue is backed up for three days." Yuki pulled up inventory. "We have two imported seals in storage. That's it."
+
+Two seals. Three pumps. Four hundred people who needed water.
+
+Alexis closed her eyes and ran the numbers. Habitat Seven could operate on reduced capacity if they shut down the greenhouse irrigation. That would kill this month's crop, but it would buy time.
+
+Or.
+
+"The emergency reservoir," she said. "Under the solar farm."
+
+"That's for dust storms and total system failure. Commander Rivera will—"
+
+"Will understand that this is an emergency." Alexis pulled up the reservoir specs. "We tap it for supplemental supply, run the two working pumps at maximum capacity, and fabricate replacement seals on priority override."
+
+"That violates three separate protocols."
+
+"So does letting four hundred people die of thirst." Alexis met Yuki's eyes. "I'll take the heat from Rivera. You just keep the water flowing."
+
+Yuki hesitated for only a moment. Then she nodded and began routing commands.
+
+Alexis activated her comm. "This is Chief Engineer Kwan to all section leads. We have a situation in Water Reclamation. I need Chen's second-in-command and the fabrication team leader in my office in ten minutes."
+
+She closed the link and turned back to the displays. The contaminated seals glowed angry red on the schematic. Some accountant on Earth had decided to save a few thousand credits.
+
+And now Alexis had to explain to Commander Rivera why she was draining their emergency reserves.
+
+The fabrication team leader—a young tech named Marcus Wu—arrived first. Alexis didn't waste time on pleasantries.
+
+"I need three high-grade pump seals fabricated. Specs are in the engineering database. How fast can you do it?"
+
+Wu pulled up the specifications on his tablet. "Twenty hours per seal if we use the standard queue. But if you're talking priority override..."
+
+"I am."
+
+"Then we bump the current jobs—station maintenance parts, personal items, research equipment. People aren't going to be happy."
+
+"They'll be less happy if we run out of water." Alexis transferred the files. "Start with the seal for Pump One. It's the most critical."
+
+Wu nodded and left. Chen's second, a woman named Sofia Reyes, arrived as he departed.
+
+"You wanted to see me?"
+
+"Your team serviced the reclamation pumps last week. Walk me through it."
+
+Reyes pulled up her work logs. "Standard maintenance protocol. We replaced filters, checked pressure sensors, and installed new seals on all three pumps."
+
+"What seals did you use?"
+
+"The ones from Supply. They were marked as..." Reyes went quiet. She pulled up the inventory codes. Her face hardened. "Son of a bitch."
+
+"Local manufacture."
+
+"Supply said they were rated for the application. I checked the paperwork myself." Reyes looked sick. "Chief, I swear we followed procedure."
+
+"I know. This isn't on you." Alexis pulled up the procurement records. "This is on whoever approved the substitution without engineering review."
+
+The name at the bottom of the approval form made Alexis's jaw clench. Marcus Webb, Earth Corporate Liaison.
+
+Not an engineer. Not even stationed on Mars. Just some corporate drone optimizing spreadsheets from a comfortable office back home.
+
+"Get me a complete inventory check on every Earth-import component we're supposed to have," Alexis said. "I want to know what else got swapped out for local shit."
+
+Reyes saluted and left.
+
+Alexis stood alone in the reclamation facility, surrounded by humming machinery and the soft gurgle of water moving through pipes. Four hundred lives depending on systems held together with improvised fixes and corporate corner-cutting.
+
+This was the reality Earth never saw in the recruitment videos. No triumphant music or inspiring speeches. Just exhausted engineers fighting physics and bureaucracy in equal measure.
+
+Her comm chimed. Commander Rivera.
+
+Alexis took a breath and accepted the call.
+
+"Chief Kwan. I'm told you're draining the emergency reservoir."
+
+"Yes, ma'am. Water Reclamation Three is down. We need the reserves to maintain baseline consumption while we fabricate replacement parts."
+
+There was a pause. Rivera's voice, when it came, was carefully neutral. "How long until we're back to normal capacity?"
+
+"Twenty-four hours, minimum. Forty-eight to be safe."
+
+Another pause. Alexis could almost hear Rivera calculating the political cost. Earth Corporation would want explanations. Reports. Someone to blame.
+
+"Do it," Rivera said. "And Kwan? Document everything. Especially the seal specifications and who approved them."
+
+"Already on it, Commander."
+
+"Good. Rivera out."
+
+Alexis closed the link and allowed herself a small smile. Rivera knew. She knew exactly what had happened and who was responsible.
+
+Maybe there was hope for this colony after all.
+
+Yuki looked up from her console. "Reservoir tap is active. We're stable for now."
+
+"Good work." Alexis checked the time. 0412. Three hours until her official shift started.
+
+Sleep wasn't happening.
+
+She pulled up the maintenance queue and started planning. Three pumps to repair, an inventory audit to complete, and a very angry report to write.
+
+Mars didn't care about corporate politics or profit margins. It only cared about what worked and what didn't.
+
+Alexis intended to make sure everyone remembered that.
