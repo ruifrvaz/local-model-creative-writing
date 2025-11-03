@@ -25,7 +25,10 @@ Usage:
     # Quick merge with defaults
     python 3_merge_adapter.py --auto
 
-Note: Merged model will be ~15GB for Llama-3.1-8B
+Note: 
+  - Merged model will be ~15GB for Llama-3.1-8B
+  - Script disables AWQ (not needed for QLoRA/LoRA, uses bitsandbytes)
+  - Handles vocab size mismatches from training-added special tokens
 """
 
 import argparse
@@ -46,6 +49,11 @@ def check_venv():
         sys.exit(1)
 
 check_venv()
+
+# Disable AWQ to avoid import conflicts (not needed for QLoRA/LoRA merge)
+# AWQ is for quantized inference, not training/merging
+import os
+os.environ['DISABLE_AWQ'] = '1'
 
 # Now import ML libraries (after venv check)
 import torch
@@ -193,13 +201,37 @@ def merge_adapter(
         base_model,
         torch_dtype=torch_dtype,
         device_map='auto',
-        low_cpu_mem_usage=True
+        low_cpu_mem_usage=True,
+        quantization_config=None  # Explicitly disable quantization
     )
     print(f"[OK] Base model loaded ({base_model_obj.num_parameters():,} parameters)")
     
     # Load tokenizer
     print("\n[STEP 2/5] Loading tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained(base_model)
+    
+    # Load adapter tokenizer to check for vocab size differences
+    adapter_tokenizer = AutoTokenizer.from_pretrained(str(checkpoint_path))
+    
+    # Resize embeddings if needed (handles added special tokens during training)
+    if len(adapter_tokenizer) != len(tokenizer):
+        print(f"[INFO] Vocab size mismatch detected:")
+        print(f"   Base model: {len(tokenizer)} tokens")
+        print(f"   Adapter: {len(adapter_tokenizer)} tokens")
+        
+        # Check if it's the common unk_token issue
+        if len(adapter_tokenizer) == len(tokenizer) + 1:
+            base_vocab = set(tokenizer.get_vocab().keys())
+            adapter_vocab = set(adapter_tokenizer.get_vocab().keys())
+            new_tokens = adapter_vocab - base_vocab
+            if '<unk>' in new_tokens:
+                print(f"   Cause: Training config added <unk> token (unnecessary for Llama 3.1)")
+                print(f"   Impact: None (byte-level tokenizer won't use it)")
+        
+        print(f"   Resizing base model embeddings...")
+        base_model_obj.resize_token_embeddings(len(adapter_tokenizer))
+        tokenizer = adapter_tokenizer  # Use adapter's tokenizer
+    
     print("[OK] Tokenizer loaded")
     
     # Load adapter
@@ -209,7 +241,8 @@ def merge_adapter(
     model_with_adapter = PeftModel.from_pretrained(
         base_model_obj,
         str(checkpoint_path),
-        torch_dtype=torch_dtype
+        torch_dtype=torch_dtype,
+        is_trainable=False  # Inference mode
     )
     print("[OK] Adapter loaded")
     

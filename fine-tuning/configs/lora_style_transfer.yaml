@@ -80,10 +80,10 @@ wandb_log_model: false
 wandb_run_id:
 
 # Special Tokens
+# NOTE: Llama 3.1 uses byte-level BPE - no unk_token needed
 special_tokens:
   bos_token: "<|begin_of_text|>"
   eos_token: "<|end_of_text|>"
-  unk_token: "<unk>"
   pad_token: "<|end_of_text|>"
 
 # Chat Template

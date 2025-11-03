@@ -87,6 +87,8 @@ echo ""
 # Install compatible dependencies manually
 echo "[INSTALL] Installing compatible dependencies..."
 echo "   transformers, accelerate, datasets, peft, bitsandbytes, trl, torchao, etc."
+echo "   NOTE: Intentionally NOT installing autoawq (not needed for QLoRA training)"
+echo "         AWQ is for inference quantization, we use bitsandbytes for QLoRA"
 pip install \
   transformers \
   accelerate \

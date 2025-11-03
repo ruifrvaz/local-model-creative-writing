@@ -98,6 +98,16 @@ processors=12
 ```
 Then restart WSL: `wsl --shutdown` in PowerShell. See `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
+
+## Getting started
+
+1. **Install training environment:** Run setup scripts 0-3 in sequence (see Setup Scripts table)
+2. **Read complete guide:** `FINE_TUNING_SETUP.md` for detailed workflow
+3. **Collect writing samples:** Your prose (500+ tokens each)
+4. **Create data prep script:** `scripts/1_prepare_data.py` (converts text → JSONL)
+5. **Start training:** Activate `~/.venvs/finetune` and run training
+6. **Test merged model:** Use benchmarks and RAG proxy
+
 **Installation sequence:**
 
 ```bash
@@ -129,11 +139,11 @@ cd fine-tuning/setup
 
 ### Environment Isolation Strategy
 
-| Environment | Location | Purpose | Packages |
-|-------------|----------|---------|----------|
-| vLLM server | `~/.venvs/llm` | Serving models | vLLM, FlashInfer |
+| Environment | Location            | Purpose         | Packages |
+|-------------|----------           |---------        |----------|
+| vLLM server | `~/.venvs/llm`      | Serving models  | vLLM, FlashInfer |
 | Fine-tuning | `~/.venvs/finetune` | Training models | Axolotl, DeepSpeed |
-| RAG | `~/.venvs/rag` | Retrieval | ChromaDB, sentence-transformers |
+| RAG         | `~/.venvs/rag`      | Retrieval       | ChromaDB, sentence-transformers |
 
 **Benefits:**
 - Training failures don't break serving
@@ -200,25 +210,12 @@ Fine-tuned model + RAG proxy = Your voice + World consistency
 - Check data quality
 - Verify JSONL format
 
+**Vocab size mismatch during merge:**
+- Expected for models trained before Nov 3, 2025 (had unnecessary `unk_token`)
+- Merge script handles automatically - no impact on model quality
+- Future training runs use corrected config (no unk_token)
+
 See `FINE_TUNING_SETUP.md` for complete troubleshooting guide.
-
-## Next Steps
-
-1. **Install training environment:** Run setup scripts 0-3 in sequence (see Setup Scripts table)
-2. **Read complete guide:** `FINE_TUNING_SETUP.md` for detailed workflow
-3. **Collect writing samples:** Your prose (500+ tokens each)
-4. **Create data prep script:** `scripts/1_prepare_data.py` (converts text → JSONL)
-5. **Start training:** Activate `~/.venvs/finetune` and run training
-6. **Test merged model:** Use benchmarks and RAG proxy
-
-## Setup Scripts
-
-| Script | Purpose | Duration | Disk Space |
-|--------|---------|----------|------------|
-| `setup/0_create_venv.sh` | Create `~/.venvs/finetune` | 10s | 50MB |
-| `setup/1_install_torch.sh` | PyTorch 2.8.0+cu128 (RTX 5090) | 2-5 min | ~5GB |
-| `setup/2_install_axolotl.sh` | Axolotl from main + dependencies | 5-10 min | ~5GB |
-| `setup/3_install_training_stack.sh` | DeepSpeed + flash-attn + monitoring | 15-20 min | ~5GB |
 
 ## Benchmarking
 
