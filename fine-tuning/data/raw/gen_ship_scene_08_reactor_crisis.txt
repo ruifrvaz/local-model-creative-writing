@@ -1,0 +1,187 @@
+The reactor control room pulsed with amber warning lights. Chief Engineer Rodriguez stared at the diagnostics, then back at Malik.
+
+"Neutron flux is degrading. We're seeing cascade effects in the containment field."
+
+Malik pulled up the reactor schematics. The ship's main power came from three fusion reactors—two operational, one in standby. Losing even one would force severe power rationing.
+
+"How long until critical failure?"
+
+"Maybe forty-eight hours. Could be less if the degradation accelerates." Rodriguez highlighted the problem areas. "The magnetic containment coils are fatigued. Two hundred years of continuous operation. They're developing microfractures."
+
+"Can we fabricate replacements?"
+
+"Not while the reactor's running. We'd need to shut down for maintenance, which means weeks on backup power. And that's assuming our manufacturing systems can produce components with precise enough tolerances."
+
+Malik ran the power calculations. Two reactors could sustain basic life support and propulsion. Everything else—hydroponics, climate control, manufacturing, medical systems—would need to be rationed or shut down.
+
+"We need to tell Reyes."
+
+Captain Reyes arrived twenty minutes later, her expression grim. She'd been dealing with a genetic screening crisis in medical, a food shortage in hydroponics, and now this.
+
+"Give me the summary."
+
+Malik pulled up the projections. "Reactor two is failing. Containment coils showing fatigue fractures. We have two options: shut down for extensive maintenance and operate on reduced power for weeks, or push the reactor and risk catastrophic failure."
+
+"Catastrophic meaning what?"
+
+"Meaning potential meltdown. We'd lose the reactor permanently. Possibly contaminate surrounding sections with radiation. Could kill anyone in the maintenance areas."
+
+Reyes studied the data. "How likely is catastrophic failure if we keep operating?"
+
+Rodriguez answered. "Thirty percent in the next week. Fifty percent in the next month. Near certainty in six months."
+
+"And if we shut down for maintenance?"
+
+"We operate on sixty percent normal power for minimum four weeks, possibly eight depending on manufacturing challenges. That means severe rationing—reduced climate control, minimal hydroponics, essential systems only."
+
+Reyes pulled up the population data. "We have three thousand people. Pregnant women, children, elderly. Reduced climate control in deep space temperatures could kill vulnerable populations."
+
+"So could a reactor meltdown," Malik said. "We're choosing between managed hardship and potential catastrophe."
+
+"This is exactly what I warned about." Reyes' frustration was evident. "Degrading systems, impossible choices, the ship slowly failing around us. We should have diverted to HD 85512."
+
+"We voted. We continue to Tau Ceti. Now we deal with the consequences." Malik highlighted the maintenance schedule. "We can stagger the power reduction. Start with non-essential systems, gradually scale back, give people time to adapt."
+
+Rodriguez was shaking his head. "There are no non-essential systems. Everything on this ship serves a purpose. Manufacturing makes parts we need. Climate control keeps people alive. Hydroponics produces food. What do we sacrifice?"
+
+"We sacrifice comfort. Luxury. Anything that's nice to have but not critical for survival." Reyes pulled up the power allocation. "We reduce residential climate control to minimum viable temperatures. We cut recreational facilities. We limit personal device charging. We run lean until the reactor is repaired."
+
+"People will hate this," Rodriguez said.
+
+"People will hate dying in a reactor meltdown more." Reyes turned to Malik. "I need a detailed plan. Every system, every power draw, every possible efficiency gain. We make this work or we all freeze in the dark."
+
+Malik spent the next six hours creating the power rationing plan. Cut residential temperatures to fifteen Celsius. Reduce lighting to essential corridors only. Shut down recreational facilities completely. Limit hydroponics to critical crop cycles. Minimize manufacturing to emergency repairs only.
+
+The numbers worked. Barely. They'd maintain life support, propulsion, and basic food production on two reactors while repairing the third.
+
+But it would be miserable.
+
+Sofia found him in the engineering bay at 0200 ship time, still running simulations.
+
+"Come to bed. You need sleep."
+
+"I need to make sure this plan works. If I miss something, people die."
+
+She pulled up a chair beside him. Eight months pregnant now, moving carefully. Their daughter would arrive in weeks. Into a ship running cold, dark, and desperate.
+
+"You can't solve every problem through calculation," Sofia said. "Sometimes you just have to implement the best solution available and adapt as needed."
+
+"The best solution might still kill people. Vulnerable populations can't survive extended cold. We're going to lose elderly crew members, possibly pregnant women, definitely children if we can't maintain temperature."
+
+"Or we lose everyone if the reactor melts down."
+
+Malik stared at the projections. He'd modeled the power requirements a dozen times. The math was unforgiving. Maintaining comfortable temperatures for three thousand people required power they didn't have.
+
+"I'm about to make life significantly worse for everyone on this ship," he said. "Including you. Including our daughter."
+
+"I know. But you're also keeping us alive. That's the trade."
+
+"I keep thinking about the referendum. If we'd diverted to HD 85512, we'd be ninety years from a destination instead of two hundred. Fewer opportunities for systems failure. Fewer impossible choices."
+
+"And different impossible choices. Unknown planet, unknown challenges, unknown survival odds." Sofia placed a hand on her stomach. "Our daughter will adapt. Humans are adaptable. That's how we've survived this long."
+
+Malik pulled her close, felt their daughter kick against him through Sofia's abdomen. New life, inheriting a crisis. Inheriting a ship that was slowly failing, systems that couldn't sustain indefinitely, choices that shouldn't have to be made.
+
+"I'm scared," he admitted. "I'm terrified that we're going to fail. That all this work, all these sacrifices, all these calculations won't be enough."
+
+"Then we'll fail together. As a crew. As a family. As people who tried their absolute best against impossible odds."
+
+The next morning, Captain Reyes announced the power rationing to the crew. The reaction was immediate and angry. Protests, demands, accusations of mismanagement. The referendum divisions resurfaced—people who'd voted for diversion claiming this proved they were right.
+
+Malik stood beside Reyes during the announcement, accepting the anger directed at him. He was chief structural engineer now, promoted after the hull breach response. This was his plan. His responsibility.
+
+"We understand this is difficult," Reyes said over the shouting. "But the alternative is potentially catastrophic. Reactor failure would kill hundreds immediately and strand the rest of us without sufficient power to sustain the journey."
+
+"You're killing us slowly instead of quickly!" Someone yelled.
+
+"We're keeping you alive through a maintenance crisis," Reyes corrected. "This is temporary. Four to eight weeks. Then we restore normal power levels."
+
+"If the repairs work!"
+
+"They'll work." Malik stepped forward. "I've personally reviewed every component, every procedure, every contingency. We will repair reactor two and restore full power. You have my word."
+
+The crowd wasn't satisfied. But they also didn't have alternatives. The ship ran on the systems the engineers maintained. Trust them or face chaos.
+
+The power rationing began at midnight. Malik felt the ship change around him. Lights dimming. Temperature dropping. The constant background hum of full operations fading to minimal sustenance.
+
+By morning, the residential sections were noticeably cold. People bundled in extra clothing, shared body heat, complained bitterly about conditions.
+
+But they survived. Day one complete.
+
+Rodriguez and his team began the reactor shutdown procedures. Carefully, methodically, following protocols designed two centuries ago by engineers who'd never anticipated two hundred years of continuous operation.
+
+The containment field collapsed in stages. The fusion reaction damped. The neutron flux decreased to zero. Reactor two went dark for the first time since the mission launched.
+
+"We're committed now," Rodriguez said. "No turning back until repairs are complete."
+
+The manufacturing team began fabricating replacement containment coils. The process was excruciatingly slow—each coil required precise molecular alignment, exotic materials, and calibration that took days per component.
+
+Malik monitored the progress obsessively. Every delay meant another day of cold, another day of rationed power, another day of crew suffering.
+
+On day twelve, a child in residential section three died. Pneumonia, complicated by cold exposure. The medical team did everything possible, but limited power meant limited climate control meant increased illness risk.
+
+Malik read the death report in his cold office, felt the weight of it settle on his shoulders. One child. Dead because he'd chosen power rationing over reactor risk.
+
+Would more children die during the remaining repair weeks?
+
+Probably.
+
+Would hundreds die in a reactor meltdown if he'd chosen differently?
+
+Certainly.
+
+Impossible math. Impossible choices. This was command. This was responsibility. This was the cost of trying to sustain three thousand lives on a deteriorating ship.
+
+Sofia found him at the child's memorial service. The family stood in the cold assembly hall, mourning their five-year-old daughter. Malik wanted to apologize, to explain, to somehow make the death mean something.
+
+But there were no words for this. Just the grinding reality of systems pushing past design limits and humans paying the cost.
+
+"It's not your fault," Sofia whispered.
+
+"It's my plan. My power calculations. My choice to prioritize reactor repair over comfort."
+
+"Your choice to prioritize long-term survival over short-term comfort. That child might have died in the reactor meltdown too. You can't know."
+
+But the child was dead now. Real, immediate, preventable if he'd chosen differently.
+
+The repairs continued. Day twenty-three. Day thirty. Day thirty-five. The manufacturing team fabricated the last containment coil, installed it, began the calibration sequence.
+
+On day thirty-eight, Rodriguez initiated the reactor restart. The containment field rebuilt itself layer by layer. The fusion reaction ignited. Neutron flux climbed to operational levels.
+
+Reactor two came back online at 0847 ship time, forty-one days after shutdown.
+
+Malik stood in the control room, watching the systems stabilize, feeling relief so intense it was almost painful.
+
+"Power output normal. Containment stable. All safety protocols green." Rodriguez allowed himself a smile. "We did it."
+
+The ship began warming immediately. Climate control ramped back to standard temperatures. Lights brightened. Manufacturing resumed. Hydroponics expanded operations. Life returned to normal operations.
+
+Or what passed for normal on a deteriorating ship two hundred years into an impossible journey.
+
+Captain Reyes found Malik in his quarters that evening. He was holding his newborn daughter—born three days ago during the power crisis, surviving in cold that killed another child weeks earlier.
+
+"The reactor's stable," Reyes said. "You kept your word."
+
+"One child died."
+
+"And three thousand lived. You made an impossible choice and accepted the consequences. That's command."
+
+Malik looked at his daughter—unnamed yet, they hadn't decided. She'd inherited a ship running cold, systems failing, futures uncertain.
+
+But she'd also inherited people willing to make impossible choices to keep her alive.
+
+That had to count for something.
+
+"How long until the next crisis?" Malik asked.
+
+"Unknown. Could be months. Could be weeks." Reyes sat in the chair across from him. "But we'll face it the same way we faced this one. With math, determination, and acceptance that perfect solutions don't exist."
+
+"And faith that the mission is worth it?"
+
+"Especially that. Because without faith, what are we doing out here except slowly dying in the dark?"
+
+Malik held his daughter closer. She'd never know Earth. Might never know Tau Ceti. But she'd know this ship, this crew, this purpose.
+
+For better or worse, she was a child of the journey.
+
+Same as everyone else born between stars.

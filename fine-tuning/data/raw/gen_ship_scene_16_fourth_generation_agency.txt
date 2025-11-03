@@ -1,0 +1,225 @@
+Keiko Torres stood in the forward observation dome at age eighteen, tablet in hand, recording observations for her engineering thesis. The ship was her home, her laboratory, her entire world. In twenty-seven years, she'd be part of the landing crew on HD 85512.
+
+If the ship held together that long.
+
+"You're up early." Her best friend, Chen Wei, fourth-generation like her, joined her at the viewport. "Thesis not going well?"
+
+"Thesis is fine. I'm analyzing microfracture propagation in the forward hull sections. Trying to predict failure points before they become critical."
+
+"Cheerful topic."
+
+"Necessary topic. We're two hundred forty-five years into a four-hundred-year design life. Everything is degrading."
+
+Wei pulled up his own research. "I'm working on hydroponics efficiency. Trying to extend crop yields despite nutrient depletion in the growing medium."
+
+"We're all working on degradation. That's what fourth-generation does—maintain systems our great-grandparents built that are falling apart around us."
+
+"You sound bitter."
+
+"I sound realistic. We inherited a ship that's failing. Our job is to keep it alive long enough to reach HD 85512. That's not bitterness. That's job description."
+
+Wei studied Keiko's face. They'd grown up together, attended the same classes, trained in complementary specialties. He knew when she was struggling.
+
+"You've been thinking about the vote again."
+
+Keiko didn't deny it. Two weeks ago, the crew had held another referendum. Third one in her lifetime. The question was whether to continue to HD 85512 or search for closer alternatives.
+
+HD 85512 had won. By ninety-seven votes. Closer than ever.
+
+"I voted to search for alternatives," Keiko said. "Closer destination means less time for catastrophic failure. But I lost."
+
+"We lost. I voted the same way. So did most of our generation."
+
+"But the older crew wants HD 85512. They're committed to it. They voted for it seven years ago and they're not changing course again."
+
+"Literally. The deceleration burn cost us years and massive fuel reserves. Another course change would be devastating."
+
+Keiko pulled up the fuel projections. "We have enough to reach HD 85512 and decelerate for orbital insertion. Maybe. If we don't have any emergencies requiring additional thrust."
+
+"Your dad says we'll make it."
+
+"My dad has been saying that my entire life. Doesn't make it true."
+
+The observation dome's door opened. Malik Torres entered, looking for his daughter. Fifty-eight years old now, still chief structural engineer, still maintaining systems that were older than him.
+
+"Figured I'd find you here. Your mother's looking for you. Family breakfast."
+
+"I'm working on my thesis."
+
+"Work after breakfast. Family time is mandatory."
+
+Keiko saved her data and followed her father through the corridors. Wei joined them—his family lived in the same residential section.
+
+The Torres quarters were the same eight-meter-square compartment Keiko had grown up in. Sofia was preparing synthetic protein and hydroponics vegetables. Their standard breakfast for eighteen years.
+
+"How's the thesis?" Sofia asked.
+
+"Depressing. The hull is deteriorating faster than maintenance can address. We're patching critical failures but ignoring non-critical fractures because we don't have resources to fix everything."
+
+Malik nodded. "That's accurate. We're in triage mode. Keep the ship functional, accept that optimization isn't possible."
+
+"How long until triage fails? Until critical systems cascade and we can't maintain life support?"
+
+"Unknown. Could be decades. Could be years. The ship is beyond design specifications. We're in uncharted territory."
+
+Sofia set down plates. "Let's not discuss ship failure over breakfast. We have at least today. That's enough to work with."
+
+They ate together. Normal family routine. Except nothing was normal. They were on a deteriorating ship, decades from uncertain destination, sustained by systems that might fail catastrophically at any time.
+
+"I got accepted to the landing crew training program," Keiko said.
+
+Malik looked up sharply. "When did you apply?"
+
+"Last month. Results came through yesterday. I start training next week."
+
+"Landing crew is dangerous. High casualty rate in simulations."
+
+"Someone has to do it. Might as well be people who want to."
+
+"Why do you want to?" Sofia asked.
+
+Keiko considered. "Because I'm tired of maintaining failing systems. I want to build something new. Even if it's on a harsh world. Even if it's dangerous. At least it's creation instead of just deceleration and decay."
+
+Malik understood. He'd felt the same way at Keiko's age. Frustrated by inherited problems. Desperate for agency. Wanting to contribute instead of just maintain.
+
+"Landing crew training is eighteen months intensive. Physical conditioning, planetary science, construction techniques, emergency protocols. It's exhausting."
+
+"Good. I need exhausting. Need something that feels like progress instead of just delaying failure."
+
+After breakfast, Keiko returned to her thesis work. The forward hull microfracture analysis consumed her attention for hours. She was developing predictive models—algorithms that identified fracture propagation patterns before they became critical.
+
+The models were good. Accurate within ten percent on historical data. Potentially life-saving if implemented in the ship's maintenance systems.
+
+But they also revealed uncomfortable truths. Fractures were accelerating. Propagating faster as the hull aged. In fifteen to twenty years, critical failures would outpace repair capacity.
+
+They might not make it to HD 85512. The ship might fail first.
+
+Keiko documented her findings. Prepared charts and projections. Then sent them to her father and the engineering council.
+
+Malik called thirty minutes later. "Your analysis is solid. Also terrifying. You're saying we have fifteen years maximum before hull integrity fails catastrophically?"
+
+"That's the model's projection. Could be optimistic. Could be pessimistic. But the trend is clear—degradation is accelerating."
+
+"What's your recommendation?"
+
+"Accelerate to HD 85512. Get there faster, accept higher fuel consumption and structural stress. Shorten the timeline before failure becomes inevitable."
+
+"That's what we're already doing. Current acceleration is at maximum safe levels."
+
+"Then go beyond safe. Accept calculated risks to reach destination before the ship fails completely."
+
+Malik was quiet. "You're asking me to risk catastrophic failure in exchange for faster arrival."
+
+"I'm saying we're facing catastrophic failure regardless. Might as well optimize for destination arrival instead of extended transit."
+
+"I'll present your analysis to Captain Volkov. But understand that increasing acceleration means risking immediate failure instead of gradual degradation."
+
+"I understand. I'm still recommending it."
+
+After disconnecting, Keiko returned to the observation dome. Wei found her there an hour later.
+
+"Heard you sent your thesis analysis to the council. Recommend we accelerate despite structural risks."
+
+"Word travels fast."
+
+"Engineering bay is small. Your dad was discussing it with Rodriguez. Everyone heard."
+
+"What's the consensus?"
+
+"Split. Older engineers think you're reckless. Younger ones think you're right. Fourth-generation generally supports faster arrival even with risks."
+
+"And you?"
+
+Wei sat beside her. "I think we're all going to die regardless of what we choose. Might as well choose the option that gives us purpose instead of just prolonged dying."
+
+"That's grim."
+
+"That's fourth-generation perspective. We were born on a failing ship. Raised during system crises. Trained to maintain what we can't fix. Optimism isn't our strong suit."
+
+Keiko laughed bitterly. "My parents are always telling me to appreciate what we have. That the ship is an achievement, the mission is meaningful, the journey matters."
+
+"And we tell them that achievement doesn't prevent failure, meaning doesn't guarantee success, and journey is just slow death if it never reaches destination."
+
+"Generational divide."
+
+"Fundamental one. Third generation still remembers why the mission started. We only know that it's failing."
+
+The observation dome door opened again. Captain Lena Volkov entered. Fourth-generation herself, but command had aged her beyond her forty-four years.
+
+"Keiko Torres. I read your thesis analysis."
+
+"And?"
+
+"And I'm presenting it to the full council tomorrow. With recommendation that we implement your acceleration proposal."
+
+Keiko felt surprise. "You agree with it?"
+
+"I agree we're running out of time. Your analysis quantifies what I've suspected for years—the ship is deteriorating faster than we can repair it. We need to reach HD 85512 before catastrophic failure. That means accepting higher risks for faster arrival."
+
+"The older crew members will oppose this."
+
+"Probably. But they're minority now. Fourth generation outnumbers third generation two-to-one. Fifth generation is being born. We're the majority. We get to choose the approach."
+
+"Even if it kills us?"
+
+"Especially then. Better to die attempting success than die failing by increments."
+
+After Volkov left, Wei turned to Keiko. "You just changed the mission parameters. Your thesis analysis might determine whether we reach HD 85512."
+
+"Or whether we fail spectacularly trying."
+
+"Either way, it's agency. We chose our path instead of just inheriting it."
+
+Keiko pulled up the acceleration projections. If they increased thrust by twenty percent, they'd reach HD 85512 in twenty-two years instead of twenty-seven. But structural stress would increase proportionally. Hull failure risk would rise from five percent to eighteen percent.
+
+Eighteen percent chance of catastrophic failure. Versus extended timeline with degradation that might reach one hundred percent failure probability.
+
+The math favored acceleration. The emotions resisted it. Choosing active risk over passive deterioration required accepting responsibility for outcomes.
+
+Keiko was ready to accept that responsibility. Her generation was ready. They'd been born into crisis. Raised during failures. Trained to solve impossible problems.
+
+Now they'd solve this one. By choosing the risky path instead of the safe one. By optimizing for arrival instead of survival. By accepting that death was inevitable but destination was optional.
+
+The council vote happened three days later. Captain Volkov presented Keiko's analysis. Engineering provided technical assessment. Medical evaluated physiological impacts of increased acceleration.
+
+The vote: implement twenty percent acceleration increase. Arrive HD 85512 in twenty-two years. Accept eighteen percent hull failure risk.
+
+Passed by seventy-two percent. Fourth-generation overwhelming support. Third-generation split. Fifth-generation too young to vote but would inherit the consequences.
+
+The acceleration burn began the next week. Keiko felt it immediately—the ship pushing harder, engines straining, structure groaning under increased stress.
+
+This was it. Commitment to arrival or catastrophic failure. No middle ground. No gradual degradation. Just calculated risk and complete dedication to reaching destination.
+
+Keiko reported for landing crew training. Eighteen months of preparation for the hardest thirty days of her life—descending to alien world, establishing initial settlement, surviving conditions no human had experienced before.
+
+If the ship held together.
+
+If the hull didn't fail.
+
+If eighteen percent risk didn't become one hundred percent certainty.
+
+But that was what fourth-generation did. Took risks third-generation wouldn't. Chose active engagement over passive acceptance. Owned their choices instead of resenting inherited burdens.
+
+Keiko was fourth-generation. She'd make this work. Or die trying. Either way, on her terms. Her choice. Her responsibility.
+
+That was progress. That was agency. That was what made the journey bearable.
+
+Not the destination. The choice to pursue it despite odds. The commitment to own the outcome regardless of result.
+
+Keiko could live with that. Could dedicate herself to it. Could make it meaningful even when success was uncertain.
+
+Because what else was there except the belief that choosing was better than accepting? That agency mattered even when outcomes were beyond control?
+
+Keiko believed it. Her generation believed it. They'd prove it in twenty-two years.
+
+When they arrived at HD 85512. Or died trying. Either way, together. By choice.
+
+That was fourth-generation. That was the future of generational missions.
+
+Active engagement. Calculated risk. Complete ownership of consequences.
+
+Keiko was ready. Her generation was ready. The ship was ready or it wasn't. They'd find out together.
+
+One acceleration burn at a time. One risk at a time. One choice at a time.
+
+Until they arrived. Or didn't. Either way, forward. Always forward. By choice. With purpose. Together.

@@ -1,0 +1,205 @@
+The community gathering hall was packed. Five hundred crew members, largest assembly since the referendum seven years ago. Captain Reyes stood at the podium, looking at faces that ranged from hopeful to hostile.
+
+"We're here to discuss the water reclamation crisis," she began. "Engineering has identified contamination in the primary recycling system. Dr. Hassan will present the details."
+
+Dr. Omar Hassan, now chief geologist, pulled up contamination data. "We've detected bacterial growth in the water storage tanks. Biofilm formation on filtration membranes. The contamination is manageable with treatment, but it's widespread."
+
+Voices erupted. Questions, accusations, fear. Water was fundamental. Three thousand people couldn't survive without clean water recycling.
+
+"How did this happen?" someone shouted.
+
+"System age," Hassan replied. "Two centuries of continuous operation. The biological filters that prevent bacterial growth are degraded. We're replacing them, but it's slow work."
+
+"How long until water is safe?"
+
+"Water is currently safe. We're treating it with UV sterilization and chemical purification. But those methods are energy-intensive. Long-term solution requires complete system overhaul."
+
+Malik stood from his seat in the audience. "I've reviewed the engineering data. Complete overhaul means shutting down water recycling for three weeks. Minimum. We'd need to ration stored water during that period."
+
+"How much stored water do we have?" Captain Reyes asked.
+
+"Six days at current consumption rates. Maybe nine if we implement severe rationing."
+
+The hall erupted again. Six days. Nine with rationing. Three weeks needed for repairs. The math didn't work. They'd run out of water before completing the overhaul.
+
+"We have alternative sources," Hassan said over the noise. "Ice deposits in the cargo hold. Emergency reserves designed for exactly this scenario."
+
+"How much ice?"
+
+"Enough for three weeks if we melt it carefully and ration distribution. It's not ideal—the melting process consumes significant energy—but it's possible."
+
+Dr. Eva Sato stood. Her movements were slower now, symptoms of Huntington's becoming visible. But her mind remained sharp.
+
+"I've reviewed historical records. The second generation faced similar contamination in year fifty-seven. They implemented rotating shutdowns—repair sections sequentially instead of simultaneously. Took longer but allowed partial water recycling throughout."
+
+Malik pulled up the second-generation protocols. "That could work. Repair one recycling loop at a time. Maintain sixty percent water production capacity while fixing the rest. Total timeline extends to eight weeks, but we avoid complete shutdown."
+
+"Eight weeks of reduced water availability," Reyes said. "What's the impact on crew?"
+
+"Reduced personal allowances. No showers, minimal hygiene water, drinking and cooking only. Hydroponics reduced to essential crops. Manufacturing limited to emergency repairs."
+
+A fourth-generation crew member stood. Lena Volkov, twenty-six, systems analyst. "This is exactly what the diversion advocates warned about. Systems failures compounding. Resources we can't replace. The ship slowly dying around us."
+
+"The ship isn't dying," Malik countered. "It's aging. There's a difference. We can maintain aging systems with proper care and resource allocation."
+
+"For how long? How many more crises like this? How many more weeks of rationing and discomfort?"
+
+"As many as required to reach Tau Ceti."
+
+Lena's expression hardened. "I vote we reconsider diversion. New referendum. Given the seven years of system failures since the last vote, the crew deserves to reassess."
+
+Support erupted from sections of the hall. Opposition from others. The old divisions resurfacing. Mission purists versus pragmatic diversioners.
+
+Captain Reyes activated the gavel tone. "We're not relitigating the referendum. That decision is made. We're here to solve the immediate crisis, not debate long-term strategy."
+
+"The immediate crisis is caused by long-term mission failure," Lena shot back. "We can't separate the two."
+
+Dr. Okoye stood. "The medical team supports rotating shutdown approach. Eight weeks of reduced water is manageable with proper hygiene protocols. We distribute sanitizing wipes, implement waterless bathing procedures, monitor for disease outbreaks."
+
+"What about the children?" Sofia Chen was holding her eleven-year-old daughter's hand. Keiko looked scared. "How do you explain to children why they can't bathe for two months?"
+
+"The same way we explain everything else difficult," Okoye replied. "Honestly. Age-appropriately. With reassurance that it's temporary and necessary."
+
+The debate continued for two hours. Technical discussions about repair procedures. Political arguments about mission viability. Emotional appeals about quality of life. Everyone had opinions. Few had solutions.
+
+Finally, Reyes called for a vote. "The engineering proposal is rotating shutdown repair. Eight weeks of sixty percent water capacity. All in favor?"
+
+Hands raised. Malik counted roughly sixty percent support.
+
+"Motion passes. Engineering begins rotating shutdown repairs tomorrow. Medical implements hygiene protocols. Everyone else adapts and endures."
+
+After the meeting dispersed, a group of fourth-generation crew members approached Reyes. Lena Volkov led them.
+
+"Captain, we're formally requesting a new referendum. Seven years of data since the last vote. Multiple system failures. Crew deserves to reassess."
+
+"The last referendum was binding."
+
+"Binding based on available information at the time. We have new information now. Demonstrable pattern of system degradation. That changes the calculus."
+
+Reyes studied the group. Twelve people, all fourth-generation, all in their twenties. The demographic most disconnected from mission purpose, most frustrated with inherited constraints.
+
+"I'll bring your request to the council. But understand that reopening the referendum would create massive social disruption. We're barely cohesive as is. Another divisive vote could fracture the crew permanently."
+
+"We're already fractured," Lena said. "Pretending otherwise doesn't make it true. Better to acknowledge the divisions and address them directly."
+
+After they left, Malik found Reyes in her office. She looked exhausted.
+
+"They're not wrong," Reyes said. "The ship is degrading. Systems are failing more frequently. We're asking people to endure increasing hardship for a destination two centuries away."
+
+"We knew it would be hard."
+
+"Knowing abstractly is different from living concretely. Every crisis erodes support for the mission. Eventually we'll hit a tipping point where majority of the crew wants to divert."
+
+"Do you want that?"
+
+Reyes was silent for a long moment. "I voted for diversion seven years ago. Lost by forty-nine votes. Everything since has confirmed my assessment that continuing to Tau Ceti was the wrong choice."
+
+"But you're still captain. Still implementing the mission."
+
+"Because that's my role. Execute the crew's decision regardless of personal opinion. But it gets harder every crisis. Every death. Every system failure that proves the diversioners were right."
+
+Malik understood. He'd voted for diversion too. Spent seven years maintaining a ship he thought was doomed. The cognitive dissonance was exhausting.
+
+"The fourth generation is different," Malik said. "They don't feel connection to the original mission. They see it as inherited burden, not chosen purpose."
+
+"Can you blame them?"
+
+"No. But I can worry about what happens when they're in charge. When the fifth generation is born to parents who resent the mission. When cultural continuity breaks down completely."
+
+Reyes pulled up generational projections. "In thirty years, fourth generation controls everything. In sixty years, fifth generation takes over. By year three hundred, we're six generations deep. No one alive will have known anyone who knew anyone who chose this mission."
+
+"So how do we maintain purpose across that distance?"
+
+"We don't. We evolve the purpose. Make it about the journey instead of the destination. About what we're becoming instead of where we're going."
+
+"That's what Eva has been advocating. Cultural transformation instead of cultural preservation."
+
+"Eva's dying. Huntington's progressing faster than expected. She has maybe five years left of cognitive function." Reyes highlighted Eva's medical file. "We're losing our cultural continuity advocate right when we need her most."
+
+Malik felt the weight of it. Every crisis compounding. Systems failing. People dying. Purpose eroding. The ship persisting through sheer momentum and collective exhaustion.
+
+"What if we do hold another referendum?" Malik asked. "What if the crew votes to divert this time?"
+
+"Then we change course. Begin deceleration procedures. Aim for HD 85512 or whatever marginally habitable world we can reach. Accept that the original mission failed but we survived anyway."
+
+"Would that be failure? Or adaptation?"
+
+"Depends on your perspective. The mission purists would call it betrayal. The pragmatists would call it survival. The fourth generation would call it common sense."
+
+Malik pulled up the ship's trajectory. Two hundred fourteen years to Tau Ceti at current speed. They were thirty-three years into the second leg, after the first two hundred years from Earth. Still so far to go. So many decades of maintenance and crisis and grinding endurance.
+
+"I'm tired," he admitted. "Tired of fighting entropy. Tired of rationing resources. Tired of asking people to sacrifice for futures they'll never experience."
+
+"Then you understand how Lena Volkov feels. How the fourth generation feels. They inherited your exhaustion along with the mission."
+
+"So what do we do?"
+
+"We hold the referendum. Let the crew choose again with complete information. Trust them to make the right decision for their circumstances."
+
+"And if they choose to divert?"
+
+"Then we divert. And we accept that the mission evolved beyond its original parameters. That's not failure. That's survival."
+
+Malik stood, moved to the viewport. Stars streaking past. The ship traveling at eighteen percent light speed. Decades of acceleration invested. Impossible to stop quickly. Any course change would require years of careful maneuvering.
+
+"If we divert, we're telling Eva that everything she's preserved was pointless. That the cultural mission failed."
+
+"Or we're telling her that culture adapted to new realities. That preservation isn't the same as stagnation."
+
+"She'll be devastated."
+
+"She's already devastated. Watching her mind deteriorate while the mission she dedicated her life to fractures around her. At least this way she'd see an honest reassessment instead of slow collapse."
+
+Malik thought about his daughter, Keiko. Eleven years old. Growing up watching system failures and resource crises. Learning that the ship was fragile and the mission was questionable. What kind of purpose could she find in that?
+
+Maybe diversion would give her something different. A shorter timeline to a reachable goal. The possibility of seeing an actual destination instead of just maintaining transit forever.
+
+"All right," Malik said. "I'll support the referendum request. Full crew vote with updated information. Let them choose based on seven years of additional data."
+
+"And if they vote to continue the mission?"
+
+"Then we continue. And we stop second-guessing. Commit fully to making it work regardless of personal doubts."
+
+Reyes pulled up the referendum protocols. "I'll announce it tomorrow. Four weeks of debate and data presentation. Then the vote. Whatever they choose becomes our path."
+
+"Democracy in deep space. Our ancestors would be proud or horrified."
+
+"Probably both. Same as us."
+
+After leaving Reyes's office, Malik returned to his quarters. Sofia was helping Keiko with engineering homework. Normal family life in the constrained space. Normal except for everything.
+
+"They're holding another referendum," Malik said.
+
+Sofia looked up sharply. "About the mission?"
+
+"Yeah. Continue to Tau Ceti or divert. The fourth generation is pushing for reassessment."
+
+"How are you voting?"
+
+"I don't know yet. How are you?"
+
+Sofia set down Keiko's homework. "I voted to continue last time. I believed the mission mattered more than personal survival. But seven years of watching systems fail, people die, resources degrade... I'm not sure I believe that anymore."
+
+Keiko was watching them both. "Are we leaving? Going somewhere else?"
+
+"Maybe," Malik said. "The crew is going to decide. Everyone votes, including you when you're eighteen."
+
+"I'm eleven. I don't get to vote on something that affects my whole life?"
+
+"Not yet. But the adults will choose considering your generation's future."
+
+"That's not fair."
+
+"No. But it's democracy. Imperfect but functional."
+
+Keiko returned to her homework, but Malik could see the frustration. The resentment of being affected by decisions she couldn't influence. Same frustration her generation would carry into adulthood. Same frustration that would define the fifth and sixth generations.
+
+Unless they changed course. Unless they gave the next generation something different. Something they could choose instead of inherit.
+
+The referendum would decide.
+
+And this time, Malik thought, the outcome might be different.
+
+Seven years of additional failure might be enough to shift forty-nine votes.
+
+Time would tell.
