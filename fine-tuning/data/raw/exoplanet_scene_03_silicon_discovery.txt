@@ -1,0 +1,149 @@
+Ensign Rafael Diaz held the sample container at eye level. Inside, something that looked like crystalline moss pulsed with faint bioluminescence. Blue-green light rippled through structures that weren't quite cells, weren't quite crystals.
+
+"You seeing this, computer?"
+
+The lab AI responded immediately. "Anomalous electromagnetic activity detected. Source appears to be intracellular, but the structures don't match any known cellular organization."
+
+Rafael placed the sample under the electron microscope. What he saw made him forget to breathe.
+
+The organism—if it was an organism—had chambers that looked like alveoli, but made of silicon dioxide matrices instead of organic tissue. Inside those chambers, some kind of photochemical reaction was occurring. Light went in. Oxygen came out.
+
+But not through chlorophyll. Not through any photosynthetic pathway Earth had evolved.
+
+"Computer, analyze the photochemical reaction. What's the electron source?"
+
+The analysis scrolled across his screen. The organism was using silicon-based semiconductors to split water molecules, generating oxygen and hydrogen in ratios that suggested incredible efficiency.
+
+Rafael pulled up his xenobotany references. This was theoretically possible—silicon semiconductor photosynthesis had been proposed in journals for decades. But nobody had ever found it in nature.
+
+Until now.
+
+"Marcus, this is Rafael. You need to see this."
+
+The field lead's voice crackled through the comm. "Kind of busy with decontamination protocols. Can it wait?"
+
+"No. It really can't." Rafael pulled up the oxygen production calculations. "I think I found what's making the planet breathe."
+
+Five minutes later, Marcus was in the lab, staring at the electron microscope display.
+
+"Explain it to me like I'm not a xenobotanist."
+
+"These things—I'm calling them silicon photosynthesizers—they're using light energy to split water. But instead of chlorophyll, they use silicon semiconductors. It's like... biological solar panels that produce oxygen as a byproduct."
+
+Marcus studied the images. "How efficient?"
+
+"About forty percent more efficient than Earth photosynthesis. And they don't need nitrogen for protein synthesis, so they're not competing with terrestrial plants for nutrients."
+
+"That's... actually good news?"
+
+"Maybe. Depends on what else they do." Rafael pulled up the spectroscopic analysis. "They're also producing those silicon-carbon hybrid compounds Priya found in the water. I think that's their version of glucose—energy storage molecules."
+
+"The same compounds that are neurotoxic to our test rats?"
+
+"Yes."
+
+Marcus was quiet for a moment. "So the planet's oxygen production is biological. It's just using biology we've never encountered before."
+
+"Exactly. And there are millions of these things covering the planet. Maybe billions. Every rust-colored patch of ground cover, every crystalline fern analog—they're all oxygen factories."
+
+Rafael pulled up the distribution maps. The silicon photosynthesizers were everywhere. In the soil, covering the rocks, floating in the water. A planet-wide network of organisms that had evolved to breathe in a way Earth biology never considered.
+
+"Can we coexist with them?" Marcus asked.
+
+"That's the question. They produce oxygen, which is good. But they also produce silicon-carbon compounds that break down into neurotoxins in Earth-normal atmospheres. Which is bad."
+
+"Could we modify our atmospheric processing to handle the compounds?"
+
+Rafael ran simulations. "Maybe. If we design filters specifically to capture silicon-carbon molecules before they break down. But that's custom engineering. We're talking about redesigning every habitat, every breathing mask, every piece of atmospheric equipment."
+
+"Versus finding a planet that doesn't poison us."
+
+"There is that option, yes."
+
+Marcus pulled up the mission objectives. Kepler-442d was the most Earth-like planet they'd surveyed in three years. Gravity within ten percent of Earth normal. Magnetic field strong enough to deflect radiation. Water abundant. Temperature range suitable for human habitation.
+
+Everything humanity needed for colonization.
+
+Except the biochemistry was fundamentally incompatible.
+
+"How poisonous are we talking? Could colonists survive with proper equipment?"
+
+Rafael pulled up Priya's neurotoxin data. "Short-term exposure, probably manageable. Long-term? Unknown. We'd need years of testing to determine if chronic exposure causes cumulative damage."
+
+"And we don't have years."
+
+"We have four days before oxygen runs out and we return to orbit."
+
+Marcus stared at the silicon photosynthesizers pulsing with bioluminescent light. Beautiful alien life, completely oblivious to the fact that it was making the planet uninhabitable for another form of life from across the galaxy.
+
+"What if we contained them? Established human habitats in areas where we could eliminate the silicon photosynthesizers?"
+
+"That's terraforming in reverse. And these things are everywhere. Eliminating them from a habitable zone would require massive ecological disruption."
+
+"Which could have consequences we can't predict."
+
+"Definitely could have consequences we can't predict." Rafael pulled up ecological models. "These organisms are the base of the food chain here. Everything else on the planet probably depends on the oxygen they produce. If we start eliminating them, the whole ecosystem could collapse."
+
+Marcus pulled up the survey images of Kepler-442d from orbit. Vast blue oceans, rust-colored continents, swirling white clouds. A living planet, breathing through silicon-based biology that had evolved over billions of years.
+
+And humanity wanted to move in.
+
+"What do you recommend?"
+
+Rafael looked at the silicon photosynthesizers under the microscope. He'd dreamed of discovering alien life since childhood. Imagined what it would be like to be first contact with biology that evolved independently from Earth.
+
+Now he was living that dream. And the reality was more complex than any childhood fantasy.
+
+"I think... we need to understand them better before we make decisions about colonization. These organisms are producing oxygen at rates that suggest the atmosphere is still equilibrating. The planet might be in the middle of an oxygenation event."
+
+"Meaning?"
+
+"Meaning atmospheric conditions could change significantly over the next few thousand years. If we colonize now, we might be setting up habitats in an ecosystem that's still evolving."
+
+Marcus pulled up the mission timeline. "We have six weeks to complete the survey and make a colonization recommendation. Can you characterize these organisms in that time?"
+
+"Basic characterization, yes. Full ecosystem analysis? No. That would take years."
+
+"Then we do basic characterization and make the best recommendation we can with incomplete data."
+
+Rafael nodded slowly. That was the reality of exoplanet survey work. Never enough time, never enough data, always making decisions with massive consequences based on limited information.
+
+"I'll need samples from at least twenty different sites. Different elevations, different climate zones, different water chemistry. If there are variations in the silicon photosynthesizers across the planet, we need to know."
+
+"You have three days. After that, we're going back to orbit for full medical evaluation."
+
+"Three days." Rafael looked at the distribution map. Twenty sites spread across two hundred thousand square kilometers. "I'll need the survey drones working around the clock."
+
+"You've got them. Just... be careful. If these things are toxic, we can't risk more exposure than we've already had."
+
+Rafael pulled up the sample collection protocols. Full bio-hazard containment, remote collection when possible, decontamination procedures after every site visit.
+
+It would slow him down. But Marcus was right—they couldn't risk additional contamination.
+
+"I'll start immediately."
+
+Marcus headed for the door, then paused. "Rafael, this is important work. Understanding these organisms could determine whether humanity gets a new home or has to keep searching."
+
+"No pressure, then."
+
+"All the pressure. But I trust you to handle it."
+
+After Marcus left, Rafael stared at the silicon photosynthesizers. They pulsed with bioluminescent light, completely unaware that their existence had just become the deciding factor in humanity's colonization plans.
+
+Life finding life across the galaxy.
+
+And discovering they couldn't breathe the same air.
+
+Rafael activated the sample collection drones and began planning survey routes.
+
+Three days to understand billions of years of evolution.
+
+Three days to decide if Kepler-442d was home or just another beautiful world humanity would catalog and leave behind.
+
+He pulled up the first site coordinates and started working.
+
+Because somewhere in those silicon-based cellular structures was an answer.
+
+And finding it might be the most important discovery of his career.
+
+Or the most devastating.

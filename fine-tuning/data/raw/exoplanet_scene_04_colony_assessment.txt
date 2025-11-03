@@ -1,0 +1,129 @@
+Marcus Osei stood in the sealed habitat, watching the oxygen reserves tick down on the main display. Three days, fourteen hours remaining. After that, they'd have to choose between returning to orbit or switching back to local atmospheric processing.
+
+With all its neurotoxic complications.
+
+"Team meeting in five minutes," he announced over the local comm. "Conference room."
+
+Dr. Ling Zhang arrived first, carrying a tablet with atmospheric analysis data. Priya came next, her lab coat still on, dark circles under her eyes. Rafael stumbled in last, clearly running on coffee and determination.
+
+"Status reports," Marcus said. "Ling, atmospheric."
+
+Ling pulled up her analysis. "The temporal data shows oxygen fluctuations following a diurnal cycle. Concentrations peak at local noon, drop during night. The variance is about eight percent. That's significant for long-term habitat planning."
+
+"Meaning we'd need atmospheric buffers to compensate for daily swings."
+
+"Correct. And there's something else." Ling highlighted spectroscopic data. "I'm detecting trace amounts of silane gas in the upper atmosphere. It's breaking down quickly under UV radiation, but the fact that it's there at all suggests active silicon metabolism on a planetary scale."
+
+Marcus made notes. "Priya, medical."
+
+"The test subjects in experimental group two died at forty-eight hour exposure mark. Group one is showing signs of neurological damage—tremors, disorientation, aggressive behavior." Priya pulled up blood chemistry panels. "I've extrapolated human exposure thresholds based on the rat data. We're approaching dangerous levels if we've been breathing unfiltered air for the full seventy-two hours."
+
+"Symptoms in the team?"
+
+"I ran blood tests this morning. Everyone shows elevated oxidative stress markers. Rafael has the highest levels—dopamine up sixty-three percent, which correlates with his reported energy levels."
+
+Rafael looked surprised. "I just thought I was excited about the discoveries."
+
+"You are excited. Biochemically, dangerously excited. Your neurotransmitter balance is skewed. Another few days of exposure and you'd be looking at potential long-term damage."
+
+Marcus felt the weight of command settling heavier. They'd all been exposed. The question was whether the damage was reversible or permanent.
+
+"Treatment options?"
+
+"Antioxidant therapy, neurotransmitter modulators, time in clean atmosphere. I've already started everyone on treatment protocols. But we need to get off this planet soon."
+
+"Rafael, ecology."
+
+The young xenobotanist pulled up his survey data. "I've collected samples from seventeen sites. The silicon photosynthesizers are everywhere, but there are variations. Higher elevations show different subspecies with altered biochemistry. Some produce more neurotoxic compounds, some produce less."
+
+"Less toxic variants exist?"
+
+"Yes. And there are regions—high-altitude zones above three thousand meters—where the silicon photosynthesizers are sparse. Atmospheric oxygen levels are lower, but the neurotoxin concentrations drop significantly."
+
+Marcus studied the topographic maps. There were habitable zones above three thousand meters. Plateaus with water access, moderate temperatures, reduced exposure to the silicon-based ecosystem.
+
+"Could we establish colonies in those zones?"
+
+"Possibly. But you're talking about reduced oxygen availability, higher UV exposure due to thinner atmosphere, and isolation from the majority of the planet's biosphere." Rafael pulled up ecological models. "And we still don't know what happens if we introduce Earth biology to those zones. Could trigger ecosystem changes we can't predict."
+
+Marcus pulled up the colonization assessment criteria. Habitability, resource availability, long-term sustainability, ecological compatibility.
+
+Kepler-442d was failing on multiple fronts.
+
+"What if we don't colonize at all?" Ling asked quietly. "What if we recommend this planet for research only? Establish a small scientific station, study the silicon-based biology, but don't bring colonists."
+
+"Fleet Command wanted habitable worlds. They're not looking for research stations."
+
+"Fleet Command isn't breathing neurotoxins right now."
+
+Marcus couldn't argue with that. The mission brief had been clear—find Earth-like planets suitable for immediate colonization. Kepler-442d checked the physical boxes but failed the critical biological compatibility test.
+
+"Let me ask a different question," Priya said. "Is there value in understanding this ecosystem beyond colonization potential?"
+
+"Elaborate."
+
+"Silicon-based photosynthesis. Carbon-silicon hybrid biochemistry. Organisms that produce oxygen through semiconductor reactions instead of chlorophyll. This is fundamentally new biology. Understanding it could revolutionize material science, energy production, atmospheric engineering."
+
+Rafael was nodding. "She's right. The silicon photosynthesizers are more efficient than Earth plants. If we could synthesize their processes, we could create oxygen production systems that don't require soil, nutrients, or extensive infrastructure."
+
+"For ships. For stations. For habitats on worlds that don't have breathable atmospheres." Ling pulled up engineering models. "We could be looking at the next generation of life support technology."
+
+Marcus felt the mission parameters shifting. They'd come looking for a new home. Instead, they'd found a biological library that might solve problems humanity hadn't known how to approach.
+
+"So the recommendation is... what? Research value but not colonization?"
+
+"I think that's what the data supports," Priya said. "The planet is habitable in the short term with proper equipment. But long-term exposure to the silicon-carbon compounds represents an unknown risk. We don't have enough data to recommend bringing thousands of colonists here."
+
+"But we do have enough data to recommend scientific research?"
+
+"Absolutely. This ecosystem represents billions of years of evolution along pathways completely independent from Earth. The scientific value is immense."
+
+Marcus pulled up the assessment template. He'd filled out dozens of these over the years. Usually the conclusions were straightforward—habitable or not, colonize or move on.
+
+Kepler-442d didn't fit the template.
+
+"I'm going to need to explain to Fleet Command why we're recommending against colonization of the most Earth-like planet we've found in three years."
+
+"Tell them the truth," Rafael said. "The planet is beautiful, habitable, and fundamentally incompatible with Earth biology without extensive adaptation. But it's also the most scientifically valuable world we've encountered. The choice is between a marginal colony and a revolutionary research opportunity."
+
+Marcus started drafting the report. Physical parameters, atmospheric composition, biological survey results, toxicity data, colonization risk assessment.
+
+Every section told the same story. Kepler-442d was incredible. And it wasn't home.
+
+"What about the colonists waiting for our report?" Ling asked. "The families who've been in transit for eighteen months, hoping we'd find them a new world?"
+
+That was the weight Marcus felt every time he made a recommendation. Real people, with real hopes, depending on his assessment to plan their futures.
+
+"We tell them the truth. This planet isn't safe for long-term habitation without technology we haven't developed yet. But understanding its biology might help us make other worlds safer."
+
+"That's not going to make them happy."
+
+"No. But it's better than sending them to a world that poisons them."
+
+Marcus finished the draft and sent it to the team for review. They'd have twelve hours to add their data, refine the analysis, make sure the conclusions were supported by evidence.
+
+Then he'd transmit the report to Fleet Command and wait for the inevitable pushback.
+
+"One more thing," Priya said. "When we return to orbit, I recommend full medical monitoring for all ground team personnel. We've been exposed to neurotoxic compounds for three days. I want to track any long-term effects."
+
+"Agreed. I'll inform Dr. Chen to prepare the medical bay."
+
+The meeting dispersed. Marcus watched his team leave, each carrying the weight of their discoveries. They'd come to Kepler-442d hoping to find humanity's next home.
+
+Instead, they'd found proof that the universe was more diverse, more complex, and more dangerous than anyone had imagined.
+
+He pulled up the orbital images of the planet. From space, it looked perfect. Blue oceans, rust-colored continents, swirling clouds. A living world, breathing through biology that had evolved to thrive under alien conditions.
+
+Beautiful and poisonous and utterly indifferent to humanity's needs.
+
+Marcus started composing his commander's summary. The section where he had to distill three weeks of survey work into a single recommendation.
+
+Recommend against colonization. Recommend research station. Recommend continued study of silicon-based biochemistry for potential life support applications.
+
+It wasn't the answer Fleet Command wanted.
+
+But it was the answer the data supported.
+
+Marcus hit send and hoped someone up the chain of command would understand.
+
+That sometimes finding new worlds meant learning when to leave them alone.

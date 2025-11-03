@@ -1,0 +1,113 @@
+Dr. Ling Zhang stared at the atmospheric composition readout for the third time. The numbers refused to make sense.
+
+"Marcus, I need you to look at this."
+
+Field Lead Marcus Osei crossed the survey tent, his boots squelching in the alien mud. Outside, Kepler-442d's twin suns cast orange and yellow light through thick clouds that shouldn't exist under these conditions.
+
+"What am I looking at?"
+
+"Oxygen levels. Thirty-two percent at ground level. Nitrogen, carbon dioxide, trace noble gases—all within expected parameters. But the oxygen..."
+
+"Thirty-two percent is high but not impossible. Earth hit those levels during the Carboniferous."
+
+"That's the problem." Ling pulled up the photosynthesis models. "There's no vegetation. No chlorophyll signatures. No cyanobacteria. The planet's producing molecular oxygen without any visible biological source."
+
+Marcus studied the data. He'd led seventeen exoplanet surveys, and learned to trust when something felt wrong. This felt very wrong.
+
+"Could it be geological? Photodissociation of water, maybe?"
+
+"Not at these concentrations. You'd need stellar radiation levels that would sterilize the surface." Ling highlighted the UV readings. "The magnetosphere is strong, stellar wind is deflected. This oxygen is being actively generated."
+
+"By what?"
+
+"That's the question." Ling pulled up the soil analysis from their first landing site. "I've been running comparison models. The oxygen production rate suggests biological processes. Large-scale biological processes. But our surveys show no plant analogs, no photosynthetic organisms, nothing that matches Earth-based oxygen production."
+
+Marcus activated the survey drone network. Fifteen autonomous units scattered across a two-hundred-kilometer radius, each cataloging flora, fauna, atmospheric composition, soil chemistry. The synthesis map showed consistent oxygen levels across all sites.
+
+"Could we be looking at subsurface biology? Underground ecosystems we haven't detected yet?"
+
+"Possible. But soil penetration scans show solid bedrock twelve meters down. Not much room for a planet-wide underground biosphere."
+
+Marcus pulled up the mission timeline. They had six weeks to complete the initial survey before the supply ship departed orbit. Six weeks to determine if Kepler-442d was suitable for colonization, or if the unusual chemistry posed risks that outweighed the benefits.
+
+"What about the native organisms we've catalogued? The mobile ones?"
+
+Ling brought up the biological survey. Three dozen distinct species documented so far. Small, mostly arthropod-analogous creatures. Some with chitinous exoskeletons, others with mineral-based armor. All displaying unusual metabolic signatures.
+
+"Ensign Diaz is working on biochemical analysis. But nothing we've found suggests oxygen production capacity."
+
+"Where is Rafael?"
+
+"Field site gamma. Collecting samples from the fungal clusters."
+
+Marcus checked the team's location markers. Dr. Priya Kapoor was at delta site, analyzing water chemistry. Rafael Diaz at gamma, examining what they'd tentatively classified as fungal analogues. Ling here at base camp, running atmospheric analysis.
+
+"I want everyone back at camp in two hours. We need to synthesize what we're seeing."
+
+"You think there's a connection we're missing?"
+
+"I think a planet doesn't produce this much oxygen by accident." Marcus pulled up the hazard protocols. "And I think we need to figure out the source before we submit our colonization assessment."
+
+Ling nodded slowly. "If the oxygen production is unstable, or if it's tied to organisms we don't understand, colonists could face atmospheric changes we can't predict."
+
+"Exactly. Run a temporal analysis. I want to know if oxygen levels fluctuate. Daily cycles, seasonal variations, anything that suggests the production isn't constant."
+
+"That'll take computing time. Probably eight to ten hours."
+
+"Do it. I'll coordinate sample collection with Priya and Rafael. If there's a biological source we're missing, we need to find it."
+
+Marcus stepped outside. The twin suns were descending toward the horizon, painting the sky in shades of amber and rust. The landscape was beautiful—rolling hills covered in rust-colored ground cover that wasn't quite moss, forests of something that resembled ferns but with crystalline structures instead of fronds.
+
+Beautiful and alien and potentially deadly in ways they hadn't begun to understand.
+
+His comm crackled. "Marcus, this is Priya. I'm seeing something in the water chemistry you need to see."
+
+"What kind of something?"
+
+"Dissolved oxygen levels are off the charts. And there's a compound I can't identify. Molecular structure suggests it's organic, but it doesn't match any terrestrial biochemistry."
+
+Marcus felt pieces of a puzzle beginning to align, even if he couldn't see the full picture yet.
+
+"Can you bring samples back to camp?"
+
+"Already collected. I'm en route now."
+
+"Rafael, you copy this?"
+
+The young xenobotanist's voice was excited. "Copy. Marcus, I think I found something. These fungal clusters—they're not fungi. They're something else. Something that breathes differently."
+
+"Explain."
+
+"Their cellular structures have chambers that might be gas exchange systems. But they're not processing oxygen the way Earth life does. They're producing it."
+
+There it was. The first piece.
+
+"Don't touch anything else. Bag your samples with full contamination protocols. Everyone back to camp. Now."
+
+Marcus looked at the crystalline ferns swaying in the alien wind, the rust-colored ground cover spreading across the hills, the fungal clusters dotting the landscape like pale stones.
+
+They weren't plants. They were oxygen factories. An entire ecosystem built on biochemistry that humanity had never encountered.
+
+And they'd been walking through it, breathing its atmosphere, collecting samples, for three days.
+
+The question was whether that ecosystem would tolerate human presence.
+
+Or if introducing Earth-based biology to Kepler-442d would trigger consequences none of them could predict.
+
+"Ling, add full bio-hazard analysis to your task list. I want to know what we're breathing."
+
+"Already on it."
+
+Marcus activated the emergency shelter protocols. If the atmospheric chemistry was unstable, or if their presence was contaminating the local ecosystem, they might need to seal the base camp within hours.
+
+The twin suns touched the horizon. Darkness came fast on Kepler-442d.
+
+And in that darkness, Marcus wondered what else they hadn't seen yet.
+
+What else was waiting to be discovered on a planet that breathed without lungs and lived without the biology humanity had spent centuries understanding.
+
+"Everyone double-time it. I want answers before nightfall."
+
+Because nightfall on an alien world was when the real surprises usually emerged.
+
+And Marcus had a feeling they'd only begun to understand what made Kepler-442d breathe.
