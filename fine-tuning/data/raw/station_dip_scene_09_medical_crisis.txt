@@ -1,0 +1,187 @@
+Sarah Okonkwo watched the joint session assemble through medical bay monitors. Both delegations entering conference room nine, security personnel maintaining careful distance, everyone moving with the tension of people expecting violence.
+
+She'd prepped three trauma bays. Loaded blood synthesizers with universal substrate. Configured bioprinters for emergency tissue fabrication. Everything ready for casualties she hoped wouldn't materialize.
+
+Her comm chirped. Lena's voice: "Medical, stand by. Enhanced alert status."
+
+"Understood. What's the specific threat assessment?"
+
+"Unknown. Just be ready."
+
+Sarah pulled up real-time biometric data from conference room nine. Station monitoring tracked heart rates, respiratory patterns, stress markers for everyone in the room. Standard safety protocol that doubled as early warning system for medical emergencies.
+
+Or attacks.
+
+She watched the data settle as delegates took seats. Coalition on one side, Mars on the other, Chen at the head of table. Kwame positioned near the door, observing.
+
+Everyone's vitals showed elevated stress. Normal for high-stakes negotiations.
+
+Then she noticed the anomaly. One biometric signature reading higher than others. Rapid heart rate, shallow breathing, physiological markers suggesting extreme anxiety.
+
+She pulled up the individual identifier. David Park. Coalition technical advisor.
+
+The same person who'd collapsed from panic attack in section four yesterday.
+
+Sarah activated direct comm to conference room. "Ambassador Chen, medical advisory. Coalition delegate David Park is showing concerning vital signs. Recommend brief recess for medical assessment."
+
+Chen's response was controlled. "Dr. Okonkwo, we're beginning critical discussions. Unless there's immediate health risk—"
+
+"His stress markers are approaching panic response threshold. If he collapses during negotiations, it'll disrupt everything."
+
+Brief pause. Then: "Noted. We'll monitor closely."
+
+Sarah kept Park's biometrics on primary display. The pattern was worrying—physiological stress building without plateau. Like someone approaching breaking point.
+
+She pulled up his medical history. Previous panic attacks. History of anxiety disorder managed with medication. Recent gap in medication refills.
+
+He was unmedicated during highest-stress situation possible.
+
+Sarah prepared emergency anxiolytic injection and grabbed her medical kit. If Park collapsed again, she wanted to be ready for immediate response.
+
+On her monitor, the negotiations were beginning. Chen outlining ground rules, both delegations presenting opening positions. Standard diplomatic procedure with undercurrent of mutual suspicion.
+
+Park's heart rate climbed higher.
+
+She activated priority comm to Lena. "Security, I'm seeing medical emergency developing. David Park, Coalition delegation. His vitals suggest imminent panic attack or worse."
+
+"Worse how?"
+
+"Could be genuine medical crisis. Could be psychological breakdown. Could be physiological response to chemical agent exposure." Sarah pulled up atmospheric monitoring for conference room nine. "All environmental readings are normal, but if there's an agent we're not configured to detect—"
+
+"I'll position medical response team outside conference room. If he goes down, we move fast."
+
+Sarah assembled response team—two nurses, emergency equipment, extraction protocols ready. They positioned in corridor adjacent to conference room nine.
+
+Waiting for crisis that might not come.
+
+Park's biometrics spiked. Heart rate hitting 160 beats per minute. Respiratory rate shallow and rapid.
+
+Sarah activated emergency override on conference room comm. "Ambassador Chen, medical emergency in progress. David Park requires immediate attention."
+
+She saw it happen on the video feed. Park stood suddenly, his chair scraping back. Face flushed, breathing hard.
+
+"I can't—" His voice was audible through the monitor. "Need to—"
+
+He collapsed. Not gradually. Just sudden loss of consciousness, body dropping.
+
+Sarah was already moving. Her team hit conference room nine in under fifteen seconds. Park was on the floor, Coalition delegates surrounding him, Mars delegation watching with expressions ranging from concern to suspicion.
+
+"Give me space," Sarah said, kneeling beside Park. Scanner showed elevated heart rate starting to normalize, breathing returning to regular pattern. Classic panic-induced syncope.
+
+She checked for injuries from the fall. Minor contusion on his forehead. No signs of chemical exposure, no evidence of external attack.
+
+Just a man pushed past his psychological limits.
+
+"He's stable," she announced to the room. "Panic response triggered loss of consciousness. He'll recover, but needs rest and medication adjustment."
+
+Chen was beside her. "Can he continue negotiations?"
+
+"Not today. Possibly not this week. He needs psychiatric evaluation and treatment protocol." Sarah prepared sedative injection. "This isn't just stress. This is clinical anxiety disorder hitting crisis level."
+
+She administered the injection. Park's vitals stabilized further, his breathing easing into normal rhythm.
+
+Director Kim appeared. "Will he recover fully?"
+
+"With proper treatment, yes. But he can't participate in negotiations while in this condition." Sarah looked at Chen. "I'm recommending medical leave. Immediate return to Coalition facilities for comprehensive psychiatric care."
+
+The implications settled over the room. Coalition's technical advisor removed from negotiations. Mars delegation witnessing Coalition member's psychological breakdown. Trust already fragile, now further compromised.
+
+"We'll arrange transport," Kim said tightly. "Coalition medical facilities can provide appropriate care."
+
+"Agreed." Sarah coordinated with her nurses to move Park to medical bay. As they lifted him onto stretcher, she noticed something.
+
+His hand was clenched around something small. She carefully pried his fingers open.
+
+A data chip. Unmarked, compact, designed for covert information storage.
+
+Sarah palmed it without showing the Coalition delegates. Once Park was secured in medical bay, she examined the chip with security scanner.
+
+Encrypted data. Military-grade protection. And recently accessed—timestamp showed Park had loaded information onto it within the last hour.
+
+She contacted Lena immediately. "Security, I have potential intelligence artifact. Recovered from David Park during medical emergency."
+
+"Bring it to my office. Secure handling protocols."
+
+Sarah delivered the chip personally. Lena scanned it with equipment that looked military in sophistication.
+
+"Encrypted with Coalition protocols," Lena said. "But the data structure is unusual. Multiple partition layers, hidden storage sectors."
+
+"Can you decrypt it?"
+
+"Given time. But the encryption suggests this contains information Park considered extremely sensitive." Lena pulled up Park's surveillance history. "He's been acting nervous since arrival. Multiple private communications, unusual equipment modifications in his quarters, now medical crisis and he's carrying encrypted data chip."
+
+"You think he's the saboteur?"
+
+"I think he knows something that's tearing him apart." Lena activated decryption algorithms. "Question is whether he's perpetrator or victim."
+
+The decryption took eleven minutes. When the data displayed, both Sarah and Lena stared at the screen.
+
+Communications between Park and an external contact. Discussion of sabotage plans. Technical specifications for chemical weapons deployment. Timeline for attack on Unity Station.
+
+And evidence that Park wasn't planning the attack. He was trying to prevent it.
+
+"He's Coalition intelligence," Lena said, reading through the files. "Embedded analyst investigating sabotage threat from within the delegation. His panic attacks were because he knew attack was coming but couldn't identify the saboteur without exposing his operation."
+
+Sarah pulled up the timeline. "He's been monitoring his own delegation for three weeks. Suspected someone in Coalition was compromised but couldn't prove it."
+
+"And he couldn't share his investigation with station security without burning his cover and alerting the real saboteur." Lena forwarded the data to Chen. "He's been trying to stop the attack alone while maintaining his official role as technical advisor."
+
+"That kind of pressure would break anyone."
+
+"It nearly killed him." Lena accessed Park's medical records. "The panic attacks, the stress responses—classic symptoms of intelligence operative under extreme operational pressure."
+
+Sarah returned to medical bay. Park was conscious now, sedated but aware. His eyes tracked her movement with the wariness of someone expecting consequences.
+
+"I know what you are," Sarah said quietly, closing the privacy screen around his bed. "I know what you've been trying to do."
+
+Park's expression cracked. Relief, terror, exhaustion all surfacing at once.
+
+"Did you find them?" he asked. "Did you stop it?"
+
+"We found evidence of sabotage attempt on conference room six. Captured a coerced mole who provided infrastructure intelligence. Still trying to identify primary saboteur."
+
+"It's someone in Coalition delegation." Park struggled to sit up. "I've been monitoring everyone. Communications, equipment modifications, behavioral patterns. Someone's coordinating with external handlers but I can't identify who."
+
+"Your intelligence suggested the saboteur was within Coalition specifically?"
+
+"My intelligence suggested someone close to negotiations. Coalition was most likely because I had access to observe them directly." Park closed his eyes. "But it could be Mars. Could be station crew. I've been operating on incomplete information and fear."
+
+Sarah checked his vitals. Stable, but exhausted. "You need rest. Real rest, not mission-focused vigilance."
+
+"Can't rest while people are in danger."
+
+"You can't protect anyone while having panic attacks during critical moments." Sarah prepared another sedative dose. "I'm putting you under for six hours. When you wake, you'll share everything you know with security. Full cooperation, no more solo operations."
+
+"My handlers at Coalition intelligence—"
+
+"Can file complaints through proper channels. You nearly died from stress. Your operation is over." Sarah administered the injection. "Sleep. Let other people handle this now."
+
+Park's eyes closed. Within seconds, he was unconscious.
+
+Sarah returned to Lena's office with Park's statement and medical assessment.
+
+"He's not our saboteur," she said. "He's a burned-out intelligence analyst who couldn't handle the pressure of his assignment."
+
+"Which leaves us back at square one." Lena pulled up security feeds. "Saboteur is still active, still planning, still unidentified. And we just lost potential intelligence asset because the stress destroyed him."
+
+"Can you use his data? The files he collected?"
+
+"Marcus is analyzing them now. But if Park couldn't identify the saboteur with weeks of observation, I'm not optimistic about finding answers in his notes."
+
+Sarah looked at conference room nine's feed. Negotiations had resumed after Park's evacuation. Both delegations tense but functional. Chen guiding discussions toward framework agreements.
+
+Everyone working toward peace while someone among them planned murder.
+
+"How long until the saboteur tries again?" she asked.
+
+Lena checked the clock. "Negotiations are scheduled for six hours today. If I were planning an attack, I'd strike when both delegations are committed to extended session. Maximum casualties, maximum impact."
+
+"So we have maybe four hours."
+
+"Maybe less. Maybe it's already in motion and we just haven't seen it yet."
+
+Sarah returned to medical bay and rechecked her trauma preparations. Everything ready. Everything waiting.
+
+She hated waiting.
+
+But waiting was all they could do until the saboteur made their next move.

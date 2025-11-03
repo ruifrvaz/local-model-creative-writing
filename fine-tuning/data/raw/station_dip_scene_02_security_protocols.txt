@@ -1,0 +1,117 @@
+Lena Volkov's terminal showed seventeen active surveillance feeds simultaneously. Her eyes tracked them all—section four where Coalition delegates were unpacking, section nine prep for Mars arrival, the main corridors, docking facilities, and the three most likely routes for unauthorized movement between sections.
+
+Nothing unusual yet. That was what worried her.
+
+"Run the pattern analysis again," she told her deputy, Marcus Torres. "Focus on communication timestamps. I want to know if there's correlation between Coalition arrival and any station network activity."
+
+Marcus pulled up the data. "Six encrypted channels appeared within thirty minutes of their docking. All using station relay nodes, but the encryption is military-grade. Coalition standard."
+
+"Can we break it?"
+
+"Not without them knowing we tried. And that would violate neutrality protocols."
+
+Lena drummed her fingers on the desk. Unity Station's neutrality was its greatest asset and its biggest constraint. She could monitor, track, and observe, but active surveillance of diplomatic communications was forbidden unless there was immediate threat to station safety.
+
+The question was whether secret communications qualified as immediate threat.
+
+"What about physical surveillance?" she asked.
+
+"All public areas are covered. Private quarters are off-limits per Kwame's standing orders. Conference rooms have passive monitoring—audio available only if activated by station director."
+
+"Weapons status?"
+
+"Coalition security brought standard sidearms. All registered, all within diplomatic protection protocols. No heavy weapons, no explosives, no chemical agents detected." Marcus highlighted a section of his display. "But they've been moving equipment through the corridors. Engineering components, supposedly for their quarters' communication upgrades."
+
+"Components like what?"
+
+"Shielding materials. Signal boosters. High-capacity data storage." Marcus pulled up the manifest. "All technically allowed, but together they could create a hardened communication node we can't monitor."
+
+Lena considered. Building secure communication facilities wasn't illegal. Every diplomatic delegation did it. But the Coalition team was working with unusual speed, as if they were racing against a deadline.
+
+"Track the components. I want to know if they assemble anything that could double as surveillance equipment or weapons."
+
+"Already on it." Marcus switched feeds. "Mars transport is approaching outer markers. ETA forty-three minutes."
+
+Lena pulled up the Mars delegation roster. Six official delegates, three security officers, two technical staff. Smaller team than Coalition, but that didn't mean less dangerous.
+
+"When they dock, full biometric scan. I want DNA profiles, gait analysis, microexpression baselines—everything. Anyone who doesn't match their official identity gets flagged immediately."
+
+"Some delegates might object to that level of scrutiny."
+
+"They can object to Director Nkrumah. My job is station security, not making people comfortable." Lena switched to the external cameras. The Mars transport was visible now, a compact vessel built for efficiency rather than appearance. "What do we know about their security chief?"
+
+Marcus pulled up a file. "Rafael Osei. Former Mars Defense Force, decorated service during the Deimos blockade, current assignment diplomatic protection detail. Reputation for thoroughness."
+
+"Meaning he'll run his own surveillance operation."
+
+"Probably already started. Mars ships have sensor arrays good enough to map station layout from three million klicks."
+
+Lena felt the familiar tension of a security situation spiraling in complexity. Two delegations with their own protection teams, both running intelligence operations, both trying to gain advantage while maintaining plausible deniability.
+
+Her comm chirped. Kwame's voice: "Lena, my office. Five minutes."
+
+She found the station director reviewing structural schematics with a expression that suggested he'd found something unpleasant.
+
+"Problem?" she asked.
+
+"Potential problem." Kwame highlighted a section of the station's environmental systems. "Coalition quarters in section four share an air handling system with neutral territory in section six. Mars quarters in section nine share systems with section seven."
+
+Lena saw it immediately. "Chemical agents."
+
+"Or biological. Or just good old-fashioned eavesdropping through ventilation systems." Kwame pulled up the engineering specs. "I can isolate the systems, but it'll take four hours and require shutting down life support in those sections during the work."
+
+"Both delegations will know we're doing it."
+
+"And both will wonder if we're actually installing our own surveillance." Kwame closed the schematic. "But I'm not running negotiations in a station where either side could gas the other through air ducts."
+
+"Do it. I'll coordinate with delegations to minimize disruption."
+
+"There's something else." Kwame pulled up communication logs. "We've had three inquiries in the last hour. Two journalists want press credentials for the negotiations, and one independent contractor is offering security consulting services."
+
+"That's normal for high-profile talks."
+
+"Except the journalists work for outlets that don't usually cover diplomatic events, and the security contractor has no online presence before six months ago."
+
+Lena felt ice settle in her stomach. "Background checks?"
+
+"Running now. But Lena? If someone's trying to infiltrate the station during these negotiations, they'll have planned for standard screening. We need to assume threat actors are already aboard or will be soon."
+
+"I'll brief both delegation security chiefs. Off the record, professional courtesy." Lena pulled up her contact protocols. "They'll want to protect their people. That gives us common ground."
+
+"And if one of them is the threat?"
+
+"Then we find out fast and deal with it." Lena moved toward the door. "How much has Chen been briefed?"
+
+"Everything. He's meeting with Coalition delegation in ninety minutes. I want you sitting in, reading reactions."
+
+"Kim won't like having station security in the room."
+
+"Kim can file a complaint through proper channels. These are my terms." Kwame's voice was firm. "Nobody conducts negotiations on Unity Station without understanding that safety comes first, diplomacy second."
+
+Lena returned to her office. Marcus had the Mars transport docking sequence on screen.
+
+"They're coming in clean," he reported. "No unusual emissions, no unauthorized transmissions, standard approach vector."
+
+"That's what worries me most," Lena said. "When everyone's trying this hard to look innocent, someone's definitely guilty."
+
+She pulled up the station's threat assessment matrix. Elevated risk across every category. Two hostile delegations in confined space. Unknown external actors potentially infiltrating. Secret communications. Time pressure pushing everyone toward mistakes.
+
+This was the kind of situation where people died. Usually the ones trying to prevent violence.
+
+Lena checked her sidearm—a compact plasma pistol, station-security configuration. Loaded, charged, safety engaged. She'd carried it for three years on Unity without ever firing it outside the range.
+
+She had a bad feeling that streak was about to end.
+
+The Mars transport locked into berth twelve. Airlocks cycled. Pressure equalized. On her monitors, Lena watched the delegation emerge.
+
+Six faces. All matching their official profiles. All wearing expressions of careful neutrality.
+
+All hiding something.
+
+"Here we go," Marcus said quietly.
+
+Lena pulled up the security grid. Every corridor monitored, every checkpoint active, every exit covered.
+
+It wasn't going to be enough.
+
+It never was.

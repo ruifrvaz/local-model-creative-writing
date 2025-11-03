@@ -1,0 +1,205 @@
+Lena coordinated the joint security operation from her office. Rafael Osei on her left, Director Kim on her right, all three reviewing surveillance data with the focused intensity of people hunting threats.
+
+"Connor Park's communication logs decrypt to external node located in outer belt," Marcus reported. "IP masking suggests relay through multiple stations, but source appears to originate from independent mining operation, sector seven-gamma."
+
+"Mining operations don't run intelligence operations," Rafael said.
+
+"This one does. Or it's being used as cover for one." Lena pulled up the sector data. "Seven-gamma has three registered operations. Two are corporate-owned, one is independent collective."
+
+Kim highlighted the independent operation. "Freeport Mining Consortium. Registered as worker cooperative, but intelligence flagged it two years ago as potential front for smuggling operations."
+
+"Smuggling or intelligence work?" Rafael asked.
+
+"Both, probably. Organizations like that provide cover for multiple illegal activities." Kim pulled up Coalition intelligence files. "We've suspected Freeport of facilitating black market weapons trade. Never proved it."
+
+Lena ran analysis on communication patterns. "Connor's handlers contacted him using encrypted channels routed through Freeport relay. That's too specific to be coincidence."
+
+"Could Freeport be independent actor trying to destabilize negotiations?" Rafael considered. "Criminal organizations profit from conflict. War disrupts law enforcement, creates black market opportunities."
+
+"Or they're providing communications infrastructure for someone else." Lena switched to the surveillance device analysis. "The listening device transmits to receiver within Unity Station's immediate vicinity. Not external relay—something close."
+
+Marcus pulled up near-station traffic. "Three vessels within transmission range. Coalition diplomatic transport, Mars delegation vessel, and one independent cargo hauler registered to Freeport consortium."
+
+"That's not subtle," Kim said.
+
+"Maybe it's not supposed to be." Rafael stood, moving to the display. "We're assuming saboteur is trying to hide. What if they want us to find evidence pointing to Freeport?"
+
+"Another misdirection?" Lena felt frustration building. "Every lead circles back to deliberate ambiguity. Nothing definitive, everything suggesting multiple possibilities."
+
+"That's sophisticated intelligence operation." Kim pulled up her own analysis. "Create so many potential suspects that investigators become paralyzed by uncertainty."
+
+"Or create conflict between investigators arguing about which suspect to prioritize." Rafael looked at Kim. "Coalition thinks Mars might be involved. Mars suspects Coalition. We both have evidence supporting our suspicions."
+
+"While real saboteur operates undetected." Lena pulled up the full investigation timeline. "We've found coerced mole, discovered surveillance device, identified potential external coordination. But we still don't know who's actually running the operation."
+
+Marcus highlighted new data. "Cross-referencing personnel aboard Unity Station with known Freeport associates produces three matches. All station crew, all hired within last six months."
+
+"Names?" Lena asked.
+
+"Engineers Maria Santos and James Vega, and medical technician Lisa Cho."
+
+"Santos and Vega both had credentials compromised during sabotage attempts," Rafael noted.
+
+"Which could mean they're victims or perpetrators covering tracks." Kim pulled up Cho's file. "Medical technician with access to pharmaceutical supplies, monitoring systems, patient data. Perfect position for intelligence gathering."
+
+Lena activated station comm. "Security alert. Locate and detain Lisa Cho. Medical staff, priority. Non-lethal approach but consider potentially hostile."
+
+Her team moved efficiently. Within four minutes, response came back.
+
+"Chief, Cho's not in medical bay. Shift supervisor says she left two hours ago, end of duty rotation."
+
+"Track her location. Last known position."
+
+Marcus pulled up tracking data. "Quarters in section twelve. But her biometric signature hasn't registered on any sensors for ninety minutes."
+
+"She removed her transponder." Lena pulled up section twelve surveillance. "Or she's in an area without monitoring coverage."
+
+"Like maintenance corridors," Rafael said. "Or ventilation systems."
+
+Lena dispatched security teams to section twelve while pulling up Cho's movement history. The pattern was revealing—regular visits to areas containing critical infrastructure, always during off-peak hours, always with plausible justification.
+
+"She's been surveying station systems for months," Kim observed. "Building comprehensive intelligence on vulnerabilities."
+
+"And now she's missing during critical negotiation period." Lena activated emergency protocols. "Station-wide alert. Lisa Cho is person of interest in security investigation. Detain on sight."
+
+Her comm chirped. Dr. Okonkwo's voice: "Lena, I have problem. Inventory shows missing pharmaceuticals from secured storage. Specifically, sedatives and paralytic agents."
+
+"When were they taken?"
+
+"Best estimate, sometime in last four hours. Lisa Cho had access and opportunity."
+
+Lena felt cold certainty. "Enough to incapacitate how many people?"
+
+"Depends on dosage and delivery method. Could be anywhere from five to fifty individuals."
+
+"Conference room capacity is thirty." Rafael's expression was grim. "If Cho has paralytic agents and access to negotiations area—"
+
+"She could incapacitate both delegations simultaneously." Kim activated her comm. "Coalition security, implement anti-contamination protocols. All delegation members restrict consumption to sealed rations only."
+
+Rafael issued similar orders to Mars delegation. "How would she deliver the agents? Food contamination?"
+
+"Too unreliable. Different people eat different amounts." Lena pulled up environmental systems. "But atmospheric delivery through ventilation would affect everyone in target area simultaneously."
+
+"We sealed ventilation connections to conference room nine," Marcus said.
+
+"For section nine. But conference rooms pull air from central system before localized distribution." Lena ran the engineering analysis. "If someone introduced agents into the central air handling facility, it would reach every conference room before localized filters could remove it."
+
+"Where's central air handling?" Kim asked.
+
+"Section three, sublevel two. Restricted access, multiple security checkpoints." Lena pulled up surveillance feeds. "No signs of unauthorized access in last six hours."
+
+"Then she hasn't deployed yet. Still preparing or waiting for optimal moment." Rafael checked the negotiation schedule. "Tomorrow's session runs six hours. Maximum time for both delegations to be exposed."
+
+"We need to lock down air handling now." Lena coordinated with her teams. "Full security sweep, air sample analysis, enhanced monitoring."
+
+Kim looked at the timeline. "Even with lockdown, Cho could have already positioned the agents for timed release. We need to find her, not just secure the infrastructure."
+
+"Agreed. But securing infrastructure prevents deployment while we locate her." Lena dispatched additional teams. "Station-wide search. Maintenance corridors, storage areas, anywhere she could hide."
+
+Rafael pulled up tactical assessment. "If I were planning atmospheric attack, I'd position backup deployment methods in case primary was discovered. Redundant systems."
+
+"Conference room nine has independent air supply for exactly that reason," Lena said. "But she could target delegation quarters, common areas, transport corridors."
+
+"Anywhere people gather." Kim activated Coalition security feeds. "We're monitoring our quarters internally. Any atmospheric anomalies trigger immediate alert."
+
+"Mars doing the same," Rafael confirmed.
+
+Lena's terminal chimed with new data. Marcus had found something in Cho's communication logs.
+
+"She made three calls to Freeport cargo vessel in last twenty-four hours. All encrypted, all brief." Marcus displayed the pattern. "Last call was forty-five minutes ago. Right before she disappeared."
+
+"That's coordination timing." Rafael studied the analysis. "She's updating handlers on operational status."
+
+"Which means the attack is imminent." Lena pulled up Freeport vessel tracking. "Can we board that ship? Detain the crew and interrogate?"
+
+"Not without probable cause and Unity authority," Kim said. "Freeport's registered as neutral commercial vessel. Boarding would be act of aggression."
+
+"Unless we have evidence they're supporting terrorist operation aboard Unity Station." Kwame's voice came through comm. He'd been monitoring the investigation remotely. "I'm authorizing security action against Freeport vessel if we can establish direct connection to sabotage attempt."
+
+Lena looked at the evidence. Communications with compromised station personnel. Proximity during critical negotiations. Intelligence suggesting organizational connection to black market operations.
+
+"It's circumstantial," she said. "Not definitive proof."
+
+"Then make it definitive." Kwame appeared on video feed, his expression harder than Lena had ever seen. "I will not allow Unity Station to become mass casualty site because we were too cautious to act on reasonable suspicion. Find Cho, establish the connection, then board that ship."
+
+Rafael activated Mars security protocols. "My team can provide boarding support. Full tactical response."
+
+"Coalition can provide electronic warfare capabilities," Kim added. "Prevent Freeport from transmitting warnings or wiping data."
+
+Lena coordinated the operation. "Marcus, you're running surveillance tracking. Rafael, position your team near Freeport vessel's docking berth. Kim, prep electronic warfare suite. I'm leading station security on Cho sweep."
+
+Everyone moved simultaneously. Lena grabbed tactical gear and assembled her team—six officers, full arrest authority, equipped for potential hostile encounter.
+
+"Connor Park said his handlers threatened his family on Mars," she told her team. "That's leverage-based recruitment. Cho might be similarly coerced or willingly participating. Either way, assume she's trained and potentially armed."
+
+The search pattern spread through Unity Station. Section by section, corridor by corridor, every space large enough to hide a person.
+
+Lena took section three personally. If Cho planned atmospheric deployment, she'd need access to central air handling. That meant being somewhere in this section.
+
+The corridors were quiet. Standard night cycle lighting, minimal crew presence. Every shadow could hide a threat.
+
+Marcus's voice in her earpiece: "Chief, got thermal signature in maintenance access three-delta. Single person, stationary, location suggests they're near air handling equipment."
+
+Lena moved toward three-delta with two officers flanking her. Weapons ready, approach silent.
+
+The access door was locked. She overrode it with security codes and entered tactical posture.
+
+Lisa Cho was there. Kneeling beside an open equipment panel, hands working with something Lena couldn't see clearly.
+
+"Station security. Don't move."
+
+Cho spun, and Lena saw what she'd been doing. A canister connected to air handling systems. Pharmaceutical deployment device, ready to release contents into central distribution.
+
+"Step away from the equipment," Lena commanded.
+
+Cho's expression was desperate. "You don't understand. They have my daughter. If I don't do this, they'll kill her."
+
+"Who has your daughter?"
+
+"Freeport. They took her three months ago. Said she'd be safe if I cooperated." Cho's hands were shaking. "I didn't want to hurt anyone. They forced me."
+
+"Then help us stop them." Lena moved closer, weapon steady. "Step away and we'll get your daughter back."
+
+"You can't promise that. You don't know what they're capable of."
+
+"I know what you're capable of if you release that canister." Lena gestured to her officers. "Fifty people in conference rooms tomorrow. Coalition and Mars delegates. Medical staff. Security personnel. All of them incapacitated or dead because you followed orders."
+
+Cho looked at the canister. At Lena. At the impossible choice between her daughter's life and dozens of strangers.
+
+"They'll kill her anyway," she whispered. "Even if I do this. They'll kill her to eliminate witnesses."
+
+"Probably," Lena said honestly. "But if you help us, we can find her before they do. Mars and Coalition both have intelligence assets. Resources we can deploy."
+
+"You're lying."
+
+"I'm giving you option better than murdering innocents and hoping criminals keep promises they never make." Lena lowered her weapon slightly. "Help us. It's the only chance either of you have."
+
+Cho's hands moved toward the canister.
+
+Lena fired.
+
+The stun charge hit Cho in the chest. She collapsed, unconscious before hitting the floor.
+
+Lena's officers secured her while Lena examined the canister. Full of paralytic agent, ready for deployment. The timer showed activation in seven hours.
+
+Right when tomorrow's negotiations would be hitting critical discussions.
+
+"Marcus, we have Cho in custody. Paralytic device secured. Coordinate with medical for agent disposal." Lena pulled up Freeport vessel comm. "Kwame, we have evidence. Cho was coerced by Freeport personnel who kidnapped her daughter. That's enough for boarding authority."
+
+"Proceed," Kwame said. "Rafael, you're cleared for tactical entry."
+
+Lena watched on monitors as Mars and Coalition security teams coordinated assault on Freeport vessel. Professional, efficient, surprisingly cooperative.
+
+The boarding took eleven minutes. Freeport crew offered minimal resistance.
+
+And in the cargo bay, Rafael's team found Lisa Cho's daughter. Alive, terrified, but unharmed.
+
+"We've got her," Rafael reported. "Medical team is responding."
+
+Lena returned to her office, exhaustion finally catching up. They'd stopped the attack. Identified the saboteur. Recovered the victim.
+
+But she couldn't shake the feeling that something was still wrong.
+
+This had been too easy. Too clean.
+
+Like someone wanted them to succeed.

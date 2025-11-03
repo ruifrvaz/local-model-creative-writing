@@ -1,0 +1,197 @@
+Lena found the anomaly at 0200 hours. She'd been reviewing surveillance footage from section six—the neutral zone containing conference rooms and common areas—when her pattern recognition algorithm flagged unusual movement.
+
+Someone had accessed maintenance corridor six-alpha at 0147 hours. The corridor led to environmental systems serving conference room six. The access was authorized—Unity crew member, engineering department, legitimate credentials.
+
+But the timing was wrong.
+
+Marcus appeared at her shoulder, carrying coffee that smelled like it had been brewed during previous shift.
+
+"What've you got?" he asked.
+
+"Maintenance access during quiet hours. Not against regulations, but unusual." Lena pulled up personnel files. "Technician James Vega. Five years station service, clean record, currently assigned to life support rotation."
+
+"Background?"
+
+"Earth origin, worked commercial transport before Unity. Standard security clearance." Lena switched to real-time feeds. "He's still in the maintenance corridor. Been there eighteen minutes."
+
+"That's too long for routine check."
+
+Lena pulled up Vega's work assignments. "He's not scheduled for maintenance in section six tonight. His rotation covers sections two and eight."
+
+Marcus set down his coffee. "Want me to check it out?"
+
+"I'll go. You monitor from here. If this is something, I want backup ready." Lena grabbed her scanner and sidearm. "Pull Vega's communication logs for the last seventy-two hours. See if anything unusual shows up."
+
+The corridors were quiet. Station night cycle meant reduced lighting and minimal foot traffic. Lena moved through section six with practiced silence, every sense alert for threats that might not exist yet.
+
+Maintenance corridor six-alpha was a narrow passage lined with environmental control systems—air handlers, power distribution, sensor arrays. Critical infrastructure that kept the station functional and everyone aboard alive.
+
+Perfect target for sabotage.
+
+Lena spotted Vega thirty meters ahead, working on an access panel with tools spread around him. His movements were efficient but slightly rushed. Like someone trying to finish before being interrupted.
+
+"Vega," she called out.
+
+He spun, nearly dropping a circuit tester. "Chief Volkov. You startled me."
+
+"Working late?"
+
+"Yeah. Got notification about pressure fluctuation in conference room six's environmental system. Figured I'd check it out before morning shift."
+
+Lena pulled up her station status board. No alerts about pressure issues. No work orders logged for section six.
+
+"Who sent the notification?" she asked.
+
+Vega hesitated. "Came through standard maintenance channel. Automated system."
+
+"Let me see your work order."
+
+"It was verbal. From shift supervisor."
+
+"At 0147 hours? Who's your supervisor this rotation?"
+
+"Chief Engineer Park. He—" Vega stopped. "Wait, Park's off duty tonight."
+
+Lena felt adrenaline sharpen her focus. "So you received work order from supervisor who wasn't on shift, for problem that didn't generate alert, in section you're not assigned to."
+
+"I thought—" Vega looked at the access panel he'd been working on. "Somebody must have spoofed the comm channel."
+
+"Step away from the panel. Slowly."
+
+"Chief, I haven't done anything wrong—"
+
+"Then you won't mind letting me verify that." Lena moved closer, scanner active. "What were you working on?"
+
+Vega gestured at the open panel. "Environmental controls for conference room six. I was checking sensor calibration."
+
+Lena scanned the panel. Standard components, no obvious modifications. But something was wrong. The sensor configuration had been altered—subtle changes that wouldn't trigger security alerts but would affect environmental monitoring.
+
+"These sensors are recalibrated," she said. "Why?"
+
+"They aren't. I mean, I haven't touched calibration. Just checking connections."
+
+Lena pulled up the system logs. The sensors had been modified eighteen minutes ago. Exactly when Vega accessed the corridor.
+
+"Marcus, I need technical analysis of environmental controls, section six, conference room six," she said into her comm. "Priority urgent."
+
+Marcus's voice came back immediately. "What am I looking for?"
+
+"Tell me what these sensor modifications would actually do."
+
+Silence for fifteen seconds while Marcus ran diagnostics remotely.
+
+"Chief, those changes would prevent atmospheric monitoring from detecting specific chemical signatures. Looks like someone's creating blind spot in the detection grid."
+
+Lena felt ice in her stomach. "What kind of chemicals?"
+
+"Nerve agents. Incapacitating gases. Anything you'd want to introduce without triggering alarms."
+
+She turned back to Vega. His expression had shifted from confused to afraid.
+
+"I didn't know," he said. "The work order seemed legitimate. I just followed instructions."
+
+"Who gave you the instructions? Real answer this time."
+
+"I got a message. Encrypted channel, but it had proper authorization codes." Vega pulled up his comm log. "Said there was security concern about conference room monitoring. Needed discreet adjustment to sensor systems."
+
+"Show me the message."
+
+Vega accessed his comm. The message was there—proper formatting, correct authorization codes, specific technical instructions.
+
+And completely fabricated.
+
+"Marcus, trace this authorization," Lena said, forwarding the data. "I want to know who generated these codes."
+
+"Running it now. Chief, this is sophisticated. Whoever did this had access to station security protocols."
+
+Lena pulled Vega away from the panel. "You're coming with me. Station security, detention for questioning."
+
+"I'm cooperating. I didn't know it was sabotage—"
+
+"Maybe you didn't. But someone used you to create attack vector on conference room six." Lena secured his toolkit. "Tomorrow morning, both delegations meet in that room. If you'd finished this work, atmospheric monitoring would be blind to chemical attack."
+
+Vega looked sick. "I almost killed them."
+
+"You almost enabled someone else to kill them." Lena marched him toward security. "Question is whether you're an unwitting tool or an accomplice."
+
+She handed Vega to security detail, then returned to her office. Marcus had three displays active, running analysis on the sabotage attempt.
+
+"The authorization codes were generated from station security systems," he said. "But the access was routed through seventeen different relay points. Can't trace origin."
+
+"So someone aboard Unity has high-level security access and enough technical skill to hide their tracks."
+
+"Or someone off-station is hacking our systems remotely."
+
+Lena pulled up personnel files for everyone with security clearance sufficient to generate authorization codes. Forty-three people. Station crew, delegation security officers, senior staff.
+
+Too many suspects. Not enough time.
+
+"Pull surveillance on everyone who accessed security systems in the last seventy-two hours," she said. "Cross-reference with delegation arrival times. Look for patterns."
+
+"That's going to take hours."
+
+"Then you better start now. Negotiations begin in seven hours. Whoever planned this won't stop with one failed attempt."
+
+Lena sent priority alert to Kwame and Chen. Conference room six was compromised. They'd need alternate location for joint session.
+
+Her comm chirped. Chen's voice: "Lena, status?"
+
+"Sabotage attempt, section six. Atmospheric sensors modified to create detection blind spot. Technician was manipulated through fake work order."
+
+"Is the room secure?"
+
+"No. I'm locking it down and recommending we move negotiations to conference room nine." Lena pulled up alternative facilities. "That room has redundant monitoring and no environmental integration with other sections."
+
+"Do it. I'll notify both delegations."
+
+"Ambassador, whoever planned this has station security access. They're aboard Unity, they're skilled, and they're not done."
+
+"Can you identify them before 0900?"
+
+Lena looked at her surveillance feeds, the personnel files, the vast quantity of data that might contain answers if she could find the right patterns.
+
+"I'll try."
+
+After Chen disconnected, Marcus pulled up communication logs. "Found something. Three encrypted messages sent from station systems to external addresses in the last forty-eight hours. All using Coalition military encryption."
+
+"Source?"
+
+"Section four. Coalition quarters."
+
+Lena felt pieces shifting in her mind. Coalition delegation was communicating with someone off-station using encrypted channels. Either coordinating legitimate diplomatic activity, or reporting to handlers who were orchestrating sabotage.
+
+Or being framed by whoever actually planned the attack.
+
+"Can you decrypt the messages?" she asked.
+
+"Not without Coalition cooperation. Breaking their encryption would be act of espionage."
+
+"Asking them to voluntarily share the messages would reveal we're monitoring their communications."
+
+"Which violates Unity's neutrality protocols."
+
+Lena stared at the encrypted data. Evidence that might identify the saboteur, or might be exactly what the saboteur wanted her to find.
+
+Trust was becoming a luxury she couldn't afford.
+
+But acting without trust might trigger the crisis she was trying to prevent.
+
+"Keep monitoring," she said. "Don't decrypt yet. But if we get another sabotage attempt, we decrypt everything and deal with diplomatic consequences after people are safe."
+
+Marcus nodded. "What about Vega?"
+
+"Keep him detained. Isolate his comm access. If he's innocent, releasing him creates security risk. If he's guilty, we can't let him warn his handlers."
+
+Lena pulled up conference room nine's specifications. Better security than room six, but that also meant the saboteur would know she'd relocated negotiations. They'd adapt.
+
+Everyone adapted.
+
+That's what made this dangerous.
+
+She had seven hours to find a saboteur who was probably smarter than her, better resourced, and willing to kill to achieve their objectives.
+
+Seven hours to prevent a massacre that would trigger the war everyone claimed they wanted to avoid.
+
+She checked her sidearm and returned to the surveillance feeds.
+
+Time to hunt.

@@ -1,0 +1,171 @@
+Chen received the security briefing at 0600 hours. Cho detained, paralytic attack prevented, her daughter recovered from Freeport vessel. By any measure, successful operation.
+
+Yet both Rafael and Lena looked concerned.
+
+"What's wrong?" Chen asked.
+
+Rafael pulled up interrogation data. "Freeport crew claims they were hired to provide communication relay and secure storage. Standard smuggling operation. They didn't know what they were storing or who they were communicating for."
+
+"You believe them?"
+
+"Their story checks out. Financial records show payment from anonymous source routed through multiple intermediaries. They were told to hold Cho's daughter for three months, provide communication services, then release her when contract expired."
+
+"Contract." Chen felt the wrongness of it. "Professional criminals don't use business terminology for kidnapping."
+
+"Exactly. This was structured like legitimate transaction." Lena pulled up payment analysis. "The money came from shell corporation registered in Luxembourg. Three layers of holding companies, all designed to obscure ownership."
+
+"Someone with significant resources and sophisticated laundering capabilities," Kim observed. She'd been monitoring the interrogation remotely.
+
+"And enough operational security to keep Freeport crew ignorant of the actual plan." Rafael highlighted communication logs. "They provided relay services but couldn't access encrypted content. Pure infrastructure support."
+
+Chen studied the pattern. "So Freeport was another layer of misdirection. Used to provide services but kept ignorant enough to avoid real culpability."
+
+"Which means the actual saboteur is still unidentified." Lena pulled up the investigation timeline. "We've stopped one attack vector, but whoever planned this has resources to try again."
+
+"Lisa Cho is cooperating?" Chen asked.
+
+"Fully. She's providing everything she knows about recruitment, communication protocols, operational instructions." Rafael pulled up her statement. "But she never met her handlers in person. All contact was remote, all instructions delivered through encrypted channels."
+
+"Same pattern as Connor Park." Kim made notes. "Recruit vulnerable individuals through coercion, compartmentalize operations, maintain complete anonymity."
+
+"Professional intelligence methodology," Rafael said. "This isn't criminal operation. This is state-level tradecraft."
+
+Chen felt pieces aligning. "Which government has motive to ensure Earth-Mars conflict?"
+
+"Could be rival Earth nation that benefits from Coalition distraction," Kim said. "Could be corporate interests with government backing. Could be element within Coalition or Mars pursuing unsanctioned agenda."
+
+"Too many possibilities." Lena pulled up personnel analysis. "We need to narrow focus. Who aboard Unity Station has skills, access, and motive to coordinate this operation?"
+
+Chen reviewed the station roster. Crew members, delegation staff, support personnel. Hundreds of people with varying levels of access and unknown motivations.
+
+"We approach this differently," he said. "Instead of identifying who, we anticipate what. The paralytic attack failed. What's the backup plan?"
+
+Rafael pulled up tactical scenarios. "If I were running this operation and primary attack failed, I'd implement immediate alternative. Something already positioned, ready to execute."
+
+"Which suggests the saboteur has multiple attack vectors prepared simultaneously." Lena activated station monitoring. "We need to identify what else has been compromised."
+
+Marcus appeared with new analysis. "Found anomalies in station power grid. Minor fluctuations in section six, consistent with unauthorized equipment modification."
+
+"Section six is neutral territory. Conference rooms, common areas." Kwame pulled up schematics. "What kind of modifications?"
+
+"Unknown. The fluctuations suggest additional power draw but we can't locate source." Marcus highlighted the pattern. "Started three days ago. Small enough to avoid triggering alerts but consistent enough to indicate deliberate equipment operation."
+
+"Could be surveillance devices," Kim suggested. "Multiple units running continuously would create exactly this power signature."
+
+"Or it could be weapons positioned for remote activation." Rafael stood. "I want to inspect section six personally. Full tactical sweep."
+
+"Negotiations are supposed to resume in three hours," Chen said. "If we delay again, both delegations will lose confidence in Unity's security."
+
+"And if we proceed with hidden threats in the negotiation area, we're risking lives." Kwame looked at the power analysis. "I'm authorizing two-hour delay. Rafael, take Coalition and Mars security teams. Full sweep of section six. I want every piece of equipment identified and verified."
+
+The tactical team moved through section six with precision. Chen watched from security monitoring as they scanned every room, every corridor, every piece of equipment.
+
+They found the devices in conference room seven—the alternate facility Chen had considered for negotiations before choosing room nine.
+
+Four small units attached to structural supports. Not surveillance equipment. Not conventional weapons.
+
+Directed energy emitters. Designed to produce focused electromagnetic pulses that would disable electronic equipment and neural implants.
+
+"EMP weapons," Rafael reported. "Military-grade, positioned for optimal coverage of conference room seven. If negotiations had been held there, every electronic device would be dead within seconds. Anyone with neural implants would be incapacitated or killed."
+
+Chen felt ice in his stomach. "How many people in both delegations have neural implants?"
+
+Kim checked her roster. "Coalition delegation: four people. Various medical and enhancement implants."
+
+"Mars delegation: six," Rafael said. "Similar distribution."
+
+"So if we'd used conference room seven, ten people would be dead or critically injured within seconds." Lena examined the devices remotely. "Activate them during critical negotiation moment, create chaos, blame the casualties on malfunction or deliberate attack by opposing delegation."
+
+"Perfect catalyst for war." Chen pulled up his original facility selection notes. "I considered room seven initially. Changed to room nine forty-eight hours before negotiations started."
+
+"After saboteur had already positioned the EMP devices," Kwame said. "They couldn't retrieve them without triggering suspicion, so they left them in place hoping you'd switch locations."
+
+"Or they planned to somehow force us to relocate to room seven." Kim pulled up communication logs. "We received suggestion from Coalition government to request specific facility with enhanced security features. Those specs match room seven."
+
+"Mars received similar suggestion," Rafael admitted. "Recommendation to insist on facility with particular technical capabilities. Also matches room seven."
+
+Chen felt the manipulation spreading backward through time. "Someone fed both governments intelligence designed to make them advocate for conference room seven. Creating pressure on me to accommodate their requests."
+
+"Which you would have, if the atmospheric sabotage hadn't forced us to choose room nine instead." Lena pulled up the timeline. "The sensor modification in room six was discovered just early enough to make us choose different facility."
+
+"That sabotage attempt wasn't meant to succeed," Rafael said. "It was meant to be discovered, forcing facility change to room nine. Except saboteur expected us to choose room seven as alternate."
+
+"Why seven instead of nine?" Kim asked.
+
+"Nine has independent air systems," Marcus said. "Seven shares ventilation with section six central distribution. If we'd chosen seven, they could have combined EMP attack with atmospheric deployment."
+
+"Kill or incapacitate everyone in the room simultaneously." Rafael looked sick. "Perfect massacre disguised as technical malfunction."
+
+Chen pulled up station comm. "Both delegations need to know about this. The sophistication, the planning, the resources required. This isn't criminal operation. This is intelligence service conducting hostile action against both Earth and Mars."
+
+"Revealing that information could trigger exactly the response saboteur wants," Kim said. "If Coalition and Mars both believe there's state-level threat, military escalation becomes inevitable."
+
+"But hiding it means saboteur tries again with attack we don't anticipate." Rafael pulled up tactical analysis. "We've found two planned attack vectors. How many more are positioned we haven't discovered?"
+
+Lena ran comprehensive station scan. "With EMP devices in room seven and paralytic deployment prevented in central air, we've neutralized the threats we can identify. But sophisticated operation would have multiple redundancies."
+
+"So we proceed with negotiations while knowing someone aboard Unity is still planning attacks we can't prevent." Chen felt weight of impossible decisions. "Or we evacuate both delegations, negotiations collapse, and war becomes inevitable."
+
+Kwame looked at the evidence. "There's third option. We use the saboteur's sophistication against them."
+
+"How?" Kim asked.
+
+"They've been operating on assumption that we're reactive—discovering attacks just before they happen, always defensive." Kwame pulled up conference schedule. "What if we feed them false information about negotiation plans? Make them commit resources to targeting wrong location while we conduct actual talks elsewhere?"
+
+"Counter-intelligence operation." Rafael considered. "Risky. If saboteur sees through it, they adjust and we lose our advantage."
+
+"And if we do nothing, they keep attacking until something succeeds." Chen made decision. "We run the deception. Announce publicly that negotiations are resuming in conference room four after enhanced security upgrades. Actually hold talks in room nine with minimal publicity."
+
+"Both delegations will need to cooperate with the deception," Kim said. "That means fully briefing them on the threat."
+
+"Then we brief them." Chen activated conference comm. "Coalition and Mars delegation leads, report to secure briefing facility. Priority alert."
+
+The briefing took forty minutes. Chen laid out everything—the EMP devices, the atmospheric attack plan, the sophisticated intelligence operation targeting both sides.
+
+Director Kim and Commander Osei listened with expressions growing harder with each revelation.
+
+"You're telling us this was state-sponsored terrorism?" Kim said finally.
+
+"I'm telling you someone with state-level resources is trying to ensure these negotiations fail catastrophically." Chen pulled up the evidence. "And both Coalition and Mars need to cooperate to prevent it."
+
+"Who benefits from Earth-Mars war?" Osei asked.
+
+"Multiple actors. Corporate interests. Rival governments. Internal factions on both sides who oppose compromise." Kim pulled up geopolitical analysis. "The suspect list is enormous."
+
+"Which is why we focus on preventing their next attack instead of identifying them immediately." Chen outlined the counter-intelligence plan. "Public announcement of negotiations in room four. Actual talks in room nine. Force saboteur to commit to wrong target."
+
+"And if they have monitoring that reveals the deception?" Osei asked.
+
+"Then we adapt. But sitting exposed while waiting for next attack isn't viable strategy." Rafael pulled up tactical planning. "Mars security is willing to participate in deception operation."
+
+"Coalition as well," Kim said. "But I want full transparency between our security teams. No more compartmentalized operations."
+
+"Agreed." Osei extended hand to Kim. "Professional cooperation for duration of threat."
+
+Kim shook it. "Don't make me regret this."
+
+Chen watched two hostile delegations agreeing to coordinate against common enemy. It was progress. Small, tentative, born from threat rather than mutual goodwill.
+
+But progress nonetheless.
+
+"Negotiations resume in two hours," he said. "Public announcement says room four. We actually meet in room nine. Enhanced security, full monitoring, emergency protocols ready."
+
+"And we pray the saboteur takes the bait," Kwame added.
+
+Chen pulled up his negotiation notes. They'd achieved nothing concrete in yesterday's talks. Today they'd be conducting diplomacy while knowing someone was actively trying to kill them.
+
+Just another day in interplanetary relations.
+
+He contacted Dr. Okonkwo. "Medical, prepare for potential mass casualty scenario. Unknown attack vector, timeframe within next six hours."
+
+"Understood. We'll be ready."
+
+Everyone dispersed to their preparations. Chen sat alone in his office, reviewing proposals and counter-proposals that seemed insignificant compared to the life-and-death operation unfolding around them.
+
+But the negotiations mattered. If they failed—even for security reasons—the saboteur won.
+
+So they'd negotiate while under attack.
+
+And hope they survived to implement whatever agreement they reached.
+
+If they reached one.
