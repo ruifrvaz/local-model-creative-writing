@@ -1,0 +1,153 @@
+Dr. Priya Kapoor sealed the sample container and placed it in the analysis chamber. The liquid inside shimmered with iridescence that shifted between green and violet under the lab's white lights.
+
+"Computer, run full spectroscopic analysis. Flag any compounds not in the database."
+
+The analysis took fourteen seconds. The flagged results took up half the screen.
+
+Unknown compound detected. Molecular weight 847 daltons. Carbon-based structure with silicon integration. Recommend manual classification.
+
+Priya leaned closer. Silicon-carbon hybrid molecules were theoretically possible, but she'd never seen one in nature. Earth biochemistry chose carbon or silicon, not both.
+
+Kepler-442d apparently had different rules.
+
+She pulled up the molecular structure visualization. The compound had a backbone that alternated between carbon and silicon atoms, with side chains that suggested incredible reactivity. This wasn't just alien chemistry. This was chemistry that shouldn't work according to terran models.
+
+"Computer, analyze stability under standard Earth atmospheric conditions."
+
+The simulation ran. The molecule destabilized within ninety seconds, breaking down into component parts that included several highly reactive intermediates.
+
+Priya felt her pulse quicken. They'd been handling water samples from the planet for three days. If this compound was unstable in Earth atmosphere, they'd potentially been exposing themselves to breakdown products they hadn't tested for toxicity.
+
+"Marcus, this is Priya. We have a contamination concern."
+
+His voice came back immediately. "Define concern."
+
+"The water samples contain a silicon-carbon hybrid molecule that's unstable in normal atmospheric conditions. When it breaks down, it produces reactive intermediates. Unknown toxicity."
+
+"Are we contaminated?"
+
+"Uncertain. The lab is sealed, but if anyone handled samples outside containment protocols—"
+
+"Nobody did. We've been following bio-hazard procedures since landing." Marcus paused. "How reactive are we talking?"
+
+Priya ran the simulation again, this time modeling the breakdown products. "Reactive enough to potentially interfere with cellular respiration. Or they could be inert. I won't know without testing."
+
+"Can you test?"
+
+"I'll need living tissue. Earth-based tissue to see how the compounds interact with terrestrial biochemistry."
+
+"We brought lab rats for exactly this scenario. Use them."
+
+Priya pulled up the biological testing protocols. She hated animal testing, but the mission parameters were clear—unknown biochemistry required verification before human exposure could be considered safe.
+
+"I'll need six hours minimum."
+
+"You have twelve. But Priya, if those compounds are dangerous, I need to know immediately. We've all been breathing this planet's air, drinking processed water from local sources. If there's a contamination risk—"
+
+"I'll work fast."
+
+She prepared the test chambers while the computer synthesized breakdown products from the silicon-carbon hybrid. The lab rats—six of them, healthy adults bred specifically for exobiology research—waited in their containment units.
+
+Priya set up three test groups. Control group breathing standard Earth atmosphere. Experimental group one exposed to low concentrations of the breakdown products. Experimental group two exposed to higher concentrations.
+
+The exposure began at 1400 hours local time.
+
+By 1600 hours, the experimental groups were showing behavioral changes.
+
+Priya watched through the observation window. The rats in group two were lethargic, their movements slow and uncoordinated. Group one showed elevated activity levels—hyperactive, almost manic behaviors.
+
+Both abnormal. Both concerning.
+
+She pulled blood samples using the automated systems. The analysis showed elevated oxidative stress markers in group two. In group one, neurotransmitter levels were significantly altered—dopamine up forty percent, serotonin down thirty percent.
+
+"Computer, correlate symptoms with known toxic exposure profiles."
+
+No direct matches. The symptoms didn't align with any terrestrial toxin database.
+
+Because it wasn't a terrestrial toxin. It was alien chemistry interacting with Earth biology in ways that evolution had never prepared for.
+
+Priya activated the emergency medical protocols and flagged the results for Dr. Chen back on the orbital station. If ground team members started showing similar symptoms, they'd need treatment options ready.
+
+She pulled up the atmospheric data from base camp. The air filtration systems were running at ninety-seven percent efficiency, scrubbing local particulates and processing oxygen through Earth-standard filters.
+
+But those filters weren't designed for silicon-carbon hybrids. They might be letting compounds through. Compounds that were breaking down in the base's Earth-normal atmosphere and exposing the team to neurotoxic effects.
+
+"Marcus, we have a problem."
+
+"Talk to me."
+
+"The silicon-carbon compounds break down into neurotoxic intermediates. I'm seeing behavioral changes in test subjects exposed to concentrations that might match what we're breathing in base camp."
+
+Silence. Then: "How bad?"
+
+"Group two is showing severe lethargy. Group one is hyperactive with altered neurotransmitter profiles. Both groups are experiencing oxidative stress."
+
+"How long were they exposed?"
+
+"Two hours."
+
+"And we've been here three days." Marcus's voice was tight. "Symptoms in the ground team?"
+
+Priya thought about the last three days. Rafael's unusual energy levels, his excitement about every discovery. She'd attributed it to enthusiasm. But what if it was neurochemical alteration?
+
+Ling's fatigue yesterday, sleeping through breakfast. Normal after a long shift, except Ling never slept through meals.
+
+"Possible. Subtle. Could be explained by normal mission stress."
+
+"Or could be the start of neurotoxic exposure."
+
+"Yes."
+
+"Recommendations?"
+
+Priya pulled up the medical protocols. "We seal the base completely. Switch to stored oxygen, no local atmospheric processing. We monitor everyone for symptoms—energy levels, sleep patterns, cognitive function. And we run blood tests looking for oxidative stress markers."
+
+"That gives us maybe four days before stored oxygen runs out."
+
+"Then we have four days to figure out if Kepler-442d is actively poisoning us."
+
+Marcus didn't hesitate. "Do it. I'm initiating base seal protocols now. Everyone goes on medical monitoring."
+
+Priya watched the rats in experimental group two. They'd stopped moving entirely, huddled in corners with rapid shallow breathing.
+
+She pulled up the exposure timeline and ran projections. If the team had been breathing breakdown products for seventy-two hours, they were already past the safe exposure threshold based on the rat data.
+
+Not immediately fatal. But not safe.
+
+She activated the decontamination protocols and began preparing treatment options. Antioxidants, neurotransmitter modulators, anything that might counteract the toxic effects.
+
+Outside the lab window, Kepler-442d's twin suns cast beautiful light across an alien landscape.
+
+Beautiful and toxic and fundamentally incompatible with human biochemistry.
+
+They'd come looking for a new home for humanity.
+
+Instead, they'd found a world that breathed poison.
+
+Priya pulled blood samples from the control group rats and began the baseline comparisons. If they could understand how the toxins worked, maybe they could find a way to neutralize them.
+
+Or maybe they'd just confirmed that some planets were beautiful precisely because they'd evolved without considering whether humans could survive there.
+
+"Computer, flag all water and soil samples for silicon-carbon compound analysis. I want a complete distribution map."
+
+The analysis would take hours. But they had four days of oxygen.
+
+Four days to understand the chemistry.
+
+Four days to decide if Kepler-442d was a garden world or a graveyard.
+
+Four days to find out if they'd already been exposed to something Earth biology couldn't process safely.
+
+Priya watched the experimental rats and wondered which group the ground team resembled more—the lethargic ones shutting down, or the hyperactive ones burning too bright.
+
+Either way, the answer wasn't good.
+
+"Marcus, add this to your report. Recommend immediate medical evaluation for all ground team personnel."
+
+"Already on it. Dr. Chen is prepping the orbital medical bay."
+
+"Good." Priya pulled up the next round of tests. "Because we're going to need it."
+
+And started calculating how much damage seventy-two hours of alien neurotoxin exposure could do to human neurochemistry.
+
+The numbers weren't promising.

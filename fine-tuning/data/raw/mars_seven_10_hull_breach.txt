@@ -1,0 +1,155 @@
+The emergency klaxon cut through the night cycle at 0237. Yuki was out of her bunk before she was fully awake, training overriding consciousness.
+
+"All personnel, pressure breach in Habitat Module Four. Seal emergency bulkheads and report to stations."
+
+Yuki pulled on her jumpsuit and sprinted for life support control. Module Four housed thirty crew members in their sleeping quarters. If they couldn't seal the breach—
+
+She didn't finish the thought. Just ran.
+
+The control room was chaos. Technicians pulling up schematics, damage reports flooding in, pressure readings dropping.
+
+"Status!" she barked.
+
+Marcus Wu looked up from his console. "Breach in the outer hull, section four-delta. Micrometeorite impact, we think. Pressure dropping at point-two-three bar per minute."
+
+"Evacuation?"
+
+"In progress. We've got twenty-seven crew out. Three still inside, can't reach the exits due to debris."
+
+Yuki pulled up the module layout. The breach was in the north quadrant, and falling debris had blocked the main corridor. The trapped crew would be in rooms 4-14, 4-15, and 4-16.
+
+Time to loss of consciousness at current decompression rate: eleven minutes.
+
+"Get me Rivera and Alexis. Now." Yuki activated the emergency response protocol. "Seal all connecting modules. I don't want this spreading."
+
+The bulkheads slammed shut with hydraulic hisses. Habitat Four was now isolated—and the three people inside were on their own.
+
+Alexis arrived first, still sealing her pressure suit. "What do we have?"
+
+"Three trapped, eleven minutes until they're unconscious, seventeen until they're dead." Yuki transferred the schematic to Alexis's display. "The main corridor is blocked. We need another way in."
+
+Alexis studied the layout. "Emergency access hatch in the maintenance tunnel. Runs parallel to the habitat module. We can cut through from there."
+
+"How long?"
+
+"Six minutes if everything goes right. Ten if it doesn't."
+
+"Do it. I'll coordinate from here."
+
+Alexis was gone before Yuki finished speaking. Rivera appeared moments later, pulling on a jacket over her sleep clothes.
+
+"Casualties?"
+
+"None yet. Three trapped in Module Four. Alexis is mounting a rescue." Yuki pulled up the atmospheric readings. "But Commander, we have a bigger problem. The breach is in the outer hull, which means the inner hull took micrometeorite damage too. We need to inspect the entire habitat for secondary impacts."
+
+Rivera's face went grim. "If we've got multiple breaches—"
+
+"Then we've been in a debris field and didn't know it. Mars's orbital monitoring must have missed something." Yuki highlighted the impact vector. "Small objects, high velocity. Probably fragments from a larger collision in higher orbit."
+
+"How many more could be coming?"
+
+"Unknown. But we need to assume this isn't an isolated incident." Yuki started running probability models. "I'm implementing full precautionary protocol. All external activities suspended, enhanced monitoring, emergency pressure suits on standby in all modules."
+
+Rivera nodded. "Do it. And Yuki? Get those three people out."
+
+"Alexis is on it."
+
+In the maintenance tunnel, Alexis worked with controlled urgency. Sofia and Hassan were with her, carrying cutting equipment and emergency respirators.
+
+The tunnel was narrow—barely wide enough to move in a pressure suit. Alexis led the way, following her HUD's navigation overlay.
+
+"Cutting point in twenty meters," she called back.
+
+They reached the access point. Alexis pulled out the thermal lance and began cutting through the wall. Sparks flew in the low-pressure environment, dissipating quickly.
+
+"How's the pressure in Module Four?" she asked over the comm.
+
+"Point-four-eight bar and dropping," Yuki responded. "Eight minutes to unconsciousness."
+
+Alexis cut faster. The metal was thick—designed to withstand Martian temperature extremes and radiation. Designed to keep people alive.
+
+Right now, it was keeping her out.
+
+The lance broke through. Alexis widened the hole, creating an opening large enough to crawl through.
+
+"We're in. Heading for the trapped crew."
+
+She emerged into chaos. Debris everywhere—ceiling panels, insulation, personal effects scattered by explosive decompression. The air was thin enough that her suit's systems kicked in automatically.
+
+"Room 4-14 first."
+
+The door was jammed. Hassan helped her pry it open with a crowbar. Inside, they found a young technician—Chen's apprentice, Alexis remembered—slumped against the wall.
+
+"He's breathing," Sofia confirmed, checking vitals. "Hypoxic but stable."
+
+They fitted him with an emergency respirator and moved to room 4-15.
+
+This door came open easier. The occupant—a botanist named Rodriguez—was conscious but disoriented.
+
+"Easy," Alexis said. "We're getting you out. Just breathe."
+
+Rodriguez nodded weakly. They got the respirator on and helped her to the exit.
+
+Room 4-16.
+
+The door was completely blocked by a fallen support beam. Alexis assessed it quickly. Too heavy to move without equipment they didn't have.
+
+"We need to cut through," she said.
+
+"No time." Hassan checked the pressure reading. "We're at point-three-two bar. Whoever's in there has maybe four minutes."
+
+"Then we work fast." Alexis activated the thermal lance again.
+
+The cutting seemed to take forever. Every second ticked past with terrible weight. The metal glowed and parted, slowly revealing the room beyond.
+
+Finally, the hole was large enough. Alexis climbed through.
+
+The room's occupant—a senior engineer named Jackson—was unconscious on the floor. Alexis checked for a pulse.
+
+There. Weak, but present.
+
+"He's alive. Help me get him out."
+
+They maneuvered Jackson through the hole and into the maintenance tunnel. The respirator hissed as it forced oxygen into his lungs.
+
+"All three accounted for," Alexis reported. "Evacuating now."
+
+The trip back through the tunnel felt twice as long. They emerged into the sealed section of the habitat, where medical teams were waiting.
+
+Dr. Chen took over, assessing the three rescued crew members with practiced efficiency.
+
+"They'll all make it," she said after a tense minute. "Some hypoxic damage, but nothing permanent. Good work."
+
+Alexis stripped off her helmet and let herself breathe. Her hands were shaking—adrenaline crash.
+
+"Chief?" Sofia touched her shoulder. "You okay?"
+
+"Yeah. Just..." Alexis looked at the three people they'd pulled from certain death. "Yeah. I'm good."
+
+Rivera appeared. "Nice work. All three are stable?"
+
+"Chen says they'll be fine." Alexis pulled up the damage assessment. "But we need to inspect every module for secondary impacts. This could have been much worse."
+
+"Already in progress. Yuki's coordinating a full structural survey." Rivera looked at the sealed bulkhead. "How bad is Module Four?"
+
+"Total loss. The breach is too large to patch quickly, and the debris damage is extensive. We'll need to rebuild the entire section." Alexis ran calculations. "Four weeks minimum, assuming we have the materials."
+
+"Which we don't."
+
+"Which we don't." Alexis felt exhaustion settling over her. "Commander, we were lucky tonight. But luck isn't a strategy. We need better orbital monitoring, more redundant systems, faster emergency response."
+
+"All of which costs money we don't have." Rivera's expression was tired. "Add it to the list. Right now, focus on making sure there aren't any more breaches waiting to kill us."
+
+Alexis nodded and headed for the inspection teams.
+
+Three people alive who should have been dead.
+
+On Mars, that counted as a win.
+
+But the larger question loomed: how many more near-misses before their luck ran out?
+
+Alexis pushed the thought away and focused on the work.
+
+One crisis at a time.
+
+That was how you survived on Mars.
