@@ -1,0 +1,139 @@
+Admiral Kowalski slammed the report onto his desk hard enough that coffee jumped from his mug. "Three months behind schedule. Budget overruns at forty percent. And now you want to suspend test operations."
+
+Dr. Kenji Yamamoto stood his ground. "The temporal effects on Lieutenant Chen are worsening. Another jump could cause permanent neural damage."
+
+"Could. Maybe. Possibly." Kowalski pulled up the project timeline. "Meanwhile, the Chinese just announced successful FTL trials. The Europeans are accelerating their program. We're losing the race because you're worried about hypothetical side effects."
+
+"Neural desynchronization isn't hypothetical. Sarah's experiencing measurable time distortion."
+
+"She's functional. Her medical clearance says she's fit for duty." Kowalski highlighted the daily status reports. "Jump five proceeds as scheduled. That's an order."
+
+Kenji felt his jaw tighten. "With respect, Admiral, this isn't a military decision. It's a scientific one. We don't understand the physics yet."
+
+"We understand enough. We can generate stable Alcubierre fields. We can achieve faster-than-light transit. Everything else is optimization."
+
+"Everything else is keeping our test pilot's brain from fragmenting across multiple timestreams."
+
+Kowalski's expression hardened. "Dr. Yamamoto, I appreciate your concern for Lieutenant Chen. But this project has strategic implications beyond one pilot's wellbeing. Whoever achieves reliable FTL first controls the future of human expansion. Military superiority. Economic dominance. Access to resources that will determine which nations survive the next century."
+
+"Not worth a human life."
+
+"Every advancement in history cost human lives. Aviation. Spaceflight. Nuclear power. People volunteered knowing the risks because they believed the future mattered more than their personal safety."
+
+"Sarah volunteered before we discovered temporal paradoxes."
+
+"And she reconfirmed her commitment after we did." Kowalski pulled up Chen's latest statement. "She understands the stakes. She's willing to accept the risk."
+
+"She's military. She'll follow orders even if they kill her."
+
+"That's what makes her a hero instead of a coward."
+
+Kenji took a breath. Arguing with Kowalski was like arguing with orbital mechanics—the math didn't care about your objections.
+
+"At least let me implement basic temporal monitoring. Real-time neural scanning during the jump. If we detect catastrophic desync, we abort immediately."
+
+"Will that delay the test schedule?"
+
+"Twenty-four hours. Maybe forty-eight."
+
+Kowalski considered. "You have thirty-six hours. Jump five proceeds on the revised timeline. And Dr. Yamamoto? If your monitoring equipment causes the test to fail, you'll be answering to people who make me look patient."
+
+The meeting ended. Kenji left feeling like he'd negotiated a temporary stay of execution.
+
+Dr. Aisha Mbara was waiting in the corridor. "How bad?"
+
+"We have thirty-six hours to build temporal monitoring equipment that doesn't exist yet."
+
+"Wonderful. I'll cancel my sleep schedule."
+
+They walked toward the lab. The Jump Drive Research Facility sprawled across three square kilometers—laboratories, test chambers, fabrication shops, and the massive jump ship hangar where Sarah would risk her sanity in thirty-six hours.
+
+"The admiral doesn't care," Aisha said quietly. "About Sarah, about the physics, about anything except beating the Chinese to operational FTL."
+
+"He cares. He's just willing to pay prices I'm not." Kenji pulled up the monitoring specs on his tablet. "We need real-time neural imaging with microsecond precision. And we need it to work inside an Alcubierre field without interfering with bubble stability."
+
+"Impossible."
+
+"So was FTL travel until last month."
+
+The lab was controlled chaos. Engineers reviewed field equations. Technicians fabricated prototype components. Screens showed simulation after simulation of bubble collapse, each one revealing new complexity.
+
+Kenji pulled up the team. "I need quantum-entangled neural sensors capable of temporal imaging during FTL transition. Thirty-six hours. Who wants to tell me why it can't be done?"
+
+Dr. Hassan Patel raised his hand. "Because quantum entanglement breaks down inside Alcubierre fields. We'd need a containment system that preserves coherence during spacetime distortion."
+
+"Build one."
+
+"The power requirements—"
+
+"Take them from the secondary systems. Life support, communications, everything non-essential gets throttled. The jump only lasts three seconds. We can hold our breath that long."
+
+Dr. Lisa Zhang pulled up sensor designs. "Even if we preserve entanglement, the temporal variance means our measurements will be frame-dependent. We won't know if we're measuring Sarah's neural state in her timeframe or ours."
+
+"Then we measure both. Build redundant sensor arrays, each locked to different temporal reference frames. Compare the results post-jump."
+
+"That's never been attempted."
+
+"Everything we're doing has never been attempted." Kenji pulled up the fabrication timeline. "Hassan, you have twelve hours for the containment system. Lisa, you have eighteen for the sensor arrays. I'll handle integration and calibration."
+
+The team dispersed to their stations. Kenji settled into the familiar rhythm of impossible deadlines and improvised solutions.
+
+Aisha worked beside him, running neural simulations. "Even if we detect catastrophic desync, I'm not sure we can abort mid-jump. The bubble has to collapse naturally or we risk tearing the ship apart."
+
+"Then we use the data to prevent future jumps. Save the next pilot, if we can't save Sarah."
+
+"Cold comfort."
+
+"Better than none."
+
+They worked through the night. Coffee sustained them until coffee stopped working, then determination took over. The lab's lights never dimmed—time zones were meaningless when deadlines measured in hours.
+
+Hassan delivered the containment system with ninety minutes to spare. It was ugly, jury-rigged from three different experimental systems, but the coherence tests passed.
+
+Lisa's sensor arrays came online thirty minutes later. She looked exhausted and triumphant.
+
+"Quantum entanglement stable. Temporal reference frames calibrated. We're as ready as we're going to be."
+
+Kenji ran the integration tests. The monitoring system worked. Barely. They'd know if Sarah's brain fragmented during jump five.
+
+They just couldn't stop it from happening.
+
+Admiral Kowalski appeared on screen. "Status?"
+
+"Temporal monitoring operational. We'll have real-time data on neural coherence during FTL transition."
+
+"Good. Jump five proceeds at 0600 hours. Try not to break our only qualified pilot."
+
+The screen went dark.
+
+Aisha looked at Kenji. "We did everything we could."
+
+"It's not enough."
+
+"It never is. But maybe it's enough to keep Sarah alive. Or enough to learn from her death." She pulled up Chen's medical file. "She knows the risks. She's choosing this."
+
+"Doesn't make it right."
+
+"No. But it makes it hers."
+
+Kenji stared at the monitoring equipment. Elegant, powerful, revolutionary.
+
+And potentially useless if Sarah's consciousness shattered across incompatible timestreams.
+
+Six hours until jump five.
+
+Six hours to pray that human neurology was more resilient than physics suggested.
+
+Six hours to hope that bravery was worth the cost.
+
+The lab continued its work. Equations scrolled. Sensors calibrated. Coffee got colder.
+
+And somewhere in the facility, Sarah Chen prepared to step outside linear time.
+
+Again.
+
+For humanity. For knowledge. For the future.
+
+Kenji hoped the future would be grateful.
+
+He suspected it wouldn't care.
