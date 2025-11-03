@@ -61,11 +61,11 @@ Each line in `training.jsonl` is a complete training example:
 
 ### Message Roles Explained
 
-| Role | Purpose | Example |
-|------|---------|---------|
-| **system** | Defines the writing style/persona | "You are a science fiction author with..." |
-| **user** | The writing prompt | "Continue the scene with character dialogue..." |
-| **assistant** | Your actual chapter text (the "correct answer") | Full chapter excerpt showing your style |
+| Role            | Purpose | Example |
+|------           |---------|---------|
+| **system**      | Defines the writing style/persona | "You are a science fiction author with..." |
+| **user**        | The writing prompt | "Continue the scene with character dialogue..." |
+| **assistant**   | Your actual chapter text (the "correct answer") | Full chapter excerpt showing your style |
 
 ### How the Model Learns
 
