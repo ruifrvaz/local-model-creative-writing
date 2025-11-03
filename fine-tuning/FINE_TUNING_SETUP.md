@@ -50,12 +50,12 @@ python training/1_prepare_data.py --input data/raw/ --output data/processed/
 # 2. Train with QLoRA (memory efficient)
 ./training/2_train_lora.sh
 
-# 3. Merge adapter with base model
-python training/3_merge_adapter.py --checkpoint checkpoints/final/ --output merged_models/llama-3.1-8b-your-style
+# 3. Merge adapter with base model (auto-selects best checkpoint)
+python training/3_merge_adapter.py --auto
 
 # 4. Test with vLLM
 cd ..
-./serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-your-style" 8000 9 64000
+./serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-qlora-style-pipeline-test" 8000 9 64000
 
 # 5. Compare quality
 cd benchmarks

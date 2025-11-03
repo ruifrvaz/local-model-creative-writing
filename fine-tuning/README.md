@@ -30,10 +30,10 @@ python 1_voice_comparison.py --baseline --port 8000
 cd ../training
 ./2_train_lora.sh
 
-# 6. Merge adapter with base model
-python 3_merge_adapter.py \
-  --checkpoint ../checkpoints/qlora-style-run-1/checkpoint-XXX \
-  --output ../merged_models/llama-3.1-8b-your-style
+# 6. Merge adapter with base model (auto-selects best checkpoint)
+python 3_merge_adapter.py --auto
+# Or manually specify checkpoint:
+# python 3_merge_adapter.py --checkpoint ../checkpoints/qlora-style-pipeline-test/checkpoint-5
 
 # 7. Compare baseline vs fine-tuned
 cd ../benchmarks
@@ -67,8 +67,8 @@ fine-tuning/
 │   └── lora_style_transfer.yaml   # LoRA config (higher quality)
 ├── training/                      # Training workflow scripts
 │   ├── 1_prepare_data.py          # Convert text → JSONL
-│   ├── 2_train_lora.sh            # Training launcher (TODO)
-│   └── 3_merge_adapter.py         # Merge adapter → full model (TODO)
+│   ├── 2_train_lora.sh            # Training launcher
+│   └── 3_merge_adapter.py         # Merge adapter → full model
 ├── benchmarks/                    # Voice comparison tests
 │   ├── README.md                     # Benchmarking guide
 │   ├── 1_voice_comparison.py         # Pre/post style metrics (TODO)
