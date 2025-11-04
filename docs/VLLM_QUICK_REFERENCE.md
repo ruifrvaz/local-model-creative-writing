@@ -189,4 +189,3 @@ Server runs in foreground - see output directly
 
 **"FlashInfer not found"**
 → Check `echo $VLLM_ATTENTION_BACKEND` (should be FLASHINFER)
-
