@@ -4,53 +4,102 @@
 
 Measure style transfer effectiveness by comparing model output **before** and **after** fine-tuning. Tests whether the model successfully learned the target writing voice from training data.
 
-## Benchmark Structure
+## Benchmark Scripts
 
-### 1. Voice Comparison Test (`1_voice_comparison.py`)
+### 1. `1_voice_comparison.py` - Model Output Generation
+
+**Purpose:** Generate completions from models and extract style metrics
+
+**Modes:**
+- `--baseline --port 8000` - Generate from base model only
+- `--finetuned --port 8002` - Generate from fine-tuned model only
 
 **Measures:**
 - Vocabulary richness (unique words, word diversity)
 - Sentence structure (avg length, complexity, variation)
 - Stylistic markers (contractions, passive voice, dialogue ratio)
-- Tone consistency (technical vs creative language)
+- Technical term density
+
+**Output:** JSON files with completions and computed metrics
+- `results/baseline_TIMESTAMP.json`
+- `results/finetuned_TIMESTAMP.json`
+- `results/comparison_TIMESTAMP.json` (compare mode only)
+
+**Note:** Compare mode requires both models running simultaneously, which is not possible on RTX 5090 with FlashInfer's `max_seqs=9` requirement (both 8B models need ~32GB VRAM total).
+
+---
+
+### 2. `2_compare_with_training.py` - Ground Truth Comparison
+
+**Purpose:** Measure which model is closer to your actual writing style
 
 **Process:**
-1. Load test prompts (unseen during training)
-2. Generate completions from base model (port 8000)
-3. Generate completions from fine-tuned model (port 8002)
-4. Compare outputs using style metrics
-5. Calculate transfer score (0-100%)
-
-**Output:** JSON with side-by-side comparison, quantitative scores
-
-### 2. Style Consistency Test (`2_style_consistency.py`)
+1. Analyzes all training data files (87 files) to establish ground truth style metrics
+2. Loads existing baseline and fine-tuned result JSONs
+3. Compares both models to training data profile
+4. Calculates improvement scores
 
 **Measures:**
-- Consistency across multiple prompts
-- Adherence to training data style patterns
-- Deviation from base model behavior
+- Distance from training data for each metric category
+- Overall match score (0-100% per model)
+- Improvement: fine-tuned vs baseline
+- Category-specific improvements (lexical, sentence, style_markers, vocabulary)
+
+**Output:** JSON file with detailed comparison
+- `results/training_comparison_TIMESTAMP.json`
+
+**Usage:**
+```bash
+# Use latest results automatically
+python 2_compare_with_training.py --latest
+
+# Or specify files explicitly
+python 2_compare_with_training.py results/baseline_TIMESTAMP.json results/finetuned_TIMESTAMP.json
+```
+
+**This is the correct approach** - measures actual improvement toward your writing style, not arbitrary differences between models.
+
+---
+
+### 3. `3_blind_evaluation.py` - Human Quality Assessment
+
+**Purpose:** Subjective evaluation to feel the quality difference between models
 
 **Process:**
-1. Generate 10 completions per model
-2. Measure intra-model variance (consistency)
-3. Compare against training data baseline
-4. Identify which style elements transferred successfully
+1. Generates side-by-side comparisons from existing result JSONs
+2. Randomizes output order (A/B labels shuffled)
+3. Creates markdown file for human evaluation
+4. Reveals which model produced which output after review
 
-**Output:** JSON with variance metrics, transferability ranking
+**Why this matters:**
+- Metrics measure style similarity, but not **quality** or **naturalness**
+- Human evaluation catches issues metrics miss (awkward phrasing, unnatural flow)
+- Validates that style transfer improved writing, not just changed it
 
-### 3. Blind Evaluation Test (`3_blind_evaluation.py`)
+**Output:** Interactive markdown evaluation form
+- `results/blind_evaluation_TIMESTAMP.md`
 
-**Measures:**
-- Human-readable comparison (for manual review)
-- Side-by-side outputs without labels
+**Usage:**
+```bash
+# Generate blind evaluation from latest results
+python 3_blind_evaluation.py --latest
 
-**Process:**
-1. Generate paired completions (base vs fine-tuned)
-2. Randomize order (A/B testing format)
-3. Output markdown for human evaluation
-4. Optional: Track manual preference scores
+# Or specify result files
+python 3_blind_evaluation.py results/baseline_20251107.json results/finetuned_20251107.json
+```
 
-**Output:** Markdown file with randomized pairs
+**Evaluation workflow:**
+1. Script generates markdown with pairs of outputs (A/B)
+2. You read both outputs and note which feels better
+3. Mark your preference: A, B, or no preference
+4. Scroll to bottom to reveal which was baseline/fine-tuned
+5. Calculate win rate: fine-tuned wins / total comparisons
+
+**Target:** Fine-tuned should win >60% of blind comparisons for deployment
+
+**Status:** TODO - Implementation planned
+
+---
 
 ## Test Prompts
 
@@ -114,39 +163,75 @@ transfer_score = weighted_average([
 
 ## Workflow
 
-### Before Fine-Tuning
+### Step 1: Generate Baseline (Before Fine-Tuning)
 ```bash
-# 1. Start base model
+# Start base model
+cd ~/scifi-llm
 ./serve_vllm.sh "meta-llama/Llama-3.1-8B-Instruct"
 
-# 2. Generate baseline
+# Generate baseline completions
 cd fine-tuning/benchmarks
+source ~/.venvs/finetune/bin/activate
 python 1_voice_comparison.py --baseline --port 8000
 
 # Results saved to: results/baseline_TIMESTAMP.json
 ```
 
-### After Fine-Tuning
+### Step 2: Train Model
 ```bash
-# 1. Start fine-tuned model on alternate port
-./serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-user-style" 8002
-
-# 2. Generate comparison (both models running)
-cd fine-tuning/benchmarks
-python 1_voice_comparison.py \
-  --baseline-port 8000 \
-  --finetuned-port 8002 \
-  --compare
-
-# Results saved to: results/comparison_TIMESTAMP.json
-
-# 3. Optional: Blind evaluation
-python 3_blind_evaluation.py \
-  --baseline-port 8000 \
-  --finetuned-port 8002
-
-# Results saved to: results/blind_eval_TIMESTAMP.md
+cd ~/scifi-llm/fine-tuning/training
+source ~/.venvs/finetune/bin/activate
+./2_train_lora.sh
+python 3_merge_adapter.py --auto
 ```
+
+### Step 3: Generate Fine-Tuned Completions
+```bash
+# Stop base model, start fine-tuned model
+cd ~/scifi-llm
+./stop_vllm.sh
+./serve_vllm.sh "fine-tuning/merged_models/llama-3.1-8b-qlora-style-pipeline-test" 8002
+
+# Generate fine-tuned completions
+cd fine-tuning/benchmarks
+source ~/.venvs/finetune/bin/activate
+python 1_voice_comparison.py --finetuned --port 8002
+
+# Results saved to: results/finetuned_TIMESTAMP.json
+```
+
+### Step 4: Compare Against Training Data
+```bash
+cd ~/scifi-llm/fine-tuning/benchmarks
+source ~/.venvs/finetune/bin/activate
+python 2_compare_with_training.py --latest
+
+# Results saved to: results/training_comparison_TIMESTAMP.json
+```
+
+**Interpretation:**
+- Overall match >60%: Strong style transfer, ready for deployment
+- Overall match 40-60%: Moderate transfer, consider more training data
+- Overall match <40%: Minimal transfer, review training data quality
+- Improvement >10%: Fine-tuning effective
+- Improvement 5-10%: Moderate improvement
+- Improvement <5%: Limited benefit from fine-tuning
+
+### Step 5: Blind Evaluation (Optional but Recommended)
+```bash
+cd ~/scifi-llm/fine-tuning/benchmarks
+source ~/.venvs/finetune/bin/activate
+python 3_blind_evaluation.py --latest
+
+# Open results/blind_evaluation_TIMESTAMP.md
+# Read outputs, mark preferences, reveal at bottom
+```
+
+**Why do this:**
+- Metrics don't capture subjective quality
+- You'll immediately feel if fine-tuning improved naturalness
+- Catches issues like awkward phrasing that metrics miss
+- Target: Fine-tuned wins >60% of comparisons
 
 ## Output Format
 
@@ -221,7 +306,10 @@ Output B: baseline
 - `textstat` - Readability metrics
 - Standard library: `json`, `argparse`, `datetime`
 
-**Install:**
+**Installation:**
+Dependencies are installed automatically by `fine-tuning/setup/3_install_training_stack.sh`.
+
+To install manually if needed:
 ```bash
 source ~/.venvs/finetune/bin/activate
 pip install openai nltk textstat
@@ -232,20 +320,32 @@ python -m nltk.downloader punkt averaged_perceptron_tagger
 
 ```
 fine-tuning/benchmarks/
-├── README.md                    # This file
-├── 1_voice_comparison.py        # Main comparison benchmark (TODO)
-├── 2_style_consistency.py       # Variance analysis (TODO)
-├── 3_blind_evaluation.py        # Human evaluation format (TODO)
-├── test_prompts.json            # Standard test set (TODO)
-├── results/                     # Auto-generated outputs
+├── README.md                      # This file
+├── 1_voice_comparison.py          # Generate completions + metrics ✓ IMPLEMENTED
+├── 2_compare_with_training.py     # Compare to training data ground truth ✓ IMPLEMENTED
+├── 3_blind_evaluation.py          # Human quality assessment ⏳ TODO
+├── test_prompts.json              # Standard test set (12 prompts) ✓ READY
+├── results/                       # Auto-generated outputs
 │   ├── baseline_TIMESTAMP.json
-│   ├── comparison_TIMESTAMP.json
-│   └── blind_eval_TIMESTAMP.md
-└── utils/                       # Shared analysis functions (TODO)
+│   ├── finetuned_TIMESTAMP.json
+│   ├── training_comparison_TIMESTAMP.json  # From 2_compare_with_training.py
+│   └── blind_evaluation_TIMESTAMP.md       # From 3_blind_evaluation.py
+└── utils/                         # Shared analysis functions ✓ IMPLEMENTED
     ├── __init__.py
-    ├── style_metrics.py         # Vocabulary, structure analysis
-    └── comparison.py            # Score calculation
+    ├── style_metrics.py           # Extract vocabulary, structure, style metrics
+    └── comparison.py              # Calculate similarity scores
 ```
+
+## Completion Behavior
+
+**Note on `finish_reason`:**
+- `length`: Hit max_tokens limit (200) - **Normal for creative writing**
+- `stop`: Natural completion (model found stopping point)
+- High `length` ratio is expected for narrative prompts - not an error
+
+**Target metrics:**
+- Transfer score: >60% for production deployment
+- Category scores: Should show improvement in style_markers and sentence structure
 
 ## Notes
 

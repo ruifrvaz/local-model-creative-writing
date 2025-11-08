@@ -133,6 +133,16 @@ pip install \
 echo "[OK] Utilities installed"
 echo ""
 
+# Install benchmarking dependencies
+echo "[INSTALL] Installing benchmarking dependencies..."
+pip install \
+  "openai" \
+  "textstat"
+# Download NLTK data for style analysis
+python -m nltk.downloader punkt averaged_perceptron_tagger
+echo "[OK] Benchmarking dependencies installed"
+echo ""
+
 # Print versions for verification
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "Installed Package Versions"
