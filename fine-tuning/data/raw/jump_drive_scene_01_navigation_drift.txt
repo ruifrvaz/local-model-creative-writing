@@ -1,0 +1,129 @@
+Dr. Kenji Yamamoto stared at the navigation plots and tried to ignore the headache building behind his eyes. Four test jumps. Four different drift patterns.
+
+"Show me the overlay."
+
+His assistant, Dr. Aisha Mbara, pulled up the comparative analysis. The expected trajectories appeared in blue. Actual arrival coordinates in red. The divergence was getting worse.
+
+"Jump one deviated by three hundred kilometers. Jump four by eighteen hundred." Aisha highlighted the acceleration curve. "The drift is exponential."
+
+Kenji pulled up the Alcubierre field equations. The math was elegant—compress spacetime ahead of the ship, expand it behind, surf the resulting wave at faster-than-light velocities. Simple in theory. Catastrophically complex in practice.
+
+"What's the bubble integrity during transition?"
+
+"Stable until emergence. Then we get these fluctuations." Aisha showed the sensor logs. "The field collapses asymmetrically. Instead of releasing the ship at the calculated coordinates, it's creating lateral momentum we can't account for."
+
+"Lateral momentum shouldn't exist in a symmetric collapse."
+
+"Tell that to physics."
+
+Kenji ran the simulation again. Perfect field generation, perfect bubble maintenance, perfect collapse geometry. The model predicted arrival within ten meters of the target coordinates.
+
+Reality disagreed by eighteen hundred kilometers.
+
+Admiral Kowalski's face appeared on his terminal. "Dr. Yamamoto, I need a status update."
+
+"Navigation drift is increasing with each jump. We're trying to isolate the cause."
+
+"Trying isn't acceptable. Fleet Command expects operational FTL capability in six months. Right now, your drive can't hit a target the size of Jupiter."
+
+"The physics is more complicated than we anticipated."
+
+"Then uncomplicate it." Kowalski's expression hardened. "We have twenty billion credits invested in this project. Multiple nations waiting for results. If we can't deliver accurate navigation, the entire program gets scrapped."
+
+The connection cut before Kenji could respond.
+
+Aisha was shaking her head. "He doesn't understand. We're literally bending spacetime. The fact that we can jump at all is miraculous."
+
+"Miracles don't win defense contracts." Kenji pulled up the field generator specs. "There has to be something we're missing. A variable that's too small to measure directly but large enough to compound over the jump duration."
+
+"What about quantum fluctuations in the bubble surface?"
+
+"We're already accounting for those."
+
+"Local gravitational variations?"
+
+"Compensated in real-time by the navigation computer."
+
+They worked in silence for an hour, running scenarios, testing hypotheses, watching each elegant theory crumble against the reality of eighteen-hundred-kilometer drift.
+
+Lieutenant Sarah Chen entered the lab carrying coffee and concern. "Heard Kowalski was on your case."
+
+"Standard motivational technique. Threaten to cancel the project, hope we work faster." Kenji accepted the coffee gratefully. "How are you feeling after jump four?"
+
+Sarah's expression flickered—something between exhaustion and unease. "Physiologically normal. Dr. Mbara's tests came back clean."
+
+"But?"
+
+"But it feels wrong. Like I'm slightly out of phase with reality for hours after emergence." She pulled up her personal logs. "Time perception anomalies. I think three minutes have passed when it's actually been ten. Or vice versa."
+
+Aisha was suddenly alert. "That's new. You didn't report this after jumps one through three."
+
+"It wasn't this pronounced before." Sarah sat down, rubbing her temples. "Each jump makes it worse. It's like part of my brain is still traveling at FTL even though my body stopped."
+
+Kenji felt something click in his mind. "Show me the temporal dilation calculations."
+
+"We're below the threshold for relativistic effects."
+
+"Show me anyway."
+
+The numbers appeared. Time dilation during jump: negligible. Time dilation during bubble collapse: still negligible. Time dilation during—
+
+There. A fraction of a second of temporal distortion during the field's asymmetric collapse. Tiny. Unmeasurable by conventional sensors.
+
+But compounding.
+
+"The drift isn't spatial," Kenji said slowly. "It's temporal. The ship isn't arriving at the wrong place—it's arriving at the wrong time. Microseconds late, which translates to kilometer-scale position errors because we're still moving at relativistic velocity during collapse."
+
+Aisha pulled up the sensor logs again. "That would explain the asymmetric field collapse. We're not seeing spatial distortion, we're seeing causality violation. The back of the ship is arriving before the front."
+
+"Which is impossible."
+
+"We're traveling faster than light. Everything we're doing is impossible." She ran the calculations. "If you're right, this changes everything. We're not fighting navigation errors, we're fighting entropy."
+
+Sarah was very still. "What does this mean for the test pilots?"
+
+Kenji looked at her medical data. Cellular aging was normal. Neural function was normal. But if the temporal distortion was real, parts of her were experiencing time at different rates during each jump.
+
+"It means we need to run extensive temporal monitoring. And it means no more test jumps until we understand what's happening to your neural tissue."
+
+"Admiral Kowalski won't accept that."
+
+"Admiral Kowalski isn't the one whose neurons are potentially desyncing across multiple timestreams." Kenji pulled up the communication protocols. "I'm recommending a full mission pause until we can implement temporal shielding."
+
+"There is no temporal shielding. We don't even know if it's possible."
+
+"Then we invent it. Because I'm not sending you through another jump until I'm certain it won't scramble your brain at the quantum level."
+
+Sarah met his eyes. Military discipline warred with human fear. "How long?"
+
+"Weeks. Maybe months."
+
+"The program will be cancelled."
+
+"Better cancelled than killing our test pilots with temporal paradoxes."
+
+Aisha was already pulling up theoretical models for temporal field containment. "If we can contain the crew compartment in a stable timeframe during bubble collapse, that might prevent the desync. But the power requirements would be enormous."
+
+"We have enormous power. We're generating Alcubierre fields." Kenji started sketching designs. "The question is whether we can generate a temporal reference frame that stays locked during FTL transition."
+
+The lab settled into focused work. Equations covered three display screens. Coffee went cold. Hours passed unmarked.
+
+Sarah watched them work and felt her perception slide. The clock said twenty minutes. Her brain said two hours.
+
+She closed her eyes and tried not to think about what it meant when your own sense of time became untrustworthy. When the fundamental experience of causality—action followed by consequence, present becoming future—started breaking down.
+
+FTL travel was humanity's dream. The key to the stars. The path to unlimited expansion.
+
+But maybe the universe had rules about faster-than-light travel for good reasons.
+
+Maybe some doors weren't meant to be opened.
+
+Or maybe they just needed better locks.
+
+Kenji looked up from his calculations. "We're going to solve this."
+
+Sarah wanted to believe him. But part of her brain—the part that was still somewhere in transition space, caught between departure and arrival—wasn't so sure.
+
+Time would tell.
+
+If time could still be trusted.
