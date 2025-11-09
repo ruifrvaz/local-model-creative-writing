@@ -1,0 +1,159 @@
+The alarm woke Malik at 0300 ship time. Not the general alert—just the engineering priority notification. He pulled on his uniform while Sofia mumbled something about getting sleep.
+
+"Hull breach. Section seven-delta. I have to go."
+
+She was already drifting back to sleep. Six months pregnant now, exhausted from growing their daughter. Malik kissed her forehead and headed to the emergency.
+
+The corridor lights were dimmed for night cycle. Only essential systems active, the ship running on minimal power to conserve resources. The vote had been three months ago. They were fully committed to reaching Tau Ceti now, which meant every resource mattered.
+
+Engineering bay was chaos when Malik arrived. Screens showing damage assessments, pressure readings, structural integrity warnings. Chief Engineer Rodriguez was already coordinating the response team.
+
+"Status," Malik demanded.
+
+"Micrometeorite impact. Penetrated the outer hull in section seven-delta, compartment forty-two. We've sealed the section but we're venting atmosphere."
+
+Malik pulled up the schematics. Section seven-delta was residential quarters. Forty-two families lived in that area. "Casualties?"
+
+"Unknown. We sealed it automatically when the breach was detected. Anyone who was in compartment forty-two..." Rodriguez didn't finish. They both knew what happened to unprotected humans in vacuum.
+
+"Get me a rescue team. Full EVA gear. We go in through the access corridor, assess damage, extract any survivors."
+
+"The section's depressurized. Survival time at vacuum exposure—"
+
+"I know the numbers. Get me the team."
+
+Ten minutes later, Malik was suited up and leading four engineers through the access corridor. The sealed bulkhead ahead showed red warning indicators. Pressure differential, radiation exposure risk, structural instability.
+
+"Helmets sealed. Confirm suit integrity." Malik ran through the checklist mechanically. His training had prepared him for this, even if his emotions hadn't.
+
+Four confirmations. The team was ready.
+
+Malik initiated the bulkhead release. The corridor beyond was dark, emergency lighting only. And cold. The temperature had already dropped to minus forty Celsius.
+
+They moved through the compromised section methodically. Compartment thirty-eight—intact but depressurized. Thirty-nine—same. Forty—showing stress fractures but holding.
+
+Forty-one was where things got bad.
+
+The wall separating it from forty-two had buckled. Malik could see through the gap into the destroyed compartment. The micrometeorite had punched through the outer hull, through two interior walls, and embedded itself in the far bulkhead. The trajectory had been catastrophically precise.
+
+"I have a body," one of the engineers reported. "Male, approximately forty years old. Deceased."
+
+Malik moved to confirm. The victim was Chen Tao, a hydroponics specialist. Malik had shared meals with him last week. They'd discussed the referendum, their hopes for the future, their concerns about raising children on a deteriorating ship.
+
+Now Chen Tao was dead. Killed by a rock the size of a fist, traveling at twenty kilometers per second.
+
+"Keep searching. There might be others."
+
+They found two more. A couple in their thirties, both in their sleeping compartment when the breach occurred. The explosive decompression had been instant. They probably never knew what happened.
+
+Three deaths. Random, senseless, unavoidable.
+
+"We need to patch this section and re-pressurize," Malik said. "I want structural assessment of all adjacent compartments. If this impact weakened the surrounding hull, we could have more breaches."
+
+The repair work took six hours. Welding hull patches, reinforcing bulkheads, replacing damaged environmental systems. By the time they finished, ship time was 0900 and the crew was waking to the news.
+
+Three dead. Forty-two families displaced. Section seven-delta red-tagged for extensive repairs.
+
+Malik stripped out of his EVA suit in the engineering bay locker room. His hands were shaking. Adrenaline crash, probably. Or just the accumulated weight of being responsible for keeping three thousand people alive in a metal tube traveling through space at a fraction of light speed.
+
+Captain Reyes was waiting when he emerged. Her expression was grim.
+
+"The families of the deceased have been notified. Medical has the bodies. We'll hold services tomorrow during third shift."
+
+Malik nodded. Standard protocol. Deaths on the ship were rare but not unknown. Medical emergencies, accidents, occasionally suicide. This was the first time in fifteen years they'd lost crew to external impact.
+
+"How many micrometeorite strikes have we had?" Reyes asked.
+
+"Detected impacts? Forty-seven over the past two hundred years. Most hit the forward shielding or glanced off the hull. This is the first one to penetrate to a residential section."
+
+"The original mission planners said the shielding would protect us."
+
+"It does. Ninety-nine percent of the time." Malik pulled up the impact analysis. "This one came from an oblique angle, hit a seam between armor plates. Unlucky trajectory, unlucky timing, unlucky location."
+
+"We can't afford unlucky anymore. Not with two hundred years still ahead of us."
+
+Malik sat heavily in his chair. "We can't afford to stop traveling through space either. Micrometeorite impacts are a statistical certainty over long enough timelines. We can minimize risk, improve shielding, but we can't eliminate it."
+
+Reyes was silent for a moment. Then: "The vote was three months ago. Forty-nine votes decided that we continue this mission. Three people are dead because of that choice."
+
+"Three people would be dead on HD 85512 too. Different causes, same result. Humans are fragile. Space is hostile. That doesn't change regardless of destination."
+
+"It changes the timeline. Ninety years versus two hundred. Fewer opportunities for random catastrophe."
+
+Malik understood what she wasn't saying. Reyes had voted for diversion. She'd lost by forty-nine votes. Now she was watching people die on the mission she'd opposed.
+
+"You're thinking about calling another referendum," Malik said.
+
+"I'm thinking we made a mistake. I'm thinking three deaths is evidence that our systems aren't capable of sustaining us for two more centuries."
+
+"Three deaths is a tragedy. But it's not evidence of systemic failure." Malik pulled up the mortality statistics. "We lose approximately twelve crew members per year to various causes. Over two hundred years, that's expected mortality of twenty-four hundred people. The mission planners accounted for that. We maintain population through births, maintain systems through constant repair. This is how generational missions work."
+
+"That's cold, Malik."
+
+"That's reality. People die. We mourn them. We continue. If we let every death derail the mission, we'd never accomplish anything."
+
+Reyes stood, paced the small office. "Forty-seven people came to me yesterday asking to change their referendum vote. They want to reconsider diversion to HD 85512."
+
+"Forty-seven isn't enough to change the outcome."
+
+"No. But it's a start. If enough people lose faith in the mission, the social cohesion that makes this ship function will collapse."
+
+Malik considered. She was right. The ship functioned because people believed in it. Believed the mission mattered, the destination was achievable, the sacrifice was worthwhile. Erode that belief and everything fell apart.
+
+"So what do you want to do?"
+
+"I want to prevent more deaths. I want to find a way to improve our odds. I want—" She stopped. "I want to have made the right choice. But I don't know if we did."
+
+"Neither do I." Malik pulled up the structural analysis he'd been updating since the vote. "But we chose. Democratically, with full information. Now we make it work."
+
+"How?"
+
+"We reinforce the vulnerable sections. We improve our micrometeorite detection and avoidance. We accelerate the maintenance schedule for critical systems. We do what we've always done—adapt, improvise, persist."
+
+Reyes stared at the schematics. The ship laid bare in technical diagrams. Every section, every system, every vulnerability exposed.
+
+"Chen Tao's daughter came to see me this morning," she said quietly. "She's sixteen. She asked me if her father died for nothing."
+
+Malik felt the words hit like physical impacts. "What did you tell her?"
+
+"I told her he died because space is dangerous and we're doing something that's never been attempted before. I told her his death mattered because it teaches us how to protect others. I told her—" Reyes' voice wavered. "I told her the mission was worth the cost."
+
+"Do you believe that?"
+
+"I have to. I'm the captain. If I lose faith, everyone does."
+
+Malik understood. Leadership was carrying conviction even when certainty was absent. Making people believe the impossible could be achieved through will and work and sacrifice.
+
+"We'll hold the memorial service tomorrow," Reyes continued. "We'll honor the dead. We'll reinforce the vulnerable sections. We'll continue the mission." She met Malik's eyes. "And we'll pray we don't lose anyone else."
+
+"We will lose others. That's statistical certainty."
+
+"Then we'll make sure their deaths count for something. That they're not just random casualties but part of a larger purpose."
+
+After Reyes left, Malik sat alone in the engineering office. He pulled up the family database, looked at Chen Tao's file. Wife, two daughters, one son. All born on the ship. All committed to the mission now.
+
+He thought about Sofia, pregnant with their daughter. What would he tell his child if Sofia died randomly, killed by forces beyond anyone's control?
+
+The mission is worth it. The destination matters. Your mother's sacrifice had meaning.
+
+Would his daughter believe him? Would he believe himself?
+
+His tablet chimed. Message from Sofia.
+
+*Are you okay? Heard about the breach. I love you.*
+
+Malik typed back. *I love you too. Coming home soon. Wake our daughter up and tell her daddy's safe.*
+
+He stared at the message. Their daughter, still months from birth, already inheriting a mission she hadn't chosen. Already at risk from dangers she couldn't comprehend.
+
+But also inheriting purpose. Community. The knowledge that she was part of something larger than herself.
+
+Malik stood, powered down his workstation, headed home to his wife and unborn child.
+
+Three people had died today. Three thousand continued living.
+
+The mission persisted.
+
+It had to.
+
+Because what else did they have except the belief that the journey mattered?
