@@ -1,0 +1,235 @@
+The public announcement went out at 0800 hours. Conference room four, enhanced security protocols, negotiations resuming at 0930.
+
+Lena watched the station's communication network light up with activity. News feeds, diplomatic channels, encrypted messages bouncing between Earth and Mars.
+
+And one transmission that caught her attention. Burst signal from Unity Station to Freeport Mining Consortium relay. Encrypted, brief, but with data signature that matched previous saboteur communications.
+
+"Got them," she said quietly.
+
+Marcus traced the signal's origin. "Transmitted from section four. Coalition quarters."
+
+"Narrow it down. Which specific location?"
+
+"Working on it. Signal was routed through station systems to obscure origin point." Marcus ran analysis algorithms. "Best estimate: technical equipment room adjacent to Coalition delegation quarters."
+
+"That's shared access area. Multiple people have authorization." Lena pulled up access logs. "Who entered that room in the last thirty minutes?"
+
+"Coalition personnel: Dr. Yuki Tanaka, entered at 0742 hours. Departed at 0751 hours."
+
+"Tanaka. Coalition's science advisor." Lena reviewed her file. "Background in communications systems, technical expertise that would enable encrypted transmissions."
+
+"She's also been peripheral to all security incidents," Marcus highlighted the pattern. "Present during David Park's initial panic attack. Observed during conference room security sweeps. Adjacent to areas where sabotage devices were positioned."
+
+"Present but not central. Perfect profile for someone avoiding suspicion while maintaining operational awareness." Lena pulled up Tanaka's communication history. "Has she transmitted anything else unusual?"
+
+"Three encrypted messages in last forty-eight hours. All using Coalition protocols, all to official Earth destinations."
+
+"Or appearing to use Coalition protocols while actually routing to saboteur handlers." Lena activated security protocols. "I want surveillance on Tanaka. Full monitoring, all movements tracked."
+
+Kim appeared on comm. "Chief Volkov, what's the status on room four preparation?"
+
+"Public preparation is proceeding as announced. We've positioned security teams and monitoring equipment to create appearance of enhanced facility." Lena switched to deception operation display. "If saboteur monitors our movements, they'll see exactly what we want them to see."
+
+"And room nine?"
+
+"Actual security is three times what we're showing in room four. Delegations will enter through alternate corridor to avoid obvious concentration in single location." Lena highlighted the tactical plan. "We're ready."
+
+"Good. Coalition delegation is preparing to move shortly."
+
+After Kim disconnected, Lena pulled Rafael into private channel.
+
+"Mars security, I have potential suspect. Dr. Yuki Tanaka, Coalition science advisor. Transmitted signal to known saboteur relay immediately after announcement about room four."
+
+Rafael's image showed controlled reaction. "Evidence strength?"
+
+"Circumstantial but consistent. She has technical skills, opportunity, and behavior pattern matching intelligence operative." Lena shared the analysis. "Recommend enhanced monitoring but no confrontation until we can establish definitive proof."
+
+"Agreed. Mars security will track her movements during transit to negotiations."
+
+Lena coordinated her teams for the deception. Coalition and Mars delegations would move openly toward conference room four, making show of enhanced security and careful positioning. Then, at last moment, redirect to room nine through maintenance corridors.
+
+Anyone watching would see preparation for room four negotiations. Anyone positioned to attack room four would commit to wrong target.
+
+In theory.
+
+Lena pulled up real-time surveillance. Both delegations assembling in their quarters. Security teams in tactical formation. Everything proceeding according to plan.
+
+Dr. Tanaka was with Coalition group, tablet in hand, expression professionally neutral. She moved with the casual confidence of someone whose role was analysis rather than security.
+
+Perfect cover for intelligence operative.
+
+"All teams, stand by," Lena transmitted. "Delegation movement in five minutes."
+
+Coalition moved first. Director Kim led the group through main corridor toward section six. Security escort visible, weapons status elevated, everything designed to look like high-security transit to room four.
+
+Tanaka was in the middle of the formation, protected but monitored.
+
+Mars delegation followed three minutes later. Osei's security team maintained different formation—more dispersed, overlapping coverage, military precision.
+
+Both groups converged on corridor leading to conference room four. The public nature of their movement was deliberate—anyone monitoring station would see exactly where they were going.
+
+"Security teams, execute redirect in thirty seconds," Lena transmitted on encrypted channel.
+
+At the intersection before conference room four, both delegations suddenly diverted. Coalition team turned left into maintenance access. Mars team went right through service corridor.
+
+The maneuver was smooth, practiced, coordinated between previously hostile security teams with efficiency that surprised Lena.
+
+Crisis was breeding cooperation.
+
+Both groups reached conference room nine through separate routes within two minutes. Security sweep confirmed room was clean. Monitoring systems showed no unauthorized devices.
+
+Negotiations could proceed.
+
+Lena maintained surveillance on conference room four. If saboteur had positioned attack there, they'd likely activate it during scheduled negotiation time to create maximum impact.
+
+Nothing unusual appeared. Standard security presence, monitoring systems active, facility empty except for Lena's teams conducting obvious security sweeps.
+
+"Room four is static," Marcus reported. "No activity suggesting imminent attack."
+
+"Keep watching. If Tanaka transmitted location intelligence, saboteur might be positioning remotely triggered attack." Lena split her attention between room four surveillance and room nine monitoring.
+
+In room nine, negotiations were beginning. Chen outlined today's agenda—mutual verification frameworks, trust-building mechanisms, concrete proposals for reducing military tensions.
+
+Both delegations engaged more constructively than yesterday. Shared threat was apparently motivating cooperation that diplomatic pressure hadn't achieved.
+
+Lena wondered if the saboteur had accidentally created the conditions for successful negotiations by making both sides recognize common enemy.
+
+Her terminal chimed. New signal transmission from Unity Station. Same encryption signature, same destination.
+
+"Source?" she asked Marcus.
+
+"Section six. Conference room four vicinity."
+
+Lena felt adrenaline spike. "Someone's in room four."
+
+She pulled up surveillance feeds. Empty conference room. Security teams in corridor. No visible personnel inside the facility.
+
+But thermal imaging showed heat signature in ventilation shaft above the room.
+
+"Security teams, room four, possible hostile in ventilation system. Approach with caution."
+
+Her teams moved into tactical formation. Rafael's voice came through: "Mars security deploying to support. Two minutes to position."
+
+"Negative. Mars maintains protection on delegation. This is station security operation." Lena grabbed her sidearm and moved toward section six. "All personnel, treat this as potentially armed hostile encounter."
+
+She reached room four as her teams established perimeter. The ventilation access was sealed, but thermal imaging still showed heat signature.
+
+"Station security," she called out. "Exit the ventilation system. Hands visible. Comply immediately."
+
+No response. The heat signature shifted position, moving deeper into the duct work.
+
+"Marcus, seal all ventilation exits from section six. I want that person trapped."
+
+Emergency shutters closed on ventilation outlets throughout the section. The heat signature stopped moving—nowhere left to go.
+
+Lena climbed into the ductwork with two officers backing her. The confined space was dark, cold, claustrophobic. Her weapon light provided narrow illumination.
+
+She found the saboteur thirty meters into the system. Not Dr. Tanaka.
+
+Station technician Luis Vargas. Engineering staff, five years service, unremarkable record.
+
+Completely unexpected.
+
+"Vargas, you're trapped. Exit the duct system now."
+
+He turned toward her, hands empty but expression desperate. "I didn't have choice. They have my son."
+
+"Who has your son?"
+
+"I don't know their names. They contacted me six months ago. Showed me surveillance of my kid. Said I cooperate or he dies."
+
+Lena kept her weapon trained on him. "What were you doing in the ventilation system?"
+
+"Positioning device. Supposed to activate during negotiations in room four." Vargas gestured behind him. "Remote trigger. They gave me equipment and instructions."
+
+"Show me the device. Slowly."
+
+Vargas carefully retrieved a compact unit from his maintenance bag. Similar design to the EMP weapons found in room seven but different function.
+
+"What does it do?" Lena asked.
+
+"Releases nerve gas into conference room. Activates when target number of people are present." Vargas looked sick. "I tried to disable it. Tried to sabotage the mechanism. But it has tamper detection. If I break it, it activates immediately."
+
+Lena examined the device without touching it. Sophisticated construction, military-grade components, timer showing activation in ten minutes.
+
+Exactly when negotiations would be at critical discussion phase if they'd been held in room four.
+
+"Marcus, I need bomb disposal expertise in section six ventilation. We have chemical weapon with tamper protection and active timer."
+
+"Dispatching team. ETA four minutes."
+
+Lena kept Vargas covered while her officers secured the area. "Who gave you the device?"
+
+"Don't know. All communication was encrypted messages. Equipment was delivered to dead drop location in station cargo bay." Vargas pulled up his comm log. "I have the messages. All the instructions. But I never met anyone in person."
+
+"Same pattern as other recruits." Lena forwarded the data to Marcus. "Compartmentalized operation, coerced operatives, anonymous handlers."
+
+The bomb disposal team arrived and began careful analysis of the device. Their assessment was grim.
+
+"This is designed to kill. Nerve agent deployment with backup detonation if tampered with." The senior tech examined the timer. "We can disarm it, but it'll take precision work. Need fifteen minutes minimum."
+
+"Timer shows ten minutes," Lena said.
+
+"Then we evacuate section six and let it detonate in sealed environment." The tech looked at Vargas. "Did you position any other devices?"
+
+"No. Just this one. They said room four, one device, timed activation."
+
+Lena made decision. "Evacuate section six. Seal all ventilation connections. Let device detonate in isolation."
+
+Her teams moved efficiently. Vargas was detained and removed. Bomb disposal extracted themselves from the ductwork. Emergency shutters sealed section six from rest of station.
+
+Seven minutes remaining on timer.
+
+Lena monitored from security office. Section six was empty, sealed, ready to contain whatever the device released.
+
+"Kwame, negotiations need to continue uninterrupted," she said. "If delegations know there's active chemical weapon aboard station, they'll panic."
+
+"Understood. We'll maintain information security until device is neutralized."
+
+The timer counted down. Five minutes. Three. One.
+
+Detonation.
+
+The device released its contents into conference room four's ventilation system. Atmospheric monitors detected agent immediately—military-grade nerve toxin, lethal concentration.
+
+If negotiations had been held in room four, everyone would be dead within ninety seconds.
+
+Lena watched the containment systems work. Scrubbers activated, neutralizing agents deployed, contamination locked to single section.
+
+"Section six is contained," Marcus reported. "No spread to other areas. We can begin decontamination procedures."
+
+Lena pulled up Vargas's communication logs. The messages detailed precise timing, specific equipment, exact positioning. Professional operation with careful planning.
+
+But Vargas wasn't the lead operative. He was another coerced tool, same as Connor Park and Lisa Cho.
+
+The actual saboteur was still unidentified.
+
+And Dr. Yuki Tanaka's signal transmission had been perfectly timed to coordinate Vargas's device activation with the original room four schedule.
+
+Lena activated secure comm to Chen. "Ambassador, we found another attack vector. Chemical weapon in room four, designed to activate during scheduled negotiations. Contained and neutralized. No casualties."
+
+"How many attack vectors have we prevented now?" Chen's voice was tired.
+
+"Three confirmed. EMP weapons, paralytic deployment, nerve gas." Lena pulled up the pattern analysis. "All positioned before delegations arrived. All with backup mechanisms. All coordinated to ensure maximum casualties."
+
+"And we still don't know who's running the operation."
+
+"I have strong suspect. Dr. Tanaka transmitted coordination signal immediately after room four announcement. Timeline matches perfectly with Vargas's preparation."
+
+"Tanaka's been participating in negotiations for two hours. If she's the saboteur, she's showing no signs of concern that her plan failed."
+
+"Professional operative wouldn't. She's waiting to see if backup attack succeeds." Lena pulled up Tanaka's real-time surveillance. "I want to detain and interrogate her."
+
+"Not yet. If we're wrong, we damage Coalition cooperation at critical moment." Chen paused. "And if we're right, tipping our hand might trigger her backup plan before we can prevent it."
+
+Lena understood the logic but hated the risk. "Then we monitor and wait for her to make mistake."
+
+"Monitor and wait," Chen confirmed. "And hope we identify the next attack before it succeeds."
+
+Lena returned to her surveillance feeds. Watching Dr. Tanaka participate calmly in negotiations while three attack vectors she'd potentially coordinated were neutralized around her.
+
+Either she was innocent and the timing was coincidence.
+
+Or she was the most dangerous person aboard Unity Station.
+
+And Lena had to figure out which before people died.

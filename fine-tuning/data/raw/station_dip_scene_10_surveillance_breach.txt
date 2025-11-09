@@ -1,0 +1,167 @@
+Chen called recess after four hours of negotiations. Both delegations retreated to separate areas, exhausted by the careful dance of concession and demand that constituted diplomatic progress.
+
+They'd achieved exactly nothing concrete.
+
+Coalition wanted verification mechanisms that Mars interpreted as continued surveillance. Mars wanted autonomy that Coalition saw as dangerous independence. Every proposal generated counterproposal that undermined the original intent.
+
+Textbook diplomatic gridlock.
+
+Chen reviewed his notes in a small office adjacent to conference room nine. Kwame sat across from him, looking as tired as Chen felt.
+
+"They're not here to negotiate," Kwame said. "They're here to be seen negotiating while positioning for inevitable conflict."
+
+"Mars delegation is more flexible than I expected. Commander Osei genuinely wants framework for coexistence." Chen highlighted sections of transcript. "But he's constrained by Mars government directives. Can't make concessions without approval from home."
+
+"And Coalition?"
+
+"Director Kim has authority to negotiate but seems personally convinced that colonial independence is existential threat to Earth's interests." Chen closed his tablet. "She'll make symbolic concessions but nothing substantive."
+
+"So we're wasting time."
+
+"We're creating record of attempted diplomacy before shooting starts." Chen stood, moving to the window that showed Unity Station's main habitat ring. "That matters. Provides moral framework for whatever comes next."
+
+His comm chirped. Lena's voice, urgent: "Ambassador, we have situation. Conference room nine, immediate."
+
+Chen and Kwame reached the room in under a minute. Lena stood by the conference table, pointing at something on the surface.
+
+A small device. Metallic, compact, attached to the underside of the table.
+
+"Explosive?" Chen asked.
+
+"No. Communication relay. Transmitting real-time audio to external receiver." Lena pulled up scanner data. "Active for approximately three hours. Someone planted it before negotiations started."
+
+"Which means someone heard everything discussed today." Kwame examined the device. "Both delegation positions, strategic assessments, every private comment made during breaks."
+
+Chen felt cold certainty settle in his stomach. "Coalition and Mars both made statements they wouldn't want the other side to hear. Tactical evaluations, assessment of opposing negotiators, candid discussions of leverage points."
+
+"All compromised." Lena deactivated the device. "Whoever planted this now has intelligence that could be used to undermine negotiations or orchestrate attacks on specific individuals."
+
+"Can you trace the receiver?"
+
+"Working on it. But the device uses encrypted burst transmission. Could be anywhere aboard Unity or on nearby vessel."
+
+Chen pulled up the day's negotiation timeline. "We need to determine what was said that might enable specific attacks."
+
+Kwame accessed conference room logs. "Multiple sensitive discussions. Coalition mentioned supply routes they're vulnerable on. Mars disclosed defensive installations that aren't public knowledge. Both sides identified personnel they consider critical to maintain operational effectiveness."
+
+"Shopping list for targeted strikes." Chen contacted both delegation security chiefs. "Rafael, Director Kim, I need you both in conference room nine. Immediately. Security matter."
+
+They arrived within three minutes, both reading the urgency correctly.
+
+"Someone planted surveillance device in negotiations room," Chen said without preamble. "Active for three hours. Everything discussed today was transmitted to unknown receiver."
+
+Rafael's expression went hard. "When did you discover it?"
+
+"Ten minutes ago. We've deactivated the device but can't guarantee the receiver didn't already download critical intelligence."
+
+Director Kim examined the device. "This is sophisticated. Military-grade encryption, compact design, designed for covert deployment."
+
+"Can either delegation identify the origin?" Kwame asked.
+
+Both security chiefs studied the device. Rafael shook his head. "Not Coalition standard. Similar design philosophy but different manufacturing signatures."
+
+"Not Mars either," Kim admitted. "The encryption protocol is unfamiliar."
+
+Chen felt the pattern crystallizing. "Third party. Someone using this situation to gather intelligence on both Earth and colonies."
+
+"Corporate interests?" Rafael suggested. "Private military contractors who benefit from continued conflict?"
+
+"Or foreign intelligence service from Earth nation that's not part of Coalition," Kim said. "Multiple parties could profit from Earth-Mars war."
+
+Lena pulled up station access logs. "Device was planted between 0700 and 0800 hours, during pre-negotiation security sweep. Whoever placed it had codes to access conference room during restricted period."
+
+"Station crew?" Kwame looked ill at the implications.
+
+"Or someone impersonating crew. We're reviewing surveillance now." Lena switched displays. "But the timing suggests professional operation. They knew exactly when security sweeps would create brief windows of unmonitored access."
+
+Chen considered the intelligence that had been compromised. Supply routes, defensive installations, personnel assessments. Enough information to cause serious damage if used correctly.
+
+"Both delegations need to implement emergency security protocols," he said. "Assume hostile parties know your vulnerabilities. Change routes, modify procedures, enhance protection for critical personnel."
+
+"That'll disrupt negotiations," Kim said. "Additional security measures will increase tension."
+
+"Negotiations are already compromised. Someone knows exactly what you're willing to concede and where you won't budge." Chen pulled up the transcript. "They can manipulate future discussions, undermine trust, escalate conflict at precise moments for maximum damage."
+
+Rafael activated his secure comm. "I'm ordering Mars delegation to enhanced protection status. No one moves without security escort."
+
+"Coalition will do the same." Kim looked at the surveillance device with expression suggesting personal offense. "Someone played us. Used negotiations as intelligence gathering operation."
+
+"Question is what they plan to do with that intelligence," Kwame said.
+
+Chen's tablet chimed. Message from Dr. Okonkwo: "Medical update—David Park is requesting to speak with you. Says it's urgent regarding sabotage threat."
+
+"Park's the Coalition intelligence analyst who collapsed?" Rafael asked.
+
+"Yes. He's been investigating sabotage from within Coalition delegation." Chen moved toward the door. "I should hear what he has to say."
+
+Park was sitting up in medical bay when Chen arrived. He looked exhausted but lucid.
+
+"Ambassador, I screwed up." Park's voice was hoarse. "I thought I was investigating saboteur within Coalition. But I was looking in wrong direction."
+
+"Explain."
+
+"The intelligence that prompted my investigation—warnings about potential sabotage—it came from external source claiming to be Coalition asset." Park pulled up files on his tablet. "I assumed it was genuine because it used correct authentication codes. But those codes could have been compromised."
+
+"You're saying someone fed Coalition false intelligence to create internal suspicion?"
+
+"Yes. Make us paranoid about our own delegation, distract from real threat." Park highlighted communication analysis. "The warnings were carefully crafted to seem credible while pointing investigation in wrong direction."
+
+Chen felt the complexity multiplying. "Who benefits from Coalition investigating itself while real saboteur operates freely?"
+
+"Anyone who wants both delegations paralyzed by mutual suspicion." Park looked at the surveillance device data Lena had forwarded. "The listening device fits pattern. It's not about choosing sides. It's about ensuring both sides fail."
+
+"Third party orchestration." Chen reviewed the evidence. "Someone using this situation to gather intelligence while preventing any successful negotiation."
+
+"And probably planning to use the compromised information to trigger conflict at optimal moment." Park pulled up tactical analysis. "With knowledge of both sides' vulnerabilities, a skilled operator could orchestrate attacks that look like Coalition striking Mars or vice versa."
+
+"False flag operations." Chen contacted Lena. "Security, we need expanded investigation. Third party actor with sophisticated intelligence capabilities and apparent goal of ensuring Earth-Mars conflict."
+
+Lena's response was immediate. "That's going to be nearly impossible to investigate without cooperation from both delegations. And getting them to cooperate requires trust we've just established they don't have."
+
+"Then we build trust by sharing this intelligence." Chen turned to Park. "You're going to brief both delegation security chiefs. Everything you know about the false intelligence, the manipulation, the pattern suggesting third party involvement."
+
+"Coalition intelligence will burn me for revealing our operations."
+
+"Coalition intelligence sent you on mission that nearly killed you based on potentially false intelligence. They don't get to complain about transparency now." Chen activated conference room comm. "Rafael, Kim, I need you both in medical bay. New intelligence regarding sabotage threat."
+
+The briefing took thirty minutes. Park laid out the evidence methodically—the suspicious warnings, the authentication code analysis, the pattern of misdirection that had consumed Coalition's internal investigation.
+
+Rafael studied the data with expression suggesting military tactical assessment. "If third party wanted to trigger war, they'd need more than intelligence gathering. They'd need catalyzing event."
+
+"Like sabotaged negotiations that result in casualties blamed on one delegation or the other," Kim said quietly.
+
+"Or like successful negotiations that get disrupted by attack that appears to come from extremists on one side." Rafael pulled up threat scenarios. "Either outcome advances goal of ensuring conflict."
+
+Chen felt weight of responsibility settling on his shoulders. "Which means we can't just identify saboteur. We need to expose their real agenda and prove it to both governments before anyone can use this situation to justify war."
+
+"How?" Kwame asked. "We don't know who they are, where they're based, or what specific attack they're planning."
+
+"We know they planted surveillance device. We know they have agent or agents aboard Unity Station." Lena pulled up security analysis. "We use that. Stage discussions that would prompt saboteur to act, monitor for response, trace it back to source."
+
+"Use ourselves as bait," Rafael said. "Risky."
+
+"Everything about this situation is risky." Chen looked at both security chiefs. "But if we can coordinate between delegations instead of suspecting each other, we might actually prevent whatever's coming."
+
+Kim and Rafael exchanged glances. Some professional assessment passing between security specialists.
+
+"Conditional cooperation," Kim said. "We share intelligence about third party threat but maintain protective measures for delegation-specific information."
+
+"Agreed," Rafael said. "Unity of purpose on identified mutual threat. Otherwise maintain operational security."
+
+It wasn't perfect trust. But it was more than they'd had an hour ago.
+
+Chen pulled up conference room schedule. "We resume negotiations tomorrow. But tonight, both security teams work with Chief Volkov to identify potential saboteur and prepare countermeasures."
+
+"What do we tell our delegations?" Kim asked.
+
+"Truth. Someone's trying to ensure these talks fail violently. Working together is only way to prevent that."
+
+After the security chiefs left, Chen reviewed his notes with Kwame.
+
+"Think they'll actually cooperate?" Kwame asked.
+
+"I think they're professionals who recognize common threat when they see it." Chen closed his tablet. "Question is whether they'll figure out the saboteur's identity before the next attack."
+
+"And if they don't?"
+
+"Then tomorrow's negotiations might be our last."

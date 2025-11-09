@@ -1,0 +1,173 @@
+Chen received the security alert at 0347 hours. He was already awake, reviewing proposals, when Kwame's message appeared on his terminal.
+
+"Sabotage attempt discovered. Conference room compromised. Moving negotiations to room nine. Need to brief delegations before 0900."
+
+Chen dressed quickly and headed to Kwame's office. The station director looked like he hadn't slept, which was probably accurate.
+
+"Show me," Chen said.
+
+Kwame pulled up Lena's report. The modified sensors, the fake work order, the implications of what would have happened if the saboteur had succeeded.
+
+"Chemical attack during joint session," Chen said quietly. "Maximum casualties, maximum political impact."
+
+"Both delegations incapacitated or killed. Unity Station becomes murder scene. Negotiations collapse, war becomes inevitable." Kwame closed the report. "Perfect outcome if you want to ensure conflict."
+
+"Which means we need to determine if the saboteur represents one delegation trying to eliminate the other, or a third party trying to trigger war between both."
+
+"Lena's investigating. But we have seven hours before negotiations start, and she's got forty-three suspects with the necessary access."
+
+Chen considered the timeline. "We can't delay the joint session. Both delegations would interpret postponement as weakness or deception."
+
+"And we can't tell them about the sabotage attempt without revealing our monitoring capabilities."
+
+"Or creating panic that makes productive negotiation impossible." Chen pulled up the delegation rosters. "But we can increase security presence in a way that appears routine."
+
+"Both security chiefs will know something's wrong."
+
+"Good. Let them worry. Worried people are cautious people." Chen drafted notification messages. "I'll inform both delegations that preliminary security review identified potential infrastructure vulnerabilities. Conference room change is precautionary measure."
+
+"They'll demand specifics."
+
+"Which I'll provide in vague enough terms to avoid revealing actual threat." Chen sent the messages. "Anyone who objects too strongly moves up the suspect list."
+
+Kwame pulled up station schematics. "Conference room nine has better monitoring, but it's also isolated. Single access corridor, limited evacuation routes. If saboteur targets that room, we'll have fewer options for response."
+
+"Trade security for strategic flexibility."
+
+"That's the calculation."
+
+Chen's tablet chimed. Response from Director Kim: "Request details on identified vulnerabilities. Coalition security team available to assist with assessment."
+
+And from Commander Osei: "Mars delegation prepared to proceed as scheduled. Suggest enhanced security protocols for joint session."
+
+Both responses were professional, appropriate, and revealed nothing about whether either delegation knew more than they were saying.
+
+"I need to meet with both security chiefs," Chen said. "Separately. Off the record."
+
+"You're going to share information about the sabotage?"
+
+"I'm going to determine if either of them already knows about it."
+
+Chen arranged back-to-back meetings in his office—Coalition security chief first, Mars security chief thirty minutes later. Enough time to read reactions without allowing coordination.
+
+Rafael Osei arrived exactly on schedule. He moved with the efficiency of someone who'd spent career in environments where wasted energy meant death.
+
+"Commander," Chen said. "Thank you for making time."
+
+"Ambassador. Your message mentioned security concerns." Osei's expression was professionally neutral. "How can Mars delegation assist?"
+
+"By being honest with me." Chen pulled up Lena's report. "Someone attempted to sabotage conference room six's atmospheric monitoring. We discovered it before completion, but the implications are clear."
+
+Osei studied the data. His reaction was controlled, but Chen caught the slight tightening around his eyes.
+
+"Chemical attack vector," Osei said. "Targeting negotiations specifically."
+
+"Or targeting both delegations simultaneously." Chen watched carefully. "Did Mars intelligence warn you about this kind of threat?"
+
+"Our warnings were non-specific. Potential disruption, possible sabotage. Nothing about chemical weapons." Osei met Chen's eyes. "You think Mars planned this?"
+
+"I think multiple parties have motive to ensure negotiations fail. Mars is one possibility. So is Coalition. So are third parties with different agendas."
+
+"If Mars wanted to kill Coalition delegation, we'd do it somewhere less traceable than neutral station during active negotiations." Osei's voice was flat. "This attack pattern suggests someone trying to frame one side or create mutual casualties."
+
+"That's our assessment. But I need to know if your intelligence sources have any information that could help identify the saboteur."
+
+Osei was quiet for a long moment. Some internal calculation about trust and risk and consequences.
+
+"I'll need authorization from Mars government to share classified intelligence," he said finally. "But I can tell you this: our sources indicated the threat might come from within one delegation. A mole working for external interests."
+
+"Which delegation?"
+
+"They didn't specify. Could be either."
+
+Chen felt the complexity multiplying. Not just delegations versus each other, but potential traitors within each group working for unknown parties.
+
+"I need you to conduct internal security review," Chen said. "Discreetly. Don't tip off potential mole if one exists in your delegation."
+
+"Already doing that." Osei stood. "Ambassador, my priority is protecting Mars personnel. If that means enhanced security that Coalition interprets as hostile posture, I'll accept that consequence."
+
+"Understood. But remember—if negotiations fail because both sides are too paranoid to talk, the saboteur wins even without successful attack."
+
+After Osei left, Chen reviewed his notes. The Mars security chief had been surprised by the specific attack details but not shocked by the concept. Either excellent acting or genuine ignorance about the sabotage attempt.
+
+Coalition security chief arrived fifteen minutes later. Lena had flagged anomalies in Coalition quarters—the encrypted communications, the late-night equipment modifications, the general pattern of secretive behavior.
+
+Director Kim herself conducted Coalition security, which was unusual for diplomatic delegations. Most used dedicated protection officers.
+
+"Ambassador Chen," Kim said, taking the offered seat. "Your message was concerning."
+
+"We discovered sabotage attempt on conference room six. Atmospheric sensors modified to create detection blind spot for chemical agents." Chen showed her the same data he'd shown Osei. "Someone planned to attack negotiations."
+
+Kim's reaction was different from Osei's—less surprise, more calculation.
+
+"Do you have suspects?" she asked.
+
+"Several possibilities. Including members of either delegation."
+
+"You think Coalition would sabotage talks we initiated?"
+
+"I think multiple parties have complex motives I don't fully understand." Chen pulled up the encrypted communications logs. "Coalition quarters have generated significant encrypted traffic to off-station addresses. Care to explain?"
+
+Kim's expression hardened. "Those are diplomatic communications. Protected under standard protocols."
+
+"Not when they might relate to security threats aboard Unity Station."
+
+"You're monitoring our private channels?" Kim's voice was cold. "That violates neutrality agreements."
+
+"Preventing mass casualty attacks justifies monitoring. If those communications are innocent diplomatic traffic, you can prove that by sharing them voluntarily."
+
+Kim stood. "I'll need to consult with Earth Coalition before sharing classified communications."
+
+"You have until joint session begins at 0900." Chen kept his voice even. "After that, I authorize Chief Volkov to decrypt all communications from both delegations related to potential security threats."
+
+"That's an ultimatum."
+
+"That's reality. Someone aboard this station planned to kill people. If you have information that could identify them, withholding it makes you complicit."
+
+Kim moved toward the door, then stopped. "Ambassador, Coalition's encrypted communications are coordinating intelligence assets investigating sabotage threats. We're trying to prevent attacks, not plan them."
+
+"Then share what you've learned."
+
+"Our sources are extremely sensitive. Exposure could get people killed."
+
+"More people will die if saboteur succeeds." Chen pulled up casualty projections again. "Choose which risk you're willing to accept."
+
+After Kim left, Chen contacted Lena.
+
+"Both security chiefs are hiding something," he said. "Osei confirmed Mars intelligence suggested mole within one delegation. Kim admitted Coalition is running intelligence operation related to sabotage threats but won't share details."
+
+"So both sides are investigating, both have partial information, and neither trusts the other enough to coordinate." Lena's voice was tight with frustration. "Perfect conditions for failure."
+
+"Can you decrypt Coalition's messages?"
+
+"Yes. But it'll burn diplomatic bridges and possibly compromise legitimate intelligence operations."
+
+"Do it anyway. We need to know what they know, even if they won't tell us."
+
+"Understood. Give me thirty minutes."
+
+Chen returned to reviewing negotiation proposals, but his mind kept circling back to the sabotage attempt. The sophistication suggested professional planning. The target suggested someone who wanted negotiations to fail violently.
+
+And the timing suggested they'd try again.
+
+He pulled up conference room nine's security specifications. Lena had positioned three security officers in the access corridor, installed additional atmospheric monitoring, and configured emergency protocols for rapid evacuation.
+
+It might be enough.
+
+Or it might just force the saboteur to adapt their approach.
+
+His tablet chimed. Message from Dr. Okonkwo: "Medical bay prepared for mass casualty scenario. Hope we don't need it."
+
+Chen sent back: "Agreed. Stay on standby."
+
+Five hours until joint session. Five hours to identify a saboteur who'd already demonstrated capability and intent.
+
+Five hours to prevent the massacre that would end any hope of peace.
+
+He pulled up both delegation rosters and started making notes. Who had the technical skill to modify environmental systems? Who had motive to ensure negotiations failed? Who had opportunity to access section six during the sabotage window?
+
+The answers were spread across forty-three people with varying levels of access and unknown levels of loyalty.
+
+Somewhere in that data was a pattern that would reveal the saboteur.
+
+Chen just had to find it before they struck again.

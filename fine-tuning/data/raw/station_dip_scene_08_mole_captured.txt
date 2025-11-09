@@ -1,0 +1,245 @@
+Marcus broke the encryption at 0642 hours. Lena watched the Coalition messages decode on her screen, each one another piece of evidence that complicated rather than clarified the situation.
+
+"What've we got?" she asked.
+
+"Three messages sent over last forty-eight hours." Marcus highlighted the first. "Coalition intelligence to Director Kim. Warning about potential saboteur with technical expertise, likely already aboard Unity Station. Advised enhanced security and counter-surveillance."
+
+"Source?"
+
+"Unspecified. Coalition intelligence asset somewhere in outer colonies."
+
+Lena read the second message. "Mars government communication intercept. Discussion of contingency plans if negotiations fail."
+
+"Including references to military response timelines and asset positioning." Marcus pulled up tactical analysis. "If Coalition interpreted this as evidence Mars is preparing for war regardless of negotiation outcomes, it would explain their paranoia."
+
+The third message was different. Technical specifications for environmental systems, security protocols for Unity Station, and detailed schematics of conference room six.
+
+"Someone fed Coalition intelligence about station infrastructure," Lena said. "Recent intelligence—these specs were updated three months ago after we renovated section six."
+
+"Which means either someone aboard Unity is feeding information to Coalition, or Coalition has surveillance capabilities we didn't detect."
+
+Lena pulled up the schematics comparison. "These details are too specific for remote surveillance. Someone with station access provided this data."
+
+"A mole."
+
+"Or someone who thought they were helping station security by sharing information with diplomatic protection team." Lena forwarded the analysis to Chen and Kwame. "Either way, Coalition had advance knowledge of conference room six's vulnerabilities."
+
+Marcus highlighted a section of the third message. "Look at the timestamp. This intelligence was provided to Coalition forty-eight hours before their arrival. Before sabotage attempt. Before negotiations even started."
+
+"So someone knew to target conference room six before either delegation arrived." Lena felt pieces aligning. "This wasn't opportunistic. It was pre-planned using intelligence gathered specifically for the attack."
+
+"Which means the saboteur has been preparing for weeks, possibly months."
+
+Lena pulled up personnel records for everyone who'd accessed section six infrastructure data in the last six months. Seventeen names. Maintenance staff, engineering officers, security personnel.
+
+Her comm chirped. Chen's voice: "Lena, did Coalition intelligence explain why they didn't share the sabotage warning when they arrived?"
+
+"Messages don't say. But my guess? They were using the threat to justify their own intelligence operation. Wanted to catch the saboteur themselves."
+
+"Or they were the saboteurs and needed advance knowledge to plan the attack." Chen's voice was tight. "I'm not assuming anyone's innocent anymore."
+
+"Smart policy." Lena switched to surveillance feeds. "Both delegations are preparing for joint session. No unusual activity in last thirty minutes."
+
+"Keep watching. If saboteur knows we discovered their first attempt, they might accelerate alternative plans."
+
+After Chen disconnected, Lena pulled up conference room nine's monitoring systems. Every sensor active, every backup online, every possible failure point covered.
+
+It felt like preparing for siege warfare.
+
+"Marcus, run scenario analysis. If you were saboteur who knew we'd tightened security on conference room nine, what would you target instead?"
+
+Marcus pulled up station schematics. "Delegation quarters. Isolate and eliminate one group before joint session. Create panic, force evacuation, negotiations collapse."
+
+"Or target leadership directly. Ambassador Chen, Director Nkrumah, delegation heads." Lena highlighted movement patterns. "Everyone will transit through main corridor seven to reach conference room nine. Choke point."
+
+"Explosive device?"
+
+"Too obvious. Security sweeps would detect it." Lena switched to personnel tracking. "But a coordinated attack during transit—someone posing as station crew, close-quarters violence, escape in the chaos—that could work."
+
+"You're thinking like the enemy."
+
+"I'm thinking like someone who wants to survive the next four hours." Lena pulled up security team assignments. "Double the corridor coverage. Three-person teams, overlapping fields of fire, anyone approaching delegation members gets stopped and verified."
+
+"Both delegations will interpret that as hostile environment."
+
+"Both delegations are smart enough to understand that visible security is better than invisible threat." Lena activated emergency protocols. "Execute enhanced protection formation. I want every delegate shadowed from quarters to conference room."
+
+Marcus coordinated with security teams while Lena reviewed the decrypted Coalition messages again. Something was bothering her—a detail that didn't fit the pattern.
+
+The technical specifications for conference room six. They were accurate but not current. The schematics showed the environmental system layout before last month's maintenance update.
+
+Which meant whoever provided them to Coalition either had outdated information or deliberately provided false data.
+
+She pulled up maintenance logs. Conference room six's atmospheric monitoring had been upgraded four weeks ago. New sensors, different calibration protocols, enhanced detection capabilities.
+
+The sabotage attempt targeted sensors using old configuration data.
+
+"Marcus, the attack was designed to fail," she said.
+
+"What?"
+
+"Look at the sensor modifications. They're based on outdated schematics. Current monitoring configuration would have detected the blind spot within hours." Lena ran simulation. "Saboteur either didn't know about the upgrade, or intended for us to discover the attack."
+
+"Why deliberately fail?"
+
+"To make us focus security on conference rooms while they prepare the real attack elsewhere." Lena felt adrenaline spike. "The atmospheric sensor sabotage was a diversion."
+
+She pulled up station-wide monitoring. Looking for what she'd missed while focused on conference room security.
+
+There. Section eight. Power distribution anomaly logged twenty minutes ago. Minor fluctuation, attributed to routine system cycling.
+
+Except section eight didn't have any scheduled maintenance.
+
+"Pull surveillance for section eight, last sixty minutes," she said.
+
+Marcus brought up the feeds. Standard traffic for night cycle. Crew members transiting between shifts. Nothing unusual except—
+
+"There." Lena froze the image. "That technician. Entering power distribution access at 0623 hours."
+
+"ID?"
+
+"Credentials say Maria Santos, electrical systems specialist." Lena pulled up Santos's file. "But look at the gait analysis. Doesn't match profile."
+
+Marcus ran biometric comparison. "Ninety-three percent confidence this is not Maria Santos. Approximately correct height and build, but movement patterns are wrong."
+
+"Someone using stolen credentials." Lena activated emergency alert. "Security to section eight, power distribution. Suspect in progress. Detain on sight."
+
+She was already moving, sidearm drawn, running calculations about response time and what damage could be done to power systems in the minutes before security arrived.
+
+Section eight corridor was empty. Lena moved fast, Marcus providing remote guidance through her earpiece.
+
+"Suspect still inside access room eight-gamma. No signs of departure."
+
+Lena reached the access door. Locked from inside. She overrode it with her security codes and entered in tactical posture—weapon ready, scanning for threats.
+
+The room was empty. Power distribution panels intact. No sign of sabotage.
+
+But the access log showed someone had entered five minutes ago and hadn't left.
+
+"Where did they go?" Marcus asked.
+
+Lena scanned the room. Standard power equipment, monitoring stations, maintenance tools. No exits except the door she'd entered through.
+
+Then she saw it. Ventilation grate, removed and leaning against the wall.
+
+"They're in the duct system," she said.
+
+She pulled up station ventilation maps. The ducts connected section eight to every major area of Unity Station. Perfect infiltration route, perfect escape path.
+
+And perfect distribution system for chemical or biological agents.
+
+"Marcus, seal all ventilation connections to conference room nine. Emergency protocol. Do it now."
+
+"That'll disrupt air flow throughout section nine."
+
+"Better than letting saboteur pump nerve gas through the ducts." Lena climbed into the ventilation shaft. "I'm going after them. Track my position and coordinate security."
+
+The shaft was narrow, dark, and cold. Lena moved forward with her sidearm's light providing illumination. Every few meters, she checked for signs of passage—disturbed dust, tool marks, anything indicating which direction the saboteur had gone.
+
+There. Fresh scuff marks leading toward section seven.
+
+She followed the trail, aware that she was isolated, in confined space, pursuing someone who'd demonstrated lethal intent.
+
+Perfect conditions for ambush.
+
+Her earpiece crackled. Marcus: "Lena, security found Maria Santos. She's unconscious in her quarters. Someone drugged her and stole her credentials."
+
+"How long ago?"
+
+"Best guess? Forty-five minutes."
+
+Which meant the saboteur had been moving through station infrastructure for nearly an hour. Plenty of time to position weapons, explosives, or chemical agents.
+
+Lena reached junction point where three ventilation shafts converged. She examined each path, looking for clues about which direction the saboteur had chosen.
+
+Movement in the left shaft. Just a shadow, but enough.
+
+She aimed her weapon. "Station security. Show yourself. Slowly."
+
+No response. The shadow shifted position, moving deeper into the shaft.
+
+Lena fired twice. Not to kill—targeting the ventilation metal to create noise and ricochets that would force the saboteur to stop or expose themselves.
+
+The confined space magnified the gunshots into deafening concussion. Lena's ears rang, but she saw the result—a figure scrambling backward, hands visible, unarmed.
+
+"Don't move," she said. "Security is sealing all exits. You're trapped."
+
+The figure stopped. Slowly raised hands.
+
+"Come toward me. Keep your hands visible."
+
+The saboteur crawled forward into Lena's light. Young face, scared eyes, wearing stolen credentials.
+
+Not a hardened operative. Someone who looked terrified of what they'd gotten into.
+
+"Name," Lena said.
+
+"Connor. Connor Park. I didn't—I thought it was just surveillance work."
+
+Park. Same surname as Coalition technical advisor David Park. Coincidence or connection?
+
+"You're coming with me. Move slowly. Any sudden movements and I will shoot."
+
+She escorted Connor through the ventilation system back to section eight, where security team was waiting. Marcus had three officers in tactical posture, weapons ready.
+
+"Secure the suspect," Lena said. "Full search, isolation protocols, medical scan for foreign substances."
+
+Connor was shaking. "I didn't know they were planning to kill anyone. They said it was just intelligence gathering."
+
+"Who's 'they'?"
+
+"I can't—they'll kill my family—"
+
+"Talk now, or you're complicit in murder conspiracy." Lena pulled up her tablet, showing surveillance of the sabotaged conference room. "Someone tried to create attack vector for chemical weapons. If you're involved, you're facing life imprisonment."
+
+Connor looked at the evidence, his face draining of color. "I provided infrastructure schematics. That's all. They said Coalition needed security assessments for negotiations."
+
+"Who contacted you?"
+
+"I don't know their real identity. Communication was encrypted, through anonymous channels. They knew things about my family on Mars. Used them as leverage."
+
+Lena felt the pattern emerging. Coercion, manipulation, compartmentalized operations. Professional intelligence methodology.
+
+"What were you doing in power distribution?"
+
+"Placing monitoring device. They wanted surveillance on station security communications." Connor gestured toward the ventilation shaft. "I was supposed to hide it in the duct system, where security sweeps wouldn't find it."
+
+"Show me the device."
+
+Connor pulled a compact unit from his jacket. Lena scanned it. High-end surveillance equipment, military-grade encryption, designed for covert monitoring.
+
+And manufactured on Earth. Coalition military specification.
+
+"Marcus, document this. Full forensic analysis." Lena turned back to Connor. "Who activated you? When?"
+
+"Three weeks ago. First contact was message saying they had my sister's location on Mars. Proof they could reach her." Connor's voice shook. "I couldn't risk refusing."
+
+"Did you provide the conference room six schematics?"
+
+"Yes. Two weeks ago. They said it was for security assessment."
+
+"Those schematics were outdated. Current configuration is different."
+
+Connor blinked. "I gave them current data from station systems. Up to date as of transmission."
+
+Lena felt pieces shifting. Connor provided accurate intelligence. Someone else modified it before using it for sabotage attempt. Creating a false trail that pointed toward Coalition while obscuring real attack vector.
+
+"You're in protective custody," she said. "Full cooperation means potential leniency. Refusal to provide information means we treat you as hostile combatant."
+
+She left Connor with security and contacted Chen.
+
+"Found the mole. Connor Park, engineering staff, coerced through family threats. He provided infrastructure intelligence but says someone modified it before using for sabotage."
+
+Chen's response was immediate. "Interrogate him. Everything he knows about his handlers, communication protocols, assignment timeline. We need to identify who's pulling the strings."
+
+Lena returned to her office. Marcus had Connor's communication logs displayed, running decryption algorithms.
+
+"This is going to take time," he said. "Encryption is military-grade and doesn't match Coalition standard."
+
+"Keep working it. I want to know who Connor was talking to before joint session starts." Lena checked the clock. "Which is in two hours and counting."
+
+She pulled up security posture for conference room nine. Enhanced monitoring active, additional personnel stationed, emergency protocols ready.
+
+It felt inadequate.
+
+Somewhere aboard Unity Station, the real saboteur was preparing their next move. And Lena was still guessing where they'd strike.
