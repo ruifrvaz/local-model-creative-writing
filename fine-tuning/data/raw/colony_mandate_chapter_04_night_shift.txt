@@ -1,0 +1,263 @@
+Section Management occupied a secure wing adjacent to the Assembly Yard control center—cleaner than the fabrication floor, quieter than the residential blocks, and infinitely more dangerous than either. This was where decisions were made. Where the mandate's machinery turned human beings into statistics. Where Kara Chen would spend the next four months gathering evidence to destroy it.
+
+Or die trying.
+
+She reported at 0700 hours, her credentials newly upgraded to Level Four, her mind focused on maintaining the performance of grateful compliance. The office was sterile in its efficiency. Better lighting than the yards. Actual furniture instead of utilitarian workstations. The walls displayed real-time data feeds from Ship Seven's construction—progress metrics, resource allocation, stasis pod deployment schedules.
+
+Ten thousand pods. Ten thousand people. All of them believing they were chosen for something better. None of them knowing they were being loaded onto an ark while billions drowned.
+
+"Chen. Welcome." A woman stood from behind a desk—tall, sharp-featured, her uniform bearing the insignia of CDB Director, Third Rank. The loyalty pin on her collar was platinum. Fifteen years of service. Fifteen years of managing the lie. "I'm Director Huang. You'll be reporting to me during your transition period."
+
+Kara straightened. "Thank you for the opportunity, ma'am."
+
+"Your file is impressive. Top percentile in technical aptitude. Excellent loyalty ratings. Supervisor Voss speaks highly of your potential." Huang gestured to a chair that was significantly more comfortable than anything Kara had sat in for three years. "Sit. We have much to discuss."
+
+Kara obeyed. The chair had padding. Real cushioning. Another small luxury that separated management from labor. Another test of whether comfort would buy compliance.
+
+It wouldn't.
+
+"Section Management oversees the final integration phase of colony operations," Huang began, her voice carrying the practiced tone of someone who'd given this briefing before. "Stasis deployment. Colonist processing. Launch coordination. It's sensitive work. Requires discretion and absolute loyalty."
+
+"Understood, ma'am."
+
+"You'll have access to systems and information that would destabilize productivity if mishandled. The CDB trusts you with this responsibility because your record demonstrates reliability." Huang's eyes were cold and calculating. "Don't disappoint us."
+
+"I won't, ma'am."
+
+"Good." Huang pulled up a holographic display showing Ship Seven's internal architecture in three-dimensional detail. "Ship Seven launches in four months, one week. We're ahead of schedule but facing logistical challenges. Stasis pod deployment is at seventy-two percent. We need ninety-five percent by launch date."
+
+Kara studied the display. Each pod represented a person. A life. A decision made without their knowledge or meaningful consent. "What's causing the delay?"
+
+"Colonist processing. The selection algorithm identifies candidates, but voluntary enrollment is slower than projected. People are suspicious. They ask questions about destinations, about communication protocols, about why family members can't all go together." Huang's tone suggested this was an inconvenience rather than legitimate concern. "We've had to implement incentive adjustments."
+
+"Incentives?"
+
+"Productivity score bonuses for enrollment. Housing upgrades like yours. Food ration increases. Priority medical care. And for those who remain resistant..." Huang shrugged with practiced indifference. "Mandatory reassignment. The mandate gives us authority to optimize population distribution for humanity's survival."
+
+Forced relocation disguised as opportunity. Coerced enrollment masked as choice. The system had perfected the art of making compliance look voluntary.
+
+Kara kept her expression neutral. "How can I assist?"
+
+"You'll oversee Pod Deployment Section 4-D. Two thousand units. You'll verify system integrity, monitor colonist integration, ensure launch readiness. Your technical background makes you ideal for identifying potential failures before they become critical." Huang handed her a data pad with her new credentials and access codes. "Your clearance is active. Begin with a full inspection of your assigned section. Report any discrepancies immediately."
+
+Kara took the pad. The weight of it felt like shackles. "Yes, ma'am."
+
+"One more thing." Huang's voice dropped into a register that suggested this was the real message. "The CDB is aware of unauthorized access attempts in restricted databases. Security is investigating possible sabotage networks. If you encounter anything unusual—colleagues asking strange questions, behavioral anomalies, resistance rhetoric—report it immediately. We're at a critical juncture. We can't afford disruption."
+
+The warning was explicit. They were hunting the resistance. And Kara had just been positioned as a potential informant. Or a potential target. Possibly both.
+
+"Understood, ma'am."
+
+Huang dismissed her. Kara left the office and took the transit to Section 4-D, her mind racing through implications. She was inside now. Trusted with Level Four access. Given oversight of two thousand colonists. Positioned to gather evidence.
+
+But she was also being watched. Every action analyzed. Every interaction recorded. The CDB hadn't promoted her out of generosity. They'd promoted her to see what she would do with power.
+
+Section 4-D looked the same as when she'd seen it during the unauthorized visit. Rows of stasis pods. Amber lighting. The sterile smell of medical-grade air filtration. But now, many of the pods were occupied. Kara walked between the rows, checking displays, documenting status.
+
+Colonist 4-D-001. Status: Stasis active. Vital signs stable. Neural activity within normal parameters.
+
+Colonist 4-D-002. Same status.
+
+4-D-003. 4-D-004. 4-D-005.
+
+Each one a person who'd enrolled believing they were chosen. Each one asleep and trusting. Each one being delivered to Ark Station while everyone they'd ever known was left behind to die on a collapsing planet.
+
+She found Colonist 4-D-7-147—the woman she'd seen during her first visit. Still in stasis. Still peaceful. The display showed her enrollment as voluntary through the productivity bonus program. Kara wondered if she'd understood what "colony world" really meant. If anyone had explained that she was abandoning Earth forever. That her family wasn't coming. That this was selection, not opportunity.
+
+Probably not.
+
+Her data pad beeped. A notification from the pod monitoring system. Unit 4-D-1-089 showed irregular readings. Cardiac arrhythmia detected. Requires immediate medical evaluation.
+
+Kara navigated to the pod quickly. Inside, a man—late twenties, his face slightly contorted in artificial sleep despite the sedation. The display showed his vitals spiking. Blood pressure elevated. Heart rate irregular. His body was rejecting the stasis.
+
+Kara initiated the medical alert protocol. Within minutes, a medical team arrived—two technicians in sterilized suits, their faces covered by respirators, their movements efficient and emotionless.
+
+"What's the situation?" the lead technician asked without looking at Kara.
+
+"Cardiac arrhythmia. Pod 089." Kara pulled up the readings on her pad. "Started fourteen minutes ago. Progressive deterioration."
+
+The technician examined the data with professional detachment. "We'll need to extract him. Emergency protocol. Though at this stage, survival probability is low."
+
+"Will he survive?"
+
+"Depends on how long the arrhythmia has been active. Stasis masks symptoms until they become critical. By the time we detect issues, cellular damage is often irreversible." The technician began prepping extraction equipment. "It's a known limitation of the system."
+
+They worked quickly. The pod opened with a hiss of pressurized air. The colonist inside didn't wake—stasis drugs kept him unconscious during extraction. The medical team transferred him to a gurney and rushed toward the medical bay.
+
+Kara watched them go. Then she checked the pod's logs. Colonist 4-D-1-089. Name: David Okonkwo. Age: 27. Occupation: Agricultural technician. Enrolled voluntarily through housing upgrade incentive. No prior medical complications.
+
+Except the logs showed he'd been in stasis for six weeks. The arrhythmia had started three weeks ago. The monitoring system had detected it but classified it as minor variation. No alert triggered. Just routine data logging.
+
+By the time the issue became critical enough to flag, permanent damage was likely. David Okonkwo had probably just died because the algorithm prioritized avoiding false positives over individual survival.
+
+Kara pulled up the medical protocols. Stasis monitoring was automated. Alerts triggered only when vitals crossed threshold values. Everything else was classified as acceptable variance. The system was designed for efficiency, not safety. Better to lose a few colonists than waste resources investigating every minor fluctuation.
+
+She checked the other pods in her section. Twelve showed elevated stress markers. Five had cardiac irregularities. Three demonstrated neurological anomalies indicating possible brain damage from prolonged stasis.
+
+All of them flagged as acceptable variance. All of them slowly dying while the system ignored them.
+
+Kara exported the data to her encrypted partition. This was evidence. Proof that the stasis system wasn't safe. That people were being harmed by the very process that supposedly protected them during transit. That the CDB cared more about efficiency than lives.
+
+She continued her inspection, documenting everything. Pod integrity. System performance. Colonist status. The role she'd been assigned. The performance she had to maintain while gathering the evidence that would eventually destroy the program.
+
+By the end of her first week in Section Management, Kara had documented twenty-three medical failures. Forty-seven cases of selection bias where engineers and technical personnel were enrolled ahead of schedule. Ninety-eight instances of elevated neural activity suggesting psychological stress during stasis.
+
+The evidence was damning. Undeniable. And completely invisible to anyone who didn't know where to look.
+
+She needed to make contact with the resistance. Coordinate her documentation with their plans. But any communication was risky. The surveillance was comprehensive. Even encrypted messages could be detected through traffic analysis if she wasn't careful.
+
+On her tenth day in Section Management, Kara volunteered for night rotation. Director Huang approved immediately. "Dedication," she'd said. "Initiative. The kind of behavior that justifies your promotion."
+
+The kind of behavior that gave Kara access when oversight was minimal.
+
+Night shifts were different. Quieter. The Assembly Yard never stopped, but the character changed after dark. Fewer supervisors. Less scrutiny. Workers moved through routines with mechanical efficiency, too exhausted for surveillance beyond their immediate tasks.
+
+Her first night shift began at 2200 hours. The transit to Section 4-D was nearly empty. Just a handful of workers heading to their posts, their faces drawn with the particular exhaustion of people who'd been working double shifts for months.
+
+Kara clocked in and walked through the pod rows. The section was dimly lit for night operations—emergency lighting only, casting everything in amber and shadow. The pods glowed faintly, their displays showing steady vitals. Two thousand lives suspended in artificial sleep while the world outside prepared to end.
+
+She began her inspection routine. Pod integrity checks. Vital sign monitoring. System diagnostics. Everything appeared normal until Pod 4-D-3-156.
+
+The display showed elevated neural activity. Not critical. But unusual. Brain patterns suggesting consciousness penetrating the stasis sedation. The colonist was dreaming. Or trying to wake. The neural activity had been elevated for forty-eight hours. Still within the seventy-two-hour threshold before intervention was required.
+
+Twenty-four hours from medical review. Twenty-four hours of psychological stress building in an unconscious mind that couldn't process or release it.
+
+Kara checked the colonist's file. Name: Sarah Kim. Age: 34. Occupation: Structural engineer. Enrolled voluntarily after housing upgrade incentive. No prior medical complications.
+
+Enrolled two weeks ago. Neural activity elevated almost immediately. The system had been watching her slowly develop psychological trauma for forty-eight hours and classified it as acceptable.
+
+Kara flagged the pod for priority monitoring and continued her inspection. Four more colonists showed similar patterns. All engineers. All enrolled within the past month. All developing stress responses that would cause permanent psychological damage if sustained.
+
+Pattern recognition was her strength. And this pattern was deliberate. The CDB was targeting engineers—loading them into stasis before they could notice discrepancies in Ship Seven's construction. Before they could ask questions. Before they could resist.
+
+She documented everything. Saved it to her encrypted partition. Added it to the growing case against the mandate.
+
+At 0200 hours, her tablet chimed. A maintenance notification. Not from the official system. The format was slightly wrong. The sender ID didn't match standard protocols.
+
+"Equipment inspection required. Level Eight storage. Urgent."
+
+Level Eight was outside her assigned section. She had no reason to respond. Unless this was the resistance making contact. Using maintenance alerts as cover for communication.
+
+Kara checked the camera coverage. Section 4-D had three units monitoring her position. But Level Eight had blind spots—corridors where equipment blocked sightlines. Places where conversations could happen without being recorded.
+
+She grabbed her diagnostic kit and left Section 4-D. The maintenance stairs were dark and empty. She climbed to Level Eight quickly. The storage area was packed with equipment awaiting installation—structural components, circuitry, life support modules, all of it organized in rows that created natural corridors.
+
+A figure waited in the shadows. Kara recognized her from the maintenance bay meeting. Yuki.
+
+"Status?" Yuki's voice was barely above a whisper.
+
+"I have evidence. Medical failures. Selection bias. Psychological trauma from stasis. Twenty-three individual cases. Enough to prove the system is harming people." Kara pulled out a data chip containing encrypted copies of her documentation. "But I need more. I need proof of where they're really going. Something that shows Ark Station and the selection."
+
+"We have that." Yuki handed her a different chip. "Blueprints. Personnel manifests. Communications between Ark Station and Earth. Everything you need to prove the mandate is planned genocide. But we need your medical data. Personal stories are powerful. Statistics are just numbers."
+
+Kara pocketed both chips. "When do we broadcast?"
+
+"Six weeks. Launch minus two weeks. We need time to position transmitters and prepare the communication arrays. Can you get us access to Ship Seven's external arrays?"
+
+"I have Level Four clearance. I can authorize maintenance without supervisory approval. But activating the arrays will trigger alerts unless we have a justification."
+
+"We're working on that. A crisis that requires emergency communication capability. Something that forces arrays online automatically." Yuki's eyes were hard. "People will get hurt. Maybe killed. But if we don't stop this, billions die. The math is brutal."
+
+The same brutal math Voss had used to justify the mandate. The same calculus of acceptable losses. Kara understood it intellectually. But understanding didn't make it easier.
+
+"Six weeks," Kara confirmed. "I'll have everything ready."
+
+"Good. One more thing. Trust no one in management. Voss thinks he's saving humanity. Huang thinks she's optimizing survival. They're true believers. That makes them more dangerous than people who know they're lying."
+
+Yuki disappeared into the equipment rows. Kara stood alone in Level Eight storage, holding evidence that could destroy the mandate or get her killed. Probably both.
+
+She returned to Section 4-D and completed her inspection. The rest of the night passed in routine. Pod checks. System monitoring. Documentation.
+
+At 0600 hours, her shift ended. Kara clocked out and returned to Unit 412. She loaded the chips in isolation. The resistance data was comprehensive. Ark Station blueprints showing capacity for five million. Selection criteria identifying the chosen. Communications proving the CDB knew Earth was dying and planned to abandon billions.
+
+Combined with her medical evidence, it was devastating. Undeniable. The mandate wasn't survival. It was selection disguised as salvation. The colony program wasn't hope. It was a mechanism for choosing who lived and who died while keeping the condemned docile and productive.
+
+Six weeks until broadcast. Forty-two days. One thousand eight hours.
+
+Then the truth would be free. Or they'd all be dead.
+
+Kara encrypted everything and prepared for the next phase. She had a role to play. Evidence to gather. A performance to maintain while building the case that would end everything.
+
+The following nights established a pattern. Kara would inspect Section 4-D during her shift, documenting medical failures and system inadequacies with meticulous precision. Every elevated stress marker. Every cardiac irregularity. Every neurological anomaly suggesting brain damage from prolonged stasis. The evidence accumulated like water behind a dam—invisible until it broke.
+
+On her fifteenth night shift, she found another death. Pod 4-D-6-203. Flatline vitals. No heartbeat. No brain activity. The colonist had been dead for approximately forty-five minutes before the monitoring system finally classified it as critical rather than equipment malfunction.
+
+Kara initiated the medical alert. The response team arrived with practiced efficiency. Professional detachment. The kind of emotional distance people developed when death became routine.
+
+"How long?" the lead technician asked.
+
+"Unknown. The monitoring system shows vitals dropped forty-five minutes ago. No alert triggered until now."
+
+The technician checked the pod's systems with the air of someone who'd seen this before. "Alert threshold wasn't met. The system classified it as equipment malfunction, not medical emergency. Prioritizes avoiding false positives."
+
+"Someone died, and the system thought it was a faulty sensor?" Kara kept her voice neutral. Professional. But inside, rage built like pressure in a sealed container.
+
+"The algorithms prioritize avoiding unnecessary alerts. Better to miss one death than trigger hundreds of false positives. It's efficient." The technician began extraction procedures, his movements mechanical. Routine. "We lose approximately three percent of colonists to stasis-related complications. Acceptable losses given the scale of the operation."
+
+Three percent of ten thousand was three hundred people. Three hundred deaths. Acceptable. Efficient. The mandate had reduced human lives to statistical variance.
+
+Kara documented the failure. Added it to her evidence file. Colonist 4-D-6-203. Name: Robert Tanaka. Age: 41. Occupation: Software engineer. Enrolled voluntarily through productivity bonus program. Dead because efficiency mattered more than individual survival.
+
+By her twentieth night shift, Kara had documented thirty-two deaths. Eighty-seven cases of severe medical complications. One hundred forty-three instances of psychological trauma manifesting as sustained elevated neural activity. The three percent acceptable loss rate was accurate. The system was killing people by design.
+
+But death wasn't the only evidence she was gathering. On her twenty-third night shift, she noticed something else. Pattern irregularities in the enrollment data. Certain demographics were being prioritized ahead of the published selection criteria. Young. Educated. Genetically diverse. Exactly the population profile you'd want if you were building a generation ship for long-term survival.
+
+But there was another pattern beneath that one. Families were being separated. Systematically. The selection algorithm enrolled individuals, not family units. Parents without children. Siblings without siblings. Spouses separated by "random" selection that wasn't random at all.
+
+The CDB was breaking social bonds deliberately. People with family connections might resist. Might demand their loved ones be included. Might cause disruption. But individuals were isolated. Easier to control. Easier to relocate without resistance.
+
+Kara documented that pattern too. Added it to the evidence. The mandate wasn't just lying about destinations. It was systematically destroying social structures to make the chosen more compliant.
+
+On her twenty-eighth night shift, Kara submitted a maintenance request for the external communication arrays. Standard pre-launch verification. Director Huang approved it without question. Dedication. Initiative. Exactly what Section Management expected from a rising star.
+
+Kara took the maintenance stairs to Ship Seven's upper structure. The arrays were mounted on the hull exterior—massive dish antennas capable of interstellar transmission. They were powered down, waiting for launch activation. But they were functional. Ready. All they needed was power and authorization.
+
+She accessed the maintenance panel and ran diagnostics. The systems were perfect. No issues. No malfunctions. Just dormant hardware waiting to broadcast the truth to a world that didn't know it was dying.
+
+Kara pulled up the authorization protocols. Activating the arrays required dual clearance under normal circumstances. Her credentials plus supervisory approval. But emergency protocols existed. If life support failed or the ship faced immediate danger, any Section Management personnel could authorize communication independently. Safety requirement. Distress beacon capability.
+
+She needed an emergency. Something that would activate the arrays automatically without triggering investigation. Something that justified immediate communication.
+
+And she knew exactly what that emergency would be.
+
+The stasis pod network connected to central life support systems. Two thousand units in her section alone. All drawing power from the same distribution grid. If that grid failed—even briefly—emergency protocols would activate automatically. Arrays would come online. Distress beacons would broadcast. Safety systems would override normal security.
+
+Thirty seconds. That's all she'd need. Thirty seconds of grid failure. Thirty seconds to upload her evidence and initiate transmission. Then the system would restore, the "malfunction" would be logged, and by the time anyone investigated, the data would be broadcast to independent surface stations beyond CDB control.
+
+It was dangerous. Life support failure could harm the colonists. Thirty seconds wouldn't kill anyone—the pods had independent reserves—but it could cause complications. Stress. Damage. Acceptable losses in service of exposing the greater crime.
+
+The same brutal calculus the CDB used. The same mathematics of sacrifice. Kara hated it. But she understood it. Sometimes the only way to stop a greater evil was to commit a lesser one.
+
+She downloaded the life support architecture and began planning. Identifying vulnerabilities. Calculating exact parameters for a controlled failure. Building contingencies. She had three weeks. Time to refine the plan. Time to coordinate with the resistance. Time to prepare for the moment when everything would change or everything would end.
+
+At the end of her thirtieth night shift, Kara returned to Unit 412. The synthetic window showed dawn—artificial light bleeding across a false horizon. Beautiful. Fake. Like everything else in the mandate.
+
+She loaded her evidence onto her encrypted partition and reviewed it systematically. Thirty-two deaths. Eighty-seven medical complications. One hundred forty-three psychological trauma cases. Systematic family separation. Selection bias. Deliberate deception. And the destination—Ark Station, capacity five million, while billions died on Earth.
+
+It was enough. More than enough. If this didn't wake people up, nothing would.
+
+Her terminal chimed. A message from Yuki, disguised as a routine maintenance update.
+
+"Assets positioned. Transmission infrastructure ready. Awaiting your signal. Three weeks to launch. Two weeks to broadcast. Confirm readiness."
+
+Kara typed her response, embedding it in a systems diagnostic report.
+
+"Ready. Evidence complete. Emergency protocols identified. Transmission window established. Will confirm final timing week before execution."
+
+She sent the message and deleted it from her terminal. In three weeks, Ship Seven would launch. In two weeks, the truth would broadcast. And somewhere between those moments, Kara Chen would either change history or be erased by it.
+
+She lay in her bed and stared at the ceiling. Somewhere above, Ship Seven rose toward completion. Somewhere below, thousands of workers built humanity's escape vessel without knowing it was leaving them behind. Somewhere in between, the mandate's machinery ground forward with mechanical inevitability.
+
+But Kara had a plan. The resistance had assets. The evidence was damning. And in two weeks, the silence would break.
+
+The mandate wanted compliance. It was about to learn that some people couldn't be bought. Some truths couldn't be suppressed. And some choices, once made, could never be undone.
+
+Kara closed her eyes. Two more weeks of performance. Two more weeks of gathering evidence. Two more weeks of pretending to be the loyal employee they wanted.
+
+Then everything would change.
+
+Or everything would end.
+
+Either way, she'd made her choice.
+
+And she'd see it through to whatever conclusion waited in the dark.

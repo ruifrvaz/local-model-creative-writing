@@ -1,0 +1,251 @@
+The Assembly Yard control center occupied the highest level of Fabrication District Twelve—a glass-walled command post overlooking the construction floor from a height that felt deliberately intimidating. From ground level, Kara could see figures moving behind the windows. Engineers. Supervisors. CDB officials with authority she couldn't begin to challenge. People who made decisions that affected thousands of lives with the stroke of a stylus on a tablet.
+
+Getting inside would require creativity. And timing. And a willingness to risk everything on a single desperate gamble.
+
+She had all three.
+
+Kara clocked in at Terminal 7-C-224 and pulled up her monitoring queue. Normal routine. Nothing suspicious. But her hands moved through different sequences beneath the visible workflow, accessing systems she technically had clearance for but rarely used. Building schematics. Floor plans. Security protocols. The digital architecture of the facility laid bare for anyone with the right credentials and the willingness to look.
+
+The control center had three entry points. The main entrance required Level Five clearance—senior management only. Emergency exits were alarmed and monitored continuously. But there was a third option she'd discovered during her late-night research. A maintenance conduit that serviced the environmental systems. Engineers used it for equipment repairs when the control center's climate systems malfunctioned. It connected directly to the control center's subfloor.
+
+Kara had access to that conduit. Hull integrity engineers maintained elevated clearances for structural assessments. But she needed a reason. A failure. Something that demanded immediate attention.
+
+She pulled up the environmental monitoring panel and studied the control center's climate systems. Temperature regulation was stable. Air circulation normal. Humidity controlled. No issues flagged. The systems were functioning exactly as designed.
+
+She'd have to create a problem.
+
+Kara checked the camera coverage around her terminal. Three angles. Full visibility. Any unusual activity would be flagged within minutes. She needed to work within normal parameters while preparing something decidedly abnormal.
+
+Her wrist terminal chimed. 0847 hours. Four hours until Voss's deadline. Four hours until she had to accept the promotion or refuse it and face the consequences. Not enough time to be subtle. Not enough time for careful planning. Just enough time to be bold.
+
+Or stupid. The line between the two was vanishingly thin.
+
+Kara accessed the control center's environmental subroutines through her hull monitoring clearance. The systems were interconnected—everything on the ship linked to everything else through the master network. That was a design feature. Redundancy for safety. Multiple access points for maintenance. The architecture assumed everyone with clearance was trustworthy.
+
+It was also a vulnerability.
+
+She isolated the control center's air circulation subsystem and initiated a diagnostic cycle. Standard procedure. Nothing suspicious. The system ran through its checks, verifying flow rates, filter integrity, pressure differentials. All parameters within acceptable ranges.
+
+Then Kara adjusted a single variable. Air intake ratio. She decreased it by fifteen percent.
+
+The change was subtle. Too small to trigger immediate alarms. But over the next two hours, carbon dioxide would accumulate in the control center. Not enough to be dangerous. Just enough to be uncomfortable. Headaches. Fatigue. Confusion. Reduced cognitive function. Someone would notice. Someone would file a maintenance request.
+
+And Kara would respond.
+
+She returned to her normal monitoring work and waited. The minutes crawled past with agonizing slowness. Panel scans. Stress analysis. Routine work performed with mechanical precision while her mind counted down.
+
+At 1015 hours, the request appeared in her queue. Environmental issue in Assembly Control. Immediate inspection required.
+
+Kara assigned herself before anyone else could respond. Then she grabbed her diagnostic kit and headed for the maintenance conduits. She moved quickly but not frantically. Urgency was expected for maintenance calls. Panic was suspicious.
+
+The access hatch was located behind a fabrication unit on Level Three, partially concealed by equipment storage. Kara unsealed it and climbed inside. The conduit was narrow—barely wide enough to crawl through even for someone of her slight build. Cables and piping lined the walls, leaving a central passage that required her to pull herself forward on her elbows.
+
+The air inside smelled like ozone and hot metal. Emergency lighting every ten meters cast the tunnel in intervals of amber and shadow. She could hear the building's mechanical heartbeat—ventilation systems, power distribution, data networks, all of it humming and clicking and flowing around her.
+
+She pulled herself forward, following the conduit's path toward the control center. Every few meters, junction boxes offered branching paths to other sections of the facility. She ignored them and kept moving. Sweat dripped into her eyes. Her shoulders ached. But she didn't stop.
+
+The conduit opened into a subfloor chamber beneath the control center. The space was maybe three meters high, packed with equipment racks and server arrays. The infrastructure that kept the command post functional. Above her, she could hear voices—muffled conversations, the beep of terminals, the hum of holographic displays projecting ship construction data in three dimensions.
+
+Kara found the air circulation unit and performed a genuine diagnostic. The carbon dioxide levels were elevated but not critical. Uncomfortable but not dangerous. She adjusted the intake ratio back to normal and logged the repair in her tablet. Cover story established. If anyone questioned her presence, she had documentation showing a legitimate maintenance call and a successful resolution.
+
+Then she did what she'd actually come to do.
+
+A maintenance terminal sat in the corner of the subfloor chamber, its screen glowing softly in the dim light. Unattended but active. Logged in with system administration privileges for remote equipment management. Kara plugged in her tablet and began accessing files.
+
+The control center's database contained everything. Launch schedules. Flight trajectories. Cargo manifests. Communication protocols. Crew assignments. The complete operational blueprint of the colony program.
+
+She searched for Vector 447-K.
+
+The file was restricted. Required authorization she didn't have. But the maintenance terminal had elevated privileges—system administration access for troubleshooting equipment failures. Enough to bypass normal security if she was careful. If she disguised her access as a diagnostic query.
+
+Kara initiated a backdoor search, embedding her request inside a routine systems check. The computer hesitated, verifying her credentials, calculating risk probability, consulting its threat assessment algorithms.
+
+Then it granted access.
+
+The file opened. Kara's breath caught.
+
+Vector 447-K wasn't empty space. It was a waypoint. A transfer location. The colony ships were cargo transports, not destinations. They delivered their unconscious passengers to the Lagrange point, where other vessels waited. Larger vessels. The colonists in stasis were being transferred from the CDB ships to something else.
+
+But the file didn't say where those vessels went. Just that the transfer was "Phase One of relocation protocol."
+
+Relocation. Not colonization. The distinction was critical. Colonies implied settlement. Permanent habitation. Building new worlds. Relocation implied movement. Temporary placement. Contingency.
+
+Kara downloaded the file to her tablet, then searched for more. Phase Two. Phase Three. Anything that explained the final destination. Anything that revealed the truth.
+
+The terminal beeped. Access denied. Security flag raised.
+
+She'd pushed too far. Somewhere in the CDB's vast surveillance network, an alert was triggering. Security would be here in minutes. Maybe seconds.
+
+Kara unplugged and ran. She crawled back through the maintenance conduit, her heart hammering, her hands shaking. Behind her, she heard voices in the subfloor chamber. Footsteps on the metal deck. Security responding to the alert.
+
+She reached the access hatch and emerged on Level Three. Workers stared at her—a woman covered in dust and sweat, crawling out of the walls like some kind of industrial ghost. She ignored them and headed for the nearest hygiene station. She had to look normal. Had to blend back into the routine before security connected the alert to her presence.
+
+By the time security arrived at the maintenance conduit, Kara was back at Terminal 7-C-224. Her hands steady on the keyboard. Her appearance cleaned and professional. Her biometrics showing elevated stress but nothing outside acceptable parameters for someone who'd just completed an urgent maintenance call.
+
+But her tablet held the truth. Phase One. Relocation protocol. Vector 447-K. The colony program was a delivery system for something larger. Something hidden.
+
+The question was what to do with that information.
+
+At 1200 hours, her terminal chimed. Supervisor Voss appeared on the screen, his expression neutral but his eyes calculating.
+
+"Chen. My office. Now."
+
+This was it. Either he knew about her unauthorized access, or he was here for her decision about the promotion. Possibly both. The CDB excelled at combining incentives with threats. Offering rewards while demonstrating consequences.
+
+Kara saved her work, logged out, and walked to Voss's office. The door was open. He sat behind his desk, a tablet in his hands, his posture relaxed but alert. Like a predator watching prey and deciding whether to strike or wait.
+
+"Close the door," he said.
+
+She obeyed. The door sealed with a soft click. Soundproofed. Private. Whatever happened in this room wouldn't be heard outside.
+
+"Security flagged unusual access in the control center's maintenance systems this morning." Voss consulted the tablet without looking up. "Your credentials appeared in the logs."
+
+Kara kept her voice steady. No panic. No guilt. Just professionalism. "I was responding to an environmental maintenance request. Air circulation issue in the control center. The problem was resolved."
+
+"Efficiently, too. Well done." He set down the tablet and met her eyes. "But the system also logged a database query from the maintenance terminal. Restricted files accessed. Care to explain?"
+
+There was no point lying. The logs were absolute. "I was investigating the colony program. I found inconsistencies. I wanted answers."
+
+"Answers to what?"
+
+"Where the ships actually go. What happens to the colonists. Why the destination is classified." Kara met his gaze. "Why the entire program is built on lies."
+
+Silence filled the office. Outside, the Assembly Yard hummed with activity. Thousands of workers building ships that would carry thousands more to an unknown fate. All of it orchestrated by men like Voss who believed they were saving humanity by deceiving it.
+
+"You're smarter than I expected," Voss said finally. "That's unfortunate."
+
+"Why unfortunate?"
+
+"Because intelligence creates complications. Stupid people follow orders. Smart people ask questions. Questions require answers. Answers require trust." He stood and walked to the window overlooking the fabrication floor. "Do you know why the mandate exists, Chen?"
+
+"Population control. Resource management. The official reasons."
+
+"The official reasons are correct. Earth's population is unsustainable. Eight billion people consuming a planet that can support maybe two billion comfortably. Resources are depleting. The environment collapsed. The mandate exists because the alternative is extinction." He turned to face her. "The colony program serves a necessary purpose. We're not building new worlds. We're ensuring survival."
+
+"By shipping people to a Lagrange point? That's not survival. That's relocation without consent."
+
+"The relocation protocol moves surplus population to controlled environments where they can contribute to humanity's continuity. It's efficient. It's humane. And it's classified because people fear change. Fear creates resistance. Resistance destabilizes society. We can't afford destabilization when survival is the goal."
+
+"You mean they fear being lied to and shipped like cargo."
+
+"Fear is counterproductive. Which brings us to your decision." Voss returned to his desk. "Accept the promotion and help manage the program from a position of knowledge. Or refuse and face the consequences of unauthorized access. Security takes data breaches seriously, Chen. Especially when they involve classified colonial operations."
+
+Kara's mind raced. Accepting meant complicity. Access to more information, yes. But also responsibility for the lie. For the thousands of people being relocated against their will. For maintaining the system that deceived billions.
+
+Refusing meant deep recycling. Or arrest. Or disappearance. Her knowledge erased along with her existence.
+
+Neither option was acceptable.
+
+"What if I go public?" Kara asked. "What if people learn the truth?"
+
+Voss smiled like she'd said something amusing. "Public where? The networks are monitored. Communication is restricted. Media outlets are CDB-controlled. You have no platform. No credibility. Who would believe a Third Class engineer over the entire Colonial Development Bureau?"
+
+"Someone would. Eventually."
+
+"Perhaps. But by the time they acted, you'd be gone. And the program would continue. One dissident doesn't stop the mandate, Chen. It's larger than you. Larger than me. It's survival." He pulled up a file on his tablet and turned it to face her. "This is what you're refusing to understand."
+
+The image showed a massive structure. Orbital. Cylindrical. Kilometers long. A generation ship, but orders of magnitude larger than anything the CDB was building on Earth. The scale was staggering. This wasn't a colony ship. This was a mobile civilization.
+
+"Ark Station," Voss said. "Humanity's contingency. Built over forty years using resources the public never knew existed. It can support five million people indefinitely. Self-sustaining. Mobile. Capable of interstellar travel at relativistic speeds. The colony ships deliver passengers to Vector 447-K, where they're transferred to Ark Station. That's Phase One."
+
+"Five million people." Kara's voice was quiet. "Out of eight billion on Earth."
+
+"We can't save everyone. The math is brutal. But we can save enough. Genetic diversity. Skill distribution. Cultural preservation. The selection process is ruthless but necessary. Everyone else remains on Earth under the mandate. Maintains productivity. Ensures the selected survive long enough to depart."
+
+"And then what? Everyone left behind just... dies?"
+
+"Eventually. Earth's ecosystem is collapsing. Fifty years. Maybe seventy-five if we're optimistic. The mandate keeps society stable while we complete Ark Station and load the chosen. The alternative is panic. Riots. Collapse. If people knew the truth, civilization would end tomorrow. The mandate gives us time."
+
+Kara stared at the image. Five million survivors. Three billion sacrificed. The numbers were incomprehensible. But the woman in the stasis pod was real. Colonist 4-D-7-147. One person. One life. One of the chosen who didn't know she was abandoning everyone else.
+
+"You're asking me to help lie to eight billion people," Kara said.
+
+"I'm asking you to help save five million. The math is brutal. But it's honest. You can spend your energy fighting the inevitable, or you can ensure the survivors include people worth saving. Your choice, Chen."
+
+The office felt suffocating. Outside, workers swarmed Ship Seven, their movements synchronized and purposeful. Each one believing they were building hope. Each one expendable in the mandate's calculus.
+
+"I need time," Kara said.
+
+"You're out of time. Decision. Now." Voss's patience had limits, and she'd reached them.
+
+Kara stood. Her hands were steady. Her voice was calm. Inside, her mind screamed. But she'd learned to compartmentalize. To show nothing. To survive.
+
+"I accept the promotion," she said.
+
+Voss smiled. "Excellent. Report to Section Management at 0700 tomorrow. Your clearance will be upgraded to Level Four. Welcome to the program, Chen. You've made the right choice."
+
+Kara walked out of the office and returned to Terminal 7-C-224. She completed her shift in mechanical routine, her thoughts elsewhere. She'd bought herself time. Access. Clearance to learn more about Ark Station and the selection process. Opportunity to find others who knew the truth. To build resistance from inside the system.
+
+Or maybe she'd just become complicit in genocide. The line felt thinner every day.
+
+At 1800 hours, she clocked out and returned to Unit 412. The synthetic window showed night—stars scattered across an artificial sky. Beautiful. Fake. Like the promise of colonies that would never exist because the destination was an ark for the chosen few while billions died on a collapsing planet.
+
+Kara pulled up the encrypted data on her tablet. Vector 447-K. Phase One. Ark Station. Five million survivors. Three billion condemned.
+
+The numbers were incomprehensible. But the woman in the stasis pod was real. If Kara could save one person, maybe she could save more. Maybe she could find a way to expand the selection. To force the CDB to take more survivors. To fight the brutal calculus.
+
+Maybe.
+
+Her terminal chimed. A message from an unknown sender. No identification. No authentication. Just coordinates and a time.
+
+"You made the right choice. But now you need allies. Maintenance Bay Seven. 2300 hours. Come alone."
+
+This was either help or a trap. Security testing her loyalty. Or the resistance reaching out. She had four hours to decide.
+
+Kara spent them reviewing the data, memorizing details, preparing contingencies. At 2245 hours, she left Unit 412 and took the transit to Fabrication District Twelve. The trams were nearly empty at this hour. Just night shift workers and the occasional supervisor conducting late inspections.
+
+Maintenance Bay Seven was located in the lower levels, near the waste recycling systems. Few cameras. Little foot traffic. The kind of place where accidents happened and no one asked questions because asking questions was dangerous.
+
+Kara approached cautiously, her hand on the emergency transmitter in her pocket. If this went wrong, at least security would find her body. Eventually.
+
+The bay was dark. Equipment hulks loomed in the shadows like sleeping giants. The air smelled like metal and chemicals and the particular mustiness of spaces rarely visited. Her footsteps echoed on the concrete floor.
+
+"Chen."
+
+She turned. A figure stepped from behind a fabrication unit. Female. Wearing standard worker coveralls. Her badge identified her as Assembly Technician, Second Class. But her posture suggested someone more competent than the job title implied.
+
+"I'm Yuki. Marcus sent me before he disappeared."
+
+Kara stopped three meters away. Maintained distance. "Marcus is in deep recycling. According to Voss."
+
+"According to Voss, yes. In reality, Marcus is in Deep Fabrication under a new identity. The CDB thinks he's in recycling, which means they're not looking for him. We use their assumptions against them." Yuki pulled out a data chip. "He wanted you to have this before they recruited you. Updated protocols. New contact codes. Secure drop locations."
+
+Kara didn't take the chip immediately. "Why contact me? I could be CDB. This could be a test."
+
+"Could be. But you volunteered for Section Management. You're accessing restricted databases. You're documenting evidence. You're either gathering intelligence for resistance or building a case for promotion. Either way, we need you." Yuki held out the chip. "The resistance has been operating for three years. We know about Ark Station. We know about the selection. We know the mandate is controlled genocide dressed as efficiency."
+
+Kara took the chip. "What are you planning?"
+
+"Sabotage. Exposure. Survival. We can't stop Ark Station. It's too far along. But we can delay it. Force the CDB to expand the selection. Save more lives. Or at least die trying." Yuki pulled up a schematic on her wrist terminal. "Ship Seven has external communication arrays. Not active yet, but installed. If we can access one and broadcast encrypted data to surface stations—independent networks the CDB doesn't control—we can expose the program. Force public awareness. Public awareness forces political response."
+
+"The arrays are secured. Restricted access."
+
+"You're Section Management now. Level Four clearance. You can authorize maintenance on the arrays without triggering security alerts. That's why we needed you inside." Yuki met her eyes. "This is the plan. We get your evidence onto a ship-based transmitter. We broadcast it before launch. The CDB can't suppress what they don't control."
+
+It was ambitious. Probably impossible. Certainly suicidal. But it was something. Action instead of submission. Resistance instead of compliance.
+
+"When?" Kara asked.
+
+"Launch is in four months. We need two months to position assets. That gives us two months to gather evidence and prepare the transmission. Can you do it?"
+
+Kara thought about the woman in the stasis pod. About the billions being left behind. About the mandate's brutal calculus. About the choice between survival and complicity.
+
+"I can do it."
+
+"Good." Yuki handed her a second chip. "This one contains your cover story. If questioned about tonight, you responded to a maintenance alert. Found faulty wiring. Logged a repair. The timestamps will support it."
+
+Kara pocketed both chips. "What about Marcus? Is he really safe?"
+
+"Safe is relative. But he's functional. Working. Planning. The resistance is larger than you think. We're just very good at staying invisible."
+
+Yuki disappeared into the shadows. Kara stood alone in the maintenance bay. Then she walked to a nearby panel, opened it, and logged a false repair. Faulty wiring. Circuit replacement. Standard work. Cover story established.
+
+She returned to Unit 412 and loaded the chips. Updated protocols. New contacts. Ways to coordinate outside official channels. The resistance was professional. Organized. They'd survived three years under total surveillance by being smarter than the system.
+
+Two months. Sixty days. Fourteen hundred forty hours. Then they'd broadcast the truth. Expose the lie. Force the mandate to answer for its genocide.
+
+And probably die in the process.
+
+Kara lay in her upgraded bed in her upgraded apartment and wondered if she'd made the right choice. But she already knew the answer.
+
+There was no right choice. Only the choice she could live with. And she couldn't live with silence. Not anymore.

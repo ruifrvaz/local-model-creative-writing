@@ -1,0 +1,247 @@
+Section 4-D was restricted. Kara learned that fifteen minutes into her shift when she tried to access the cargo manifest for Ship Seven's aft compartments.
+
+"Access denied. Clearance level insufficient."
+
+She stared at the red text on her screen. In six months at Terminal 7-C-224, she'd never encountered a restricted section. Hull integrity monitoring required full vessel access—that was the entire point of the position. Engineers couldn't verify structural integrity without seeing the complete ship architecture.
+
+So why was 4-D locked?
+
+Kara backed out of the query carefully, making sure her retreat looked like a mistake rather than reconnaissance. She returned to her standard monitoring routine, but her mind kept circling the problem. Restricted sections meant security protocols. Special clearance. Compartmentalized information.
+
+Things worth hiding.
+
+She needed to get inside that section. Not digitally—that would leave traces the surveillance algorithms would flag within hours. She needed physical access. Eyes on the actual compartment. Direct observation of whatever the CDB was concealing.
+
+Which meant she needed a legitimate reason to be there.
+
+"Chen."
+
+She turned. Supervisor Voss stood at her terminal again, his tablet active, his expression unreadable. The man had a talent for appearing without warning. Like he materialized from the surveillance system itself. Which, given his position, wasn't entirely inaccurate.
+
+"Sir."
+
+"Good news. Your productivity numbers are up this week. Sixteen percent above baseline." He tapped the screen with satisfaction. "The Bureau appreciates initiative. Keep this trajectory, and you'll make Second Class by year-end."
+
+"Thank you, sir."
+
+Voss leaned closer, lowering his voice to that particular tone supervisors used when pretending to be confidential. "Between you and me, Management is watching you. The housing upgrade wasn't random. You're being considered for advancement opportunities. Don't let them down."
+
+He walked away before Kara could respond, his footsteps clicking against the metal deck with metronomic precision.
+
+Her hands were steady on the keyboard, but her pulse hammered in her throat. Advancement opportunities. That meant reassignment. New clearances. Different oversight. Being pulled deeper into whatever machinery ran beneath the CDB's official operations.
+
+She couldn't accept that path. But refusing would trigger immediate scrutiny. The system didn't tolerate a lack of ambition. Stagnation equaled suspicion. Everyone was expected to strive for advancement. To compete for higher positions. To demonstrate loyalty through careerism.
+
+She had to thread the needle—appear grateful while quietly investigating what Section 4-D contained.
+
+At lunch, Marcus wasn't in the cafeteria. Kara ate alone, scrolling through propaganda feeds on her wrist terminal and trying not to appear concerned. His absence could mean anything. Schedule change. Reassignment. Illness.
+
+Or worse. The kind of worse that came with security vehicles and midnight transfers to deep recycling.
+
+She returned to her terminal and buried herself in work. Panel scans. Stress analysis. The routine felt suffocating now. Every hour a countdown to something she couldn't define.
+
+At 1600 hours, a maintenance alert appeared on her screen. Life support fluctuation in Section 4-D. Pressure variance detected. Requires immediate inspection.
+
+Kara's breath caught. This was it. A legitimate reason to access the restricted area. She could verify the environmental controls, document the issue, file a report. Standard procedure. Nothing suspicious.
+
+Except the timing was too convenient. Too perfect.
+
+This was either opportunity or trap. She had ten seconds to decide.
+
+Kara clicked the alert and assigned herself to the inspection. Then she logged out, grabbed her diagnostic kit, and headed for the transit tubes that connected the monitoring station to the ship's interior.
+
+Her hands didn't shake. Her breathing stayed controlled. But her mind raced through contingencies. If this was a test, she needed a perfect performance. If it was genuine, she needed to look unsuspicious while gathering as much information as possible.
+
+Section 4-D was located in the aft cargo area, three decks below the main hull. The transit tube descended through the construction cradle's support structure, passing welding stations and assembly platforms. Through the transparent walls, Kara watched workers swarming over the ship's exterior like insects. Hundreds of them. Thousands. All building something they didn't fully understand.
+
+The tube terminated at an airlock. Kara pressed her thumb to the scanner. Two beeps. Yellow light. Security verification required.
+
+A camera swiveled to face her. Somewhere in the CDB's vast network, an AI was analyzing her biometrics, comparing her credentials against authorized personnel lists, calculating threat probability based on behavioral patterns and access history.
+
+The light turned green. The airlock cycled open.
+
+Inside, the corridor was narrower than the main passages. Emergency lighting cast everything in amber. The air smelled sterile—too clean. Like a medical facility. Not like cargo storage. That was the first anomaly. Cargo sections smelled like packaging materials, lubricants, and the particular mustiness of stored equipment.
+
+This smelled like nothing. Filtered air. Medical-grade purification.
+
+Kara consulted her diagnostic tablet. The life support fluctuation originated fifty meters ahead, near compartment 4-D-7. She walked carefully, her footsteps echoing on the metal deck. The corridor was empty. No workers. No supervisors. Just the hum of ventilation systems and the distant thrum of the ship's power grid.
+
+Compartment 4-D-7's hatch was sealed. Biometric lock. Kara pressed her thumb to the scanner. Green light. Access granted.
+
+The hatch opened with a pneumatic hiss.
+
+Inside, the compartment was dark. Kara activated her wrist light and stepped through. The space was larger than expected—maybe twenty meters square, ceiling three meters high. But instead of cargo containers or equipment, the compartment was filled with rows of cylindrical pods.
+
+Each one three meters long. One meter in diameter. Sealed. Silent.
+
+Stasis pods.
+
+Kara approached the nearest unit. Its surface was smooth, featureless except for a small display panel. She wiped away a thin layer of construction dust and read the readout.
+
+"Stasis Unit 4-D-7-001. Status: Standby. Occupant: None."
+
+She moved to the next pod. Same display. Same status. Standby mode. Empty. She checked five more. All empty. All on standby. Waiting for occupants.
+
+But the compartment's manifest showed this section as cargo storage. Food supplies. Equipment. The necessities a colony would need for establishing settlement on a new world.
+
+Not hundreds of empty stasis pods.
+
+Kara pulled out her tablet and began scanning the compartment. Structural integrity readings. Power consumption. Environmental data. All of it recorded for her inspection report. All of it evidence. She documented the pod configurations, the power distribution systems, the medical monitoring equipment integrated into each unit.
+
+This wasn't cargo storage. This was a transport system for people. And someone had deliberately misclassified it in the official records.
+
+The tablet beeped. Life support fluctuation resolved. Pressure normalized.
+
+There had never been a fluctuation. The alert had been fabricated. Someone wanted her here. Wanted her to see this. But why? To test her reaction? To gauge her loyalty? Or to recruit her?
+
+Kara's training warred with her instincts. Complete the inspection. File the report. Leave. Maintain cover. Don't risk exposure.
+
+But she was already here. Already compromised. Already deep in territory that could get her killed. Might as well make it count.
+
+She moved deeper into the compartment, documenting everything. The pod rows extended back farther than she'd initially thought. Fifty units. A hundred. More. She counted carefully. Two hundred stasis pods in this compartment alone.
+
+At the far wall, she found a maintenance access panel. She pried it open and pulled up the internal systems architecture. Section 4-D had forty-seven compartments. Each one configured identically. If every compartment held two hundred pods, that was nine thousand four hundred units.
+
+Exactly the capacity needed for ten thousand colonists, accounting for crew and essential personnel who'd remain conscious during transit.
+
+So the people were real. The colonists existed. They were just being transported differently than advertised. In stasis. Unconscious. Unable to verify their destination or circumstances. Unable to refuse. Unable to resist.
+
+Kara photographed the systems architecture with her tablet, then closed the panel carefully. She'd seen enough. More than enough. Now she needed to leave before someone noticed how long she'd been here.
+
+She backed toward the hatch, her light sweeping across the pods one final time. Then she froze.
+
+One pod was different. Its display showed active status. Occupied.
+
+Kara approached slowly. The pod's surface was warm to the touch. Power flowing through it. Life support active. Inside, through a small viewport, she could see a figure. A woman. Middle-aged. Her face peaceful in artificial sleep, her chest rising and falling in the slow rhythm of stasis-induced breathing.
+
+The display identified her as Colonist 4-D-7-147. No name. Just a number. The readout showed her vital signs—heartbeat, respiration, neural activity, all within normal parameters. The stasis parameters indicated indefinite suspension. No scheduled wake cycle. The colonist would sleep until someone manually activated the release sequence.
+
+Or forever.
+
+Kara checked the enrollment data. Colonist 4-D-7-147 had been processed three days ago. Voluntary enrollment through the productivity bonus program. Housing upgrade incentive. Like Kara's own recent promotion.
+
+She wondered if the woman had really chosen. Or if "voluntary" was just another lie in a system built on deception.
+
+Kara photographed the occupied pod, documenting the woman's face, the readout, the stasis parameters. Evidence. Proof that real people were being loaded onto these ships. That the program was operational. That whatever destination Ship Seven had, it involved transporting unconscious citizens without their informed consent.
+
+"Chen."
+
+Kara spun around. Supervisor Voss stood in the hatchway, backlit by the corridor's amber lighting. He wasn't alone. Two security officers flanked him, their hands resting casually on stun batons. The posture was relaxed but ready. Professional.
+
+"Sir." Kara kept her voice steady. She could run. Could fight. Both options ended badly. So she stood her ground and played dumb. "I was responding to the maintenance alert. Life support fluctuation in this compartment."
+
+"I know." Voss stepped into the compartment. "I sent it."
+
+The admission hung in the air. Not a test. Not an accident. Deliberate exposure. Kara's mind raced through implications. They wanted her to see this. But why? To frighten her into compliance? To assess her reaction? To offer something?
+
+"The fluctuation is resolved," Kara said carefully. "I was just completing my documentation."
+
+"Good. Thoroughness is valued." Voss gestured to the pods. "What do you think of Section 4-D?"
+
+It was a trap. Every word she said would be analyzed for disloyalty. But silence was admission.
+
+"It's impressive," Kara said. "Efficient use of space. The stasis technology is more advanced than I expected."
+
+"The Bureau spares no expense for the colony program." Voss walked between the pod rows, his fingers trailing along their surfaces like a conductor caressing instruments. "You're wondering why the manifest lists this as cargo storage."
+
+Kara said nothing. Giving him room to speak. Waiting to see what he'd reveal.
+
+"It's for operational security," Voss continued. "If potential colonists knew they'd be spending the journey in stasis, some might refuse. People fear what they don't understand. Fear leads to resistance. Resistance disrupts productivity. The mandate can't afford disruption."
+
+"So you lie to them."
+
+The words escaped before Kara could stop them. The security officers tensed, but Voss raised a hand.
+
+"We simplify," he said. "We remove unnecessary anxiety. The colonists board the ship. They enter their assigned compartments. They're sedated for departure stress—perfectly normal for space travel. Then we transfer them to stasis for the journey. They wake up on their new world, healthy and ready to build humanity's future. No harm done."
+
+"And they never know the truth."
+
+"The truth is irrelevant to their happiness." Voss turned to face her. "Would you want to know you'd spent three years asleep? Helpless? Dreaming? Vulnerable? Or would you prefer to believe you arrived normally, that the journey was routine, that you remained in control?"
+
+Kara met his eyes. "I'd want to choose."
+
+"Choice is a luxury we can't afford." Voss consulted his tablet. "You have exemplary skills, Chen. Your attention to detail is remarkable. Your loyalty score is high. Your productivity is improving. Which is why I'm offering you something special."
+
+"Sir?"
+
+"Promotion to Second Class. Immediate transfer to Section Management. You'd oversee stasis operations for Ship Seven. Significant responsibility. Significant rewards." He gestured to the pods. "You'd be helping ten thousand people reach new worlds. Building humanity's future. That matters, Chen. That's purpose."
+
+It was a bribe. Accept the promotion, accept the lie, become complicit in the system, and benefit from your cooperation. Refuse, and become a problem to eliminate.
+
+"What about Marcus?" Kara asked. "Marcus Chen. Maintenance Engineer from Yard Five."
+
+Voss's expression didn't change. "Marcus Chen was reassigned to deep recycling this morning. Performance issues. Nothing you need to concern yourself with."
+
+Deep recycling. Where problematic workers disappeared into waste processing systems and were never seen again. A convenient accident. A regrettable loss. Next applicant, please.
+
+Marcus had tried to warn her. Had given her the data chip. Had pointed her toward Section 4-D. And now he was gone. Erased. Disappeared into the mandate's machinery.
+
+Unless he'd actually been reassigned. Unless Voss was lying about that too. Unless everything was lies built on lies built on secrets.
+
+"I'm honored by the offer," Kara said carefully. "May I have time to consider?"
+
+"Of course. Twenty-four hours." Voss smiled. It didn't reach his eyes. "But understand, Chen. This opportunity won't repeat. Accept the promotion and prosper. Refuse, and..." He shrugged. "Well. The system has no room for workers who can't advance. Stagnation is suspicious. Regression is unacceptable. You're either moving forward or moving out."
+
+The security officers escorted Kara back to the transit tube. They didn't speak. Didn't need to. The message was clear. Comply or vanish. Those were the only options. The mandate didn't tolerate fence-sitting.
+
+Kara returned to her terminal and completed her shift in mechanical routine. Her mind was elsewhere, turning over possibilities. She had twenty-four hours to decide her future. Accept the promotion. Gain access to more information. Learn the truth from inside the system. Become complicit but informed.
+
+Or refuse. Run. Resist. Probably die.
+
+Neither option was good. Both led to compromise. There was no clean path. No moral high ground. Just degrees of surrender.
+
+At 1800 hours, she clocked out and returned to Unit 412. The synthetic window showed evening—stars emerging in an artificial sky, constellations that might not exist anymore. She sat at her terminal and reviewed the documentation from Section 4-D.
+
+The stasis pods. The hidden colonists. The infrastructure for mass transport. It wasn't enough. She needed more. Needed to know where the ships actually went. Needed proof of the final destination.
+
+And she had twenty-four hours to find it.
+
+Kara pulled up the building's maintenance schedule. Sublevel Three had a data junction that serviced the entire residential block. If she could access it during a system reset, she could bypass normal security protocols. Pull restricted files. Get real answers.
+
+But the junction was monitored. Accessing it would trigger alerts unless she had a legitimate reason. She needed a power failure. Something that would justify emergency maintenance. Something that would give her cover.
+
+She looked at the environmental controls for her unit. Each apartment had independent climate systems. If she overloaded her regulator, it would trip the circuit breakers for the entire floor. Emergency protocols would activate. The data junction would switch to backup mode for thirty seconds while the system reset.
+
+Thirty seconds. Enough time to pull files if she was fast. Enough time to get caught if she wasn't.
+
+Kara stood and walked to the environmental control panel. Her hand hovered over the override switch. This was the line. Cross it, and there was no going back. The system would know. Voss would know. Security would come.
+
+But doing nothing meant accepting the lie. Meant watching ten thousand people loaded into stasis and shipped to unknown destinations while she benefited from their ignorance.
+
+She couldn't do that. Wouldn't do that.
+
+Kara activated the override and pushed the climate system to maximum output. The unit's fans roared to life, pumping heat into the apartment at maximum capacity. The temperature climbed rapidly. Warning lights flashed on the control panel. Within ninety seconds, the temperature reached critical threshold.
+
+The circuit breaker tripped. Darkness. Emergency lighting activated. Throughout Sublevel Three, alarms sounded. Residents emerged from their units, confused and annoyed.
+
+Kara grabbed her tablet and sprinted for the maintenance room at the corridor's end. The door was locked. She bypassed it with her engineer credentials and slipped inside. The data junction was a wall of server racks and fiber optic cables. Hundreds of connections streaming information to and from the residential block.
+
+She plugged her tablet into an access port and began pulling files. Ten seconds. Ship Seven launch coordinates. Destination: Vector 447-K. That was deep space. Not a colony world. Not even close to any known system.
+
+Twenty seconds. Previous ship trajectories. All of them matched Vector 447-K. Six ships. All to the same location. All departing Earth. None returning.
+
+Twenty-five seconds. Navigation data. Vector 447-K was a Lagrange point three million kilometers from Earth. No planets. No stations in the official databases. Just empty space. Or supposedly empty space.
+
+Thirty seconds. The power grid reset. The data junction switched back to primary mode. Kara unplugged and ran. She made it back to her unit before security arrived, sealing the door behind her and resetting her environmental controls to normal.
+
+Her tablet held the truth. The colony ships weren't going to new worlds. They were going to a rendezvous point in deep space. But why? What was at Vector 447-K? And what happened to the colonists after transfer?
+
+Kara spent the night reviewing the data. The destination coordinates repeated across all six ships. Whatever Vector 447-K contained, it was the real purpose of the colony program. The ships were delivery vessels. The colonists were cargo. But cargo for what?
+
+At 0600 hours, her terminal chimed. A message from Supervisor Voss.
+
+"Your decision is required by 1200 hours today. Section Management awaits your response."
+
+Twelve hours. Then she'd have to choose. Accept the promotion and gain access to more information. Or refuse and face the consequences.
+
+Kara deleted the message and prepared for her shift. She had one chance to get more answers. One chance to access the classified databases that might explain Vector 447-K. And she knew exactly where to find them.
+
+The Assembly Yard control center. Where the launch coordinates were programmed. Where the flight plans originated. Where the truth was stored.
+
+It would be suicide to try accessing it. The control center was the most secure location in the entire facility. Restricted entry. Constant surveillance. Security protocols layered like armor.
+
+But she was out of time and options. If she wanted answers, she had to take the risk.
+
+Kara gathered her tablet, encrypted her stolen data, and headed for Gate Seven. Today, she'd learn what the Colonial Development Bureau was really building. Or she'd disappear trying.
+
+Either way, the choice was hers. And she'd already made it.
