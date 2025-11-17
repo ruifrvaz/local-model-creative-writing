@@ -1,0 +1,249 @@
+The call came at 0347 hours on the forty-first day. Kara was completing her night shift documentation when Director Huang's face appeared on her terminal. No warning. No scheduled meeting. Just the sudden intrusion of authority into routine.
+
+"Chen. My office. Immediately."
+
+The connection terminated before Kara could respond. Her hands stayed steady on the keyboard, but her mind raced through possibilities. They knew. Security had traced her maintenance requests. The resistance had been compromised. Someone had broken under interrogation and given her up.
+
+Or this was something else entirely.
+
+She saved her work, locked her terminal, and headed for the management wing. The corridors were empty at this hour. Just emergency lighting and the distant hum of machinery. Her footsteps echoed on metal decking like countdown beats.
+
+Director Huang's office was lit and active despite the hour. She sat behind her desk with Supervisor Voss standing beside her. Both their expressions were unreadable. Professional masks hiding whatever calculations were happening beneath.
+
+"Close the door," Huang said.
+
+Kara obeyed. The door sealed with a soft click. Soundproofed. Whatever happened in this room wouldn't be heard outside. She'd learned that lesson weeks ago.
+
+"Security has identified a sabotage network," Huang began without preamble. "Operatives embedded in multiple fabrication districts. Coordinating through encrypted maintenance alerts. Planning to disrupt Ship Seven's launch."
+
+Kara kept her breathing controlled. Her heart rate elevated but within acceptable stress parameters for someone being briefed on a security threat. "Have they been apprehended?"
+
+"Most of them. Nineteen arrests so far. Deep recycling transfers processed this morning." Voss consulted his tablet. "But we believe there are more. Sleeper agents positioned in critical roles. We need to identify them before launch."
+
+"How can I assist?"
+
+"You have access to Section 4-D. Direct oversight of stasis operations. If saboteurs attempt to interfere with pod deployment, you'll be positioned to observe and report." Huang leaned forward. "We've also identified unusual maintenance requests in your authorization logs. External communication array diagnostics. Multiple entries over the past three weeks. Care to explain?"
+
+The trap closed. Kara had two seconds to decide between fight and flight. Neither option was good.
+
+"Standard pre-launch verification," she said calmly. "The arrays need to be functional for emergency communication. I've been conducting routine diagnostics to ensure readiness. The requests are all documented in my maintenance logs."
+
+"We've reviewed your logs." Voss pulled up a data display. "They're thorough. Detailed. Exactly what we'd expect from someone as competent as you. Which raises the question—are you preparing the arrays for launch, or for something else?"
+
+It was a direct accusation. They suspected her. Not enough to arrest her yet, but enough to test her reaction. To see if she'd break or hold.
+
+Kara met Huang's eyes. "I'm preparing them for launch. As ordered. If you doubt my loyalty, check my productivity scores. Check my compliance ratings. Check three years of service without a single disciplinary flag. I've done everything the mandate asked. I've earned this position."
+
+Silence filled the office. Huang and Voss exchanged glances. Some unspoken communication passed between them. Then Huang spoke.
+
+"Ship Seven launches in two weeks. We're moving the schedule forward. Intelligence suggests the sabotage network was planning to strike during final launch preparations. By accelerating, we'll catch them off guard."
+
+Two weeks. Not three. The resistance was expecting three weeks to finalize positioning. Two weeks meant scrambling. Adjusting. Possibly aborting.
+
+"Understood," Kara said. "What are my orders?"
+
+"Increase security protocols in Section 4-D. Verify every pod personally. Document anyone who accesses the section outside their assigned duties. Report all irregularities immediately." Huang stood. "You're being trusted with critical responsibility, Chen. Don't disappoint us."
+
+"I won't, ma'am."
+
+Kara left the office and returned to Section 4-D. Her mind raced through implications. Nineteen arrests. The resistance was compromised but not broken. Yuki might be among the arrested. Or she might still be operational. There was no way to know without making contact, and making contact now would be suicide.
+
+Two weeks instead of three. The timeline was collapsing. They'd have to accelerate the broadcast or abort entirely. But aborting meant another year of silence. Another ship launch. Another ten thousand people shipped to Ark Station while billions remained ignorant.
+
+Kara couldn't accept that. Wouldn't accept it.
+
+She had to make contact. Had to coordinate the new timeline. But how? The maintenance alerts were compromised. The normal channels were monitored. Every communication was analyzed.
+
+Unless she used the one channel no one would suspect. Official reports. Maintenance logs. Public documentation that anyone could access because it was too boring for surveillance algorithms to flag.
+
+Kara pulled up her terminal and began filing routine reports. Pod integrity status. System diagnostics. Everything mundane and procedural. But embedded in the diagnostic codes was a message.
+
+"Timeline accelerated. Launch minus two weeks. Adjust plans. Confirm viability."
+
+She routed the report through the maintenance database. Anyone monitoring the resistance protocols would see routine bureaucracy. Anyone in the resistance monitoring maintenance logs would see the hidden message.
+
+Then she waited.
+
+Hours passed. Her shift ended. She returned to Unit 412 and tried to sleep. Failed. At 1400 hours, her terminal chimed with a systems update notification. She opened it.
+
+Buried in the update log was a response. Just a few characters in hexadecimal code that translated to simple confirmation.
+
+"Viable. Proceed as planned. Final coordination pending."
+
+The resistance was operational. Damaged but functional. They could still execute.
+
+Kara spent the next week in a state of controlled paranoia. Every interaction was analyzed for threat probability. Every colleague was a potential informant. Every security officer might be the one who'd arrest her. But she maintained her performance. Inspected pods. Filed reports. Documented failures. The loyal employee working tirelessly for humanity's survival.
+
+On the eighth day of the accelerated timeline, Security increased patrols in the fabrication districts. Armed officers at every checkpoint. Biometric verification every six hours. The CDB was tightening control, preparing for the launch and hunting for remaining resistance members.
+
+Kara volunteered for extra shifts. "Dedication," Huang had called it. "Initiative." Really it was access. More time in Section 4-D meant more opportunity to prepare. More chances to fine-tune her plan for the communication array activation.
+
+On the tenth day, she received her final coordination message. Hidden in a pressure sensor calibration report.
+
+"Broadcast window: Launch minus three days. 0200 hours. Assets positioned. Proceed with emergency protocol."
+
+Three days before launch. When Ship Seven would be fully loaded and secure but before final departure preparations began. The window when a life support malfunction would trigger emergency communication without aborting the launch itself.
+
+Kara acknowledged with a maintenance completion signature. Then she deleted all evidence of the communication and focused on her role.
+
+Two days to launch minus three. Forty-eight hours to prepare.
+
+She spent them reviewing her plan obsessively. The life support grid had seventeen access points. She needed to trigger a controlled failure at precisely 0200 hours. Thirty seconds of power interruption. Enough to activate emergency protocols but not enough to harm the colonists in their pods.
+
+She'd cause the failure remotely from a maintenance terminal in Section 4-D's subfloor. Upload her evidence to the communication arrays during the thirty-second emergency window. Then restore power and vanish before security responded.
+
+Simple. Precise. Probably impossible. But it was the best plan she had.
+
+On the launch-minus-three day, Kara reported for her night shift at 2200 hours. The Assembly Yard was frenetic with final preparations. Workers everywhere. Supervisors conducting last-minute inspections. Ship Seven gleamed under the industrial lights, a monument to deception ready to carry ten thousand unconscious citizens to their selected future.
+
+Kara clocked in and walked through Section 4-D. The pods were all occupied now. Two thousand lives suspended in artificial sleep. Colonist 4-D-7-147 was still there. The woman Kara had seen on her first unauthorized visit. Still peaceful. Still trusting.
+
+Kara wondered if she'd survive the next three hours. If any of them would.
+
+At 0145 hours, she accessed the maintenance subfloor through the same conduit she'd used weeks ago. The space was dark and cramped. Equipment hummed around her. She found the life support control terminal and logged in with her credentials.
+
+Fifteen minutes to execution.
+
+Kara pulled out her tablet and loaded the evidence files. Thirty-two deaths. Eighty-seven medical complications. One hundred forty-three psychological trauma cases. Ark Station blueprints. Selection criteria. Communications proving the CDB knew Earth was dying. Everything encrypted and ready to transmit.
+
+Ten minutes.
+
+She accessed the life support grid architecture. Identified the circuits she needed to interrupt. Calculated the exact sequence to create a thirty-second failure without triggering permanent damage.
+
+Five minutes.
+
+Kara's hands were steady. Her breathing controlled. Her mind clear. This was the moment. Everything she'd risked. Everything she'd sacrificed. Everything reduced to thirty seconds of truth or thirty seconds of failure.
+
+Two minutes.
+
+She initiated the sequence. The life support grid showed normal operation. Green indicators across all seventeen access points. Two thousand pods receiving power. Everything stable.
+
+One minute.
+
+Kara positioned her tablet to upload the moment the emergency protocols activated. Her finger hovered over the execution command.
+
+Thirty seconds.
+
+She thought about the woman in the pod. About Marcus, wherever he was. About the billions on Earth who would die never knowing they'd been abandoned. About the choice between silence and sacrifice.
+
+Zero.
+
+Kara executed the command. The life support grid flickered. Power dropped across Section 4-D. Emergency lighting activated. Alarms sounded. And somewhere above her, communication arrays came online automatically. Emergency broadcast capability. Distress beacon protocol. Exactly as designed.
+
+She uploaded her evidence. The tablet showed transfer progress. Ten seconds. Twenty seconds. The data streamed out through the arrays toward surface stations. Independent networks. Systems beyond CDB control.
+
+Twenty-five seconds.
+
+Almost complete. Almost free. Almost—
+
+The lights came back online. Not the emergency restoration she'd planned. Full power. Immediate. Someone had manually overridden her failsafe.
+
+Kara looked up. Supervisor Voss stood in the subfloor entrance, flanked by four security officers. His expression was almost sad.
+
+"I gave you every chance, Chen. Every opportunity to be loyal. To accept the future we're building. But you chose resistance instead of cooperation."
+
+Security moved forward. Kara didn't run. There was nowhere to go. She'd known this was possible. Probable. Almost certain.
+
+But her tablet showed transfer complete. One hundred percent. The evidence was transmitted. Broadcast. Beyond recall.
+
+"It's done," she said. "Whatever you do to me now, the truth is out there. People will know."
+
+"Will they?" Voss gestured to the officers. "The CDB controls all surface stations. All independent networks. The only messages that reach the public are messages we allow. Your broadcast went nowhere, Chen. Just into our data collection systems. We've been monitoring the resistance communication channels for months. Every encrypted message. Every coordination. Every plan. You walked into a trap thinking you were exposing us. Really you were exposing yourselves."
+
+The words hit like physical blows. It had all been controlled. The resistance was infiltrated. The communication channels were monitored. The broadcast hadn't reached independent networks. It had reached CDB servers where it would be deleted and forgotten.
+
+Three years of investigation. Weeks of evidence gathering. Nineteen resistance members arrested. And for what? Nothing. Failure. Complete and absolute.
+
+Security restrained Kara with practiced efficiency. Restraints on her wrists. A hand on her shoulder guiding her toward the exit. She didn't resist. There was no point.
+
+"Take her to holding," Voss ordered. "Process her for deep recycling. Priority transfer. I want her gone before launch."
+
+They led her through corridors she'd walked freely hours ago. Past workers who avoided eye contact. Past cameras that had watched her entire journey from compliance to resistance to capture. The machinery of the mandate ground forward regardless of individual defiance.
+
+The holding cell was small. Concrete. A metal bench. No windows. Kara sat and waited. For processing. For transfer. For erasure.
+
+Hours passed. Or maybe minutes. Time felt fluid in the cell. Meaningless.
+
+Then the door opened. Director Huang stepped inside. Alone.
+
+"Chen. Walk with me."
+
+It wasn't a request. Kara stood and followed. They moved through service corridors toward the residential districts. Away from the fabrication zones. Away from the holding cells.
+
+"Where are we going?" Kara asked.
+
+"Sublevel Three. Unit 412. Your apartment." Huang's voice was neutral. Professional. "You're being reassigned."
+
+"Reassigned? I thought I was being processed for deep recycling."
+
+"That was Supervisor Voss's recommendation. I disagreed." Huang stopped at a transit station. "You're intelligent, Chen. Capable. Loyal to your principles if not to the mandate. Those qualities are valuable. Wasted in recycling."
+
+They boarded the transit. The car was empty. Just the two of them and the city's mechanical heartbeat humming through the walls.
+
+"I don't understand," Kara said.
+
+"Ship Seven launches tomorrow. But Ship Eight is already under construction. And Ships Nine through Twenty after that. The mandate continues. The selection continues. Ark Station's capacity is five million, but we have twenty years to reach that goal. Twenty years of ships. Twenty years of opportunities."
+
+The transit arrived at Sublevel Three. They walked to Unit 412. Huang opened the door and gestured inside.
+
+"You're being promoted to Director, Fourth Rank. Oversight of Section Management for Ship Eight. Your security clearance is upgraded to Level Five. Your compensation increases significantly. Your quarters remain here."
+
+Kara stared at her. "Why? I tried to sabotage the program. I gathered evidence. I attempted to broadcast it. I betrayed everything you stand for."
+
+"You demonstrated initiative. Creativity. Determination. The exact qualities we need in senior management." Huang's expression was unreadable. "The resistance network you infiltrated was created by us. A honeypot to identify malcontents. Everyone who joined—every single member—was flagged and monitored. We knew about your evidence gathering from the beginning. We let it continue because it identified weaknesses in our protocols. Medical failures you documented are being corrected. Selection bias you revealed is being addressed. You've actually improved the program, Chen. Made it more efficient."
+
+The trap had been total. Complete. Not just infiltration of the resistance. Creation of it. The CDB had manufactured opposition to identify dissidents and improve their own systems. Every act of defiance had been permitted. Monitored. Weaponized against itself.
+
+"And if I refuse the promotion?" Kara asked.
+
+"Then you're processed for recycling. Those are your options. Advance or end. The mandate doesn't tolerate stagnation." Huang pulled out a tablet. "You have twelve hours to decide. Report to Section Management at 0700 tomorrow or report to processing. Your choice."
+
+She left. Kara stood alone in her apartment. The synthetic window showed night. False stars scattered across an artificial sky. Beautiful. Fake. Like everything else.
+
+She walked to the window and touched the glass. Somewhere above, Ship Seven prepared for launch. Ten thousand colonists sleeping in stasis. One of them was Colonist 4-D-7-147. The woman Kara had wanted to save. The woman who'd never know how close she'd come to learning the truth.
+
+The resistance had been manufactured. The broadcast had been contained. The mandate continued. Nothing had changed except Kara's understanding of how complete the system's control really was.
+
+She thought about refusing. About choosing recycling over complicity. About maintaining her principles to the end.
+
+But she thought about Ship Eight too. Twenty more ships. Two hundred thousand more colonists. If she was Director of Section Management, she'd have real authority. Real access. She could save people. Maybe not all of them. Maybe not most. But some. Individual lives pulled from the machinery. Small acts of mercy in a system built on calculated cruelty.
+
+It wasn't revolution. It wasn't justice. It was compromise. Survival. The same brutal math everyone used to justify everything.
+
+But it was something.
+
+At 0700 hours, Kara reported to Section Management. Director Huang met her with a tablet and a new uniform bearing the insignia of Director, Fourth Rank. The loyalty pin was silver. Seven years of service. Except Kara had only served three.
+
+"Your record has been adjusted to reflect your true value to the program," Huang explained. "You've been with us from the beginning. A loyal officer. A rising star. That's the official narrative now. The truth is whatever serves the mandate."
+
+Kara took the uniform. Put it on. The fabric felt like chains.
+
+"Ship Eight construction begins in six months," Huang continued. "You'll oversee design improvements based on lessons learned from Ship Seven. Better medical monitoring. Improved selection algorithms. More efficient processing. The mandate values continuous improvement."
+
+"Understood."
+
+"One more thing." Huang's voice dropped. "There are others like you in the program. People who started in resistance and chose cooperation. You're not alone, Chen. And if you're smart, you'll learn from them. Learn how to save lives within the system rather than dying futilely against it."
+
+She left. Kara stood in her new office—larger than her old quarters, with a real window showing the fabrication districts below. She watched workers swarming over Ship Seven's hull. Final preparations for launch. Twelve hours until departure.
+
+She pulled up the personnel files for Ship Eight. Empty rosters waiting to be filled. Two thousand pods. Two thousand selections. Two thousand chances to choose who survived.
+
+It wasn't what she'd wanted. But it was what she had.
+
+Kara Chen, Director Fourth Rank, opened her terminal and began working. The mandate wanted her compliance. She'd give them performance. And beneath that performance, she'd save who she could. One person at a time. One small mercy in a system built on lies.
+
+It wasn't revolution. It wasn't justice. It was survival. And sometimes survival was the only victory possible.
+
+Outside her window, Ship Seven lifted toward the sky, carrying its unconscious cargo toward an uncertain future. And below, construction on Ship Eight had already begun.
+
+The mandate continued. The selection continued. And Kara Chen, survivor and collaborator, continued with it.
+
+Because in the end, everyone made the same choice. Adapt or vanish. Compromise or die.
+
+She'd chosen to live. And she'd spend the rest of her life wondering if that made her strong or broken.
+
+Probably both.
+
+The synthetic stars shone on. False but beautiful. Like hope in a dying world.
+
+And Kara worked through the night, building tomorrow with hands that trembled only when no one was watching.
