@@ -31,7 +31,7 @@
 ## Primary Use Case
 
 **VS Code-based science fiction writing** with RAG-enhanced local model:
-- Author writes in VS Code with Continue.dev extension - NOT implemented yet
+- Author writes in VS Code with Continue.dev extension
 - Extension queries port 8001 (RAG proxy server)
 - RAG proxy auto-retrieves context from worldbuilding documents
 - Every query gets relevant character profiles, plot details, world lore
@@ -44,7 +44,7 @@
 - Supports models with 128k token context (e.g., Qwen 2.5-7B-Instruct) - Unconfirmed
 - Benchmark suite for creative writing quality and coherence
 - Health checks for API, concurrency, function calling
-- VS Code with Continue.dev extension - NOT implemented yet
+- VS Code with Continue.dev extension (see chatUI/README.md)
 - Fine-tuning workflow for personal narrative style - READY (QLoRA/LoRA configs, scripts, guide)
 
 ## Starting or resuming chats

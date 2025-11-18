@@ -214,13 +214,19 @@ local-model-creative-writing/
 │   ├── training/                  # Training scripts
 │   ├── benchmarks/                # Voice comparison tests
 │   └── data/                      # Training samples
+├── chatUI/                     # VS Code integration
+│   ├── README.md                  # Continue.dev setup guide
+│   └── test doc.md                # RAG validation examples
+├── tasks/                      # Task tracking
+│   └── 001_configure_continue_for_creative_writing.md
 └── docs/                       # Additional documentation
     ├── VSCODE_WRITING_SETUP.md    # VS Code configuration
     ├── SCIENCE_FICTION_WRITING_GUIDE.md
     ├── CONTEXT_COMPLETE_GUIDE.md
     ├── RAG_RETRIEVAL_GUIDE.md
     ├── CONCURRENCY_OPTIMIZATION_GUIDE.md
-    └── VLLM_QUICK_REFERENCE.md
+    ├── VLLM_QUICK_REFERENCE.md
+    └── history/                   # Architecture change logs
 ```
 
 ## Documentation
