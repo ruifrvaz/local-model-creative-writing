@@ -66,6 +66,39 @@
 - Update this history file as the session reference for next chat
 - **Do NOT create** separate RESUME or TODO files (history file serves this purpose)
 
+## Task Management
+
+**When user types "create task - [title]":**
+- Create new task file in `tasks/` directory
+- Filename: `tasks/NNN_task_title.md` (NNN = next available number, zero-padded to 3 digits)
+- Include: Title, priority (1-5, where 1=highest), description, acceptance criteria
+- Tasks are numbered sequentially starting at 001
+
+**When user types "what's next" or asks about tasks:**
+- Read all task files in `tasks/` directory
+- Show as many tasks as the user asks sorted by priority (1 first) then by number
+- Display: number, title, priority
+- Limit to top 5-10 tasks unless user requests more
+
+**Task file format:**
+```markdown
+# [Task Title]
+
+**Priority:** [1-5]  
+**Status:** Not Started | In Progress | Completed | Blocked  
+**Created:** YYYY-MM-DD
+
+## Description
+[Clear description of what needs to be done]
+
+## Acceptance Criteria
+- [ ] Criterion 1
+- [ ] Criterion 2
+
+## Notes
+[Optional additional context]
+```
+
 ## Documentation Philosophy
 
 **Update core documentation to reflect current state:**
