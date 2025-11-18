@@ -130,7 +130,7 @@ Generate narrative examples (500-1000 words each) on demand across **different s
 
 ---
 
-### Story Universe 5: **Jump Drive Mechanics** (NEW - Generate 15-20 scenes)
+### Story Universe 5: **Jump Drive Mechanics**
 
 **Premise:** Experimental FTL jump drive engineers push the boundaries of physics, experiencing temporal anomalies and confronting the cost of faster-than-light travel.
 

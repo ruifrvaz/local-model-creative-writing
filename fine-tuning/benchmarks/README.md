@@ -97,8 +97,6 @@ python 3_blind_evaluation.py results/baseline_20251107.json results/finetuned_20
 
 **Target:** Fine-tuned should win >60% of blind comparisons for deployment
 
-**Status:** TODO - Implementation planned
-
 ---
 
 ## Test Prompts
@@ -323,7 +321,7 @@ fine-tuning/benchmarks/
 ├── README.md                      # This file
 ├── 1_voice_comparison.py          # Generate completions + metrics ✓ IMPLEMENTED
 ├── 2_compare_with_training.py     # Compare to training data ground truth ✓ IMPLEMENTED
-├── 3_blind_evaluation.py          # Human quality assessment ⏳ TODO
+├── 3_blind_evaluation.py          # Human quality assessment ✓ IMPLEMENTED
 ├── test_prompts.json              # Standard test set (12 prompts) ✓ READY
 ├── results/                       # Auto-generated outputs
 │   ├── baseline_TIMESTAMP.json
