@@ -1,0 +1,271 @@
+The scanner at Gate Seven beeped twice. Green light. Kara Chen pressed her thumb against the biometric plate and waited for the system to confirm her identity.
+
+0.8 seconds. The database was slow today. Yesterday it had been 0.6. The week before, 0.5. The network was degrading—too many users, too many queries—but acknowledging the decline would imply criticism of CDB infrastructure. So everyone pretended the delays were normal. Acceptable. Part of the mandate's grand efficiency.
+
+"Fabrication Engineer, Third Class. Proceed to Assembly Yard Nine." The synthesized voice carried no inflection. Just data. No recognition of the individual behind the biometric scan. Kara was ID-7429-Chen-K to the system. A resource. A productivity unit. One of eight billion.
+
+She pulled her hand back and stepped through the checkpoint. The gate's pneumatic locks released with a hiss that echoed down the corridor. Behind her, fifty more workers queued for their turn, each one identical in their gray coveralls and exhausted compliance.
+
+The morning shift was already flooding the arterial passages of District Twelve. Thousands of workers moving in synchronized flow, like blood cells through veins. The metaphor was apt. The mandate had turned humanity into a machine. Billions of parts working toward an end goal most of them would never understand. Never question. Never escape.
+
+Above the crowd, screens flickered with daily productivity scores. Kara's name appeared near the middle of the list. Adequate. Safe. Not high enough to trigger enhanced scrutiny. Not low enough to warrant reassignment to the deep recycling plants where problematic workers disappeared into waste processing systems.
+
+The sweet spot of invisibility. She'd worked three years to maintain that position.
+
+Excellence drew attention. Mediocrity meant survival.
+
+She kept her head down and joined the flow. Around her, workers moved in practiced silence. Some were young—fresh from mandatory education centers where children learned technical skills and mandate compliance in equal measure. Their eyes still held traces of personality. Individual thought. Give them five years, and that would fade. The system ground individuality out of people like rust off metal. Smooth. Efficient. Uniform.
+
+Others were older. Deep lines around eyes that had forgotten how to see sunlight. Shoulders permanently curved from years hunched over workstations. Hands scarred from industrial accidents that were never quite serious enough to justify medical leave. The older workers were shells. Ghosts. They'd learned the most important lesson of the mandate: exist quietly or don't exist at all.
+
+Kara was thirty-one. Young enough to remember Earth's surface before the atmospheric collapse. Old enough to know that nostalgia was dangerous. The past was gone. Dwelling on it meant disloyalty. Disloyalty meant reassignment.
+
+The underground transit to Yard Nine took eleven minutes. Kara counted them on the digital display above the door, watching the seconds tick past with mechanical precision. Eleven minutes every morning. Eleven minutes every evening. Four thousand three hundred seconds each day spent in transit. Her life measured in increments. Quantified. Optimized.
+
+Around her, workers stood in silence. No conversations. No eye contact. Some stared at their wrist terminals, scrolling through approved content—productivity tips, mandate success stories, cheerful propaganda about colonial expansion. Others simply waited, eyes unfocused, thoughts carefully blank.
+
+Speech was recorded. Analyzed. Flagged for review if conversations contained unapproved topics. Politics. History. Questions about the colony program. Expressions of doubt. The list of forbidden subjects grew every year. Soon there would be nothing left to discuss except work quotas and approved entertainment.
+
+Silence was safer.
+
+The tram doors opened with a hydraulic hiss. Cool air rushed in, carrying the smell of welding fumes and machine oil. The workers filed out in organized rows. No rushing. No disorder. Efficiency in all things.
+
+Assembly Yard Nine stretched out before them—a cathedral of steel and carbon fiber that swallowed the horizon. Colony Ship Seven rose from its construction cradle like a monument to human ambition. Or desperation. Kara couldn't decide which. Maybe both. Maybe the two were inseparable now.
+
+The ship was massive. Four hundred meters long. Eighty meters in diameter at its widest point. Designed to carry ten thousand colonists to new worlds. Or so the propaganda claimed. Every morning, Kara watched the ship grow larger. Every evening, she wondered if anyone aboard would actually reach those promised worlds.
+
+Or if the ships went somewhere else entirely.
+
+The hull plating gleamed under the industrial lights, each panel stamped with the Colonial Development Bureau seal—an eagle carrying Earth in its talons. The symbol was everywhere. On buildings. On uniforms. On the identification cards everyone carried. A constant reminder of who held power and who obeyed.
+
+Scaffolding wrapped the vessel in geometric complexity. Welding torches sparked in a thousand locations simultaneously, creating constellations of light in the perpetual twilight of the underground facility. The yard never slept. Three shifts working around the clock. Human labor functioning like machine components. Rest was scheduled. Sleep was allocated. Everything optimized for maximum output.
+
+Kara clocked in at her work station. Terminal 7-C-224. Hull integrity monitoring. The station was a small desk with three displays and a keyboard worn smooth by years of use. Previous workers had left no trace of their presence. No personal items. No modifications. The terminal was exactly as regulations specified. Sterile. Functional. Anonymous.
+
+She'd been at this post for six months. Before that, life support systems. Before that, engine assembly. The CDB rotated assignments quarterly to prevent expertise clustering. Workers who understood too much of the ship's design might notice inconsistencies. Might ask questions. Rotation kept everyone ignorant of the full picture. Specialized but limited. Competent but controlled.
+
+Kara logged into her system and pulled up the morning's monitoring queue. Two hundred hull panels awaiting verification. Each one required stress analysis, fracture inspection, integrity certification. Boring work. Precise work. The kind that let your mind wander.
+
+Which was dangerous.
+
+"Chen." The voice came from behind her.
+
+She turned. Supervisor Voss stood two meters away, his uniform crisp despite the heat radiating from the welding operations. The loyalty pin on his collar caught the light—solid gold for ten years of exemplary service. Kara's was bronze. Three years. She'd need seven more before she qualified for silver. If she lasted that long.
+
+"Sir."
+
+"Your productivity score dropped two percent last quarter." Voss consulted his tablet, his finger scrolling through data with practiced efficiency. "Care to explain?"
+
+Kara's pulse quickened, but she kept her voice steady. Fear was weakness. Weakness meant vulnerability. "Equipment malfunction in Week Eight. I filed the report. Diagnostics took three days to complete."
+
+"I read the report." Voss tapped the screen. "Which is why you're still at Third Class. But the CDB expects improvement. Every percentage point matters. The mandate doesn't tolerate stagnation."
+
+"Understood, sir."
+
+He studied her face. Kara kept her expression neutral, her breathing controlled. The cameras above them would be recording this interaction, feeding it into analysis algorithms that measured micro-expressions and stress patterns. The system could detect lies with eighty-seven percent accuracy. She'd read that statistic in a technical manual once. Before the manual was classified and removed from general access.
+
+"Colony Ship Seven launches in six months," Voss continued. "The Bureau needs perfection, not adequacy. Ten thousand colonists depend on the work done here. Can I count on you, Chen?"
+
+"Yes, sir."
+
+"Good." He turned to leave, then paused. The hesitation was deliberate. Calculated. Everything Voss did was calculated. "Your housing assignment was upgraded last week. Sublevel Three now. That's a privilege, Chen. Don't waste it."
+
+He walked away before she could respond. His footsteps echoed on the metal deck. Click. Click. Click. Then silence.
+
+Kara stared at her terminal. The upgrade. She'd received the notification three days ago but hadn't questioned it. Questioning good fortune was suspicious. But now Voss's mention felt like a warning. Or a test.
+
+Housing upgrades were rewards for exceptional productivity. But Kara's scores were merely adequate. So why the promotion? What had she done to earn it?
+
+Or what did they expect her to do?
+
+She forced herself to focus on the data stream. Panel 7-C-3401 showed a micro-fracture in the carbon fiber weave. She flagged it for repair, tagged the maintenance crew, moved on to the next reading. Work continued regardless of doubt. The system demanded it.
+
+Hours passed in mechanical routine. Panel scans. Stress analysis. Flagging anomalies. Certifying integrity. The work required enough attention to occupy her conscious mind but left her thoughts free to spiral into dangerous territory.
+
+Why had they upgraded her housing? Who had authorized it? What did it mean?
+
+At 1200 hours, the lunch alert sounded. Across the yard, thousands of workers stopped simultaneously, like machines receiving a shutdown command. They moved toward designated nutrition stations in organized columns. No rushing. No disorder. The CDB managed even biological needs with calculated precision.
+
+Kara stood, her back stiff from sitting. She joined the queue at Nutrition Station Seven. The line moved quickly. Efficiency in all things.
+
+The meal was standard: protein paste, vitamin supplement, calorie bar. Engineered for optimal nutrition at minimum cost. Taste was irrelevant. Meals were fuel. Workers were engines. The mandate stripped everything down to functional necessity.
+
+She found an empty spot at Table Fourteen and ate in silence. Her wrist terminal displayed the approved lunch content—a propaganda video about recent colony ship launches. Smiling families boarding finished vessels. Children waving at cameras. The narrator's voice carried that artificial warmth every government broadcast shared.
+
+"Building tomorrow, today. Your sacrifice ensures humanity's future among the stars. Six ships launched. Sixty thousand colonists settled on new worlds. Their courage inspires us. Their success justifies our labor."
+
+Kara wondered if anyone believed it anymore. The numbers were impressive. The narrative was compelling. But she'd never seen follow-up reports. Never heard updates from the colonies. Just departure ceremonies and cheerful promises.
+
+Where did the ships actually go?
+
+"Mind if I sit?"
+
+She looked up. A man stood across from her—mid-thirties, with the careful posture of someone who'd learned to be invisible. His work badge identified him as Maintenance Engineer, Second Class. The name tag said Chen as well.
+
+Distant cousin, maybe. The name was common enough. Twenty million Chens in the registered population. Shared ancestry meant nothing under the mandate. Family ties were discouraged. Loyalty belonged to the CDB, not bloodlines.
+
+"Free country," Kara said. Then immediately regretted the phrase. Too flippant. Too casual. Language mattered. The wrong words could mean reassignment. She glanced at the nearest camera—three meters away, angle providing full coverage of Table Fourteen.
+
+The man sat. "Marcus Chen. Transferred from Yard Five last week."
+
+"Kara."
+
+"I know." He tapped his wrist terminal. "The system sends profiles of everyone in your work zone. Supposed to facilitate team cohesion."
+
+"Or surveillance."
+
+The words escaped before she could stop them. Marcus's eyes widened slightly, then he smiled—barely, just a twitch of his lips. But his hands stayed steady on the table. Casual. Unthreatened. His body language suggested nothing suspicious. Just small talk between colleagues.
+
+"Efficiency," he said, his tone perfectly neutral. "Everything's about efficiency."
+
+Kara took another bite of her protein paste. The conversation felt like walking on ice. Every word a potential crack. Every phrase subject to algorithmic analysis. The cameras recorded everything. The AIs analyzed everything. And somewhere, human reviewers watched for deviations from approved behavior.
+
+"How are you finding Yard Nine?" she asked, steering toward safe territory.
+
+"Bigger than Five. More workers. More... oversight." Marcus glanced at the cameras without moving his head. The gesture was subtle. Practiced. "They say Ship Seven is priority one. The Bureau wants it finished ahead of schedule."
+
+"Ahead of schedule?" That was news. The timelines were aggressively optimized already. Pushing them further meant increased accidents. Decreased safety margins. More pressure on workers who were already stretched thin.
+
+"Original target was nine months. Now it's six." He lowered his voice fractionally. Not enough to trigger audio analysis flags. Just enough to create intimacy. "They're pushing hard. Double shifts. Mandatory overtime. People are getting hurt."
+
+Kara set down her calorie bar. "Hurt how?"
+
+"Exhaustion. Mistakes. Last week a welder fell from Level Forty-Two. Safety harness failure." Marcus's expression didn't change, but something in his eyes shifted. A hardness. An edge. "Or maybe he jumped. Who knows."
+
+The cafeteria felt suddenly cold despite the heat radiating from the yard. Kara became aware of the camera angles. The positioning of other workers. The way conversations around them had volume but no substance. Everyone talking. No one saying anything real.
+
+"Why are you telling me this?" she asked quietly.
+
+Marcus finished his supplement drink. "Because your terminal access is higher than mine. Hull integrity monitoring means you can see structural data across the entire ship. And I've noticed things. Patterns."
+
+"What kind of patterns?"
+
+"Not here." He stood, collecting his tray. "Shift change is in five minutes. We should get back."
+
+Kara watched him walk away. Her mind raced. This was either the stupidest conversation she'd ever had or the most important. Possibly both. Marcus had just suggested she investigate something irregular. Something the CDB didn't want noticed.
+
+If she pursued it, she risked everything. Her position. Her upgraded housing. Her life.
+
+If she ignored it, she'd spend the rest of her existence wondering what patterns he'd meant. What truth she'd been too afraid to see.
+
+She cleared her tray and returned to Terminal 7-C-224. The afternoon shift blurred into routine. Panel scans. Stress analysis. Flagging anomalies. But her fingers moved through deeper layers of the system, accessing historical data she technically had clearance for but never used.
+
+Ship Seven wasn't the first colony vessel. The CDB had launched six others over the past four years. Each one carrying ten thousand colonists. Each one departing with massive fanfare and government ceremony.
+
+Sixty thousand people. Gone to the stars.
+
+Except the database showed something odd. Fuel consumption records. Life support manifests. Inventory logs. All of them exactly the same for each ship. Not similar. Identical. Down to the decimal point.
+
+That wasn't possible. Each ship carried different populations with different needs. Variations were inevitable. Environmental factors. Personal equipment. Medical supplies. The numbers should fluctuate.
+
+Unless the ships weren't actually carrying populations.
+
+Or unless the populations weren't real.
+
+Kara's hands stilled on the keyboard. The thought was absurd. Dangerous. The kind of speculation that got you reassigned to deep recycling where no one asked questions and no one came back.
+
+But she couldn't unsee it. The identical manifests. The perfect replication. The statistical impossibility.
+
+She cleared her search history, closed the database, returned to her standard monitoring routine. Her heart hammered against her ribs. The camera above her terminal would have recorded everything. Her keystrokes. Her screen activity. Her biometric responses—elevated heart rate, increased respiration, pupil dilation.
+
+She was either paranoid or in serious trouble. Probably both.
+
+The shift ended at 1800 hours. Kara logged out, surrendered her terminal access, and joined the exodus toward the transit tubes. Around her, thousands of workers moved in silent coordination, each one tracked by the ubiquitous surveillance grid. Eight billion people. Eight billion data points. The mandate's perfect machine.
+
+She made it to Gate Seven and pressed her thumb against the scanner. Two beeps. Green light. Permission granted to leave the work zone.
+
+The tram back to the residential district was packed. Kara stood near the doors, her mind still turning over what she'd seen. Identical manifests. Perfect replication. What did it mean?
+
+Maybe nothing. Maybe the database had an error. Glitches happened. Systems failed. The network was degrading after all. Those delays at Gate Seven proved it.
+
+Or maybe Marcus was right. Maybe there were patterns.
+
+Her wrist terminal chimed. A message notification. She glanced at the screen.
+
+"Housing upgrade confirmed. Report to Sublevel Three, Unit 412. Occupancy begins 1900 hours."
+
+The upgrade Voss had mentioned. From Sublevel Eight to Sublevel Three. That was a five-level jump. Almost unheard of for someone at Third Class. Housing was allocated based on productivity scores, loyalty ratings, and service duration. Kara's numbers were good but not exceptional.
+
+So why the promotion? What had triggered it?
+
+And why did it feel like a trap?
+
+The tram reached the residential district. Kara followed the color-coded floor markers to Sublevel Three. The corridors here were different—cleaner, wider, better maintained. The lighting was warmer. Less harsh. The air didn't smell like recycled sweat and industrial chemicals. It smelled like nothing. Filtered. Pure.
+
+Unit 412 was at the end of a quiet hallway. She pressed her thumb to the lock. It beeped once and opened.
+
+The apartment was twice the size of her previous quarters. An actual sleeping alcove with a real bed instead of a fold-down bunk. A small kitchenette with a food preparation surface and an independent synthesizer. And a window.
+
+Synthetic, obviously. Real windows hadn't existed in residential districts since the atmospheric collapse. But the simulation was flawless. It displayed a view of surface-level Earth. Trees. Sky. Clouds. Sunlight filtering through leaves. Things most people under the mandate would never see in person.
+
+Things that might not even exist anymore.
+
+Kara set her work bag on the counter and walked to the window. The simulation was perfect. She could almost believe the world outside wasn't a toxic wasteland where only the elite lived in sealed arcologies, consuming resources while eight billion workers built their escape.
+
+Almost.
+
+Her terminal chimed again. Another message.
+
+"Congratulations on your housing upgrade. The Colonial Development Bureau recognizes exceptional service. Your loyalty does not go unnoticed."
+
+No sender. Just the standard CDB signature.
+
+Kara deleted the message and sat on the bed. The mattress was soft. Real foam, not the compressed recycled material most workers used. Another luxury. Another test.
+
+This wasn't a reward. This was bait.
+
+Someone had noticed her database queries. Someone wanted to see what she would do next. The upgrade wasn't kindness. It was surveillance under the guise of generosity. They'd given her comfort to see if she'd take it and stay quiet. Or if she'd keep digging.
+
+She lay back and stared at the ceiling. Somewhere above her, Ship Seven rose toward completion. Six months until launch. Six months until ten thousand more citizens supposedly departed for colony worlds.
+
+Six months to figure out what was really happening.
+
+Or six months to keep her head down, do her job, and survive.
+
+Kara closed her eyes. The decision felt impossible. Stay silent and be complicit. Speak up and disappear. There was no good choice. No safe path. Just degrees of risk and compromise.
+
+Unless there was a third option. Find proof. Real proof. Something undeniable. Then decide.
+
+She opened her eyes. The synthetic window showed sunset—oranges and purples bleeding across an artificial horizon. Beautiful. Fake. Like everything else in the mandate.
+
+Kara stood and walked to her terminal. She had six months. That was enough time to be careful. Enough time to be smart. Enough time to find the truth.
+
+She pulled up her work schedule for tomorrow. Same shift. Same terminal. Same routine. Perfect. She'd start there.
+
+The night passed slowly. Kara lay awake, listening to the sounds of the residential block. Ventilation systems cycling air. Distant voices conducting approved conversations. Footsteps in corridors. All of it monitored. All of it recorded. Privacy was a luxury from another era.
+
+She thought about Marcus. His careful words. The way he'd positioned the conversation to sound innocuous to anyone listening. He'd been doing this longer than her. He had experience. Maybe he had answers.
+
+Or maybe he was CDB. A plant designed to identify dissidents. That was the paranoia talking, but paranoia kept you alive under the mandate.
+
+At 0600 hours, her alarm activated. Kara rose, performed her morning routine, ate the standard breakfast from her kitchenette synthesizer. The food was better here on Sublevel Three. Higher quality protein. Actual flavor. Another test. Another temptation to be grateful. To stay compliant.
+
+She wouldn't.
+
+The transit to Yard Nine was routine. Gate Seven. Biometric scan. Green light. Terminal 7-C-224 waiting for her like an old friend. She logged in and pulled up her monitoring queue.
+
+Then, carefully, she began accessing adjacent systems. Not the main database—that would trigger alerts. But peripheral data. Cross-references. Maintenance logs. Things no one paid attention to.
+
+Hours passed. She flagged hull anomalies, filed reports, maintained her normal productivity. But beneath the routine, she gathered fragments. Launch dates. Fuel calculations. Crew manifests. Supply inventories.
+
+The patterns Marcus mentioned began to emerge. Every ship had identical resource allocations. Every launch used the same flight profile. Every colonist load-out matched exactly.
+
+Statistically impossible. Unless the variables weren't actually varying. Unless something was being hidden. Standardized. Controlled.
+
+Kara saved her findings to a secure partition, hidden in routine maintenance logs. Then she cleared her access history and returned to standard operations.
+
+At lunch, Marcus sat across from her again. They didn't speak. Didn't acknowledge each other. But he slid a data chip across the table, concealed under a napkin. Kara palmed it without looking.
+
+After her shift, she returned to Unit 412. She waited until 2300 hours, when the residential monitoring shifted to passive surveillance. Then she loaded the chip into an air-gapped tablet she'd requisitioned from equipment storage.
+
+The file was small. Just text. No attribution.
+
+"Ship Seven cargo manifest. Section 4-D. Verify against official records. Discrepancy noted."
+
+Kara stared at the message. Then she deleted it and destroyed the chip with a magnetic wipe. Tomorrow, she'd check Section 4-D. Tomorrow, she'd learn what the Colonial Development Bureau was really building.
+
+And tomorrow, everything would change.
+
+She lay in her upgraded bed, in her upgraded apartment, and wondered if she'd made the right choice. But she already knew the answer.
+
+There was no right choice. Only the choice she could live with. And she couldn't live with silence. Not anymore.
