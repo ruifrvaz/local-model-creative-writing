@@ -49,12 +49,12 @@
 
 ## Starting or resuming chats
 
-**When user starts new chat with "analyze" or "recap":**
+To ensure continuity across chat sessions, **When user starts new chat with "analyze" or "recap":**
 - **Always read the latest history file first** (`docs/history/` sorted by date)
-- Use it to understand recent architectural changes and decisions
 - **Always read the readme files of relevant components** (e.g., RAG/README.md, vllm/README.md)
-- Then proceed with standard analysis or resumption
-- This ensures continuity across chat sessions
+- **Always scan the tasks folder to see if there are any open tasks**
+- Use these to understand recent changes and decisions then proceed with standard analysis
+
 
 ## Finalizing chats
 
