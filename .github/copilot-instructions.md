@@ -51,9 +51,9 @@
 
 To ensure continuity across chat sessions, **When user starts new chat with "analyze" or "recap":**
 - **Always read the latest history file first** (`docs/history/` sorted by date)
-- **Always read the readme files of relevant components** (e.g., RAG/README.md, vllm/README.md)
+- **Always read all readme files** (e.g., RAG/README.md, vllm/README.md)
 - **Always scan the tasks folder to see if there are any open tasks**
-- Use these to understand recent changes and decisions then proceed with standard analysis
+- Use all this content to understand recent changes and decisions then proceed with standard analysis and suggestions
 
 
 ## Finalizing chats
