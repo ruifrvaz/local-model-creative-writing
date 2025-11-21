@@ -1,0 +1,36 @@
+# Quick Start: Next Chat Session
+
+Copy and paste this into your next chat with GitHub Copilot:
+
+---
+
+I'm continuing the chunking process for "Visions of Gaea - Ascension Part 1" manuscript.
+
+**Current Status:**
+- Session 1 COMPLETE: Prologue + Memories 1-5 (13 chunks, 24,012 words)
+- Starting Session 2: Memories 6-8
+
+**Working Directory:**
+```
+~/scifi-llm/fine-tuning/data/raw/visions_of_gaea/
+```
+
+**Instructions:**
+Please switch to book-curator mode and:
+1. Read `SESSION_2_INSTRUCTIONS.md` for session scope
+2. Read `SESSION_1_REPORT.md` for context
+3. Chunk Memory 6 (lines 672-757)
+4. Chunk Memory 7 (lines 758-828)
+5. Chunk Memory 8 (lines 829-988)
+6. Generate `SESSION_2_REPORT.md` when complete
+7. Create `SESSION_3_INSTRUCTIONS.md` for next session
+
+proceed
+
+---
+
+**Expected Result:**
+- 8-12 new chunks (chunk_014 through chunk_0XX)
+- SESSION_2_REPORT.md
+- SESSION_3_INSTRUCTIONS.md
+- Updated chunk count: ~21-25 total chunks
