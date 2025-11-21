@@ -63,7 +63,7 @@ Memory 7: Mother
 • Dinner at Haji's residence with caretakers
 • Alan returns home to his room
 • Interaction with Hampy (ASD) and Evander (host AI)
-• Miriam's stern uplink about responsibilities
+• Miriam's stern reprimand about responsibilities
 • Alan attempts unauthorized access to Project segment
 • Near-miss with Mother's security protocols
 
@@ -106,28 +106,6 @@ Session 3: Memory 9 "Of young and old ancestors"
 • Content: Morning routine, hoverboard journey to Academy
 
 See SESSION_3_INSTRUCTIONS.md for detailed planning.
-
------------------------------------------------------------------
-INTEGRATION READY
------------------------------------------------------------------
-
-To process into training data:
-
-cd /home/runner/work/local-model-creative-writing/local-model-creative-writing/fine-tuning/training
-source ~/.venvs/finetune/bin/activate
-
-# Process Session 2 chunks only
-python 1_prepare_data.py \
-  --input ../data/raw/visions_of_gaea/ \
-  --output ../data/processed/visions_session2.jsonl \
-  --chunk-pattern "chunk_01[4-9]_*.txt"
-
-# OR process all chunks (001-019)
-python 1_prepare_data.py \
-  --input ../data/raw/visions_of_gaea/ \
-  --output ../data/processed/visions_all.jsonl \
-  --min-tokens 700 \
-  --max-tokens 2500
 
 -----------------------------------------------------------------
 FILES LOCATION
