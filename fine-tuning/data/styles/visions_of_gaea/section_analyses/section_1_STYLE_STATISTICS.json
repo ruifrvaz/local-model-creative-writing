@@ -1,0 +1,291 @@
+{
+  "manuscript_section": "section_1_prologue_to_memory5",
+  "analysis_date": "2025-11-24",
+  "word_count": 20127,
+  "line_count": 610,
+  "content_range": "Prologue through Memory 5",
+  "narrative_phase": "Setup and worldbuilding",
+  
+  "sentence_structure": {
+    "total_sentences": 735,
+    "average_length": 27.4,
+    "median_length": 22,
+    "min_length": 1,
+    "max_length": 154,
+    "distribution": {
+      "short_under_10": {
+        "count": 80,
+        "percentage": 10.9
+      },
+      "medium_10_to_24": {
+        "count": 323,
+        "percentage": 43.9
+      },
+      "long_25_to_49": {
+        "count": 253,
+        "percentage": 34.4
+      },
+      "very_long_50_plus": {
+        "count": 79,
+        "percentage": 10.7
+      }
+    }
+  },
+  
+  "paragraph_structure": {
+    "total_paragraphs": 47,
+    "average_sentences_per_paragraph": 38.7,
+    "median_sentences_per_paragraph": 20,
+    "notes": "High variance due to epigraphs and scene breaks"
+  },
+  
+  "punctuation_counts": {
+    "periods": 1190,
+    "question_marks": 52,
+    "exclamation_marks": 75,
+    "semicolons": 24,
+    "colons": 45,
+    "em_dashes": 28
+  },
+  
+  "dialogue_metrics": {
+    "quote_style": "single_quotes",
+    "single_quote_marks": 1020,
+    "double_quote_marks": 0,
+    "estimated_dialogue_ratio": 0.27,
+    "attribution_verbs": {
+      "said": 78,
+      "asked": 24,
+      "answered": 23,
+      "added": 20,
+      "warned": 8,
+      "whispered": 7,
+      "replied": 5,
+      "stated": 5,
+      "announced": 5,
+      "continued": 4,
+      "resumed": 3,
+      "shouted": 3,
+      "intervened": 3,
+      "threatened": 2
+    }
+  },
+  
+  "pov_analysis": {
+    "primary_pov": "second_person",
+    "primary_tense": "past",
+    "pronoun_counts": {
+      "you": 267,
+      "your": 164,
+      "yourself": 7,
+      "I": 97,
+      "my": 21,
+      "me": 17
+    },
+    "notes": "First-person pronouns appear in italicized narrator commentary and dialogue"
+  },
+  
+  "structural_markers": {
+    "scene_breaks_triple_asterisk": 2,
+    "memory_chapters": 5,
+    "prologue": 1,
+    "italicized_commentary_passages": 10,
+    "epigraph_excerpts": 4
+  },
+  
+  "sensory_analysis": {
+    "visual_verbs": {
+      "looked": 32,
+      "saw": 19,
+      "see": 12,
+      "look": 14,
+      "gaze": 3,
+      "gazed": 3
+    },
+    "auditory_verbs": {
+      "heard": 19,
+      "hear": 5
+    },
+    "tactile_verbs": {
+      "felt": 12,
+      "feel": 7,
+      "touched": 1
+    },
+    "other_senses": {
+      "smell": 3,
+      "smelled": 1,
+      "tasted": 1
+    },
+    "atmosphere_words": {
+      "silence": 13,
+      "silent": 8,
+      "quiet": 3,
+      "whisper": 2,
+      "echo": 2,
+      "echoed": 1,
+      "muffled": 1,
+      "hissed": 1
+    }
+  },
+  
+  "color_palette": {
+    "blue": 21,
+    "red": 15,
+    "green": 11,
+    "white": 8,
+    "yellow": 6,
+    "black": 5,
+    "violet": 3,
+    "golden": 3,
+    "pale": 3,
+    "orange": 2,
+    "silver": 1
+  },
+  
+  "worldbuilding_terminology": {
+    "technology": {
+      "drifter": 38,
+      "drifters": 22,
+      "Unit": 7,
+      "neuroglove": 5,
+      "sentinels": 5,
+      "facemask": 4,
+      "permaglass": 4,
+      "holoprojector": 4,
+      "neuropad": 3,
+      "holoscreen": 3,
+      "holoscreens": 3,
+      "impermium": 1
+    },
+    "society": {
+      "apprentices": 20,
+      "mentor": 19,
+      "Darm": 16,
+      "Pyre": 13,
+      "Mother": 12,
+      "darmian": 9,
+      "apprentice": 9,
+      "pyrean": 9,
+      "Guiding_Father": 9,
+      "Council": 9,
+      "citizens": 8,
+      "darmians": 6,
+      "citizen": 5,
+      "Credits": 4,
+      "Torment": 4,
+      "Netcore": 3,
+      "Specialist": 2,
+      "Specialists": 2,
+      "mentors": 2,
+      "pyreans": 1
+    },
+    "locations": {
+      "Boulevard": 10,
+      "Shelter": 10,
+      "Academy": 9,
+      "Artica": 6,
+      "Retreat": 6,
+      "East_Boulevard": 5,
+      "Hub": 1,
+      "Vanguard": 1
+    },
+    "time_periods": {
+      "Rest_Time": 3,
+      "Dinner_Time": 3,
+      "Labor_Time": 1,
+      "Sleep_Time": 1
+    }
+  },
+  
+  "character_mentions": {
+    "Haji": 134,
+    "Sophie": 44,
+    "Zigvirat": 38,
+    "Cathy": 31,
+    "Brent": 25,
+    "Jack": 17,
+    "Alan": 16,
+    "Levine": 9,
+    "Colt": 5,
+    "Gadim": 1
+  },
+  
+  "tense_indicators": {
+    "past_tense": {
+      "was": 142,
+      "were": 77,
+      "had": 85,
+      "walked": 13,
+      "looked": 32,
+      "entered": 11,
+      "saw": 19,
+      "heard": 19,
+      "felt": 12,
+      "stepped": 14
+    },
+    "present_tense": {
+      "is": 68,
+      "are": 47,
+      "can": 19
+    }
+  },
+  
+  "memory_chapters": [
+    {
+      "title": "Prologue",
+      "pov": "third_person",
+      "description": "Mythological frame narrative"
+    },
+    {
+      "title": "First memory - Accounts of a remote past",
+      "pov": "second_person",
+      "epigraph": false,
+      "description": "History class, mentor confrontation"
+    },
+    {
+      "title": "Second memory - Nightfall at the White Metropolis",
+      "pov": "second_person",
+      "epigraph": true,
+      "epigraph_source": "annex #21: Directives for the construction of Darm",
+      "description": "City description, transition"
+    },
+    {
+      "title": "Third memory - When drifters race",
+      "pov": "second_person",
+      "epigraph": true,
+      "epigraph_source": "captured log-files of the Silent Uprising",
+      "description": "Drifter racing at Remgast"
+    },
+    {
+      "title": "Fourth memory - At the East Retreat",
+      "pov": "second_person",
+      "epigraph": true,
+      "epigraph_source": "Annex #15: Extraordinary contingencies",
+      "description": "Social gathering, Gathering preparations"
+    },
+    {
+      "title": "Fifth memory - Anatomy of a virus",
+      "pov": "second_person",
+      "epigraph": true,
+      "epigraph_source": "Annex #03: Currency and Reward Directives",
+      "description": "Academy, citizenship anticipation"
+    }
+  ],
+  
+  "style_markers": {
+    "italicized_commentary_pattern": "...text...",
+    "scene_break_marker": "***",
+    "epigraph_opening": "[...]",
+    "epigraph_attribution_format": "An excerpt from [document]; Division of [department] under the authority of Mentalist [name];",
+    "greeting_style": "Salutations",
+    "formal_address": "apprentice [surname]"
+  },
+  
+  "key_style_ratios": {
+    "short_to_long_sentence_ratio": 0.32,
+    "visual_to_auditory_sense_ratio": 3.5,
+    "said_to_other_verbs_ratio": 0.56,
+    "you_pronoun_density_per_100_words": 1.33,
+    "worldbuilding_term_density_per_1000_words": 15.2
+  }
+}
