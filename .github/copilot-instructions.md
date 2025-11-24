@@ -441,8 +441,8 @@ python 11_tool_call_test.py  # Function calling
 
 ### Model Selection
 **Creative writing (long context):**
-- `meta-llama/Llama-3.1-8B-Instruct` - Default, proven stable, 128k support, ~16GB VRAM
-- `Qwen/Qwen2.5-7B-Instruct` - **Superior for fiction**, 128k support, ~14GB VRAM
+- `meta-llama/Llama-3.1-8B-Instruct` - **Default standard**, proven stable, 128k support, ~16GB VRAM
+- `Qwen/Qwen2.5-7B-Instruct` - Superior for fiction, 128k support, ~14GB VRAM
 - `casperhansen/qwen2.5-14b-instruct-awq` - Quantized 14B, best quality, 128k support, ~10GB VRAM
 
 **⚠️ Context window performance impact:** Larger windows (100k+) cause 2-3x slowdown. Start with 32k, increase only if needed.
