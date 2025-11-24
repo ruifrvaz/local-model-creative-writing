@@ -50,8 +50,8 @@
 ## Starting or resuming chats
 
 To ensure continuity across chat sessions, **When user starts new chat with "analyze" or "recap":**
+- **Always start by read all readme files available** in the directory structure
 - **Always read the latest history file first** (`docs/history/` sorted by date)
-- **Always read all readme files available**
 - **Always scan the tasks folder to see if there are any open tasks**
 - Use all this content to understand recent changes and decisions then proceed with standard analysis and suggestions
 
