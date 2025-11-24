@@ -1,0 +1,230 @@
+{
+  "section": "section_1",
+  "title": "Prologue through Memory 5",
+  "narrative_phase": "Setup & Worldbuilding",
+  "analysis_date": "2025-11-24",
+  
+  "word_count": {
+    "total_words": 20127,
+    "total_lines": 611,
+    "total_paragraphs": 47,
+    "total_sentences": 1193
+  },
+  
+  "sentence_structure": {
+    "average_length": 17.0,
+    "min_length": 1,
+    "max_length": 68,
+    "sentences_per_paragraph_avg": 25.4,
+    "distribution": {
+      "short_under_10": {
+        "count": 347,
+        "percentage": 29.1
+      },
+      "medium_10_to_25": {
+        "count": 614,
+        "percentage": 51.5
+      },
+      "long_over_25": {
+        "count": 232,
+        "percentage": 19.4
+      }
+    }
+  },
+  
+  "punctuation": {
+    "periods": 1190,
+    "questions": 52,
+    "exclamations": 75,
+    "em_dashes": 4,
+    "ellipses": 44,
+    "semicolons": 24,
+    "colons": 45
+  },
+  
+  "dialogue": {
+    "dialogue_words": 9992,
+    "dialogue_ratio_percent": 49.6,
+    "quote_style": "single",
+    "attribution_verbs": {
+      "said": 79,
+      "answered": 23,
+      "asked": 23,
+      "whispered": 7,
+      "replied": 5,
+      "stated": 4,
+      "remarked": 3,
+      "shouted": 3
+    }
+  },
+  
+  "pov_indicators": {
+    "second_person": {
+      "you": 640,
+      "your": 269,
+      "yourself": 7,
+      "total": 916
+    },
+    "first_person": {
+      "I": 144,
+      "me_my": 47,
+      "total": 191
+    },
+    "third_person": {
+      "he": 240,
+      "she": 96,
+      "total": 336
+    },
+    "dominant_pov": "second_person",
+    "pov_consistency_estimate": 95
+  },
+  
+  "structural_elements": {
+    "scene_breaks": 8,
+    "memory_markers": [
+      "Prologue",
+      "First memory",
+      "Second memory", 
+      "Third memory",
+      "Fourth memory",
+      "Fifth memory"
+    ],
+    "formal_excerpts": 4,
+    "italicized_narrator_passages": 13
+  },
+  
+  "tense": {
+    "dominant": "past",
+    "present_indicators": 39,
+    "past_indicators": 132
+  },
+  
+  "sensory_details": {
+    "visual": {
+      "total": 97,
+      "top_words": {
+        "blue": 25,
+        "dark": 15,
+        "red": 15,
+        "light": 14,
+        "white": 12,
+        "black": 7
+      }
+    },
+    "auditory": {
+      "total": 73,
+      "top_words": {
+        "voice": 41,
+        "silence": 13,
+        "sound": 13,
+        "whisper": 2,
+        "echo": 2
+      }
+    },
+    "tactile": {
+      "total": 26,
+      "top_words": {
+        "warm": 9,
+        "cold": 6,
+        "soft": 5,
+        "hard": 4,
+        "smooth": 2
+      }
+    }
+  },
+  
+  "action_verbs": {
+    "walking": {
+      "followed": 18,
+      "stepped": 14,
+      "walked": 13,
+      "entered": 11,
+      "trudged": 3
+    },
+    "looking": {
+      "looked": 33,
+      "saw": 20,
+      "stared": 7,
+      "watched": 6,
+      "gazed": 3,
+      "glanced": 3
+    },
+    "emotional": {
+      "felt": 14,
+      "smiled": 11,
+      "sighed": 7,
+      "frowned": 4,
+      "grinned": 2,
+      "grimaced": 1
+    }
+  },
+  
+  "sentence_starters": {
+    "You": 89,
+    "The": 57,
+    "He": 44,
+    "As": 29,
+    "It": 28,
+    "When": 26,
+    "I": 21,
+    "After": 19,
+    "She": 16,
+    "Haji": 16
+  },
+  
+  "worldbuilding_terms": {
+    "characters": {
+      "Haji": 139,
+      "Zigvirat": 47,
+      "Sophie": 45,
+      "Cathy": 33,
+      "Dromuzit": 30,
+      "Brent": 23,
+      "Deeda": 17,
+      "Jack": 17,
+      "Alan": 15,
+      "Mother": 14,
+      "Levine": 10
+    },
+    "locations": {
+      "Darm": 20,
+      "Shelter": 9,
+      "Academy": 9,
+      "East Boulevard": 5,
+      "Hub": 5,
+      "Artica": 6
+    },
+    "technology": {
+      "Unit": 15,
+      "sentinels": 5,
+      "facemask": 5,
+      "neuropad": 3,
+      "permaglass": 3
+    },
+    "society": {
+      "Pyre": 11,
+      "darmian": 23,
+      "Directives": 9,
+      "Council": 8,
+      "Overseers": 6,
+      "Mentalists": 6,
+      "Credits": 5,
+      "Gathering": 10
+    },
+    "concepts": {
+      "Age of Obscurity": 6,
+      "Guiding Father": 6,
+      "Antiga Pyre": 6,
+      "Torment": 4,
+      "Tides of Fate": 4
+    }
+  },
+  
+  "memory_titles": {
+    "First memory": "Accounts of a remote past",
+    "Second memory": "Nightfall at the White Metropolis",
+    "Third memory": "When drifters race",
+    "Fourth memory": "At the East Retreat",
+    "Fifth memory": "Anatomy of a virus"
+  }
+}
