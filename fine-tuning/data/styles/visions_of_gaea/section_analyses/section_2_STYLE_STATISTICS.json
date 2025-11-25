@@ -1,0 +1,118 @@
+{
+  "section": 2,
+  "content_range": "Memory 6 through Memory 9 (Sixth Memory to Tenth Memory opening)",
+  "analysis_date": "2025-11-25",
+  "word_metrics": {
+    "total_words": 22298,
+    "total_lines": 607,
+    "total_paragraphs": 33,
+    "total_sentences": 1301
+  },
+  "sentence_metrics": {
+    "average_length": 17.33,
+    "min_length": 1,
+    "max_length": 88,
+    "range": "1-88",
+    "distribution_notes": "High variance indicates intentional rhythm variation - short punchy sentences for emphasis, long flowing sentences for description"
+  },
+  "paragraph_metrics": {
+    "average_sentences_per_paragraph": 39.88,
+    "notes": "Large paragraphs due to unbroken dialogue scenes and exposition blocks"
+  },
+  "pov_metrics": {
+    "you_count": 615,
+    "your_count": 238,
+    "yourself_count": 14,
+    "total_second_person_markers": 867,
+    "second_person_percentage": 3.89,
+    "pov_type": "Second-person",
+    "consistency": "95%+ (exceptions in epigraphs and third-person interludes with Von Howitt)"
+  },
+  "tense_metrics": {
+    "present_tense_verbs": 347,
+    "past_tense_verbs": 794,
+    "predominant_tense": "Past",
+    "notes": "Second-person past tense dominant ('you walked', 'you said')"
+  },
+  "dialogue_metrics": {
+    "dialogue_words": 10361,
+    "dialogue_ratio_percent": 46.47,
+    "attribution_counts": {
+      "said": 104,
+      "asked": 33,
+      "answered": 30,
+      "spoke": 14,
+      "muttered": 7,
+      "explained": 5
+    },
+    "dominant_attribution": "said (57.7%)",
+    "attribution_style": "Simple tags predominate, action beats supplementary"
+  },
+  "punctuation_metrics": {
+    "em_dashes": 16,
+    "ellipses": 61,
+    "exclamations": 51,
+    "questions": 61,
+    "notes": "Ellipses frequently mark internal monologue/mystical commentary"
+  },
+  "structural_metrics": {
+    "scene_breaks_triple_asterisk": 2,
+    "memory_chapters": 5,
+    "epigraph_presence": true,
+    "epigraph_style": "Attributed quotes from in-world documents"
+  },
+  "sensory_analysis": {
+    "visual_words": 134,
+    "auditory_words": 62,
+    "tactile_words": 66,
+    "primary_sense": "Visual",
+    "sensory_ratio": "Visual 51%, Tactile 25%, Auditory 24%"
+  },
+  "vocabulary_density": {
+    "technical_terms_total": 340,
+    "terms_per_1000_words": 15.2,
+    "unique_technical_terms": 45,
+    "integration_style": "Natural immersion - terms used without explicit definition"
+  },
+  "character_mentions": {
+    "Alan": 16,
+    "Haji": 74,
+    "Sophie": 28,
+    "Cathy": 43,
+    "Jack": 29,
+    "Heidi": 12,
+    "Miriam": 6,
+    "Gordon": 14,
+    "Von Howitt": 65,
+    "Evander": 10,
+    "Samuel": 1,
+    "Marlene": 5
+  },
+  "vocabulary_by_category": {
+    "technology": {
+      "count": 140,
+      "top_terms": ["Mother", "hoverboard", "touchscreen", "Unit", "magtube"]
+    },
+    "society": {
+      "count": 275,
+      "top_terms": ["mentor", "Specialist", "apprentice", "pyrean", "Directives"]
+    },
+    "concepts": {
+      "count": 188,
+      "top_terms": ["Torment", "indoctrination", "Pyre", "Gathering", "retrovirus"]
+    },
+    "locations": {
+      "count": 100,
+      "top_terms": ["chamber", "Academy", "Hub", "Darm", "residence"]
+    }
+  },
+  "formal_speech_patterns": {
+    "My apologies": 9,
+    "Apology accepted": 3,
+    "Salutations": 4,
+    "Order ensures Progress": 5,
+    "Have a pleasant": 3
+  },
+  "internal_monologue_count": 61,
+  "internal_monologue_style": "Italicized with ellipses (...text...)"
+}
