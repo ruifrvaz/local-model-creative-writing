@@ -1,0 +1,215 @@
+{
+  "manuscript_title": "Visions of Gaea - Section 2",
+  "section_coverage": "Memories 6-9 (Development & Conflict Phase)",
+  "total_words": 22298,
+  "total_characters": 131061,
+  "total_lines": 607,
+  "total_sentences": 1052,
+  "total_paragraphs": 33,
+
+  "sentence_metrics": {
+    "avg_sentence_length": 21.2,
+    "min_sentence_length": 1,
+    "max_sentence_length": 88,
+    "distribution": {
+      "short_under_10": {
+        "count": 184,
+        "percentage": 17.5
+      },
+      "medium_10_to_20": {
+        "count": 399,
+        "percentage": 37.9
+      },
+      "long_over_20": {
+        "count": 469,
+        "percentage": 44.6
+      }
+    },
+    "avg_sentences_per_paragraph": 31.9
+  },
+
+  "pov_analysis": {
+    "pov_type": "second-person",
+    "primary_tense": "past",
+    "tense_ratio_past_to_present": 2.77,
+    "second_person_markers": {
+      "you_count": 615,
+      "your_count": 238,
+      "yourself_count": 14,
+      "total": 867,
+      "per_1000_words": 38.9
+    }
+  },
+
+  "dialogue_metrics": {
+    "dialogue_ratio_percent": 46.4,
+    "dialogue_word_count": 10356,
+    "quotation_style": "single_quotes",
+    "attribution_patterns": {
+      "said": 104,
+      "asked": 33,
+      "answered": 30,
+      "no_tag_percentage": 83
+    }
+  },
+
+  "punctuation": {
+    "periods": 1333,
+    "questions": 61,
+    "exclamations": 51,
+    "em_dashes": 8,
+    "ellipses": 61,
+    "semicolons": 25,
+    "colons": 31
+  },
+
+  "structural_elements": {
+    "scene_breaks": 2,
+    "memory_references": 8,
+    "italicized_passages": 23,
+    "document_excerpts": 4
+  },
+
+  "sensory_emphasis": {
+    "visual": 176,
+    "auditory": 114,
+    "tactile": 93,
+    "olfactory": 4,
+    "ranking": ["visual", "auditory", "tactile", "olfactory"]
+  },
+
+  "emotional_vocabulary": {
+    "positive": 84,
+    "negative": 17,
+    "neutral_intense": 36,
+    "dominant_tone": "positive_with_tension"
+  },
+
+  "action_verbs": {
+    "said": 104,
+    "looked": 33,
+    "asked": 33,
+    "turned": 26,
+    "answered": 30,
+    "thought": 20,
+    "felt": 16,
+    "smiled": 14,
+    "spoke": 14,
+    "saw": 14,
+    "walked": 12,
+    "knew": 12,
+    "stopped": 12,
+    "began": 11,
+    "heard": 11,
+    "continued": 9,
+    "stood": 9,
+    "sat": 10
+  },
+
+  "descriptive_adjectives": {
+    "long": 38,
+    "dark": 22,
+    "small": 21,
+    "tall": 19,
+    "soft": 16,
+    "short": 12,
+    "wide": 12,
+    "bright": 10,
+    "cold": 9,
+    "warm": 9,
+    "quiet": 8,
+    "loud": 8,
+    "smooth": 8,
+    "silent": 6,
+    "narrow": 6,
+    "deep": 5,
+    "large": 4,
+    "strange": 3
+  },
+
+  "worldbuilding_terms": {
+    "social_roles": {
+      "Specialist": 35,
+      "Specialists": 11,
+      "apprentice": 26,
+      "apprentices": 28,
+      "Mentalist": 12,
+      "Mentalists": 5,
+      "Acolytes": 4
+    },
+    "technology": {
+      "Unit": 12,
+      "hoverboard": 16,
+      "magtube": 8,
+      "magtubes": 4,
+      "Mother": 24,
+      "neurolink": 6,
+      "neuropad": 5,
+      "impermium": 6,
+      "gliders": 8
+    },
+    "society": {
+      "Torment": 28,
+      "Gathering": 16,
+      "Project": 16,
+      "Directives": 14,
+      "Guiding_Father": 6,
+      "Council_of_Mentalists": 4,
+      "credits": 4,
+      "Source": 4
+    },
+    "species": {
+      "pyrean": 15,
+      "pyreans": 10,
+      "darmian": 9,
+      "darmians": 7,
+      "pyrea": 3,
+      "Darmian": 4,
+      "odyrs": 2,
+      "Odyrs": 2
+    },
+    "locations": {
+      "Hub": 12,
+      "Academy": 12,
+      "Darm": 12,
+      "Mithras": 5,
+      "Artica": 5,
+      "Netcore": 2
+    }
+  },
+
+  "character_frequency": {
+    "Haji": 74,
+    "Von_Howitt": 65,
+    "Cathy": 43,
+    "Jack": 29,
+    "Sophie": 28,
+    "Elias": 19,
+    "Alan": 16,
+    "Gordon": 14,
+    "Heidi": 12,
+    "Balthazar": 12,
+    "Evander": 10,
+    "Miriam": 6,
+    "Hampy": 6,
+    "Leonard": 6,
+    "Marlene": 5,
+    "Vittas": 3
+  },
+
+  "metrics": {
+    "adjective_density_per_100_words": 0.89,
+    "dialogue_density": 0.464,
+    "technical_term_density_per_1000_words": 18.4,
+    "question_frequency_per_1000_words": 2.74,
+    "exclamation_frequency_per_1000_words": 2.29,
+    "lexical_diversity": 0.42
+  },
+
+  "analysis_metadata": {
+    "analysis_date": "2025-11-25",
+    "analyst": "style-analyzer-unbiased agent",
+    "section_number": 2,
+    "narrative_phase": "development_and_conflict"
+  }
+}
