@@ -1,0 +1,233 @@
+{
+  "section": "section_2",
+  "title": "Memories 6-9 (Development & Conflict Phase)",
+  "analysis_date": "2025-11-25",
+  "analyst": "style-analyzer agent",
+  
+  "manuscript_metrics": {
+    "total_words": 22298,
+    "total_lines": 606,
+    "total_paragraphs": 33,
+    "memories_covered": ["Memory 6", "Memory 7", "Memory 8", "Memory 9", "Memory 10 (partial)"],
+    "scene_breaks": 2
+  },
+  
+  "sentence_statistics": {
+    "total_sentences": 1450,
+    "average_length": 15.4,
+    "minimum_length": 3,
+    "maximum_length": 88,
+    "distribution": {
+      "short_under_10": {
+        "count": 320,
+        "percentage": 22.0
+      },
+      "medium_10_to_25": {
+        "count": 750,
+        "percentage": 52.0
+      },
+      "long_over_25": {
+        "count": 380,
+        "percentage": 26.0
+      }
+    }
+  },
+  
+  "paragraph_statistics": {
+    "average_length_words": 675.7,
+    "average_sentences": 32.3,
+    "note": "Includes long dialogue sections; typical narrative paragraphs are 3-8 sentences"
+  },
+  
+  "pov_analysis": {
+    "dominant_pov": "second_person",
+    "pronouns": {
+      "you": 615,
+      "your": 238,
+      "yourself": 14,
+      "I": 175,
+      "he": 238,
+      "she": 99,
+      "they": 112
+    },
+    "narrative_tense": "past",
+    "dialogue_tense": "present"
+  },
+  
+  "dialogue_metrics": {
+    "dialogue_ratio_percent": 46.4,
+    "dialogue_words": 10356,
+    "attribution_patterns": {
+      "said_says": 104,
+      "asked_asks": 41,
+      "other_speech_verbs": 56,
+      "action_beats": 50
+    },
+    "tag_preference": {
+      "said_percentage": 49,
+      "asked_percentage": 20,
+      "other_percentage": 26
+    }
+  },
+  
+  "sensory_analysis": {
+    "visual": {
+      "count": 268,
+      "percentage": 56.3
+    },
+    "auditory": {
+      "count": 119,
+      "percentage": 25.0
+    },
+    "tactile": {
+      "count": 86,
+      "percentage": 18.1
+    },
+    "olfactory": {
+      "count": 3,
+      "percentage": 0.6
+    }
+  },
+  
+  "descriptive_density": {
+    "adjectives_per_1000_words": 15.2,
+    "similes_count": 55,
+    "similes_per_1000_words": 2.5
+  },
+  
+  "emotional_vocabulary": {
+    "positive_emotions": 89,
+    "negative_emotions": 28,
+    "neutral_calm": 62,
+    "physical_reactions": 21
+  },
+  
+  "punctuation_analysis": {
+    "questions": {
+      "count": 61,
+      "percentage": 4.2
+    },
+    "exclamations": {
+      "count": 51,
+      "percentage": 3.5
+    },
+    "ellipses": 61,
+    "em_dashes": 8,
+    "internal_monologue_passages": 23
+  },
+  
+  "vocabulary_metrics": {
+    "total_words": 22471,
+    "unique_words": 3943,
+    "lexical_diversity": 0.175
+  },
+  
+  "worldbuilding_terminology": {
+    "technology": {
+      "Unit": 13,
+      "Mother": 24,
+      "magtube": 12,
+      "hoverboard": 17,
+      "glider": 10,
+      "facemask": 4,
+      "exoderm": 4,
+      "sentinel": 5,
+      "stalker": 2
+    },
+    "society": {
+      "Specialist": 46,
+      "Mentalist": 17,
+      "apprentice": 61,
+      "pyrean": 25,
+      "pyrea": 4,
+      "Directives": 14,
+      "Academy": 12,
+      "Council": 7
+    },
+    "concepts": {
+      "Torment": 28,
+      "Gathering": 16,
+      "Pyre": 17,
+      "credits": 6
+    },
+    "locations": {
+      "Darm": 12,
+      "Hub": 12,
+      "Antiga Pyre": 8,
+      "Project": 10
+    },
+    "beings": {
+      "odyr": 5
+    }
+  },
+  
+  "character_mentions": {
+    "Alan": 16,
+    "Haji": 74,
+    "Sophie": 28,
+    "Cathy": 43,
+    "Von Howitt": 65,
+    "Gordon": 14,
+    "Elias": 19,
+    "Jack": 29,
+    "Heidi": 12,
+    "Miriam": 6,
+    "Evander": 10,
+    "Hampy": 6
+  },
+  
+  "common_adverbs": {
+    "slowly": 20,
+    "quickly": 12,
+    "entirely": 9,
+    "calmly": 8,
+    "barely": 7,
+    "hastily": 7,
+    "immediately": 7,
+    "firmly": 6,
+    "promptly": 5,
+    "silently": 5,
+    "intently": 5,
+    "gently": 4,
+    "attentively": 4,
+    "merely": 4
+  },
+  
+  "common_you_verb_patterns": {
+    "you_asked": 11,
+    "you_looked": 7,
+    "you_entered": 5,
+    "you_muttered": 5,
+    "you_answered": 4,
+    "you_realized": 4,
+    "you_followed": 3,
+    "you_arrived": 3,
+    "you_glanced": 3,
+    "you_decided": 3,
+    "you_rushed": 3,
+    "you_conveyed": 3,
+    "you_reached": 3,
+    "you_noticed": 3,
+    "you_stepped": 3
+  },
+  
+  "sentence_starters": {
+    "The": 18,
+    "It": 9,
+    "I": 9,
+    "He": 8,
+    "When": 6,
+    "You": 6,
+    "On": 5,
+    "This": 4,
+    "After": 4
+  },
+  
+  "formatting_conventions": {
+    "dialogue_quotes": "single",
+    "excerpt_quotes": "double_single",
+    "internal_monologue": "ellipsis_framed",
+    "scene_breaks": "triple_asterisk",
+    "memory_headers": "ordinal_with_title"
+  }
+}
