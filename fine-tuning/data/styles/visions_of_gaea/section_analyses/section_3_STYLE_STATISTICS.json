@@ -1,0 +1,187 @@
+{
+  "manuscript_title": "Visions of Gaea - Section 3",
+  "section_coverage": "Memory 10 through Epilogue (Prelude to Ascension)",
+  "narrative_phase": "Climax & Resolution",
+  "analysis_date": "2025-11-25",
+  "analyst": "style-analyzer-unbiased agent",
+
+  "basic_metrics": {
+    "total_words": 20459,
+    "total_sentences": 1289,
+    "total_paragraphs": 28,
+    "total_lines": 606,
+    "scene_breaks": 7
+  },
+
+  "sentence_structure": {
+    "average_sentence_length": 15.87,
+    "min_sentence_length": 1,
+    "max_sentence_length": 88,
+    "distribution": {
+      "short_under_10_words": {
+        "count": 439,
+        "percentage": 34.1
+      },
+      "medium_10_to_24_words": {
+        "count": 594,
+        "percentage": 46.1
+      },
+      "long_25_plus_words": {
+        "count": 256,
+        "percentage": 19.9
+      }
+    }
+  },
+
+  "paragraph_structure": {
+    "average_sentences_per_paragraph": 46.04,
+    "note": "High value indicates single-newline formatting between logical paragraphs"
+  },
+
+  "pov_analysis": {
+    "type": "Second-person dominant with POV shift in epilogue",
+    "second_person_pronouns": {
+      "you": "estimated 800+",
+      "your": "estimated 200+",
+      "yourself": "estimated 50+",
+      "total": 1076
+    },
+    "third_person_pronouns": {
+      "he_she_his_her_total": 867,
+      "note": "High third-person count from action sequences with Haji and Wollen"
+    },
+    "epilogue_shift": "POV changes to third-person 'she' for transcendence scene"
+  },
+
+  "dialogue_analysis": {
+    "dialogue_word_count": 10161,
+    "dialogue_ratio": 0.497,
+    "dialogue_ratio_percentage": "49.67%",
+    "dialogue_tags": {
+      "said": 97,
+      "asked": 33,
+      "answered": 30,
+      "spoke": 19,
+      "conveyed": 12,
+      "whispered": 8,
+      "shouted": 6
+    },
+    "telepathy_present": true,
+    "telepathy_marker": "conveyed the thought"
+  },
+
+  "punctuation_analysis": {
+    "questions": 79,
+    "exclamations": 45,
+    "ellipsis_patterns": 69,
+    "scene_breaks_asterisks": 7
+  },
+
+  "character_mentions": {
+    "Haji": 161,
+    "Cathy": 50,
+    "Wollen": 41,
+    "Jack": 35,
+    "Alan": 24,
+    "Sophie": 23,
+    "Brent": 4
+  },
+
+  "vocabulary": {
+    "technology_terms": {
+      "Mother": 31,
+      "facemask": 18,
+      "sentinels": 14,
+      "Unit": 14,
+      "droids": 12,
+      "sentinel": 7,
+      "claw": 7,
+      "exoderm": 5,
+      "claws": 5,
+      "droid": 4,
+      "Stalkers": 3,
+      "Units": 2,
+      "pneumatics": 2,
+      "visor": 2,
+      "impermium": 2,
+      "glider": 1
+    },
+    "society_terms": {
+      "Companion": 25,
+      "Specialists": 18,
+      "Apprentices": 15,
+      "Darm": 16,
+      "Companions": 11,
+      "Apprentice": 11,
+      "darmians": 9,
+      "Mentalist": 6,
+      "darmian": 5,
+      "pyrean": 5,
+      "Acolytes": 5,
+      "Specialist": 4,
+      "Mentalists": 2,
+      "pyreans": 2,
+      "citizen": 2,
+      "Outcasts": 1,
+      "citizens": 1,
+      "Acolyte": 1,
+      "gastian": 1
+    },
+    "concept_terms": {
+      "existence": 18,
+      "Torment": 9,
+      "Gathering": 8,
+      "Directive": 6,
+      "Directives": 6,
+      "Age of Obscurity": 3,
+      "Prime Directive": 2,
+      "Ascension": 2,
+      "Plenitude": 1
+    },
+    "location_terms": {
+      "Field": 17,
+      "Hub": 13,
+      "Boulevard": 11,
+      "Shelter": 9,
+      "suite": 5,
+      "Manufacturing Sector": 3,
+      "Residential": 3,
+      "Oderon": 1,
+      "lunoids": 1
+    }
+  },
+
+  "tense_analysis": {
+    "past_tense_markers": 403,
+    "present_tense_markers": 243,
+    "dominant_tense": "Past",
+    "note": "Narrator commentary and internal monologue use present tense"
+  },
+
+  "internal_monologue": {
+    "italicized_passages_count": 27,
+    "marker_format": "...text...",
+    "examples": [
+      "...I see trees as tall as towers...",
+      "...I sink into the green and blue...",
+      "...they are honored in death when they should have been cared for in life..."
+    ]
+  },
+
+  "section_specific_elements": {
+    "gathering_scene": {
+      "type": "Social/Romance",
+      "features": ["Companionship rituals", "Intimate dialogue", "Emotional vulnerability"]
+    },
+    "combat_sequences": {
+      "antagonist": "Wollen",
+      "features": ["Body horror", "Transformation", "Intense violence", "Death scenes"]
+    },
+    "epilogue": {
+      "title": "Prelude to Ascension",
+      "pov_shift": "Second-person to third-person (she)",
+      "tone": "Transcendent/Metaphysical",
+      "features": ["Awakening metaphor", "Light vs darkness", "Soul gestalt imagery"]
+    }
+  }
+}
