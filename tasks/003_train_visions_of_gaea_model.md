@@ -47,7 +47,7 @@ Task 002 completed manuscript curation, producing 35 training-ready chunks (63,3
 ### 4. Training Execution
 - [ ] Activate finetune environment (`source ~/.venvs/finetune/bin/activate`)
 - [ ] Start training: `./training/2_train_lora.sh`
-- [ ] Monitor progress with `./monitor_training.sh`
+- [ ] Monitor progress with `./monitoring/monitor_training.sh`
 - [ ] Track validation loss convergence
 - [ ] Verify checkpoints saved (every 0.5 epoch)
 - [ ] Document training time and final loss values
@@ -171,7 +171,7 @@ source ~/.venvs/finetune/bin/activate
 
 # Terminal 2: Monitor progress
 cd ~/scifi-llm
-./monitor_training.sh
+./monitoring/monitor_training.sh
 ```
 
 ### Step 5: Merge Adapter (2-5 minutes)

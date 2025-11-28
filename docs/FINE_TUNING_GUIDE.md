@@ -475,7 +475,8 @@ fine-tuning/
 ├── logs/                             # Training logs (auto-generated)
 │   └── training_20251102-230852.log  # Full training output
 │
-└── monitor_training.sh               # Real-time training monitor
+├── monitoring/                       # Performance monitoring (root level)
+│   └── monitor_training.sh           # Real-time training monitor
 ```
 
 ---
@@ -697,7 +698,7 @@ cd fine-tuning
 ./training/2_train_lora.sh
 
 # Monitor training (in separate terminal)
-./monitor_training.sh
+./monitoring/monitor_training.sh
 
 # Merge adapter with base model
 ./training/3_merge_adapters.sh

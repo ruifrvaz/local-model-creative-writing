@@ -30,10 +30,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Examples: 
 
 ### Unified Pattern
-- **Dominant POV:** [Second-person expected]
-- **Consistency:** [Percentage across all sections]
-- **Variations:** [Note any shifts, especially in epilogue]
-- **Merged Examples:** [Select best examples from all sections]
+- **Dominant POV:** 
+- **Consistency:** 
+- **Variations:** 
+- **Merged Examples:**
 
 ---
 
@@ -58,10 +58,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Paragraph structure: 
 
 ### Unified Metrics
-- **Average Sentence Length:** [Mean of 3 sections]
-- **Typical Range:** [Min-Max across all sections]
-- **Variance Pattern:** [Consistent vs variable]
-- **Paragraph Guidelines:** [Avg sentences per paragraph]
+- **Average Sentence Length:** 
+- **Typical Range:** 
+- **Variance Pattern:** 
+- **Paragraph Guidelines:**
 
 ---
 
@@ -86,10 +86,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Multilayered communication: 
 
 ### Unified Guidelines
-- **Dialogue Density:** [Average percentage]
-- **Attribution Patterns:** [Merged patterns]
-- **Voice Distinctiveness:** [Alan vs others]
-- **Communication Types:** [Verbal, telepathic, Unit-based]
+- **Dialogue Density:** 
+- **Attribution Patterns:** 
+- **Voice Distinctiveness:** 
+- **Communication Types:**
 
 ---
 
@@ -114,10 +114,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Show vs tell ratio: 
 
 ### Unified Principles
-- **Sensory Balance:** [Visual, tactile, auditory emphasis]
-- **Detail Level:** [Sparse vs rich, when each is used]
-- **Worldbuilding Method:** [Natural integration techniques]
-- **Show/Tell Strategy:** [Balance and application]
+- **Sensory Balance:** 
+- **Detail Level:** 
+- **Worldbuilding Method:** 
+- **Show/Tell Strategy:**
 
 ---
 
@@ -139,10 +139,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Scene transitions: 
 
 ### Unified Framework
-- **Pacing Spectrum:** [Slow/medium/fast when]
-- **Information Delivery:** [Exposition methods]
-- **Transitions:** [Scene break techniques]
-- **Arc-Specific Notes:** [Setup vs climax differences]
+- **Pacing Spectrum:** 
+- **Information Delivery:** 
+- **Transitions:** 
+- **Arc-Specific Notes:**
 
 ---
 
@@ -164,9 +164,9 @@ After completing all 3 section analyses, use this template to systematically mer
 - Length patterns: 
 
 ### Unified Conventions
-- **Scene Break Usage:** [When *** is used]
-- **Memory Length:** [Typical word count ranges]
-- **Structural Patterns:** [Common layouts]
+- **Scene Break Usage:** 
+- **Memory Length:** 
+- **Structural Patterns:**
 
 ---
 
@@ -188,13 +188,9 @@ After completing all 3 section analyses, use this template to systematically mer
 - Density: 
 
 ### Unified Vocabulary
-- **Core Technical Terms:** [Union of all sections]
-  - Technology: Units, sentinels, facemask, exoderms, gliders...
-  - Society: Darmians, Mentalists, Specialists, Companions...
-  - Concepts: Torment, Gathering, Tides of Fate, Plenitude...
-  - Locations: Hub, Vostor, South Boulevard, Jade Stairway...
-- **Integration Rules:** [How terms are naturally introduced]
-- **Density Guidelines:** [Terms per 1000 words]
+- **Core Technical Terms:** 
+- **Integration Rules:** 
+- **Density Guidelines:**
 
 ---
 
@@ -216,10 +212,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Restraint patterns: 
 
 ### Unified Tone Profile
-- **Emotional Spectrum:** [Wonder → Fear → Rage → Grief → Transcendence]
-- **Intensity Management:** [Restraint vs release]
-- **Physical Manifestations:** [How emotions shown through body]
-- **Melodrama Avoidance:** [Techniques for restraint]
+- **Emotional Spectrum:** 
+- **Intensity Management:** 
+- **Physical Manifestations:** 
+- **Emotional Techniques:**
 
 ---
 
@@ -241,11 +237,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Narrator: 
 
 ### Unified Voice Guidelines
-- **Alan's Voice:** [Impulsive, caring, questioning authority]
-- **Haji:** [Logical, loyal]
-- **Sophie/Girl:** [Mysterious, telepathic]
-- **Narrator:** [Omniscient, philosophical, poetic]
-- **Voice Markers:** [Speech patterns per character]
+- **Protagonist Voice:** 
+- **Supporting Characters:** 
+- **Narrator Voice:** 
+- **Voice Markers:**
 
 ---
 
@@ -270,10 +265,10 @@ After completing all 3 section analyses, use this template to systematically mer
 - Typography: 
 
 ### Unified Conventions
-- **Italics:** [Internal monologue, mystical commentary]
-- **Scene Breaks (***) :** [POV shifts, location changes, time shifts]
-- **Tense:** [Present/past mixing for immediacy]
-- **Special Formatting:** [Unit messages, telepathy notation]
+- **Italics:** 
+- **Scene Breaks:** 
+- **Tense:** 
+- **Special Formatting:**
 
 ---
 
@@ -282,8 +277,8 @@ After completing all 3 section analyses, use this template to systematically mer
 ### Merge Process
 1. Extract all unique terms from each section's vocabulary list
 2. Remove duplicates (keep union)
-3. Categorize: Technology / Society / Concepts / Locations / Actions
-4. Note frequency if available (terms in all 3 sections = core vocabulary)
+3. Categorize by type if applicable
+4. Note frequency (terms in all 3 sections = core vocabulary)
 
 ### Section 1 Unique Terms
 [Paste vocabulary from section 1]
@@ -296,12 +291,12 @@ After completing all 3 section analyses, use this template to systematically mer
 
 ### Unified Vocabulary List
 **Core Terms (in 2+ sections):**
-- [Terms present across sections]
+- 
 
 **Section-Specific Terms:**
-- Section 1 only: [Setup-specific terms]
-- Section 2 only: [Development-specific terms]
-- Section 3 only: [Climax-specific terms]
+- Section 1 only: 
+- Section 2 only: 
+- Section 3 only:
 
 ---
 
@@ -320,45 +315,40 @@ After completing all 3 section analyses, use this template to systematically mer
 | Lexical Diversity | | | | |
 
 ### Consistency Check
-- **High Consistency (±5%):** [Metrics that match closely]
-- **Moderate Variation (±15%):** [Expected differences]
-- **Significant Variation (>15%):** [Arc-based changes]
+- **High Consistency (±5%):** 
+- **Moderate Variation (±15%):** 
+- **Significant Variation (>15%):**
 
 ---
 
 ## Pattern Consistency Analysis
 
 ### Patterns Present in All 3 Sections (Core Style)
-- [ ] Second-person POV
-- [ ] Italicized internal monologue
-- [ ] Scene break markers (***)
-- [ ] Emotional restraint
-- [ ] Technical term integration
-- [ ] Philosophical narrator commentary
-- [ ] Show-don't-tell descriptions
-- [ ] [Add other universal patterns]
+- [ ] 
+- [ ] 
+- [ ] 
 
 ### Patterns in 2 Sections (Common)
-- [Patterns present in any 2 sections]
+- 
 
 ### Section-Specific Patterns (Variable)
-- Section 1 (Setup): [Unique to this phase]
-- Section 2 (Development): [Unique to this phase]
-- Section 3 (Climax): [Unique to this phase]
+- Section 1: 
+- Section 2: 
+- Section 3:
 
 ---
 
-## Validation Checklist
+### Validation Checklist
 
 After completing accumulation:
 
 - [ ] All 10 analysis domains covered
-- [ ] Vocabulary merged (200+ terms expected)
+- [ ] Vocabulary merged
 - [ ] Statistics averaged with ranges noted
 - [ ] Core patterns identified (in 2+ sections)
 - [ ] Arc-specific variations documented
-- [ ] Examples selected from each narrative phase
-- [ ] Inconsistencies explained (not errors, but progression)
+- [ ] Examples selected from each section
+- [ ] Variations explained (progression vs inconsistency)
 - [ ] Unified guide ready for style-transfer-generator
 
 ---
@@ -412,15 +402,227 @@ Using this completed template, generate:
 - **Common presence** for patterns (2+ sections)
 - **Document variations** as arc progression, not inconsistency
 
-**Expected Consistency:**
-- POV: 95%+ second-person
-- Italics usage: Consistent
-- Scene breaks: Consistent
-- Core vocabulary: 70%+ overlap
-- Sentence structure: ±10% variation is normal
+**Typical Consistency Patterns:**
+- Technical conventions tend to be highly consistent
+- Core vocabulary usually has significant overlap
+- Sentence structure may vary within normal range
 
-**Acceptable Variations:**
-- Pacing (faster in action, slower in exposition)
-- Dialogue density (higher in social scenes)
-- Emotional intensity (builds toward climax)
-- Description detail (more in worldbuilding, less in action)
+**Common Variations:**
+- Pacing differences by narrative phase
+- Dialogue density by scene type
+- Emotional intensity across story arc
+- Description detail by context
+
+---
+
+# REFERENCE GUIDE (Educational Only)
+
+**⚠️ IMPORTANT:** This section provides examples to help recognize patterns during accumulation. **DO NOT** use these as expectations or try to fit agent findings into these categories. Record what the agent actually discovered, not what this guide suggests might exist.
+
+---
+
+## POV Types Reference
+
+### First-Person (Subjective)
+- Narrator is a character: "I walked," "We decided"
+- Limited to narrator's knowledge
+- Intimate, subjective perspective
+- Example: *"I couldn't shake the feeling that something was wrong."*
+
+### Second-Person (Direct Address)
+- Addresses reader/protagonist as "you"
+- Creates immediacy and immersion
+- Less common in novels
+- Example: *"You step into the corridor, your pulse racing."*
+
+### Third-Person Limited
+- "He/she/they" from one character's perspective
+- Access to one mind at a time
+- Most common in modern fiction
+- Example: *"Sarah entered the room, wondering if anyone would notice."*
+
+### Third-Person Omniscient
+- "He/she/they" with access to multiple perspectives
+- Narrator knows more than characters
+- Classical narrative style
+- Example: *"While John searched the archives, miles away Maria discovered the truth."*
+
+---
+
+## Sentence Structure Metrics Reference
+
+### Length Categories
+- **Very Short:** 1-5 words (emphasis, impact)
+- **Short:** 6-12 words (clarity, pace)
+- **Medium:** 13-20 words (standard narrative)
+- **Long:** 21-30 words (complex ideas)
+- **Very Long:** 31+ words (literary, flowing)
+
+### Variance Patterns
+- **Low Variance:** Consistent rhythm (technical writing)
+- **Medium Variance:** Balanced variety (most fiction)
+- **High Variance:** Dramatic range (literary style)
+
+### Paragraph Structure
+- **Terse:** 1-2 sentences (action, dialogue)
+- **Standard:** 3-5 sentences (typical narrative)
+- **Dense:** 6-10 sentences (exposition, description)
+- **Block:** 11+ sentences (rare, literary)
+
+---
+
+## Dialogue Attribution Reference
+
+### Direct Attribution
+- "Said" tags: *"I'm leaving," she said.*
+- Action beats: *"I'm leaving." She grabbed her coat.*
+- No tags: Alternating speakers in clear context
+
+### Attribution Frequency
+- **Heavy:** Tag on most lines (clarity priority)
+- **Moderate:** Tag every 3-4 lines (balance)
+- **Minimal:** Context makes speaker clear (advanced)
+
+### Dialogue-to-Prose Ratio
+- **Dialogue-Heavy:** 60-80% (screenplay-like)
+- **Balanced:** 40-60% (typical novel)
+- **Prose-Heavy:** 20-40% (literary, introspective)
+- **Minimal Dialogue:** <20% (action or philosophical)
+
+---
+
+## Description Density Reference
+
+### Sensory Emphasis
+- **Visual-Primary:** Colors, shapes, appearance
+- **Multi-Sensory:** Visual + sound/smell/touch/taste
+- **Emotional-Sensory:** Physical sensations linked to feelings
+- **Abstract:** Concepts and ideas over concrete details
+
+### Detail Level
+- **Sparse:** Minimal description (reader imagination)
+- **Selective:** Key details only (Hemingway approach)
+- **Rich:** Multiple sensory layers (immersive)
+- **Exhaustive:** Extensive detail (Victorian style)
+
+### Show vs Tell Balance
+- **Show-Heavy:** Action/dialogue reveal character
+- **Balanced:** Mix of showing and telling
+- **Tell-Heavy:** Narrator exposition and summary
+
+---
+
+## Pacing Spectrum Reference
+
+### Speed Indicators
+- **Very Slow:** Long descriptions, philosophical passages, introspection
+- **Slow:** Detailed scenes, character development
+- **Medium:** Standard narrative, balanced action/reflection
+- **Fast:** Short sentences, active verbs, minimal description
+- **Very Fast:** Sentence fragments, rapid action, urgency
+
+### Scene Transition Types
+- **Hard Break:** Visual separator (*** or chapter break)
+- **Soft Break:** Time/location change in text
+- **Seamless:** Continuous flow between scenes
+- **Jump Cut:** Abrupt shift for effect
+
+---
+
+## Worldbuilding Integration Reference
+
+### Terminology Introduction
+- **Immediate:** Terms used without explanation (reader infers)
+- **Contextual:** Meaning clear from usage
+- **Brief Aside:** Quick parenthetical explanation
+- **Exposition:** Dedicated explanation passage
+- **Organic:** Integrated into dialogue/action
+
+### Term Density
+- **Sparse:** <5 unique terms per 1000 words
+- **Moderate:** 5-15 terms per 1000 words
+- **Rich:** 15-30 terms per 1000 words
+- **Dense:** 30+ terms per 1000 words (technical SF)
+
+---
+
+## Tone & Emotion Reference
+
+### Emotional Register
+- **Restrained:** Understated, implied emotion
+- **Balanced:** Mix of expression and restraint
+- **Expressive:** Clear emotional language
+- **Intense:** Heightened emotional prose
+
+### Intensity Management
+- **Constant:** Even emotional tone throughout
+- **Building:** Gradual escalation
+- **Peaks and Valleys:** Alternating intensity
+- **Explosive:** Sudden dramatic moments
+
+### Physical Emotion Markers
+- **Internal:** Thoughts, feelings described
+- **External:** Body language, physical reactions
+- **Mixed:** Combination of internal/external
+- **Absent:** Minimal emotional description
+
+---
+
+## Character Voice Reference
+
+### Voice Distinctiveness
+- **Highly Distinct:** Each character unmistakable
+- **Moderate Distinction:** Some variation between characters
+- **Subtle Differences:** Slight speech pattern variations
+- **Unified:** Author's voice dominant over character voices
+
+### Speech Pattern Markers
+- **Vocabulary:** Word choice differences
+- **Syntax:** Sentence structure variations
+- **Rhythm:** Speaking pace and cadence
+- **Dialect/Accent:** Regional or cultural markers
+- **Formality:** Casual vs formal speech
+- **Quirks:** Repeated phrases, fillers, habits
+
+---
+
+## Technical Convention Reference
+
+### Italics Usage
+- **Thoughts:** Internal monologue
+- **Emphasis:** Stressed words
+- **Foreign Words:** Non-English terms
+- **Titles:** Books, ships, etc.
+- **Special Text:** Letters, signs, telepathy
+- **None:** No italic usage
+
+### Scene Break Markers
+- **Asterisks:** *** (common in manuscripts)
+- **Blank Space:** Extra line break
+- **Symbols:** # or other characters
+- **Chapter Breaks:** Formal divisions
+- **None:** Continuous text
+
+### Tense Usage
+- **Consistent Past:** Standard narrative past
+- **Consistent Present:** Immediate present tense
+- **Mixed:** Strategic tense shifts
+- **Historical Present:** Past events in present tense
+
+### Special Formatting
+- **All Caps:** Emphasis or sound effects
+- **Em Dashes:** Interruption or parenthetical
+- **Ellipses:** Trailing off or hesitation
+- **Typography:** Unique visual elements
+
+---
+
+## Usage Instructions
+
+1. **Read agent analysis first** - Don't look at reference until after reviewing findings
+2. **Use for recognition** - "Oh, that's third-person limited" not "It should be third-person"
+3. **Expand categories** - Agent may find patterns not listed here
+4. **Trust the agent** - If findings don't match reference, record what agent found
+5. **Create new categories** - This manuscript may have unique elements
+
+**Remember:** This guide helps you understand and categorize what was found. It does NOT tell you what to look for or expect.

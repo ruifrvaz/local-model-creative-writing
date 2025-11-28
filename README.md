@@ -175,8 +175,8 @@ See [QUICK_START.md](QUICK_START.md) for complete setup instructions.
 ### Monitor Performance
 
 ```bash
-./monitor_vllm.sh         # GPU usage, token stats
-./monitor_rag_proxy.sh    # RAG query logs
+./monitoring/monitor_vllm.sh         # GPU usage, token stats
+./monitoring/monitor_rag_proxy.sh    # RAG query logs
 ```
 
 ## Project Structure
@@ -189,8 +189,11 @@ local-model-creative-writing/
 ├── serve_rag_proxy.sh          # Start RAG proxy
 ├── stop_vllm.sh                # Stop vLLM server
 ├── stop_rag_proxy.sh           # Stop RAG proxy
-├── monitor_vllm.sh             # Monitor vLLM performance
-├── monitor_rag_proxy.sh        # Monitor RAG queries
+├── monitoring/                 # Performance monitoring scripts
+│   ├── monitor_vllm.sh            # Monitor vLLM performance
+│   ├── monitor_rag_proxy.sh       # Monitor RAG queries
+│   ├── monitor_rag_context.sh     # Monitor RAG context retrieval
+│   └── monitor_training.sh        # Monitor fine-tuning progress
 ├── vllm/                       # vLLM server setup
 │   ├── README.md                  # vLLM documentation
 │   ├── VLLM_SETUP.md              # Detailed setup guide
@@ -306,8 +309,8 @@ curl http://localhost:8000/health
 curl http://localhost:8001/health
 
 # View logs
-./monitor_vllm.sh
-./monitor_rag_proxy.sh
+./monitoring/monitor_vllm.sh
+./monitoring/monitor_rag_proxy.sh
 ```
 
 ### No Context from Documents

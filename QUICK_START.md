@@ -463,8 +463,8 @@ cd ~/scifi-llm && ./serve_rag_proxy.sh scifi_world
 
 ### Monitor Activity
 ```bash
-./monitor_vllm.sh       # GPU usage, token stats
-./monitor_rag_proxy.sh  # RAG query logs
+./monitoring/monitor_vllm.sh       # GPU usage, token stats
+./monitoring/monitor_rag_proxy.sh  # RAG query logs
 ```
 
 ## Advanced Configuration

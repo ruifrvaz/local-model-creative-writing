@@ -309,7 +309,7 @@ VS Code + Continue.dev → Port 8001 (RAG Proxy) → Port 8000 (vLLM)
 ## Core Components
 
 - `serve_vllm.sh` - Server launcher (OpenAI-compatible API on port 8000)
-- `monitor_vllm.sh` - Real-time token/memory tracking
+- `monitoring/monitor_vllm.sh` - Real-time token/memory tracking
 - `stop_vllm.sh` - Graceful shutdown with resource cleanup
 - `RAG/` - Retrieval-augmented generation for worldbuilding/character consistency (see `RAG/RAG_SETUP.md`)
 - `vllm/setup/` - One-time installation scripts (0-7 numbered sequence)
@@ -393,7 +393,7 @@ cd ~/scifi-llm
 ./stop_vllm.sh
 
 # Monitor live (token counts, VRAM, requests)
-./monitor_vllm.sh
+./monitoring/monitor_vllm.sh
 ```
 
 ### RAG Integration for Science Fiction Writing
@@ -503,7 +503,7 @@ Creative quality benchmark supports 5 writing tones with distinct generation par
 - `vllm:prompt_tokens_total` - Input tokens processed
 - `vllm:generation_tokens_total` - Output tokens generated
 - `vllm:request_success_total` - Completed requests
-- Monitor via `monitor_vllm.sh` for real-time tracking
+- Monitor via `monitoring/monitor_vllm.sh` for real-time tracking
 
 ## File Organization
 
@@ -511,8 +511,11 @@ Creative quality benchmark supports 5 writing tones with distinct generation par
 scifi-llm/
 ├── serve_vllm.sh, serve_rag_proxy.sh        # Server launchers
 ├── stop_vllm.sh, stop_rag_proxy.sh          # Graceful shutdown
-├── monitor_vllm.sh, monitor_rag_proxy.sh    # Real-time monitoring
-├── monitor_training.sh                      # Fine-tuning progress monitor
+├── monitoring/                              # Performance monitoring scripts
+│   ├── monitor_vllm.sh                      # vLLM server monitoring
+│   ├── monitor_rag_proxy.sh                 # RAG proxy monitoring
+│   ├── monitor_rag_context.sh               # RAG context retrieval
+│   └── monitor_training.sh                  # Fine-tuning progress monitor
 ├── QUICK_START.md                           # VS Code setup guide
 ├── RAG/                       # Science fiction writing RAG system
 │   ├── README.md, RAG_SETUP.md      # Documentation
@@ -611,7 +614,7 @@ scifi-llm/
 - Test retrieval quality: Character consistency, plot continuity
 - Use `balanced` or `quality` embedding models for nuanced fiction
 - Store collections by project: `--collection story_alpha`
-- RAG queries count as normal API calls (monitor with `monitor_vllm.sh`)
+- RAG queries count as normal API calls (monitor with `monitoring/monitor_vllm.sh`)
 - **Update RAG/README.md and RAG_SETUP.md to reflect changes**
 - **Create history file if adding dependencies or changing workflow**
 

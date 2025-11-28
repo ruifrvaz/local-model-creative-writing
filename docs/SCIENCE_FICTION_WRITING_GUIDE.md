@@ -215,7 +215,7 @@ curl -X POST http://localhost:8000/v1/chat/completions \
 ### Monitor Performance
 ```bash
 # Real-time vLLM performance monitoring
-./monitor_vllm.sh
+./monitoring/monitor_vllm.sh
 
 # Basic VRAM check
 nvidia-smi --query-gpu=memory.used,memory.total --format=csv,noheader
