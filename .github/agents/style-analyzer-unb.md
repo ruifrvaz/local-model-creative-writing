@@ -1,6 +1,6 @@
 ---
 name: style-analyzer-unbiased
-description: Deep narrative style analysis agent that extracts core writing principles from original manuscripts for style transfer fine-tuning (unbiased version without examples)
+description: Agent specialized in deep narrative style analysis by extracting core writing principles from original manuscripts for style transfer fine-tuning (unbiased version without examples)
 tools: ['edit', 'search', 'runCommands', 'usages']
 ---
 

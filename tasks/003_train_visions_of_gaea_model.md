@@ -17,7 +17,7 @@ Task 002 completed manuscript curation, producing 35 training-ready chunks (63,3
 - Balanced scene distribution (40% action, 31% dialogue, 14% introspection, 14% exposition)
 - 97% second-person POV consistency
 
-**Reference:** `archives/002_visions_of_gaea_curation/CURATION_REPORT.md` for complete dataset analysis.
+**Reference:** `docs/archives/002_visions_of_gaea_curation/CURATION_REPORT.md` for complete dataset analysis.
 
 ## Acceptance Criteria
 
@@ -266,7 +266,7 @@ python 3_blind_evaluation.py --latest
 ### Data Files
 - **Chunks:** `fine-tuning/data/raw/visions_of_gaea/chunk_*.txt` (35 files)
 - **Source:** `fine-tuning/data/raw/visions_of_gaea/ascension_part_1_manuscript.txt`
-- **Archive:** `archives/002_visions_of_gaea_curation/` (metadata, reports)
+- **Archive:** `docs/archives/002_visions_of_gaea_curation/` (metadata, reports)
 
 ### Configuration Files
 - **QLoRA Config:** `fine-tuning/configs/qlora_style_transfer.yaml`
@@ -277,7 +277,7 @@ python 3_blind_evaluation.py --latest
 - **Setup Guide:** `fine-tuning/FINE_TUNING_SETUP.md`
 - **QLoRA Guide:** `docs/QLORA_TRAINING_GUIDE.md`
 - **Benchmark Guide:** `fine-tuning/benchmarks/README.md`
-- **Dataset Report:** `archives/002_visions_of_gaea_curation/CURATION_REPORT.md`
+- **Dataset Report:** `docs/archives/002_visions_of_gaea_curation/CURATION_REPORT.md`
 
 ## Notes
 

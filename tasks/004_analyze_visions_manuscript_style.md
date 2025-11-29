@@ -322,7 +322,7 @@ style guide to verify completeness and accuracy
 
 ### Source Material
 - **Manuscript:** `fine-tuning/data/raw/visions_of_gaea/ascension_part_1_manuscript.txt`
-- **Curation Report:** `archives/002_visions_of_gaea_curation/CURATION_REPORT.md`
+- **Curation Report:** `docs/archives/002_visions_of_gaea_curation/CURATION_REPORT.md`
 - **Chunks:** `fine-tuning/data/raw/visions_of_gaea/chunk_*.txt` (35 files)
 
 ### Output Location

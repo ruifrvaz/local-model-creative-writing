@@ -4,7 +4,7 @@
 **State:** Completed  
 **Created:** 2025-11-21  
 **Completed:** 2025-11-24  
-**Archive:** `archives/002_visions_of_gaea_curation/`
+**Archive:** `docs/archives/002_visions_of_gaea_curation/`
 
 ## Description
 
@@ -37,12 +37,12 @@ Current training data consists of 139 scene files (188,331 words) from 8 story u
 - 5 session reports documenting curation process
 - Complete quality analysis and validation
 - Training configuration recommendations
-- All metadata archived in `archives/002_visions_of_gaea_curation/`
+- All metadata archived in `docs/archives/002_visions_of_gaea_curation/`
 
 **Files Location:**
 - Chunks: `fine-tuning/data/raw/visions_of_gaea/chunk_*.txt`
 - Source: `fine-tuning/data/raw/visions_of_gaea/ascension_part_1_manuscript.txt`
-- Archive: `archives/002_visions_of_gaea_curation/` (reports, session notes, temp files)
+- Archive: `docs/archives/002_visions_of_gaea_curation/` (reports, session notes, temp files)
 
 ## Next Steps
 

@@ -14,7 +14,7 @@ This directory contains completed project artifacts, metadata, and documentation
 Archives are organized by task number and description:
 
 ```
-archives/
+docs/archives/
 ├── README.md (this file)
 └── NNN_task_description/
     ├── README.md (archive-specific documentation)
@@ -62,6 +62,6 @@ Do NOT archive:
 
 - **`tasks/`** - Active and pending work items
 - **`docs/history/`** - Architectural changes and decisions
-- **`archives/`** - Completed task artifacts (this directory)
+- **`docs/archives/`** - Completed task artifacts (this directory)
 
 All three serve as "meta work folders" for project organization and knowledge preservation.

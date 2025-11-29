@@ -62,7 +62,7 @@ This archive contains all metadata, reports, and working files from the Visions 
 ## Archive Structure
 
 ```
-archives/002_visions_of_gaea_curation/
+docs/archives/002_visions_of_gaea_curation/
 ├── README.md (this file)
 ├── CURATION_REPORT.md
 ├── MANUSCRIPT_COMPLETION_SUMMARY.md

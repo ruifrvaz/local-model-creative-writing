@@ -229,6 +229,7 @@ local-model-creative-writing/
     ├── RAG_RETRIEVAL_GUIDE.md
     ├── CONCURRENCY_OPTIMIZATION_GUIDE.md
     ├── VLLM_QUICK_REFERENCE.md
+    ├── archives/                  # Completed task artifacts
     └── history/                   # Architecture change logs
 ```
 

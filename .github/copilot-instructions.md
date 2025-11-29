@@ -583,7 +583,10 @@ scifi-llm/
 │   ├── checkpoints/                 # Training checkpoints (auto-generated)
 │   ├── merged_models/               # Final models for vLLM (auto-generated)
 │   └── logs/                        # Training logs (auto-generated)
-└── chatUI/                          # Chat interface (optional)
+├── chatUI/                          # Chat interface (optional)
+└── docs/
+    ├── archives/                    # Completed task artifacts
+    └── history/                     # Architecture change logs
 ```
 
 ## When Making Changes

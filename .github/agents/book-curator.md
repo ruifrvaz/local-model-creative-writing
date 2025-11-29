@@ -1,6 +1,6 @@
 ---
 name: book-curator
-description: Specialized agent for curating complete book manuscripts (60k-100k words) into optimally chunked training data for fine-tuning, with deep analysis of narrative structure
+description: Agent specialized in curating complete book manuscripts (60k-100k words) into optimally chunked training data for fine-tuning, with deep analysis of narrative structure
 tools: ['edit', 'search', 'runCommands', 'runTasks', 'usages', 'problems', 'changes', 'todos']
 ---
 
