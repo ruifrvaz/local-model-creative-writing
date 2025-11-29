@@ -1,97 +1,93 @@
 # Analyze Visions of Gaea Manuscript Style
 
 **Priority:** 2  
-**State:** Open  
+**State:** In Progress  
 **Created:** 2025-11-24  
+**Updated:** 2025-11-29  
 **Depends On:** Task 002 (Completed)
 
 ## Description
 
 Extract comprehensive narrative style patterns from the Visions of Gaea manuscript using the style-analyzer agent. The full manuscript (62,884 words) causes timeout issues when analyzed as a single document. Break the manuscript into manageable sections and accumulate the analysis to create a complete style transfer guide.
 
+## Current Progress
+
+### Completed Steps
+- ✅ Manuscript split into 3 sections (~21k words each)
+- ✅ Section analyses completed via 3 parallel approaches:
+  - `styleTransfer/analyzer_biased` - Standard style-analyzer with examples
+  - `styleTransfer/analyzer_unbiased` - Unbiased analyzer without pre-conditioning
+  - `styleTransfer/analyzer_templated` - Template-guided analyzer
+- ✅ All 9 section analyses available (3 sections × 3 prompts)
+- ✅ Results merged into 3 branches (one per prompt approach)
+
+### Next Step: Merge Section Analyses
+Use the new **style-merger** agent to combine section analyses into unified guide.
+
+**Agent:** `.github/agents/style-merger.md`
+
+**Branches with section analyses:**
+- `remotes/origin/styleTransfer/analyzer_biased`
+- `remotes/origin/styleTransfer/analyzer_unbiased`
+- `remotes/origin/styleTransfer/analyzer_templated`
+
+### Merge Workflow (×3 branches)
+```
+# For each branch:
+1. Checkout branch section_analyses/ to local
+2. Invoke style-merger agent
+3. Verify unified outputs
+4. Compare results across the 3 branches
+5. Select best unified guide or synthesize
+```
+
 ## Problem
 
-**Current Issue:**
+**Original Issue:**
 - style-analyzer agent times out when processing the complete manuscript
 - 62,884 words exceeds reasonable processing time/token limits
 - Need style analysis to generate training data with style-transfer-generator
 
-**Impact:**
-- Cannot proceed with style-matched training data generation
-- Blocks expansion of training dataset beyond 35 curated chunks
-- Limits ability to use style-analyzer + style-transfer-generator workflow
-
-## Proposed Solution
-
-**Multi-Section Analysis Approach:**
-1. Split manuscript into 3 approximately equal sections (~21k words each)
-2. Run style-analyzer on each section independently
-3. Accumulate and merge the style patterns across all sections
-4. Generate unified STYLE_TRANSFER_GUIDE.md combining all analyses
-
-**Why 3 sections:**
-- ~21,000 words per section is manageable for agent processing
-- Provides good coverage across narrative arc (beginning, middle, end)
-- Small enough to avoid timeouts, large enough to capture style patterns
-- Represents different story phases (setup, action, climax/resolution)
+**Solution Implemented:**
+- Split manuscript into 3 sections (~21k words each)
+- Ran 3 parallel analysis approaches (biased, unbiased, templated)
+- Created style-merger agent for combining results
 
 ## Acceptance Criteria
 
-### 1. Manuscript Segmentation
-- [ ] Split `ascension_part_1_manuscript.txt` into 3 sections
-- [ ] Section 1: Lines 1-606 (~21k words) - Prologue through Memory 5
-- [ ] Section 2: Lines 607-1212 (~21k words) - Memories 6-9
-- [ ] Section 3: Lines 1213-1818 (~21k words) - Memories 10-11 + Epilogue
-- [ ] Save sections to `fine-tuning/data/styles/visions_of_gaea/manuscript_sections/`
-- [ ] Verify total word count matches original (62,884 words)
+### 1. Manuscript Segmentation ✅ COMPLETED
+- [x] Split `ascension_part_1_manuscript.txt` into 3 sections
+- [x] Section 1: Lines 1-606 (~21k words) - Prologue through Memory 5
+- [x] Section 2: Lines 607-1212 (~21k words) - Memories 6-9
+- [x] Section 3: Lines 1213-1818 (~21k words) - Memories 10-11 + Epilogue
+- [x] Save sections to `fine-tuning/data/styles/visions_of_gaea/manuscript_sections/`
+- [x] Verify total word count matches original (62,884 words)
 
-### 2. Section 1 Analysis (Setup Phase)
-- [ ] Run style-analyzer on section 1
-- [ ] Generate `section_1_STYLE_GUIDE.md`
-- [ ] Extract `section_1_STYLE_STATISTICS.json`
-- [ ] Document patterns from prologue and early worldbuilding
-- [ ] Verify analysis completes without timeout
+### 2. Section Analyses ✅ COMPLETED (3 approaches)
+- [x] Run style-analyzer on all 3 sections
+- [x] Generate section-specific STYLE_GUIDE.md files
+- [x] Extract section-specific STYLE_STATISTICS.json files
+- [x] Generate section-specific STYLE_PATTERNS.md files
+- [x] Results available in 3 branches (biased, unbiased, templated)
 
-### 3. Section 2 Analysis (Development Phase)
-- [ ] Run style-analyzer on section 2
-- [ ] Generate `section_2_STYLE_GUIDE.md`
-- [ ] Extract `section_2_STYLE_STATISTICS.json`
-- [ ] Document patterns from action and conflict development
-- [ ] Compare vocabulary/metrics with section 1
+### 3. Pattern Accumulation (style-merger agent)
+- [ ] Run style-merger on `styleTransfer/analyzer_biased` branch
+- [ ] Run style-merger on `styleTransfer/analyzer_unbiased` branch
+- [ ] Run style-merger on `styleTransfer/analyzer_templated` branch
+- [ ] Compare unified guides from all 3 approaches
+- [ ] Select or synthesize best unified guide
 
-### 4. Section 3 Analysis (Climax/Resolution)
-- [ ] Run style-analyzer on section 3
-- [ ] Generate `section_3_STYLE_GUIDE.md`
-- [ ] Extract `section_3_STYLE_STATISTICS.json`
-- [ ] Document patterns from climax and transformation scenes
-- [ ] Compare with sections 1-2 for consistency
+### 4. Unified Style Guide Generation
+- [ ] Create final `STYLE_TRANSFER_GUIDE.md`
+- [ ] Create final `STYLE_STATISTICS.json`
+- [ ] Create final `STYLE_PATTERNS.md`
+- [ ] Merge to main branch
 
-### 5. Pattern Accumulation
-- [ ] Merge vocabulary lists from all 3 sections
-- [ ] Calculate aggregate statistics (avg sentence length, etc.)
-- [ ] Identify patterns present across all sections (consistent style)
-- [ ] Identify section-specific patterns (pacing/tone shifts)
-- [ ] Create unified pattern catalog
-
-### 6. Unified Style Guide Generation
-- [ ] Combine analyses into single `STYLE_TRANSFER_GUIDE.md`
-- [ ] Include examples from all 3 sections
-- [ ] Aggregate statistics in `STYLE_STATISTICS.json`
-- [ ] Document style evolution across narrative (if any)
-- [ ] Create `STYLE_PATTERNS.md` with comprehensive pattern list
-
-### 7. Validation
+### 5. Validation
 - [ ] Verify guide covers all 10 analysis domains
 - [ ] Check consistency of identified patterns
 - [ ] Ensure vocabulary coverage is comprehensive
-- [ ] Validate metrics align with curation report findings
 - [ ] Test guide with style-transfer-generator on sample prompt
-
-### 8. Documentation
-- [ ] Document segmentation methodology
-- [ ] Record any style variations between sections
-- [ ] Note strengths/limitations of accumulated approach
-- [ ] Save section analyses to archives for reference
 
 ## Technical Specifications
 
@@ -147,80 +143,39 @@ fine-tuning/data/styles/visions_of_gaea/
 
 ## Workflow Steps
 
-### Step 1: Create Directory Structure
+### Completed Steps (1-5)
+Section splitting and analysis already done. See branches:
+- `remotes/origin/styleTransfer/analyzer_biased`
+- `remotes/origin/styleTransfer/analyzer_unbiased`
+- `remotes/origin/styleTransfer/analyzer_templated`
+
+### Step 6: Merge Section Analyses (Current Step)
+
+**For each of the 3 branches:**
+
 ```bash
-cd fine-tuning/data/styles
-mkdir -p visions_of_gaea/{manuscript_sections,section_analyses}
+# 1. Checkout section analyses from branch
+cd /home/ruifrvaz/scifi-llm
+git checkout remotes/origin/styleTransfer/analyzer_biased -- \
+  fine-tuning/data/styles/visions_of_gaea/section_analyses/
+
+# 2. Invoke style-merger agent
+@style-merger Merge the section analyses for "visions_of_gaea" style 
+from fine-tuning/data/styles/visions_of_gaea/section_analyses/ 
+into unified guide files in fine-tuning/data/styles/visions_of_gaea/
+
+# 3. Save results (e.g., copy to branch-specific folder or commit)
+# 4. Reset and repeat for next branch
+git checkout -- fine-tuning/data/styles/visions_of_gaea/
 ```
 
-### Step 2: Split Manuscript into Sections
-```bash
-cd fine-tuning/data/raw/visions_of_gaea
+### Step 7: Compare and Select Best Guide
 
-# Section 1: Lines 1-606
-head -606 ascension_part_1_manuscript.txt > \
-  ../../styles/visions_of_gaea/manuscript_sections/section_1_prologue_to_memory5.txt
-
-# Section 2: Lines 607-1212
-sed -n '607,1212p' ascension_part_1_manuscript.txt > \
-  ../../styles/visions_of_gaea/manuscript_sections/section_2_memory6_to_memory9.txt
-
-# Section 3: Lines 1213-1818
-tail -n +1213 ascension_part_1_manuscript.txt > \
-  ../../styles/visions_of_gaea/manuscript_sections/section_3_memory10_to_epilogue.txt
-
-# Verify word counts
-wc -w ../../styles/visions_of_gaea/manuscript_sections/*.txt
-```
-
-### Step 3: Analyze Section 1
-```
-@style-analyzer Analyze the style of section 1 (Prologue through Memory 5) from 
-fine-tuning/data/styles/visions_of_gaea/manuscript_sections/section_1_prologue_to_memory5.txt 
-and save analysis to fine-tuning/data/styles/visions_of_gaea/section_analyses/ 
-with prefix "section_1_"
-```
-
-### Step 4: Analyze Section 2
-```
-@style-analyzer Analyze the style of section 2 (Memories 6-9) from 
-fine-tuning/data/styles/visions_of_gaea/manuscript_sections/section_2_memory6_to_memory9.txt 
-and save analysis to fine-tuning/data/styles/visions_of_gaea/section_analyses/ 
-with prefix "section_2_"
-```
-
-### Step 5: Analyze Section 3
-```
-@style-analyzer Analyze the style of section 3 (Memories 10-11 + Epilogue) from 
-fine-tuning/data/styles/visions_of_gaea/manuscript_sections/section_3_memory10_to_epilogue.txt 
-and save analysis to fine-tuning/data/styles/visions_of_gaea/section_analyses/ 
-with prefix "section_3_"
-```
-
-### Step 6: Accumulate Analyses (Manual or Script-Assisted)
-```bash
-# Compare vocabulary across sections
-cd fine-tuning/data/styles/visions_of_gaea/section_analyses
-
-# Extract common patterns
-# Merge statistics
-# Create unified guide
-
-# Or use custom accumulation script (to be created if needed)
-```
-
-### Step 7: Generate Unified Guide
-Create `STYLE_TRANSFER_GUIDE.md` combining:
-- POV patterns (should be consistent: second-person)
-- Vocabulary (union of all section vocabularies)
-- Sentence structures (averaged metrics with ranges)
-- Dialogue patterns (examples from all sections)
-- Description styles (sensory detail approach)
-- Pacing variations (note differences between setup/action/climax)
-- Worldbuilding integration (technical term usage)
-- Tone (emotional restraint patterns)
-- Character voice (Alan's consistent voice)
-- Technical choices (italics, ***, tense)
+After running merger on all 3 branches:
+1. Compare unified guides from each approach
+2. Evaluate: consistency, completeness, actionability
+3. Select best guide OR synthesize from multiple
+4. Commit final unified guide to main
 
 ### Step 8: Validate with Generator
 ```
@@ -332,23 +287,46 @@ style guide to verify completeness and accuracy
 
 ### Agents
 - **Analyzer:** `.github/agents/style-analyzer.md`
+- **Analyzer (Unbiased):** `.github/agents/style-analyzer-unb.md`
+- **Merger:** `.github/agents/style-merger.md` (NEW)
 - **Generator:** `.github/agents/style-transfer-generator.md` (for validation)
 
 ### Documentation
 - **Style Library:** `fine-tuning/data/styles/README.md`
+- **Accumulation Reference:** `fine-tuning/data/styles/visions_of_gaea/ACCUMULATION_TEMPLATE.md`
 - **Agent Workflow:** `docs/history/2025-11-22_style_transfer_agents.md`
 
 ## Notes
 
-### Timeline Estimate
-- Manuscript splitting: ~5 minutes
-- Section 1 analysis: ~30-60 minutes (agent processing)
-- Section 2 analysis: ~30-60 minutes
-- Section 3 analysis: ~30-60 minutes
-- Pattern accumulation: ~30-60 minutes (manual review and merging)
-- Unified guide creation: ~30 minutes
+### Timeline Estimate (Updated)
+- ~~Manuscript splitting: ~5 minutes~~ ✅ Done
+- ~~Section analyses: ~2-3 hours~~ ✅ Done (9 runs completed)
+- **Merge analyses (×3 branches): ~30-60 minutes** ← Current step
+- Compare and select: ~15-30 minutes
 - Validation test: ~15 minutes
-- **Total:** 3-5 hours (mostly agent processing time)
+- **Remaining Total:** ~1-2 hours
+
+### Available Section Analyses
+
+**Branch: styleTransfer/analyzer_biased**
+- Uses standard style-analyzer with embedded Visions of Gaea examples
+- May bias toward expected patterns
+
+**Branch: styleTransfer/analyzer_unbiased**
+- Uses style-analyzer-unb without pre-conditioning
+- Should extract patterns purely from manuscript content
+
+**Branch: styleTransfer/analyzer_templated**
+- Uses template-guided approach
+- Structured analysis with consistent output format
+
+### Merge Strategy
+
+Use **style-merger** agent (`.github/agents/style-merger.md`):
+1. Reads all 9 section files (3 sections × 3 file types)
+2. Calculates weighted averages for metrics
+3. Identifies patterns by frequency (all/2/1 sections)
+4. Produces unified guide with prioritized directives
 
 ### Pattern Accumulation Strategy
 
