@@ -50,12 +50,14 @@ This project provides a full-featured, privacy-focused AI writing assistant that
 
 ### Prerequisites
 
-- NVIDIA GPU (RTX 5090 recommended, RTX 3090/4090 compatible)
-- Ubuntu 22.04+ or similar Linux distribution
-- Python 3.12+
-- CUDA 12.8 or 13.0
-- 64GB RAM (32GB allocated to WSL2 if on Windows)
-- VS Code installed
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| GPU | RTX 3090 (24GB) | RTX 5090 (32GB) |
+| RAM | 32GB | 64GB (32GB for WSL2) |
+| Disk | 100GB free | 200GB+ NVMe SSD |
+| OS | Ubuntu 20.04+ | Ubuntu 22.04+ |
+| CUDA | 12.8 | 12.8 or 13.0 |
+| Python | 3.12+ | 3.12+ |
 
 ### Installation
 
@@ -63,32 +65,30 @@ This project provides a full-featured, privacy-focused AI writing assistant that
 
 ```bash
 cd vllm/setup
+./0_hf_login.sh && ./1_check_gpu.sh && ./2_cuda_install.sh && ./3_sys_pkgs.sh
+./4_create_venv.sh && ./5_install_torch.sh && ./6_install_llm_stack.sh && ./7_env_export.sh
 
-./0_hf_login.sh              # HuggingFace authentication
-./1_check_gpu.sh             # Verify GPU compatibility
-./2_cuda_install.sh          # CUDA toolkit (if needed)
-./3_sys_pkgs.sh              # System dependencies
-./4_create_venv.sh           # Creates ~/.venvs/llm
-./5_install_torch.sh         # PyTorch with CUDA
-./6_install_llm_stack.sh     # vLLM + FlashInfer
-./7_env_export.sh            # Environment variables
+# Start and verify
+cd ~/scifi-llm && ./serve_vllm.sh
+curl http://localhost:8000/health   # Should return {"status":"ok"}
 ```
 
 **Step 2: Install RAG System (~10 minutes)**
 
 ```bash
 cd RAG
-
-setup/0_create_venv_with_deps.sh    # Creates ~/.venvs/rag
+setup/0_create_venv_with_deps.sh
 mkdir -p data/{characters,worldbuilding,chapters,style-guides}
-# Add your documents to data/ directories
-setup/1_ingest.py                   # Chunk documents
-setup/2_embed_and_store.py          # Generate embeddings
+# Add your markdown documents to data/ directories
+setup/1_ingest.py && setup/2_embed_and_store.py --collection scifi_world
+
+# Start RAG proxy (new terminal)
+cd ~/scifi-llm && ./serve_rag_proxy.sh scifi_world
 ```
 
 **Step 3: Configure VS Code (~5 minutes)**
 
-Install Continue.dev extension and configure `~/.continue/config.json`:
+Install Continue.dev extension, then configure `~/.continue/config.json`:
 
 ```json
 {
@@ -99,15 +99,22 @@ Install Continue.dev extension and configure `~/.continue/config.json`:
     "apiBase": "http://localhost:8001/v1",
     "apiKey": "EMPTY",
     "contextLength": 128000,
-    "completionOptions": {
-      "temperature": 0.85,
-      "maxTokens": 2000
-    }
+    "completionOptions": { "temperature": 0.85, "maxTokens": 2000 }
   }]
 }
 ```
 
-See [QUICK_START.md](QUICK_START.md) for complete setup instructions.
+Press `Ctrl+L` in VS Code to start chatting with your AI writing assistant.
+
+**Step 4: Fine-Tuning (Optional, ~3 hours)**
+
+```bash
+cd fine-tuning/setup
+./0_create_venv.sh && ./1_install_torch.sh
+./2_install_axolotl.sh && ./3_install_training_stack.sh  # ~20 min compile
+
+# See fine-tuning/README.md for training workflow
+```
 
 ## System Architecture
 
@@ -150,6 +157,8 @@ See [QUICK_START.md](QUICK_START.md) for complete setup instructions.
             [Back to VS Code]
 ```
 
+**Example:** When you ask "Describe Elena's reaction to the alien homeworld", the RAG proxy retrieves her character profile, relevant worldbuilding docs, and previous chapter context—then the LLM generates a response that stays consistent with your universe.
+
 ## Daily Usage
 
 ### Start Writing Environment
@@ -179,12 +188,32 @@ See [QUICK_START.md](QUICK_START.md) for complete setup instructions.
 ./monitoring/monitor_rag_proxy.sh    # RAG query logs
 ```
 
+### Add New Documents
+
+```bash
+cp new-character.md ~/scifi-llm/RAG/data/characters/
+cd ~/scifi-llm/RAG && setup/1_ingest.py && setup/2_embed_and_store.py --collection scifi_world
+# Restart RAG proxy
+```
+
+### Configuration Reference
+
+| Port | Service | Use |
+|------|---------|-----|
+| 8000 | vLLM direct | General queries (no RAG) |
+| 8001 | RAG proxy | Writing with context ⭐ |
+
+| Shortcut | Action (Continue.dev) |
+|----------|----------------------|
+| `Ctrl+L` | Open chat |
+| `Ctrl+I` | Inline edit |
+| `Ctrl+M` | Add to context |
+
 ## Project Structure
 
 ```
 local-model-creative-writing/
 ├── README.md                    # This file
-├── QUICK_START.md              # Complete setup guide
 ├── serve_vllm.sh               # Start vLLM server
 ├── serve_rag_proxy.sh          # Start RAG proxy
 ├── stop_vllm.sh                # Stop vLLM server
@@ -236,7 +265,6 @@ local-model-creative-writing/
 ## Documentation
 
 ### Setup Guides
-- **[QUICK_START.md](QUICK_START.md)** - Complete setup walkthrough
 - **[vllm/VLLM_SETUP.md](vllm/VLLM_SETUP.md)** - vLLM installation details
 - **[RAG/RAG_SETUP.md](RAG/RAG_SETUP.md)** - RAG system implementation
 - **[fine-tuning/FINE_TUNING_SETUP.md](fine-tuning/FINE_TUNING_SETUP.md)** - Training guide
@@ -268,8 +296,6 @@ See `serve_vllm.sh` for complete model list and recommendations.
 
 ## Performance
 
-**Hardware: RTX 5090, 32GB VRAM, 64GB RAM**
-
 - **Retrieval**: ~50ms per query
 - **Generation**: 2-5 seconds (depends on context and output length)
 - **Total Response**: 3-6 seconds
@@ -279,24 +305,6 @@ See `serve_vllm.sh` for complete model list and recommendations.
 - 32k context: Fastest (~50 tok/s @ 8k input)
 - 64k context: Balanced (~23 tok/s @ 8k, ~8 tok/s @ 32k)
 - 100k context: Slower (~24 tok/s @ 8k, ~6 tok/s @ 48k)
-
-## Use Cases
-
-### Science Fiction Novel Writing
-- Character consistency across chapters
-- Worldbuilding detail retrieval
-- Plot continuity tracking
-- Style guide adherence
-
-### Short Story Development
-- Character profile management
-- Setting/atmosphere consistency
-- Dialogue style matching
-
-### Worldbuilding
-- Technology documentation
-- Species/culture details
-- Historical timeline consistency
 
 ## Troubleshooting
 
@@ -333,26 +341,6 @@ setup/2_embed_and_store.py --collection scifi_world
 - Reduce `max_seqs` parameter (increases latency, decreases VRAM)
 
 See individual component README files for detailed troubleshooting.
-
-## Hardware Requirements
-
-### Minimum
-- NVIDIA RTX 3090 (24GB VRAM)
-- 32GB RAM
-- 100GB free disk space
-- Ubuntu 20.04+
-
-### Recommended
-- NVIDIA RTX 5090 (32GB VRAM)
-- 64GB RAM (32GB for WSL2)
-- 200GB free disk space
-- Ubuntu 22.04+
-
-### Optimal
-- NVIDIA RTX 5090 or multiple GPUs
-- 128GB RAM
-- NVMe SSD with 500GB+ free space
-- Ubuntu 22.04+ or Debian 12+
 
 ## Environment Isolation
 
