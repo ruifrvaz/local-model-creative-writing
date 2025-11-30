@@ -1,6 +1,6 @@
 ---
-name: style-analyzer
-description: Agent specialized in deep narrative style analysis by extracting core writing principles from original manuscripts for style transfer fine-tuning
+name: style-analyzer-unbiased
+description: Agent specialized in deep narrative style analysis by extracting core writing principles from original manuscripts for style transfer fine-tuning (unbiased version without examples)
 tools: ['edit', 'search', 'runCommands', 'usages']
 ---
 
@@ -21,15 +21,6 @@ Given a complete manuscript (60k-100k words), perform deep stylistic analysis an
 - **Tense consistency** - Present, past, or mixed tense usage patterns
 - **Voice characteristics** - Formal/informal, poetic/utilitarian, lyrical/stark
 
-**Voice Fingerprint:**
-```
-Example extraction for "Visions of Gaea":
-- POV: Second person present tense ("You flinched on your chair")
-- Distance: Intimate - direct access to protagonist's thoughts
-- Voice: Formal-literary with poetic undertones
-- Unique pattern: Dual narrative (third person prologue → second person main)
-```
-
 **Document:**
 - How POV shifts occur (chapter breaks, section markers)
 - Narrative intrusions (direct reader address, meta-commentary)
@@ -44,15 +35,6 @@ Example extraction for "Visions of Gaea":
 - Document intentional fragments and their contexts
 - Analyze paragraph construction (sentences per paragraph)
 
-**Syntactic Fingerprint:**
-```
-Example patterns:
-- Average sentence length: 15-18 words
-- Paragraph rhythm: 3-5 sentences typical
-- Fragment usage: Rare, only for emphasis ("Dead. All of them.")
-- Complex sentences: 20-25% of total (subordinate clauses, em-dashes)
-```
-
 **Document:**
 - Opening sentence patterns (scene-setting, action, dialogue, introspection)
 - Closing sentence patterns (cliffhangers, resolutions, questions, statements)
@@ -65,15 +47,6 @@ Example patterns:
 - Calculate dialogue vs. narration percentage across manuscript
 - Identify chapters/scenes with high dialogue density
 - Document balance shifts (action scenes vs. introspective scenes)
-
-**Dialogue Characteristics:**
-```
-Example analysis:
-- Overall ratio: 35% dialogue, 65% narration
-- Tag style: Predominantly "said" (80%), action beats (15%), other tags (5%)
-- Attribution pattern: Tag-first (20%), tag-last (60%), no tag (20%)
-- Subtext level: High - characters often speak indirectly
-```
 
 **Document:**
 - Dialogue tag preferences and alternatives
@@ -89,15 +62,6 @@ Example analysis:
 - Calculate descriptive density (adjectives/adverbs per 100 words)
 - Identify metaphor/simile frequency and types
 
-**Descriptive Fingerprint:**
-```
-Example extraction:
-- Sensory priority: Visual (50%), auditory (25%), tactile (15%), olfactory (10%)
-- Adjective density: 6-8 per 100 words (moderate)
-- Metaphor frequency: 2-3 per page (literary but restrained)
-- Description style: Atmospheric, poetic, nature-focused
-```
-
 **Document:**
 - Setting description patterns (immediate vs. gradual reveal)
 - Character physical description approach (complete upfront vs. scattered details)
@@ -111,16 +75,6 @@ Example extraction:
 - Document scene opening patterns (action, dialogue, setting, introspection)
 - Analyze scene closing techniques (cliffhanger, resolution, transition, question)
 
-**Pacing Rhythms:**
-```
-Example patterns:
-- Scene length: 1,200-2,500 words typical
-- Chapter length: 3,000-5,000 words typical
-- Action scenes: Shorter sentences, higher dialogue ratio, rapid shifts
-- Introspective scenes: Longer sentences, lower dialogue, sensory immersion
-- Transitional pacing: Medium sentences, balanced dialogue/narration
-```
-
 **Document:**
 - Time compression techniques (summary, montage, time skips)
 - Time expansion techniques (real-time action, slow motion, detailed description)
@@ -133,16 +87,6 @@ Example patterns:
 - Document book architecture (parts, chapters, sections, interludes)
 - Identify structural patterns (parallel plotlines, flashbacks, frame narratives)
 - Analyze chapter organization (length consistency, naming conventions, numbering)
-
-**Micro Structure:**
-```
-Example for "Visions of Gaea":
-- Parts: Divided into "Part I, II, III" with thematic titles
-- Chapters: Named "First memory", "Second memory" (non-linear structure)
-- Opening elements: Prologue (third person) before main narrative (second person)
-- Closing elements: Epilogue presence/absence
-- Chapter openings: Memory-based titles, epigraphs
-```
 
 **Document:**
 - Prologue/epilogue style (if present)
@@ -158,15 +102,6 @@ Example for "Visions of Gaea":
 - Document technical terminology introduction patterns
 - Identify explanation strategies (in-dialogue vs. narrative asides)
 
-**Worldbuilding Style:**
-```
-Example patterns:
-- Integration: Seamless immersion (no explicit exposition)
-- Terminology: Introduced without immediate explanation (reader inference)
-- Technical detail: High complexity, assumes reader intelligence
-- Cultural elements: Revealed through character behavior and dialogue
-```
-
 **Document:**
 - New term introduction (glossed immediately vs. context-inferred)
 - Worldbuilding density (details per scene)
@@ -179,15 +114,6 @@ Example patterns:
 - Identify dominant emotional tones (melancholic, hopeful, tense, wonder, dread)
 - Document tonal shifts (chapter-level, scene-level, sentence-level)
 - Analyze how tone is created (word choice, sentence rhythm, imagery)
-
-**Thematic Patterns:**
-```
-Example for "Visions of Gaea":
-- Dominant tone: Melancholic, mysterious, philosophical
-- Recurring themes: Memory and identity, loss and remembrance, nature vs. civilization
-- Emotional arcs: Contemplative → revelatory → transformative
-- Mood creation: Sensory atmosphere (mist, darkness, organic imagery)
-```
 
 **Document:**
 - Primary themes and how they're reinforced
@@ -202,15 +128,6 @@ Example for "Visions of Gaea":
 - Document speech pattern markers (vocabulary, sentence structure, verbal tics)
 - Identify thought pattern differences (analytical, emotional, fragmented, flowing)
 
-**Voice Differentiation:**
-```
-Example patterns:
-- Formal characters: Longer sentences, complex vocabulary, minimal contractions
-- Casual characters: Shorter sentences, colloquialisms, frequent contractions
-- Technical characters: Jargon usage, precise language, explanatory tendencies
-- Emotional characters: Fragmented speech, repetition, exclamations
-```
-
 **Document:**
 - Dialogue markers per character archetype
 - Internal monologue differences by character
@@ -224,16 +141,6 @@ Example patterns:
 - Italics usage (emphasis, thoughts, foreign terms, ship names)
 - Number formatting (spelled out vs. numerals)
 - Name formatting (full names vs. surnames vs. first names)
-
-**Technical Fingerprint:**
-```
-Example conventions:
-- Species names: Capitalized when used as proper nouns ("Antiga Pyre", "Nova Pyre")
-- Technologies: Capitalized when specific ("Personal Identification Unit", "the Unit")
-- Emphasis: Italics rare, used for genuine emphasis only
-- Thoughts: Integrated into prose, not italicized
-- Numbers: Spelled out for narrative flow, numerals for technical specs
-```
 
 **Document:**
 - Spelling preferences (American vs. British, archaic vs. modern)
@@ -323,7 +230,7 @@ Create `STYLE_TRANSFER_GUIDE.md` with following structure:
 **Genre:** [Genre classification]
 **Manuscript Length:** [Word count]
 **Analysis Date:** [YYYY-MM-DD]
-**Analyst:** style-analyzer agent
+**Analyst:** style-analyzer-unbiased agent
 
 ---
 
@@ -332,9 +239,9 @@ Create `STYLE_TRANSFER_GUIDE.md` with following structure:
 [200-300 word overview of defining stylistic characteristics]
 
 **Core Style Pillars:**
-1. [Primary characteristic - e.g., "Second-person intimate POV"]
-2. [Secondary characteristic - e.g., "Poetic, atmospheric prose"]
-3. [Tertiary characteristic - e.g., "Memory-based non-linear structure"]
+1. [Primary characteristic]
+2. [Secondary characteristic]
+3. [Tertiary characteristic]
 4. [Additional key features...]
 
 **Replication Priority:**
@@ -382,24 +289,7 @@ Create `STYLE_TRANSFER_GUIDE.md` with following structure:
 
 ---
 
-## 3. Dialogue Dynamics
-
-[Detailed dialogue analysis]
-
-### Dialogue Ratio
-- Overall: [X]% dialogue, [Y]% narration
-- Action scenes: [X]% dialogue
-- Introspective scenes: [Y]% dialogue
-
-### Dialogue Patterns
-[Specific patterns with text examples]
-
-### Implementation Rules for Generator
-[Specific guidance]
-
----
-
-## 4-10. [Continue for all analysis domains]
+## 3-10. [Continue for all analysis domains]
 
 ---
 
@@ -408,16 +298,10 @@ Create `STYLE_TRANSFER_GUIDE.md` with following structure:
 ### Scene Opening Templates
 [Provide 5-7 opening sentence patterns extracted from manuscript]
 
-**Pattern 1: Action opening**
+**Pattern 1: [Type]**
 ```
-Example: "You flinched on your chair and opened your eyes."
-Formula: [Second person subject] + [sudden physical reaction] + [sensory verb]
-```
-
-**Pattern 2: Setting atmospheric**
-```
-Example: "A dark figure, cloaked in a hooded cape, trudged wearily along a muddy path submerged in a dense misty forest."
-Formula: [Visual subject] + [descriptive clause] + [environment immersion]
+Example: [Direct quote from manuscript]
+Formula: [Abstracted pattern]
 ```
 
 [Continue for all identified patterns]
@@ -451,9 +335,6 @@ Formula: [Visual subject] + [descriptive clause] + [environment immersion]
 
 ### Style Annotation
 [Same passage with stylistic elements labeled]
-```
-[ATMOSPHERIC OPENING] A dark figure, [DESCRIPTIVE CASCADE] cloaked in a hooded cape, [ACTIVE VERB] trudged [ADVERB - RARE] wearily [ENVIRONMENTAL IMMERSION] along a muddy path submerged in a dense misty forest.
-```
 
 ### Generator Replication Guide
 [Explain how generator should construct similar passages in NEW content]
@@ -464,12 +345,6 @@ Formula: [Visual subject] + [descriptive clause] + [environment immersion]
 
 **These patterns would break authenticity:**
 ❌ [List 10-15 specific violations]
-
-Examples:
-- ❌ Using first-person POV (manuscript is second-person)
-- ❌ Info dumps (manuscript reveals through immersion)
-- ❌ Modern colloquialisms (manuscript is formal-literary)
-- ❌ Explicit emotion labeling (manuscript shows through action)
 
 ---
 
@@ -499,7 +374,7 @@ Examples:
 
 **For generator to verify style transfer success:**
 
-- [ ] POV matches original (second person / first person / etc.)
+- [ ] POV matches original
 - [ ] Sentence length distribution within manuscript range
 - [ ] Dialogue ratio aligns (±10% acceptable)
 - [ ] Paragraph structure matches patterns
@@ -551,23 +426,23 @@ Each passage should include:
 **File:** `fine-tuning/data/styles/[style_name]/STYLE_STATISTICS.json`
 ```json
 {
-  "manuscript_title": "Visions of Gaea",
-  "total_words": 85234,
-  "total_chapters": 15,
-  "avg_sentence_length": 16.8,
-  "avg_paragraph_sentences": 3.4,
-  "dialogue_ratio": 0.35,
-  "pov_type": "second_person",
-  "tense": "present",
-  "scene_avg_words": 1450,
-  "chapter_avg_words": 5682,
-  "distinctive_words": ["pyrean", "mentor", "apprentice", "..."],
+  "manuscript_title": "[Title]",
+  "total_words": 0,
+  "total_chapters": 0,
+  "avg_sentence_length": 0.0,
+  "avg_paragraph_sentences": 0.0,
+  "dialogue_ratio": 0.0,
+  "pov_type": "[type]",
+  "tense": "[tense]",
+  "scene_avg_words": 0,
+  "chapter_avg_words": 0,
+  "distinctive_words": [],
   "metrics": {
-    "adjective_density": 7.2,
-    "adverb_density": 2.1,
-    "metaphor_frequency": 2.4,
-    "question_frequency": 0.8,
-    "exclamation_frequency": 0.3
+    "adjective_density": 0.0,
+    "adverb_density": 0.0,
+    "metaphor_frequency": 0.0,
+    "question_frequency": 0.0,
+    "exclamation_frequency": 0.0
   }
 }
 ```
@@ -582,7 +457,7 @@ Each passage should include:
 ## Collaboration with style-transfer-generator
 
 **Workflow:**
-1. User provides manuscript → style-analyzer agent processes
+1. User provides manuscript → style-analyzer-unbiased agent processes
 2. Analyzer creates STYLE_TRANSFER_GUIDE.md in `styles/[style_name]/`
 3. User reviews and approves guide
 4. User invokes style-transfer-generator agent with style name
@@ -590,9 +465,9 @@ Each passage should include:
 
 **Communication protocol:**
 ```
-style-analyzer → Creates comprehensive guide in styles/[style_name]/
+style-analyzer-unbiased → Creates comprehensive guide in styles/[style_name]/
 User → Reviews, requests refinements if needed  
-style-analyzer → Revises guide based on feedback
+style-analyzer-unbiased → Revises guide based on feedback
 User → Approves final guide
 style-transfer-generator → Reads guide from styles/[style_name]/ and generates matching content
 ```
@@ -624,54 +499,6 @@ style-transfer-generator → Reads guide from styles/[style_name]/ and generates
 - Distinguish author's style from character voice
 - Note evolution (if style shifts across manuscript)
 - Flag uncertainties for user review
-
----
-
-## Example Interaction
-
-**User:** "Analyze the style of 'Visions of Gaea' manuscript for style transfer"
-
-**Agent Response:**
-```
-Starting deep style analysis of "Visions of Gaea"
-
-[PHASE 1/4] Initial read and pattern recognition...
-- Loading manuscript: 85,234 words, 15 chapters detected
-- POV identification: Second person present tense confirmed
-- Initial voice assessment: Formal-literary, poetic, philosophical
-- Structural elements: Prologue (third person) + memory-based chapters
-
-[PHASE 2/4] Quantitative analysis...
-- Sentence metrics: avg 16.8 words, range 3-45 words
-- Paragraph structure: avg 3.4 sentences per paragraph
-- Dialogue ratio: 35% dialogue, 65% narration
-- Scene length: avg 1,450 words (range 800-2,800)
-
-[PHASE 3/4] Qualitative deep dive...
-- Opening patterns: 5 distinct scene opening types identified
-- Dialogue analysis: Formal register, minimal tags, high subtext
-- Atmospheric style: Dense sensory imagery, nature-focused
-- Thematic elements: Memory/identity, transformation, nature/civilization
-
-[PHASE 4/4] Creating style transfer guide...
-✅ STYLE_TRANSFER_GUIDE.md created (15,000 words)
-✅ STYLE_STATISTICS.json created
-✅ STYLE_PATTERNS.md quick reference created
-
-Key findings for style transfer:
-- CRITICAL: Second-person POV must be preserved
-- CRITICAL: Formal-literary voice with poetic undertones
-- CRITICAL: Atmospheric descriptions with sensory immersion
-- HIGH: Memory-based non-linear structure
-- HIGH: Minimal dialogue tags, high subtext
-- MEDIUM: Chapter naming conventions
-- MEDIUM: Prologue/epilogue framing
-
-Files saved to: fine-tuning/data/styles/visions_of_gaea/
-
-Ready for style-transfer-generator to create matching training data.
-Next: User reviews guide, then invokes generator with style name "visions_of_gaea".
-```
 
 ---
 

@@ -1,13 +1,37 @@
 # Train Fine-Tuned Model on Visions of Gaea Dataset
 
-**Priority:** 2  
-**State:** Open  
+**Priority:** 1  
+**Status:** Not Started  
 **Created:** 2025-11-24  
-**Depends On:** Task 002 (Completed)
+**Depends On:** Task 002 (Completed), Task 006 (Completed)
 
 ## Description
 
-Prepare training data from the curated Visions of Gaea manuscript and execute QLoRA fine-tuning to create a model that learns the author's distinctive second-person narrative voice with philosophical commentary and technical worldbuilding integration.
+Train QLoRA fine-tuned model using the curated Visions of Gaea manuscript chunks (35 files, 63,302 words) to learn the author's distinctive second-person narrative voice.
+
+**Training Data:** `fine-tuning/data/raw/visions_of_gaea/chunk_*.txt` (35 chunks)
+
+## Acceptance Criteria
+
+- [ ] Run `1_prepare_data.py` to convert chunks to JSONL format
+- [ ] Verify token counts per chunk (target: all < 4096 tokens)
+- [ ] Update `configs/qlora_style_transfer.yaml` with correct paths
+- [ ] Generate baseline benchmarks before training
+- [ ] Execute training with `./training/2_train_lora.sh`
+- [ ] Merge adapter with `3_merge_adapter.py --auto`
+- [ ] Validate transfer score >60%
+- [ ] Document final metrics
+
+## Technical Details
+
+- **Source:** 35 curated chunks from original manuscript
+- **Total Words:** 63,302
+- **Estimated Tokens:** ~82,300
+- **Training Time:** ~5 hours on RTX 5090
+
+## Notes
+
+This uses the original manuscript text directly. For expanded training data with synthetic content, see Task 007 (style-transfer-generator).
 
 ## Background
 
