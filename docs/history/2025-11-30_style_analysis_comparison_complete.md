@@ -66,3 +66,14 @@ These tasks can run concurrently:
 - **Input:** 139 existing scenes in `fine-tuning/data/raw/`
 - **Output:** Same scenes converted to second-person POV with author's voice
 - **Location:** `fine-tuning/data/reshaped/`
+
+---
+
+## Cleanup Performed
+
+- Removed biased agent (`.github/agents/style-analyzer.md` with examples)
+- Removed biased outputs (`*_biased.*` files, `section_analyses_biased/`)
+- Renamed unbiased files to standard names (removed `_unbiased` suffix)
+- Archived section analyses and manuscript sections
+- Moved study documentation to `docs/studies/anchoring_bias_in_llm_prompts/`
+- Restored `ACCUMULATION_TEMPLATE.md` to parent directory (style-merger reference)
