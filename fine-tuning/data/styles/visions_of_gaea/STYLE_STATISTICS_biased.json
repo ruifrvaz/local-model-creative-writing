@@ -1,0 +1,190 @@
+{
+    "metadata": {
+        "manuscript_title": "Visions of Gaea",
+        "total_words": 62884,
+        "total_sentences": 3200,
+        "sections_merged": 3,
+        "merge_date": "2025-11-25",
+        "analysis_source": "styleTransfer/analyzer_biased branch"
+    },
+    "section_breakdown": {
+        "section_1": {
+            "words": 20127,
+            "sentences": 965,
+            "coverage": "Prologue through Memory 5 (Setup & Worldbuilding)"
+        },
+        "section_2": {
+            "words": 22298,
+            "sentences": 1450,
+            "coverage": "Memory 6-9 (Development & Conflict)"
+        },
+        "section_3": {
+            "words": 20459,
+            "sentences": 785,
+            "coverage": "Memory 10 to Epilogue (Climax & Resolution)"
+        }
+    },
+    "sentence_structure": {
+        "average_length": 20.5,
+        "range": [
+            3,
+            138
+        ],
+        "variance": "high",
+        "variance_note": "Section 2 has shortest sentences (15.4 avg), Section 3 longest (26.1 avg) - arc-appropriate pacing",
+        "by_section": {
+            "section_1": 20.8,
+            "section_2": 15.4,
+            "section_3": 26.1
+        },
+        "distribution": {
+            "short_under_10_words": "18%",
+            "medium_10_to_25_words": "45%",
+            "long_over_25_words": "37%"
+        },
+        "distribution_note": "Estimated average of section distributions"
+    },
+    "dialogue": {
+        "overall_ratio": 49.4,
+        "range": [
+            46.4,
+            52.6
+        ],
+        "variance": "low",
+        "by_section": {
+            "section_1": 49.6,
+            "section_2": 46.4,
+            "section_3": 52.6
+        },
+        "tag_totals": {
+            "said": 257,
+            "asked": 86,
+            "answered": 41,
+            "other_verbs": 110
+        },
+        "tag_distribution": {
+            "said_percentage": 52,
+            "asked_percentage": 17,
+            "other_percentage": 31
+        },
+        "format": "single_quotes"
+    },
+    "pov": {
+        "dominant": "second_person",
+        "tense": "past",
+        "consistency": "94%",
+        "consistency_range": [
+            "94%",
+            "96%"
+        ],
+        "pronoun_totals": {
+            "you": 2600,
+            "your": 750,
+            "yourself": 30,
+            "he": 700,
+            "she": 300,
+            "they": 200,
+            "I": 350
+        },
+        "notes": {
+            "third_person_use": "Supporting character descriptions and brief POV shifts",
+            "first_person_use": "Dialogue and italicized narrator commentary",
+            "epilogue_shift": "Section 3 epilogue shifts to third-person 'she/her' for transcendence"
+        }
+    },
+    "internal_monologue": {
+        "marker": "ellipses (...text...)",
+        "total_instances": 48,
+        "by_section": {
+            "section_1": 8,
+            "section_2": 13,
+            "section_3": 27
+        },
+        "function": "Philosophical narrator commentary, mystical voice, deep inner thoughts"
+    },
+    "vocabulary": {
+        "total_unique_terms_estimated": 8500,
+        "lexical_diversity_average": 0.18,
+        "by_section": {
+            "section_1": 0.19,
+            "section_2": 0.175,
+            "section_3": 0.17
+        },
+        "worldbuilding_terms_total": 85,
+        "technical_density": "2-3 terms per 100 words"
+    },
+    "sensory_balance": {
+        "visual": "55%",
+        "auditory": "22%",
+        "tactile": "18%",
+        "olfactory": "3%",
+        "gustatory": "2%",
+        "notes": "Visual dominant across all sections; tactile increases in action scenes"
+    },
+    "pacing": {
+        "average_scene_length_words": 2000,
+        "scene_length_range": [
+            500,
+            4000
+        ],
+        "total_scene_breaks": 17,
+        "by_section": {
+            "section_1": 8,
+            "section_2": 2,
+            "section_3": 7
+        },
+        "scene_break_marker": "***"
+    },
+    "formatting": {
+        "italics_usage": "narrator_commentary_with_ellipses",
+        "dialogue_quotes": "single",
+        "scene_break_marker": "***",
+        "dominant_tense": "past",
+        "chapter_format": "[Ordinal] memory - [Thematic title]",
+        "epigraphs": "Present at memory openings (in-world documents)"
+    },
+    "punctuation": {
+        "em_dashes_total": 153,
+        "ellipses_total": 130,
+        "semicolons_total": 100,
+        "exclamation_marks_ratio": "3-4%",
+        "question_marks_ratio": "4-5%"
+    },
+    "emotional_register": {
+        "primary_tone": "measured_contemplative",
+        "secondary_tones": [
+            "tension",
+            "wonder",
+            "grief"
+        ],
+        "restraint_level": "high",
+        "expression_method": "physical_manifestation",
+        "arc_progression": {
+            "section_1": "measured, contemplative, formal (setup)",
+            "section_2": "tension, discovery, conflict (development)",
+            "section_3": "grief_sorrow dominant, rage in combat, transcendence in epilogue (climax)"
+        }
+    },
+    "character_voices": {
+        "protagonist_alan": {
+            "speech": "measured but defiant, questions authority",
+            "markers": "sighs, glances at exits, internal complaints"
+        },
+        "haji": {
+            "speech": "analytical, precise, dry humor",
+            "markers": "statistics, probabilities, Salutations"
+        },
+        "sophie": {
+            "speech": "warm, expressive, mysterious",
+            "markers": "deep blue eyes motif, telepathic hints"
+        },
+        "mentors_authority": {
+            "speech": "cold, formal, bureaucratic",
+            "markers": "Directives references, credit penalties, warnings"
+        },
+        "narrator_philosophical": {
+            "voice": "omniscient, melancholic, questioning",
+            "markers": "ellipses, fate/destiny metaphors, direct address"
+        }
+    }
+}

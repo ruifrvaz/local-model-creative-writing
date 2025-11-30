@@ -1,0 +1,236 @@
+{
+    "metadata": {
+        "manuscript_title": "Visions of Gaea",
+        "total_words": 62884,
+        "total_sentences": 3076,
+        "sections_merged": 3,
+        "merge_date": "2025-11-29",
+        "analysis_source": "styleTransfer/analyzer_unbiased branch"
+    },
+    "section_breakdown": {
+        "section_1": {
+            "words": 20127,
+            "sentences": 735,
+            "coverage": "Prologue through Memory 5 (Setup & Worldbuilding)"
+        },
+        "section_2": {
+            "words": 22298,
+            "sentences": 1052,
+            "coverage": "Memory 6-9 (Development & Conflict)"
+        },
+        "section_3": {
+            "words": 20459,
+            "sentences": 1289,
+            "coverage": "Memory 10 to Epilogue (Climax & Resolution)"
+        }
+    },
+    "sentence_structure": {
+        "average_length": 21.3,
+        "range": [
+            1,
+            154
+        ],
+        "variance": "high",
+        "variance_note": "Section 1 has longest sentences (27.4 avg), Section 3 shortest (15.87 avg) - reflects narrative flow changes",
+        "by_section": {
+            "section_1": 27.4,
+            "section_2": 21.2,
+            "section_3": 15.87
+        },
+        "distribution": {
+            "short_under_10_words": "21%",
+            "medium_10_to_24_words": "42%",
+            "long_over_25_words": "37%"
+        },
+        "distribution_note": "Weighted average across sections"
+    },
+    "dialogue": {
+        "overall_ratio": 41.2,
+        "range": [
+            27,
+            49.7
+        ],
+        "variance": "high",
+        "by_section": {
+            "section_1": 27,
+            "section_2": 46.4,
+            "section_3": 49.67
+        },
+        "tag_totals": {
+            "said": 279,
+            "asked": 90,
+            "answered": 83,
+            "other_verbs": 150
+        },
+        "tag_distribution": {
+            "said_percentage": 46,
+            "asked_percentage": 15,
+            "answered_percentage": 14,
+            "other_percentage": 25
+        },
+        "format": "single_quotes"
+    },
+    "pov": {
+        "dominant": "second_person",
+        "tense": "past",
+        "consistency": "95%+",
+        "pronoun_totals": {
+            "you": 1682,
+            "your": 602,
+            "yourself": 71,
+            "he_she": 867,
+            "I": 97
+        },
+        "second_person_density_per_1000": 38.9,
+        "notes": {
+            "third_person_use": "Supporting characters and POV shifts",
+            "first_person_use": "Italicized narrator commentary and dialogue",
+            "epilogue_shift": "Section 3 epilogue shifts to third-person 'she/her' for transcendence"
+        }
+    },
+    "internal_monologue": {
+        "marker": "ellipses (...text...)",
+        "total_instances": 60,
+        "by_section": {
+            "section_1": 10,
+            "section_2": 23,
+            "section_3": 27
+        },
+        "function": "Philosophical narrator commentary, mystical voice, foreshadowing"
+    },
+    "vocabulary": {
+        "lexical_diversity_average": 0.42,
+        "worldbuilding_term_density_per_1000": 17.2,
+        "by_section": {
+            "section_1": 15.2,
+            "section_2": 18.4,
+            "section_3": 18.0
+        }
+    },
+    "signature_phrases": {
+        "pov_patterns": {
+            "you_looked_at": 20,
+            "you_could_not": 20,
+            "you_felt_a": 6,
+            "you_conveyed_the_thought": 8,
+            "you_turned_to": 6,
+            "you_let_out": 5
+        },
+        "dialogue_patterns": {
+            "said_and_sighed": 4,
+            "said_and_grinned": 4,
+            "said_and_bowed": 3,
+            "asked_with_a": 4
+        },
+        "action_patterns": {
+            "looked_at_him_her": 21,
+            "turned_to_look": 3,
+            "smiled_at_you": 5,
+            "gave_X_a_Y": 10
+        },
+        "finality_patterns": {
+            "then_there_was_nothingness": 1,
+            "could_not_help_but": 6
+        },
+        "emotion_constructions": {
+            "eyes_kindled_with_rage": "anger",
+            "blood_drained_from_cheeks": "fear",
+            "expelled_through_nostrils": "frustration",
+            "let_out_a_quiet_sigh": "impatience"
+        },
+        "worldbuilding_phrases": {
+            "conveyed_the_thought_to": 9,
+            "the_age_of_obscurity": 12,
+            "the_council_of_mentalists": 9,
+            "our_guiding_father": 10,
+            "under_the_authority_of_mentalist": 6
+        }
+    },
+    "sensory_balance": {
+        "visual": "56%",
+        "auditory": "24%",
+        "tactile": "17%",
+        "olfactory": "2%",
+        "gustatory": "1%",
+        "notes": "Visual dominant across all sections; tactile increases in combat"
+    },
+    "physical_description_focus": {
+        "body_part_hierarchy": {
+            "eyes": { "count": 152, "priority": "dominant" },
+            "face": { "count": 116, "priority": "high" },
+            "head": { "count": 76, "priority": "medium" },
+            "hands": { "count": 83, "priority": "medium" },
+            "body": { "count": 51, "priority": "lower" },
+            "lips": { "count": 42, "priority": "lower" },
+            "arms": { "count": 54, "priority": "lower" }
+        },
+        "notes": "Eyes-dominant physical description; expressions and gaze central to character interaction"
+    },
+    "pacing": {
+        "average_scene_length_words": 2500,
+        "scene_length_range": [
+            500,
+            5000
+        ],
+        "total_scene_breaks": 11,
+        "by_section": {
+            "section_1": 2,
+            "section_2": 2,
+            "section_3": 7
+        },
+        "scene_break_marker": "***"
+    },
+    "formatting": {
+        "italics_usage": "narrator_commentary_with_ellipses",
+        "dialogue_quotes": "single",
+        "scene_break_marker": "***",
+        "dominant_tense": "past",
+        "chapter_format": "[Ordinal] memory - [Thematic title]",
+        "epigraphs": "Present at memory openings with [...] brackets"
+    },
+    "punctuation": {
+        "periods_total": 3856,
+        "question_marks_total": 192,
+        "exclamation_marks_total": 171,
+        "ellipses_total": 130,
+        "semicolons_total": 74,
+        "em_dashes_total": 44
+    },
+    "emotional_register": {
+        "primary_tone": "formal_literary",
+        "secondary_tones": [
+            "philosophical",
+            "restrained_tension",
+            "wonder"
+        ],
+        "restraint_level": "high",
+        "expression_method": "physical_manifestation",
+        "arc_progression": {
+            "section_1": "Elevated, meditative, worldbuilding focus",
+            "section_2": "Rising tension, action sequences, philosophical depth",
+            "section_3": "Climactic action, grief, transcendence"
+        }
+    },
+    "character_voices": {
+        "protagonist_alan": {
+            "speech": "Impulsive, questioning, defensive ('My apologies')",
+            "markers": "Short decisive statements in crisis"
+        },
+        "haji": {
+            "speech": "Logical, formal, analytical",
+            "markers": "Probability references, 'Salutations', longer explanations"
+        },
+        "sophie": {
+            "speech": "Soft, mysterious, playful",
+            "markers": "Telepathic hints, brief responses"
+        },
+        "mentors_authority": {
+            "speech": "Formal, verbose, lecture cadence",
+            "markers": "Directive references, complex syntax, titles"
+        },
+        "narrator_philosophical": {
+            "voice": "Omniscient, philosophical, ellipsis-framed",
+            "markers": "Present tense commentary, meta-textual guidance"
+        }
+    }
+}

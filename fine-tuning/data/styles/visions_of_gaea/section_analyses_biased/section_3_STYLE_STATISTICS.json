@@ -1,0 +1,235 @@
+{
+  "manuscript_section": "Section 3: Memory 10 to Epilogue",
+  "analysis_date": "2025-11-25",
+  "word_count": 20459,
+  "line_count": 606,
+  "paragraph_count": 524,
+  "scene_breaks": 7,
+  "chapter_markers": ["Prelude to Ascension", "End of Part I"],
+  
+  "sentence_metrics": {
+    "total_sentences": 785,
+    "average_length": 26.1,
+    "range": {
+      "min": 1,
+      "max": 138
+    },
+    "distribution": {
+      "short_under_10": {
+        "count": 113,
+        "percentage": 14.4
+      },
+      "medium_10_to_20": {
+        "count": 233,
+        "percentage": 29.7
+      },
+      "long_over_20": {
+        "count": 439,
+        "percentage": 55.9
+      }
+    }
+  },
+  
+  "paragraph_metrics": {
+    "average_sentences_per_paragraph": 2.4,
+    "substantial_paragraphs": 524
+  },
+  
+  "pov_analysis": {
+    "second_person_count": 1076,
+    "first_person_count": 217,
+    "third_person_count": 990,
+    "dominant_pov": "second_person_with_third_person_epilogue",
+    "epilogue_pov_shift": {
+      "epilogue_word_count": 309,
+      "second_person": 0,
+      "third_person_she_her": 15,
+      "first_person": 0
+    }
+  },
+  
+  "tense_analysis": {
+    "past_tense_indicators": 934,
+    "present_tense_indicators": 389,
+    "dominant_tense": "past"
+  },
+  
+  "dialogue_metrics": {
+    "dialogue_word_count": 10754,
+    "dialogue_ratio_percentage": 52.6,
+    "dialogue_instances": 475,
+    "attribution_patterns": {
+      "post_dialogue": 165,
+      "pre_dialogue": 8,
+      "action_beat_followed_by_dialogue": 246
+    },
+    "tag_usage": {
+      "said": 74,
+      "asked": 22,
+      "answered": 18,
+      "whispered": 6,
+      "added": 4,
+      "shouted": 4,
+      "cried": 3,
+      "spoke": 2,
+      "replied": 2,
+      "muttered": 1
+    }
+  },
+  
+  "punctuation_analysis": {
+    "periods": 1327,
+    "question_marks": 79,
+    "exclamation_marks": 45,
+    "em_dashes": 6,
+    "semicolons": 23,
+    "colons": 18,
+    "ellipses_internal_monologue": 69,
+    "single_quotes_dialogue": 952
+  },
+  
+  "descriptive_metrics": {
+    "common_adjective_count": 187,
+    "adjective_per_1000_words": 9.1,
+    "adverb_ly_count": 216,
+    "adverb_per_1000_words": 10.6,
+    "simile_count": 32,
+    "as_if_constructions": 8,
+    "top_adverbs": [
+      {"word": "slowly", "count": 13},
+      {"word": "immediately", "count": 10},
+      {"word": "merely", "count": 7},
+      {"word": "gently", "count": 6},
+      {"word": "likely", "count": 6},
+      {"word": "promptly", "count": 4},
+      {"word": "entirely", "count": 4},
+      {"word": "hastily", "count": 4}
+    ]
+  },
+  
+  "sensory_analysis": {
+    "visual": {
+      "count": 301,
+      "per_1000_words": 14.7
+    },
+    "auditory": {
+      "count": 80,
+      "per_1000_words": 3.9
+    },
+    "tactile": {
+      "count": 117,
+      "per_1000_words": 5.7
+    },
+    "olfactory": {
+      "count": 15,
+      "per_1000_words": 0.7
+    },
+    "gustatory": {
+      "count": 10,
+      "per_1000_words": 0.5
+    },
+    "priority_order": ["visual", "tactile", "auditory", "olfactory", "gustatory"]
+  },
+  
+  "emotional_tone": {
+    "fear_tension": 10,
+    "wonder_awe": 15,
+    "rage_anger": 12,
+    "grief_sorrow": 38,
+    "hope_joy": 9,
+    "dominant_tone": "grief_sorrow"
+  },
+  
+  "body_descriptions": {
+    "total": 126,
+    "by_part": {
+      "eyes": 36,
+      "face": 36,
+      "arms": 19,
+      "body": 13,
+      "legs": 7,
+      "chest": 7,
+      "hands": 4,
+      "heart": 4
+    }
+  },
+  
+  "vocabulary_metrics": {
+    "total_words": 20459,
+    "unique_words": 4774,
+    "lexical_diversity": 0.233,
+    "conveyed_thought_instances": 12
+  },
+  
+  "worldbuilding_terminology": {
+    "character_names": {
+      "haji": 115,
+      "wollen": 26,
+      "mother": 18,
+      "sophie": 14
+    },
+    "technology": {
+      "sentinels": 13,
+      "facemask": 10,
+      "unit": 7,
+      "droids": 9,
+      "exoderm": 5,
+      "lance": 5,
+      "claw": 6
+    },
+    "society": {
+      "apprentices": 12,
+      "specialists": 12,
+      "companion": 11,
+      "darmians": 9,
+      "mentalist": 5,
+      "companions": 3
+    },
+    "concepts": {
+      "torment": 6,
+      "gathering": 4,
+      "directives": 4,
+      "hub": 5
+    }
+  },
+  
+  "time_markers": {
+    "as": 726,
+    "when": 65,
+    "before": 41,
+    "moment": 26,
+    "while": 23,
+    "then": 41,
+    "after": 23,
+    "slowly": 14,
+    "immediately": 12,
+    "forever": 4,
+    "eternity": 2
+  },
+  
+  "action_scene_analysis": {
+    "combat_scene_word_count": 3694,
+    "average_sentence_length_in_combat": 19.4,
+    "short_sentences_percentage_in_combat": 16.3
+  },
+  
+  "italicized_passages": {
+    "count": 27,
+    "purpose": "narrator_commentary_and_internal_monologue"
+  },
+  
+  "special_formatting": {
+    "capitalized_compound_terms": [
+      "Air Intake Field",
+      "Air Intake Towers",
+      "Alan Balthazar",
+      "Antiga Pyre",
+      "Barren Tundra",
+      "Central Continent",
+      "Darmian Security Droids",
+      "Drifter Races",
+      "East Boulevard",
+      "Manufacturing Sector"
+    ]
+  }
+}
