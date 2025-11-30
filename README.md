@@ -10,7 +10,7 @@ This project provides a full-featured, privacy-focused AI writing assistant that
 
 - **Local LLM Server**: GPU-accelerated inference using vLLM with OpenAI-compatible API
 - **RAG System**: Automatic retrieval of worldbuilding, character profiles, and plot context
-- **VS Code Integration**: Seamless writing experience with Continue.dev or Cody extensions
+- **VS Code Integration**: Seamless writing experience with Continue.dev
 - **Fine-Tuning**: Train models on your writing style for consistent narrative voice
 - **Privacy First**: Everything runs locally—your stories never leave your machine
 - **Fast**: 2-5 second response times on RTX 5090

@@ -49,11 +49,25 @@
 
 ## Starting or resuming chats
 
-To ensure continuity across chat sessions, **When user starts new chat with "analyze" or "recap":**
-- **Always start by read all readme files available** in the directory structure
-- **Always read the latest history file first** (`docs/history/` sorted by date)
-- **Always scan the tasks folder to see if there are any open tasks**
-- Use all this content to understand recent changes and decisions then proceed with standard analysis and suggestions
+To ensure continuity across chat sessions, **when user starts new chat with "analyze" or "recap"**, execute these steps IN ORDER:
+
+1. **Read core README files** (in parallel):
+   - `README.md` (project root)
+   - `fine-tuning/README.md`
+   - `RAG/README.md`
+   - `vllm/README.md`
+
+2. **Read the 3 most recent history files** from `docs/history/` (sorted by date descending)
+
+3. **Read task planning file:** `tasks/PLANNING.md` (NOT individual task files)
+
+4. **Synthesize and present** a recap covering:
+   - Current project state (from READMEs)
+   - Recent changes and decisions (from history)
+   - Open tasks sorted by priority
+   - Suggested next steps
+
+**Note:** Only read individual task files (`tasks/NNN_*.md`) when actively working on that specific task.
 
 
 ## Finalizing chats
@@ -68,23 +82,30 @@ To ensure continuity across chat sessions, **When user starts new chat with "ana
 
 ## Task Management
 
+**Central planning file:** `tasks/PLANNING.md`
+- Contains status of all tasks (sorted by ID)
+- Single source of truth for task overview
+- Update this file when task status changes
+
 **When user types "create task - [title]":**
 - Create new task file in `tasks/` directory
 - Filename: `tasks/NNN_task_title.md` (NNN = next available number, zero-padded to 3 digits)
-- Include: Title, priority (1-5, where 1=highest), description, acceptance criteria
+- Include: Title, description, acceptance criteria
 - Tasks are numbered sequentially starting at 001
+- **Add entry to `tasks/PLANNING.md`** with status "Not Started"
 
 **When user types "what's next" or asks about tasks:**
-- Read all task files in `tasks/` directory
-- Show as many tasks as the user asks sorted by priority (1 first) then by number
-- Display: number, title, priority
-- Limit to top 5-10 tasks unless user requests more
+- Read `tasks/PLANNING.md` only (not individual task files)
+- Show tasks that are not completed
+
+**When completing a task:**
+- Update status to "Completed" and add completion date in `PLANNING.md`
+- Update individual task file status if needed
 
 **Task file format:**
 ```markdown
 # [Task Title]
 
-**Priority:** [1-5]  
 **Status:** Not Started | In Progress | Completed | Blocked  
 **Created:** YYYY-MM-DD
 
