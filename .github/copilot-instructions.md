@@ -56,6 +56,7 @@ To ensure continuity across chat sessions, **when user starts new chat with "ana
    - `fine-tuning/README.md`
    - `RAG/README.md`
    - `vllm/README.md`
+   - `.continue/README.md`
 
 2. **Read the 3 most recent history files** from `docs/history/` (sorted by date descending)
 

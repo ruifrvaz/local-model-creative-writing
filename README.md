@@ -246,9 +246,11 @@ local-model-creative-writing/
 │   ├── training/                  # Training scripts
 │   ├── benchmarks/                # Voice comparison tests
 │   └── data/                      # Training samples
-├── chatUI/                     # VS Code integration
+├── .continue/                  # VS Code Continue.dev integration
 │   ├── README.md                  # Continue.dev setup guide
-│   └── test doc.md                # RAG validation examples
+│   ├── CONFIG_NOTES.md            # Advanced configuration
+│   ├── rules/                     # Creative writing rules
+│   └── benchmarks/                # RAG validation examples
 ├── tasks/                      # Task tracking
 │   └── 001_configure_continue_for_creative_writing.md
 └── docs/                       # Additional documentation
