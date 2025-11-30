@@ -7,13 +7,40 @@
 
 ---
 
+## Materials
+
+### Agents
+
+| Condition | Agent File | Prompt Design |
+|-----------|------------|---------------|
+| Biased | `.github/agents/style-analyzer.md` | Includes example outputs with sample metrics |
+| Unbiased | `.github/agents/style-analyzer-unb.md` | Structural scaffolding only, no examples |
+
+### Analysis Outputs
+
+Located in `fine-tuning/data/styles/visions_of_gaea/`:
+
+| Output Type | Biased | Unbiased |
+|-------------|--------|----------|
+| Transfer Guide | `STYLE_TRANSFER_GUIDE_biased.md` | `STYLE_TRANSFER_GUIDE_unbiased.md` |
+| Statistics | `STYLE_STATISTICS_biased.json` | `STYLE_STATISTICS_unbiased.json` |
+| Patterns | `STYLE_PATTERNS_biased.md` | `STYLE_PATTERNS_unbiased.md` |
+| Section Analyses | `section_analyses_biased/` | `section_analyses/` |
+
+### Source Material
+
+- **Manuscript:** "Visions of Gaea" (62,884 words)
+- **Section files:** `manuscript_sections/section_{1,2,3}_*.txt`
+
+---
+
 ## Abstract
 
-This study compares two prompt engineering approaches for LLM-based text analysis: example-inclusive ("biased") versus example-free ("unbiased") prompts. Using a 62,884-word manuscript as the analysis target, we find that including example outputs in prompts induces anchoring bias, causing the model to generate plausible-looking but factually incorrect data. Ground truth verification revealed a 400% overcount of structural elements in the example-inclusive condition. We conclude that analytical prompts should provide structural scaffolding without example values.
+This study compares two prompt engineering approaches for LLM-based text analysis: example-inclusive ("biased") versus example-free ("unbiased") prompts. Using a 62,884-word manuscript as the analysis target, we observed that including example outputs in prompts may induce anchoring bias, potentially causing the model to generate plausible-looking but inaccurate data. Ground truth verification revealed a significant overcount of structural elements in the example-inclusive condition. These results suggest that analytical prompts may benefit from structural scaffolding without example values.
 
-**Hypothesis:** Example outputs in prompts function as cognitive anchors rather than format templates, biasing LLM analysis toward expected values.
+**Hypothesis:** Example outputs in prompts may function as cognitive anchors rather than format templates, potentially biasing LLM analysis toward expected values.
 
-**Result:** Confirmed. The example-free approach achieved 100% accuracy on verifiable metrics; the example-inclusive approach fabricated data.
+**Observation:** In this case study, the example-free approach matched ground truth on verifiable metrics; the example-inclusive approach showed significant discrepancies.
 
 ---
 
@@ -61,7 +88,7 @@ Scene break markers (`***`) were counted directly in source files:
 | Section 3 | 7 | — | 7 ✅ |
 | **Total** | **11** | **17** | **11 ✅** |
 
-The biased condition reported 8 scene breaks where 2 exist—a **400% overcount**. The unbiased condition matched ground truth exactly.
+The biased condition reported 8 scene breaks where 2 exist—a significant discrepancy. The unbiased condition matched ground truth exactly in this instance.
 
 ### 3.2 Internal Consistency
 
@@ -99,43 +126,47 @@ Sentence length progression:
 
 ## 4. Discussion
 
-### 4.1 Mechanism
+### 4.1 Possible Mechanism
 
-The biased agent's errors follow a consistent pattern: reported values cluster around "reasonable defaults" rather than reflecting actual text properties. This suggests the model treated example values as targets to approximate rather than formats to populate with fresh analysis.
+The biased agent's discrepancies follow a pattern worth noting: reported values appear to cluster around "reasonable defaults" rather than reflecting actual text properties. This may suggest the model treated example values as targets to approximate rather than formats to populate with fresh analysis.
 
-The 400% scene break overcount is particularly diagnostic. The biased prompt likely included examples suggesting "frequent scene breaks," causing the model to hallucinate additional breaks to match expectations.
+The scene break overcount is worth examining. The biased prompt may have included examples suggesting certain frequencies, potentially influencing the model toward those expectations.
 
-### 4.2 The Flattening Effect
+### 4.2 Observed Flattening Effect
 
-Example-inclusive prompts produced suspiciously uniform metrics across sections (6pt dialogue spread vs. 23pt). This "flattening" indicates the model averaged toward expected values rather than measuring actual variation.
+Example-inclusive prompts produced notably uniform metrics across sections (6pt dialogue spread vs. 23pt). This pattern may indicate the model averaged toward expected values rather than measuring actual variation, though alternative explanations are possible.
 
-### 4.3 Implications
+### 4.3 Potential Implications
 
-Examples in analytical prompts do not function as neutral format guidance. They establish cognitive anchors that:
+If these observations generalize, examples in analytical prompts may not function as neutral format guidance. They could establish cognitive anchors that:
 1. Bias measurements toward expected ranges
 2. Reduce sensitivity to actual variance
-3. Enable hallucination of data to match expectations
+3. Increase risk of confabulated data to match expectations
+
+Further study across different tasks and models would be needed to confirm these patterns.
 
 ---
 
 ## 5. Conclusion
 
-**Finding:** Example outputs in LLM prompts for analytical tasks induce anchoring bias, degrading accuracy and enabling data fabrication.
+**Observation:** In this case study, example outputs in LLM prompts for analytical tasks correlated with reduced accuracy and data discrepancies.
 
-**Recommendation:** Analytical prompts should provide:
+**Personal Recommendation:** For analytical tasks requiring precision, consider:
 - ✅ Output structure (JSON schema, section headers)
 - ✅ Field definitions ("dialogue_ratio: percentage of words in dialogue")
 - ✅ Quality criteria ("provide exact counts, not estimates")
-- ❌ Example values
-- ❌ Sample metrics
-- ❌ Expected ranges
+- ⚠️ Use example values sparingly, if at all
+- ⚠️ Avoid sample metrics that could anchor expectations
+- ⚠️ Consider omitting expected ranges
 
-**Generalization:** This finding likely applies to any LLM task requiring quantitative analysis, pattern discovery, or data extraction. When genuine observation is required, provide structural scaffolding without populated examples.
+**Scope:** This is a single case study (n=1 manuscript, 1 model family). The pattern may not generalize across all tasks, models, or prompt structures. Practitioners should test both approaches for their specific use cases.
 
 ---
 
 ## References
 
-- Source data: `fine-tuning/data/styles/visions_of_gaea/`
-- Detailed comparison: `ANALYSIS_COMPARISON.md`
-- Extended discussion: `PROMPT_ENGINEERING_ANCHORING_BIAS.md`
+- **Biased agent:** `.github/agents/style-analyzer.md`
+- **Unbiased agent:** `.github/agents/style-analyzer-unb.md`
+- **Analysis outputs:** `fine-tuning/data/styles/visions_of_gaea/`
+- **Detailed comparison:** `ANALYSIS_COMPARISON.md` (in outputs directory)
+- **Extended discussion:** `docs/PROMPT_ENGINEERING_ANCHORING_BIAS.md`
