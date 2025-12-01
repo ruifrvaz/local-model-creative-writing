@@ -18,19 +18,19 @@ echo "[SETUP] Training configuration: $CONFIG"
 echo "[SETUP] Run name: $RUN_NAME"
 
 # Verify training data exists
-if [ ! -f "data/processed/training.jsonl" ]; then
-    echo "[ERROR] Training data not found: data/processed/training.jsonl"
-    echo "[ERROR] Run scripts/1_prepare_data.py first"
+TRAINING_DATA="data/processed/visions_training.jsonl"
+if [ ! -f "$TRAINING_DATA" ]; then
+    echo "[ERROR] Training data not found: $TRAINING_DATA"
+    echo "[ERROR] Run training/1_prepare_data.py first"
     exit 1
 fi
 
 # Count training samples
-SAMPLE_COUNT=$(wc -l < data/processed/training.jsonl)
+SAMPLE_COUNT=$(wc -l < "$TRAINING_DATA")
 echo "[INFO] Training samples: $SAMPLE_COUNT"
 
-if [ "$SAMPLE_COUNT" -lt 50 ]; then
-    echo "[WARN] Low sample count ($SAMPLE_COUNT). Recommend 50-100+ for production"
-    echo "[INFO] Running as pipeline test - expect limited style transfer"
+if [ "$SAMPLE_COUNT" -lt 20 ]; then
+    echo "[WARN] Low sample count ($SAMPLE_COUNT). Recommend 30+ for style transfer"
 fi
 
 # Set memory optimization flags
@@ -49,8 +49,8 @@ mkdir -p logs
 
 # Launch training
 echo "[START] Beginning training..."
-echo "[INFO] Expected time: ~30-60 minutes for 14 samples (pipeline test)"
-echo "[INFO] This is a PROOF-OF-CONCEPT run with minimal data"
+echo "[INFO] Expected time: ~2-4 hours for 31 samples (3 epochs)"
+echo "[INFO] Training Visions of Gaea style transfer model"
 echo ""
 echo "[NOTE] Training output will be shown live AND logged to: logs/training_${RUN_NAME}.log"
 echo ""

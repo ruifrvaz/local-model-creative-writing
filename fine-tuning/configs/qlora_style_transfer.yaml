@@ -32,24 +32,31 @@ lora_modules_to_save:         # Required when using custom special tokens
 
 # Training Data
 datasets:
-  - path: data/processed/training.jsonl
+  - path: data/processed/visions_training.jsonl
     type: chat_template  # Using chat format with messages
     field: messages      # Field name in JSONL
-val_set_size: 0.1            # 10% validation split
+
+# Validation Data (pre-split by 1_prepare_data.py)
+eval_datasets:
+  - path: data/processed/validation.jsonl
+    type: chat_template
+    field: messages
+
+val_set_size: 0              # Using explicit eval_datasets instead
 dataset_prepared_path: data/processed/
 
 # Training Parameters
-sequence_len: 2048           # Max sequence length for training
+sequence_len: 4096           # Max sequence length (our chunks avg ~2600 tokens)
 sample_packing: true         # Efficient batching
 pad_to_sequence_len: true
 
-learning_rate: 0.0001        # 1e-4 lower LR for small dataset (avoid overfitting)
-num_epochs: 5                # More epochs needed with only 14 examples
-micro_batch_size: 2          # Per-device batch size
-per_device_train_batch_size: 2  # Smaller batch for small dataset
-per_device_eval_batch_size: 2
-gradient_accumulation_steps: 4  # Effective batch size = 8
-warmup_steps: 20             # Reduced warmup for small dataset
+learning_rate: 0.0002        # 2e-4 standard QLoRA rate
+num_epochs: 3                # 3 epochs for 31 examples
+micro_batch_size: 1          # Per-device batch size (long sequences need batch=1)
+per_device_train_batch_size: 1
+per_device_eval_batch_size: 1
+gradient_accumulation_steps: 8  # Effective batch size = 8
+warmup_steps: 10             # ~10% of ~93 steps (31 examples * 3 epochs)
 
 # Optimizer
 optimizer: paged_adamw_8bit  # Memory-efficient AdamW
@@ -70,7 +77,7 @@ eval_steps: 10               # Evaluate frequently with small dataset
 eval_sample_packing: false
 
 # Logging & Checkpointing
-output_dir: checkpoints/qlora-style-pipeline-test
+output_dir: checkpoints/qlora-visions-style
 save_strategy: epoch         # Save every epoch (small dataset)
 save_total_limit: 5          # Keep all checkpoints for comparison
 logging_steps: 5             # Log frequently

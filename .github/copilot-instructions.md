@@ -47,9 +47,13 @@
 - VS Code with Continue.dev extension (see chatUI/README.md)
 - Fine-tuning workflow for personal narrative style - READY (QLoRA/LoRA configs, scripts, guide)
 
-## Starting or resuming chats
+## Session Commands
 
-To ensure continuity across chat sessions, **when user starts new chat with "analyze" or "recap"**, execute these steps IN ORDER:
+Explicit keywords for session management. These are unambiguous commands.
+
+### `session.recap`
+
+Start a new chat with full project context. Execute these steps IN ORDER:
 
 1. **Read core README files** (in parallel):
    - `README.md` (project root)
@@ -70,15 +74,17 @@ To ensure continuity across chat sessions, **when user starts new chat with "ana
 
 **Note:** Only read individual task files (`tasks/NNN_*.md`) when actively working on that specific task.
 
+### `session.wrapup`
 
-## Finalizing chats
+End a session by documenting the **entire session** (not just recent activity):
 
-**When user says "wrap up" or "summarize":**
-- **Create history file if session qualifies as significant** (see Documentation Philosophy)
-- Filename: `docs/history/YYYY-MM-DD_description.md`
-- Include: Actions taken, problems solved, decisions made, files modified, next steps
-- Focus on **what** and **why**, not implementation details
-- Update this history file as the session reference for next chat
+1. **Review full conversation** - All topics discussed, decisions made, files modified
+2. **Create history file** if session qualifies as significant (see Documentation Philosophy)
+   - Filename: `docs/history/YYYY-MM-DD_description.md`
+   - Include: Actions taken, problems solved, decisions made, files modified, next steps
+   - Focus on **what** and **why**, not implementation details
+   - Cover the **complete session arc**, not just the last activity
+3. **Update this history file** as the session reference for next chat
 - **Do NOT create** separate RESUME or TODO files (history file serves this purpose)
 
 ## Task Management
