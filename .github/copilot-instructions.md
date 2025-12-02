@@ -74,7 +74,7 @@ Start a new chat with full project context. Execute these steps IN ORDER:
 
 **Note:** Only read individual task files (`tasks/NNN_*.md`) when actively working on that specific task.
 
-### `session.wrapup`
+### `session.wrap`
 
 End a session by documenting the **entire session** (not just recent activity):
 

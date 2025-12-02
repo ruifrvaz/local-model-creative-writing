@@ -1,20 +1,20 @@
-# LoRA Configuration (Non-Quantized)
-# Higher VRAM usage but better quality than QLoRA
-# Requires ~18-24GB VRAM for Llama-3.1-8B
+# LoRA Configuration for Style Transfer Fine-Tuning
+# Full precision (bf16) - better quality than QLoRA
+# Optimized for RTX 5090 (32GB VRAM) - uses ~18-24GB
 
 base_model: meta-llama/Llama-3.1-8B-Instruct
 model_type: LlamaForCausalLM
 tokenizer_type: AutoTokenizer
 
-# LoRA Settings (no quantization)
+# LoRA Settings (no quantization - full bf16 precision)
 load_in_4bit: false
 load_in_8bit: false
 adapter: lora
 
 # LoRA Configuration
-lora_r: 64
-lora_alpha: 128
-lora_dropout: 0.05
+lora_r: 64                    # Rank: 32=fast/minimal, 64=balanced, 128=maximum
+lora_alpha: 128               # Scaling: typically 2x rank
+lora_dropout: 0.05            # Light regularization
 lora_target_modules:
   - q_proj
   - k_proj
@@ -25,29 +25,34 @@ lora_target_modules:
   - down_proj
 lora_fan_in_fan_out: false
 
-# Training Data (same as QLoRA)
+# Training Data
 datasets:
-  - path: data/processed/training.jsonl
-    type: completion
+  - path: data/processed/visions_training.jsonl
+    type: chat_template       # Matches JSONL format with messages array
     field: messages
-val_set_size: 0.1
+
+# Validation Data (pre-split by 1_prepare_data.py)
+# Using explicit test set to maximize training examples (36 train, 4 val)
+val_set_size: 0               # Don't auto-split
+test_datasets:
+  - path: data/processed/validation.jsonl
+    type: chat_template
+    field: messages
 dataset_prepared_path: data/processed/
 
 # Training Parameters
-sequence_len: 2048
-sample_packing: true
+sequence_len: 4096            # Max chunk is ~3682 tokens
+sample_packing: true          # Pack shorter sequences together
 pad_to_sequence_len: true
 
-learning_rate: 0.0002
-num_epochs: 2
-per_device_train_batch_size: 2   # Lower due to higher VRAM usage
-per_device_eval_batch_size: 2
-gradient_accumulation_steps: 8   # Maintain effective batch = 16
-warmup_steps: 100
-warmup_ratio: 0.05
+learning_rate: 0.0002         # 2e-4 standard LoRA rate
+num_epochs: 3                 # 3 epochs for 36 examples
+micro_batch_size: 1           # Per-device batch (long sequences)
+gradient_accumulation_steps: 4  # Effective batch = 4, ~9 updates/epoch
+warmup_ratio: 0.1             # 10% of training for warmup
 
-# Optimizer (standard AdamW without quantization)
-optimizer: adamw_torch
+# Optimizer
+optimizer: adamw_torch        # Full precision AdamW
 lr_scheduler: cosine
 weight_decay: 0.01
 max_grad_norm: 1.0
@@ -56,31 +61,26 @@ max_grad_norm: 1.0
 gradient_checkpointing: true
 gradient_checkpointing_kwargs:
   use_reentrant: false
-bf16: true
-tf32: true
-flash_attention: true
+bf16: true                    # Full bf16 precision
+tf32: true                    # TensorFloat-32 acceleration
+flash_attention: true         # FlashAttention-2
 
-# Evaluation
-eval_steps: 50
+# Evaluation (disabled - using test_datasets for final eval only)
 eval_sample_packing: false
-evals_per_epoch: 4
 
 # Logging & Checkpointing
-output_dir: checkpoints/lora-style-run-1
-save_strategy: steps
-save_steps: 100
-save_total_limit: 3
-logging_steps: 10
+output_dir: checkpoints/lora-visions-style
+save_strategy: epoch          # Save every epoch (small dataset)
+save_total_limit: 5           # Keep all checkpoints
+logging_steps: 1              # Log every step (small dataset)
 logging_first_step: true
 
-# Weights & Biases (optional)
-wandb_project: scifi-style-transfer
-wandb_watch: false
-wandb_log_model: false
-wandb_run_id:
+# Weights & Biases (disabled)
+# wandb_project: scifi-style-transfer
+# wandb_watch:
+# wandb_log_model:
 
-# Special Tokens
-# NOTE: Llama 3.1 uses byte-level BPE - no unk_token needed
+# Special Tokens (Llama 3.1 format)
 special_tokens:
   bos_token: "<|begin_of_text|>"
   eos_token: "<|end_of_text|>"

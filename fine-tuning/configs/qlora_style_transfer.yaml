@@ -26,9 +26,9 @@ lora_target_modules:
   - up_proj
   - down_proj
 lora_fan_in_fan_out: false
-lora_modules_to_save:         # Required when using custom special tokens
-  - embed_tokens
-  - lm_head
+# lora_modules_to_save:       # Only needed when adding NEW tokens (e.g., Klingon, emojis)
+#   - embed_tokens            # Trains input embeddings (~524M params) - overkill for style transfer
+#   - lm_head                 # Trains output predictions (~524M params) - risks overfitting on 36 examples
 
 # Training Data
 datasets:
@@ -37,12 +37,12 @@ datasets:
     field: messages      # Field name in JSONL
 
 # Validation Data (pre-split by 1_prepare_data.py)
-eval_datasets:
+# Using explicit validation set to maximize training examples (36 train, 4 val)
+val_set_size: 0              # Don't auto-split; using explicit test_datasets
+test_datasets:
   - path: data/processed/validation.jsonl
     type: chat_template
     field: messages
-
-val_set_size: 0              # Using explicit eval_datasets instead
 dataset_prepared_path: data/processed/
 
 # Training Parameters
@@ -72,8 +72,8 @@ bf16: true                   # Use bfloat16 for RTX 5090
 tf32: true                   # TensorFloat-32 acceleration
 flash_attention: true        # FlashAttention-2 support
 
-# Evaluation
-eval_steps: 10               # Evaluate frequently with small dataset
+# Evaluation (disabled - using test_datasets for final eval only)
+# eval_steps not compatible with val_set_size=0
 eval_sample_packing: false
 
 # Logging & Checkpointing

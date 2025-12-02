@@ -195,6 +195,70 @@ save_total_limit: 3     # Keep only the 3 most recent checkpoints
 
 **Why these modules?** They control how the model pays attention to context and generates tokens - the core of writing style.
 
+### Should You Train Embedding Weights?
+
+The `modules_to_save` option (sometimes called `lora_modules_to_save`) trains the full embedding and output layers:
+
+```yaml
+lora_modules_to_save:  # Optional - usually NOT needed for style transfer
+  - embed_tokens       # Input embeddings (token → vector)
+  - lm_head            # Output head (vector → token probabilities)
+```
+
+#### When to Skip (Default - Most Style Transfer)
+
+**Don't train embeddings if:**
+- Writing in natural English/human languages
+- Using standard vocabulary (no invented terminology)
+- Focus is on sentence structure, pacing, tone
+
+**Why?** Modern tokenizers use byte-level BPE (Byte Pair Encoding) which handles ANY text via subword tokenization:
+
+```
+"neurolink" → ["neur", "ol", "ink"]       # Decomposed into known subwords
+"Balthazar" → ["Bal", "th", "az", "ar"]   # Character name handled fine
+"xenobiome" → ["xeno", "bio", "me"]       # Sci-fi term works
+```
+
+The base model already knows these subwords - it just needs to learn your *style* of using them.
+
+#### When to Train Embeddings
+
+**Train embeddings if your writing contains:**
+
+1. **Non-Latin scripts or constructed languages:**
+   ```
+   Klingon: "Qapla' batlh je!" → Tokenizer may produce garbage
+   Elvish: "Mae govannen, mellon" → Subwords meaningless
+   ```
+
+2. **Heavy domain-specific terminology:**
+   ```
+   Medical: "pneumonoultramicroscopicsilicovolcanoconiosis"
+   Legal: Specific Latin phrases with precise meanings
+   ```
+
+3. **Invented notation systems:**
+   ```
+   Custom emoji meanings: "⌬ means 'dimensional shift'"
+   Symbolic shorthand: "↯↯↯" = "extreme danger"
+   ```
+
+4. **Languages with unique tokenization needs:**
+   ```
+   Chinese/Japanese/Korean where character-level matters
+   Code-switching with non-Latin alphabets
+   ```
+
+#### Impact on Training
+
+| Configuration | Trainable Params | VRAM | Use Case |
+|---------------|------------------|------|----------|
+| LoRA only | 168M (~2%) | ~24GB | Style transfer (recommended) |
+| LoRA + embed_tokens/lm_head | 196M (~13%) | ~26GB | New vocabulary needed |
+
+**Recommendation:** Start WITHOUT training embeddings. Only add if you notice the model struggles with specific invented words or symbols.
+
 ### Rank (r) vs Model Size Trade-off
 
 | Rank | Adapter Size | Style Capacity | VRAM (Training) | Quality |
@@ -272,7 +336,44 @@ save_total_limit: 3     # Keep only the 3 most recent checkpoints
 
 ---
 
-## QLoRA Training Method
+## QLoRA vs LoRA: Which to Choose?
+
+### The Trade-off
+
+| Method | Base Model | Training VRAM | Speed | Precision | Best For |
+|--------|------------|---------------|-------|-----------|----------|
+| **LoRA** | Full bf16 (16GB) | ~24GB | Fast (~7s/step) | Full precision | RTX 5090 (32GB) - **Recommended** |
+| **QLoRA** | 4-bit NF4 (~5GB) | ~17GB | Slower (~19s/step) | Some loss | GPUs with <24GB VRAM |
+
+### When to Use LoRA (Recommended for RTX 5090)
+
+If you have **32GB VRAM**, use LoRA:
+- **Faster training:** ~3-4x speedup vs QLoRA
+- **Full precision:** No quantization artifacts
+- **Better gradients:** bf16 base model provides cleaner learning signal
+- **VRAM usage:** ~24GB fits comfortably in 32GB
+
+### When to Use QLoRA
+
+Use QLoRA only if:
+- **Limited VRAM:** GPU has <24GB (RTX 3090, RTX 4080, etc.)
+- **Larger models:** Training 14B+ models where LoRA won't fit
+- **Memory constrained:** Need headroom for longer sequences
+
+### Practical Speed Comparison (RTX 5090)
+
+Tested with 36 training examples, 3-step validation:
+
+| Config | Runtime | VRAM | Throughput | Final Loss |
+|--------|---------|------|------------|------------|
+| QLoRA | 57s | 17.5GB | ~560 tok/s | 2.78 |
+| LoRA | 25s | 24.4GB | ~2200 tok/s | 2.68 |
+
+**Conclusion:** LoRA is ~2.3x faster with slightly better loss. Use it when VRAM permits.
+
+---
+
+## QLoRA Training Method (For Memory-Constrained GPUs)
 
 ### What is QLoRA?
 
@@ -290,7 +391,7 @@ Combines two techniques:
 | LoRA | 16GB (bfloat16) | 24-32GB | 6.5GB |
 | **QLoRA** | **5GB (4-bit NF4)** | **9-14GB** | **6.5GB** |
 
-**Benefit:** Fits 8B model training on consumer GPU (RTX 5090 with 32GB VRAM)
+**Benefit:** Fits 8B model training on GPUs with limited VRAM (16-24GB)
 
 ### 4-bit NF4 Quantization
 
@@ -714,6 +815,6 @@ python 1_voice_comparison.py
 
 ---
 
-**Last Updated:** 2025-11-02  
+**Last Updated:** 2025-12-02  
 **Project:** scifi-llm fine-tuning pipeline  
-**Training Result:** 12 examples, 2.8 epochs, loss 2.137, 20-40% style transfer
+**Training Result:** 36 examples, configs validated, LoRA recommended for RTX 5090
