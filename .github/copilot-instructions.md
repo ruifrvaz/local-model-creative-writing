@@ -87,27 +87,45 @@ End a session by documenting the **entire session** (not just recent activity):
 3. **Update this history file** as the session reference for next chat
 - **Do NOT create** separate RESUME or TODO files (history file serves this purpose)
 
-## Task Management
+## Task Commands
+
+Explicit keywords for task management. These are unambiguous commands.
 
 **Central planning file:** `tasks/PLANNING.md`
 - Contains status of all tasks (sorted by ID)
 - Single source of truth for task overview
 - Update this file when task status changes
 
-**When user types "create task - [title]":**
-- Create new task file in `tasks/` directory
-- Filename: `tasks/NNN_task_title.md` (NNN = next available number, zero-padded to 3 digits)
-- Include: Title, description, acceptance criteria
-- Tasks are numbered sequentially starting at 001
-- **Add entry to `tasks/PLANNING.md`** with status "Not Started"
+### `task.create [title]` or `task.create [title] - [description] - [criteria]`
 
-**When user types "what's next" or asks about tasks:**
-- Read `tasks/PLANNING.md` only (not individual task files)
-- Show tasks that are not completed
+Create a new task:
 
-**When completing a task:**
-- Update status to "Completed" and add completion date in `PLANNING.md`
-- Update individual task file status if needed
+1. Create new task file in `tasks/` directory
+2. Filename: `tasks/NNN_task_title.md` (NNN = next available number, zero-padded to 3 digits)
+3. Tasks are numbered sequentially starting at 001
+4. **Add entry to `tasks/PLANNING.md`** with status "Not Started"
+
+**Flexible input formats:**
+- `task.create Fix RAG chunking` - Title only (prompt for details or infer from context)
+- `task.create Fix RAG chunking - Chunks are too large for embedding model` - Title + description
+- `task.create Fix RAG chunking - Chunks too large - Chunks under 512 tokens, Tests pass` - Full specification
+
+### `task.list`
+
+Show current tasks:
+
+1. Read `tasks/PLANNING.md` only (not individual task files)
+2. Show tasks that are not completed, sorted by priority
+
+### `task.complete [id]`
+
+Mark a task as done:
+
+1. Read the task file to review acceptance criteria
+2. **Verify all criteria are met** - Do NOT complete if any criteria remain unfinished
+3. Check off completed acceptance criteria (`- [x]`)
+4. Update status to "Completed" and add completion date in `PLANNING.md`
+5. Update individual task file status to "Completed"
 
 **Task file format:**
 ```markdown
