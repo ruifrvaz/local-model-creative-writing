@@ -25,14 +25,14 @@ docs/archives/
 
 **Format:** `NNN_task_description/`
 
-- `NNN` - Zero-padded task number matching `tasks/NNN_*.md`
+- `NNN` - Zero-padded task number matching `.smaqit/tasks/NNN_*.md`
 - `task_description` - Brief descriptor from task filename
 - Example: `002_visions_of_gaea_curation/`
 
 ## Current Archives
 
 ### 002_visions_of_gaea_curation/
-**Task:** `tasks/002_curate_visions_of_gaea_training_data.md`  
+**Task:** `.smaqit/tasks/002_curate_visions_of_gaea_training_data.md`  
 **Status:** Complete  
 **Date:** November 21-24, 2025  
 
@@ -60,8 +60,8 @@ Do NOT archive:
 
 ## Related Directories
 
-- **`tasks/`** - Active and pending work items
-- **`docs/history/`** - Architectural changes and decisions
+- **`.smaqit/tasks/`** - Active and pending work items
+- **`.smaqit/history/`** - Architectural changes and decisions
 - **`docs/archives/`** - Completed task artifacts (this directory)
 
 All three serve as "meta work folders" for project organization and knowledge preservation.

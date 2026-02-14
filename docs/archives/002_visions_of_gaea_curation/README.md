@@ -1,6 +1,6 @@
 # Visions of Gaea Curation Archive
 
-**Task Reference:** `tasks/002_curate_visions_of_gaea_training_data.md`  
+**Task Reference:** `.smaqit/tasks/002_curate_visions_of_gaea_training_data.md`  
 **Date Range:** November 21-24, 2025  
 **Status:** Complete (35 chunks, 63,302 words)
 
@@ -55,7 +55,7 @@ This archive contains all metadata, reports, and working files from the Visions 
 
 ## Related Documentation
 
-- **Task File:** `tasks/002_curate_visions_of_gaea_training_data.md`
+- **Task File:** `.smaqit/tasks/002_curate_visions_of_gaea_training_data.md`
 - **Training Guide:** `fine-tuning/FINE_TUNING_SETUP.md`
 - **Style Analysis:** Use with style-analyzer/style-transfer-generator agents
 

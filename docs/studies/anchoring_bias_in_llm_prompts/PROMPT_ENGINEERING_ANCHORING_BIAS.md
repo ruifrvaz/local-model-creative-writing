@@ -203,5 +203,5 @@ This finding applies to any LLM task requiring:
 ## References
 
 - `fine-tuning/data/styles/visions_of_gaea/ANALYSIS_COMPARISON.md` — Full quantitative comparison
-- `docs/history/2025-11-30_style_analysis_comparison_and_enhancement.md` — Session history
+- `.smaqit/history/2025-11-30_style_analysis_comparison_and_enhancement.md` — Session history
 - `.github/agents/style-analyzer.md` — Agent using unbiased approach

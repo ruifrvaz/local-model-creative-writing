@@ -251,8 +251,11 @@ local-model-creative-writing/
 │   ├── CONFIG_NOTES.md            # Advanced configuration
 │   ├── rules/                     # Creative writing rules
 │   └── benchmarks/                # RAG validation examples
-├── tasks/                      # Task tracking
-│   └── 001_configure_continue_for_creative_writing.md
+├── .smaqit/                    # Task tracking and session history
+│   ├── tasks/                     # Task files and planning
+│   │   ├── PLANNING.md            # Central task tracking
+│   │   └── NNN_*.md               # Individual task files
+│   └── history/                   # Session documentation
 └── docs/                       # Additional documentation
     ├── VSCODE_WRITING_SETUP.md    # VS Code configuration
     ├── SCIENCE_FICTION_WRITING_GUIDE.md
@@ -260,8 +263,7 @@ local-model-creative-writing/
     ├── RAG_RETRIEVAL_GUIDE.md
     ├── CONCURRENCY_OPTIMIZATION_GUIDE.md
     ├── VLLM_QUICK_REFERENCE.md
-    ├── archives/                  # Completed task artifacts
-    └── history/                   # Architecture change logs
+    └── archives/                  # Completed task artifacts
 ```
 
 ## Documentation

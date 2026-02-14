@@ -176,7 +176,7 @@ pip uninstall -y flash-attn
 MAX_JOBS=2 pip install flash-attn --no-build-isolation
 ```
 
-**See:** `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
+**See:** `.smaqit/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
 ### Issue 3: WSL Memory Crashes
 
@@ -305,5 +305,5 @@ ls -lh fine-tuning/checkpoints/qlora-style-pipeline-test/
 
 - `FINE_TUNING_SETUP.md` - Complete setup guide
 - `fine-tuning/README.md` - Quick reference
-- `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md` - WSL memory config
-- `docs/history/2025-10-30_pytorch_axolotl_rtx5090_compatibility.md` - Environment setup
+- `.smaqit/history/2025-11-02_flash_attention_wsl_memory_issue.md` - WSL memory config
+- `.smaqit/history/2025-10-30_pytorch_axolotl_rtx5090_compatibility.md` - Environment setup

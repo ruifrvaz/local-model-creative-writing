@@ -19,7 +19,7 @@
   processors=12
   ```
 - Restart WSL after changes: `wsl --shutdown` (PowerShell)
-- See: `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
+- See: `.smaqit/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
 **Software Environment:**
 - OS: Windows 11 + WSL2 (Ubuntu 22.04)
@@ -47,104 +47,6 @@
 - VS Code with Continue.dev extension (see chatUI/README.md)
 - Fine-tuning workflow for personal narrative style - READY (QLoRA/LoRA configs, scripts, guide)
 
-## Session Commands
-
-Explicit keywords for session management. These are unambiguous commands.
-
-### `session.recap`
-
-Start a new chat with full project context. Execute these steps IN ORDER:
-
-1. **Read core README files** (in parallel):
-   - `README.md` (project root)
-   - `fine-tuning/README.md`
-   - `RAG/README.md`
-   - `vllm/README.md`
-   - `.continue/README.md`
-
-2. **Read the 3 most recent history files** from `docs/history/` (sorted by date descending)
-
-3. **Read task planning file:** `tasks/PLANNING.md` (NOT individual task files)
-
-4. **Synthesize and present** a recap covering:
-   - Current project state (from READMEs)
-   - Recent changes and decisions (from history)
-   - Open tasks sorted by priority
-   - Suggested next steps
-
-**Note:** Only read individual task files (`tasks/NNN_*.md`) when actively working on that specific task.
-
-### `session.wrap`
-
-End a session by documenting the **entire session** (not just recent activity):
-
-1. **Review full conversation** - All topics discussed, decisions made, files modified
-2. **Create history file** if session qualifies as significant (see Documentation Philosophy)
-   - Filename: `docs/history/YYYY-MM-DD_description.md`
-   - Include: Actions taken, problems solved, decisions made, files modified, next steps
-   - Focus on **what** and **why**, not implementation details
-   - Cover the **complete session arc**, not just the last activity
-3. **Update this history file** as the session reference for next chat
-- **Do NOT create** separate RESUME or TODO files (history file serves this purpose)
-
-## Task Commands
-
-Explicit keywords for task management. These are unambiguous commands.
-
-**Central planning file:** `tasks/PLANNING.md`
-- Contains status of all tasks (sorted by ID)
-- Single source of truth for task overview
-- Update this file when task status changes
-
-### `task.create [title]` or `task.create [title] - [description] - [criteria]`
-
-Create a new task:
-
-1. Create new task file in `tasks/` directory
-2. Filename: `tasks/NNN_task_title.md` (NNN = next available number, zero-padded to 3 digits)
-3. Tasks are numbered sequentially starting at 001
-4. **Add entry to `tasks/PLANNING.md`** with status "Not Started"
-
-**Flexible input formats:**
-- `task.create Fix RAG chunking` - Title only (prompt for details or infer from context)
-- `task.create Fix RAG chunking - Chunks are too large for embedding model` - Title + description
-- `task.create Fix RAG chunking - Chunks too large - Chunks under 512 tokens, Tests pass` - Full specification
-
-### `task.list`
-
-Show current tasks:
-
-1. Read `tasks/PLANNING.md` only (not individual task files)
-2. Show tasks that are not completed, sorted by priority
-
-### `task.complete [id]`
-
-Mark a task as done:
-
-1. Read the task file to review acceptance criteria
-2. **Verify all criteria are met** - Do NOT complete if any criteria remain unfinished
-3. Check off completed acceptance criteria (`- [x]`)
-4. Update status to "Completed" and add completion date in `PLANNING.md`
-5. Update individual task file status to "Completed"
-
-**Task file format:**
-```markdown
-# [Task Title]
-
-**Status:** Not Started | In Progress | Completed | Blocked  
-**Created:** YYYY-MM-DD
-
-## Description
-[Clear description of what needs to be done]
-
-## Acceptance Criteria
-- [ ] Criterion 1
-- [ ] Criterion 2
-
-## Notes
-[Optional additional context]
-```
-
 ## Documentation Philosophy
 
 **Update core documentation to reflect current state:**
@@ -157,7 +59,7 @@ Mark a task as done:
 - ✅ **All guide/reference documentation** → `docs/` directory only
 - ✅ **Component-specific setup guides** → `{component}/*_SETUP.md` (e.g., `RAG/RAG_SETUP.md`, `fine-tuning/FINE_TUNING_SETUP.md`)
 - ✅ **Component README files** → `{component}/README.md` (e.g., `RAG/README.md`, `vllm/README.md`)
-- ✅ **History/changelog files** → `docs/history/YYYY-MM-DD_description.md`
+- ✅ **History/changelog files** → `.smaqit/history/YYYY-MM-DD_description.md`
 - ❌ **DO NOT create** standalone `.md` files in component directories (use docs/ instead)
 - ❌ **DO NOT create** `WORKFLOW.md`, `GUIDE.md`, or similar in component folders (use docs/)
 
@@ -167,7 +69,7 @@ Mark a task as done:
 - New architectural decisions (e.g., markdown parsing strategy)
 - New major features (e.g., automatic test logging)
 - Dependency changes affecting workflow
-- Save to `docs/history/YYYY-MM-DD_description.md`
+- Save to `.smaqit/history/YYYY-MM-DD_description.md`
 
 **What qualifies as "significant":**
 - ✅ New dependencies added to environment
@@ -223,7 +125,7 @@ wsl
 - Without proper config, WSL crashes during `pip install flash-attn`
 - Script uses `MAX_JOBS=1` to prevent crashes even with 48GB
 
-**See:** `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
+**See:** `.smaqit/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
 ## Setup Script Organization
 
@@ -305,7 +207,7 @@ Other:   Descriptive names (benchmarks, servers, monitors)
 
 ## History Documentation Guidelines
 
-When creating or updating files in `docs/history/`, follow these principles:
+When creating or updating files in `.smaqit/history/`, follow these principles:
 
 ### ✅ DO Include:
 - **Actions taken** - What was done, what problem was solved
@@ -630,9 +532,13 @@ scifi-llm/
 │   ├── merged_models/               # Final models for vLLM (auto-generated)
 │   └── logs/                        # Training logs (auto-generated)
 ├── chatUI/                          # Chat interface (optional)
-└── docs/
-    ├── archives/                    # Completed task artifacts
-    └── history/                     # Architecture change logs
+├── .smaqit/                         # Task tracking and session history
+│   ├── tasks/                       # Task files and planning
+│   │   ├── PLANNING.md              # Central task tracking
+│   │   └── NNN_*.md                 # Individual task files
+│   └── history/                     # Session documentation
+└── docs/                            # Documentation guides
+    └── archives/                    # Completed task artifacts
 ```
 
 ## When Making Changes
@@ -654,7 +560,7 @@ scifi-llm/
 - Use descriptive names (not just numbers)
 - Save JSON results to `vllm/benchmarks/results/` with timestamps
 - Include model name, generation params, and metrics in output
-- Log changes to `docs/history/YYYY-MM-DD_description.md`
+- Log changes to `.smaqit/history/YYYY-MM-DD_description.md`
 - Update relevant guides if workflow changes
 
 **Adding RAG components:**

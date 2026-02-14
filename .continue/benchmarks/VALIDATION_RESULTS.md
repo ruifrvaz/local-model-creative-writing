@@ -144,5 +144,5 @@ If more control needed, can add `chatOptions.baseSystemMessage` to model config 
 
 - **Configuration Notes:** `.continue/CONFIG_NOTES.md`
 - **Rules File:** `.continue/rules/scifi_writer.md`
-- **Task Tracking:** `tasks/001_configure_continue_for_creative_writing.md`
+- **Task Tracking:** `.smaqit/tasks/001_configure_continue_for_creative_writing.md`
 - **Setup Guide:** `chatUI/README.md`

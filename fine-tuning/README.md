@@ -96,7 +96,7 @@ Flash-attention compilation requires significant RAM. Edit `C:\Users\<username>\
 memory=48GB
 processors=12
 ```
-Then restart WSL: `wsl --shutdown` in PowerShell. See `docs/history/2025-11-02_flash_attention_wsl_memory_issue.md`
+Then restart WSL: `wsl --shutdown` in PowerShell. See `.smaqit/history/2025-11-02_flash_attention_wsl_memory_issue.md`
 
 
 ## Getting started
